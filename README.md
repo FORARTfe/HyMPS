@@ -1,4 +1,4 @@
-# HyMPS
+![preview](http://www.forart.it/progetti/HyMPS/logo.png)
 
 Guitar DSPs:
 
@@ -20,11 +20,6 @@ Video LIBs:
 
     https://github.com/OpenShot/libopenshot
 
-
-
-# FastFlix
-
-![preview](http://www.forart.it/progetti/HyMPS/logo.png)
 
 FastFlix is a simple and friendly GUI for encoding videos.
 
