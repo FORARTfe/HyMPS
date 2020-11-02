@@ -24,7 +24,7 @@ Video LIBs:
 
 # FastFlix
 
-![preview](./docs/gui_preview.png)
+![preview](http://www.forart.it/progetti/HyMPS/logo.png)
 
 FastFlix is a simple and friendly GUI for encoding videos.
 
