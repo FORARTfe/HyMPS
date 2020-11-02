@@ -1,4 +1,4 @@
-![preview](http://www.forart.it/progetti/HyMPS/logo.png)
+![preview](http://www.forart.it/progetti/HyMPS/logo.png)<br>
 Hybrid Multimedia Production Suite
 
 Guitar DSPs:
