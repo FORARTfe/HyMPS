@@ -1,6 +1,6 @@
 # HyMPS
 
-Guitar DSP:
+Guitar DSPs:
 
     https://sourceforge.net/projects/scorchcrafter/
     https://github.com/resonantdsp/SwankyAmp
@@ -9,5 +9,6 @@ Guitar DSP:
     https://github.com/andrepxx/go-dsp-guitar
     https://github.com/forart/ayemux
 
-Audio DSP:
+Audio DSPs:
+
     https://github.com/dimtass/DSP-Cpp-filters
