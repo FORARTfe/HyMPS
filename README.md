@@ -9,6 +9,13 @@ Guitar DSPs:
     https://github.com/andrepxx/go-dsp-guitar
     https://github.com/forart/ayemux
 
+
 Audio DSPs:
 
     https://github.com/dimtass/DSP-Cpp-filters
+
+
+
+Video LIBs:
+
+    https://github.com/OpenShot/libopenshot
