@@ -8,3 +8,6 @@ Guitar DSP:
     https://github.com/kaktus3000/HighGain
     https://github.com/andrepxx/go-dsp-guitar
     https://github.com/forart/ayemux
+
+Audio DSP:
+    https://github.com/dimtass/DSP-Cpp-filters
