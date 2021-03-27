@@ -3,6 +3,7 @@ HYbrid Multimedia Production Suite
 
 # Guitar DSPs
 https://sourceforge.net/projects/scorchcrafter/<br>
+[Swanky Amp](https://github.com/resonantdsp/SwankyAmp#swanky-amp)<br>
 https://github.com/resonantdsp/SwankyAmp<br>
 https://github.com/apohl79/GuitarAmp<br>
 https://github.com/kaktus3000/HighGain<br>
