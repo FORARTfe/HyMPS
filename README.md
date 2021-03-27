@@ -26,6 +26,5 @@ https://github.com/ffAudio/foleys_video_engine<br>
 https://github.com/hftom/MachinTruc<br>
 https://github.com/orange4glace/nlive<br>
 https://github.com/coolstack/VideoEditor<br>
-https://github.com/smallstepforman/Medo<br>
 
     
