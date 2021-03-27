@@ -8,6 +8,7 @@ https://github.com/apohl79/GuitarAmp<br>
 https://github.com/kaktus3000/HighGain<br>
 https://github.com/andrepxx/go-dsp-guitar<br>
 https://github.com/forart/ayemux<br>
+https://github.com/GuitarML/SmartGuitarAmp<br>
     
 # Audio DSPs
 https://github.com/dimtass/DSP-Cpp-filters<br>
