@@ -1,7 +1,7 @@
 ![preview](http://www.forart.it/progetti/HyMPS/logo.png)<br>
 HYbrid Multimedia Production Suite
 
-# Guitar DSPs
+# Guitar DSPs(https://github.com/forart/HyMPS/blob/main/GuitarDSPs.md)
     
 # Audio DSPs
 https://github.com/dimtass/DSP-Cpp-filters<br>
