@@ -12,6 +12,9 @@ https://github.com/GuitarML/SmartGuitarAmp<br>
     
 # Audio DSPs
 https://github.com/dimtass/DSP-Cpp-filters<br>
+https://github.com/thestk/stk<br>
+https://github.com/leomccormack/Spatial_Audio_Framework<br>
+
     
 # Video LIBs
 https://github.com/OpenShot/libopenshot<br>
@@ -23,5 +26,6 @@ https://github.com/ffAudio/foleys_video_engine<br>
 https://github.com/hftom/MachinTruc<br>
 https://github.com/orange4glace/nlive<br>
 https://github.com/coolstack/VideoEditor<br>
+https://github.com/smallstepforman/Medo<br>
 
     
