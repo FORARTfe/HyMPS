@@ -2,7 +2,7 @@
 HYbrid Multimedia Production Suite
 
 ## Guitar DSPs
-https://sourceforge.net/projects/scorchcrafter/<br>
+- [ScorchCrafter Guitar FX DAW Plug-ins](https://sourceforge.net/projects/scorchcrafter/) - A group of audio DAW plug-ins targeting Windows (VST), Mac (VST/AU), and Linux, mostly for Guitar Amplifier simulation<br>
 - [Swanky Amp](https://github.com/resonantdsp/SwankyAmp#swanky-amp) - A tube amplifier simulation DSP plugin which aims to capture the details in the dynamics of tube amplifiers<br>
 - [GuitarAmp](https://github.com/apohl79/GuitarAmp#guitaramp) - It models a preamp circuit with four ECC83/12AX7 tubes followed by a speaker cabinet and mic simulation.<br>
 - [HighGain](https://github.com/kaktus3000/HighGain#highgain) - guitar effects dsp library.<br>
