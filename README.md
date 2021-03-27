@@ -3,7 +3,7 @@ HYbrid Multimedia Production Suite
 
 # Guitar DSPs
 https://sourceforge.net/projects/scorchcrafter/<br>
-[Swanky Amp](https://github.com/resonantdsp/SwankyAmp#swanky-amp)<br>
+[Swanky Amp](https://github.com/resonantdsp/SwankyAmp#swanky-amp) - a tube amplifier simulation DSP plugin which aims to capture the details in the dynamics of tube amplifiers<br>
 https://github.com/resonantdsp/SwankyAmp<br>
 https://github.com/apohl79/GuitarAmp<br>
 https://github.com/kaktus3000/HighGain<br>
