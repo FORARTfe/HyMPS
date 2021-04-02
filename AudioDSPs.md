@@ -5,6 +5,7 @@
 - [AudioGridder](https://github.com/apohl79/audiogridder) - a plugin host, that allows you to offload the DSP processing of audio plugins to remote computers running macOS or Windows.<br>
 - [DaisySP](https://github.com/electro-smith/DaisySP) - A Powerful, Open Source DSP Library in C++<br>
 
+- [DSP IIR Realtime C++ filter library](https://github.com/berndporr/iir1) - IIR realtime filter library written in C++<br>
 
 - [DSP filters in C++](https://github.com/dimtass/DSP-Cpp-filters) - This repo contains some DSP biquad filters used in audio.<br>
 - [lavadsp](https://github.com/natanbc/lavadsp) - A bunch of lavaplayer audio filters implemented with native code<br>
