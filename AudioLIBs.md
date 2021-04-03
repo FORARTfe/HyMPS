@@ -19,3 +19,8 @@
 | Name | Description | License | Released |
 | :-: | :-: | :-: | :-: |
 | [MINIAUDIO](https://github.com/mackron/miniaudio) | Single file audio playback and capture library written in C | GPL | 2021 |
+
+
+await octokit.request('GET /licenses/{license}', {
+  license: 'license'
+})
