@@ -20,4 +20,4 @@
 | :-: | :-: | :-: | :-: |
 | [MINIAUDIO](https://github.com/mackron/miniaudio) | Single file audio playback and capture library written in C | GPL | 2021 |
 
-[![GitHub license](https://img.shields.io/github/license/DISTRHO/DPF?style=for-the-badge)](https://github.com/electro-smith/DaisySP/blob/master/LICENSE)
+![version](https://img.shields.io/badge/version-1.2.3-blue)
