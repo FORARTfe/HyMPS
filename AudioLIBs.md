@@ -14,3 +14,8 @@
 ## Others
 - [RtAudio](https://github.com/thestk/rtaudio) - A set of C++ classes that provide a common API for realtime audio input/output across Linux, MacOS and Windows operating systems.<br>
 - [MINIAUDIO](https://github.com/mackron/miniaudio) - Single file audio playback and capture library written in C<br>
+
+
+| Name | Description | License | Released |
+| :-: | :-: | :-: | :-: |
+| [MINIAUDIO](https://github.com/mackron/miniaudio) | Single file audio playback and capture library written in C | GPL | 2021 |
