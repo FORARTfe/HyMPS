@@ -19,6 +19,3 @@
 | Name | Description | License | Released |
 | :-: | :-: | :-: | :-: |
 | [MINIAUDIO](https://github.com/mackron/miniaudio) | Single file audio playback and capture library written in C | GPL | 2021 |
-
-
-![AUR last modified](https://img.shields.io/aur/last-modified/HyMPS?style=social)
