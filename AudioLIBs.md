@@ -21,6 +21,4 @@
 | [MINIAUDIO](https://github.com/mackron/miniaudio) | Single file audio playback and capture library written in C | GPL | 2021 |
 
 
-await octokit.request('GET /licenses/{license}', {
-  license: 'license'
-})
+![AUR last modified](https://img.shields.io/aur/last-modified/HyMPS?style=social)
