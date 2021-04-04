@@ -8,7 +8,9 @@ HYbrid Multimedia Production Suite
 
 # [Audio DSPs](https://github.com/forart/HyMPS/blob/main/AudioDSPs.md)
 
-# [Audio LIBs](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md)
+# [Audio Libraries](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md)
+
+# [Audio Resamplig](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md)
 
 
 # ![](https://flat.badgen.net/badge/H_RSCS/VIDEO?scale=3?color=green)
