@@ -12,5 +12,6 @@ HYbrid Multimedia Production Suite
 
 # ![](https://flat.badgen.net/badge/H_RSCS/VIDEO?scale=3?color=green)
 # [Video Libraries](https://github.com/forart/HyMPS/blob/main/VideoLIBs.md)
+# [Video Editors](https://github.com/forart/HyMPS/blob/main/VideoNLEs.md)
 
     
