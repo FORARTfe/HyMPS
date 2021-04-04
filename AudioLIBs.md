@@ -20,5 +20,4 @@
 | :-: | :-: | :-: | :-: |
 | [MINIAUDIO](https://github.com/mackron/miniaudio) | Single file audio playback and capture library written in C | ![]https://badgen.net/github/license/mackron/miniaudio | ![]https://badgen.net/github/release/mackron/miniaudio |
 
-
-https://badgen.net/github/license/cdgriffith/FastFlix
+![GitHub Releases](https://img.shields.io/github/downloads/cdgriffith/FastFlix/version/total)
