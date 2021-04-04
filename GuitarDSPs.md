@@ -1,5 +1,5 @@
 # Guitar DSPs
-|Name|Description|License|Last commit|
+|Website|Short description|License|Last commit|
 |:-:|:-:|:-:|:-:|
 |[ScorchCrafter Guitar FX DAW Plug-ins](https://sourceforge.net/projects/scorchcrafter/)|A group of audio DAW plug-ins mostly for Guitar Amplifier simulation|GPL (mostly)|2015|
 |[SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp)|Guitar plugin made with JUCE that uses neural network models to emulate real world hardware.|![](https://flat.badgen.net/github/license/GuitarML/SmartGuitarAmp?label=)|![](https://flat.badgen.net/github/last-commit/GuitarML/SmartGuitarAmp?label=)|
