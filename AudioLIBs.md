@@ -16,6 +16,6 @@
 - [MINIAUDIO](https://github.com/mackron/miniaudio) - Single file audio playback and capture library written in C<br>
 
 
-| Name | Description | License | Released |
-| :-: | :-: | :-: | :-: |
-| [MINIAUDIO](https://github.com/mackron/miniaudio) | Single file audio playback and capture library written in C | ![](https://badgen.net/github/license/mackron/miniaudio) | ![](https://badgen.net/github/release/mackron/miniaudio) |
+|Name|Description|License|Released|
+|:-:|:-:|:-:|:-:|
+|[MINIAUDIO](https://github.com/mackron/miniaudio)|Single file audio playback and capture library written in C|![](https://badgen.net/github/license/mackron/miniaudio)| ![](https://badgen.net/github/release/mackron/miniaudio)|
