@@ -1,5 +1,7 @@
 ![preview](http://www.forart.it/progetti/HyMPS/logo.png)<br>
-HYbrid Multimedia Production Suite [gh release view]
+HYbrid Multimedia Production Suite
+
+---
 
 # ![](https://flat.badgen.net/badge/H_RSCS/AUDIO?scale=3?color=green)
 # [Guitar DSPs](https://github.com/forart/HyMPS/blob/main/GuitarDSPs.md)
