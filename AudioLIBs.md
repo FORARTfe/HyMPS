@@ -8,16 +8,15 @@
 |[Dplug](https://github.com/AuburnSounds/Dplug)|Lets you create audio plug-ins with unmatched simplicity and speed, using the D language|![](https://badgen.net/github/license/AuburnSounds/Dplug)|![](https://badgen.net/github/last-commit/AuburnSounds/Dplug)|
 
 ## DSPs
-- [Maximilian](https://github.com/micknoise/Maximilian) - A cross-platform and multi-target audio synthesis and signal processing library.<br>
-- [DaisySP](https://github.com/electro-smith/DaisySP) - A Powerful, Open Source DSP Library in C++<br>
-- [DSP IIR Realtime C++ filter library](https://github.com/berndporr/iir1) - IIR realtime filter library written in C++<br>
-- [Dsp](https://github.com/nullpunktTUD/Dsp) - A digital signal processing library using Modern C++<br>
+|Name|Description|License|Last commit|
+|:-:|:-:|:-:|:-:|
+|[Maximilian](https://github.com/micknoise/Maximilian)|A cross-platform and multi-target audio synthesis and signal processing library|![](https://badgen.net/github/license/micknoise/Maximilian)|![](https://badgen.net/github/last-commit/micknoise/Maximilian)|
+|[DaisySP](https://github.com/electro-smith/DaisySP)|A Powerful, Open Source DSP Library in C++|![](https://badgen.net/github/license/electro-smith/DaisySP)|![](https://badgen.net/github/last-commit/electro-smith/DaisySP)|
+|[DSP IIR Realtime C++ filter library](https://github.com/berndporr/iir1)|IIR realtime filter library written in C++|![](https://badgen.net/github/license/berndporr/iir1)|![](https://badgen.net/github/last-commit/berndporr/iir1)|
+|[Dsp](https://github.com/nullpunktTUD/Dsp)|A digital signal processing library using Modern C++|![](https://badgen.net/github/license/nullpunktTUD/Dsp)|![](https://badgen.net/github/last-commit/nullpunktTUD/Dsp)|
 
 ## Others
-- [RtAudio](https://github.com/thestk/rtaudio) - A set of C++ classes that provide a common API for realtime audio input/output across Linux, MacOS and Windows operating systems.<br>
-- [MINIAUDIO](https://github.com/mackron/miniaudio) - Single file audio playback and capture library written in C<br>
-
-
-|Name|Description|License|Released|
+|Name|Description|License|Last commit|
 |:-:|:-:|:-:|:-:|
-|[MINIAUDIO](https://github.com/mackron/miniaudio)|Single file audio playback and capture library written in C|![](https://badgen.net/github/license/mackron/miniaudio)| ![](https://badgen.net/github/release/mackron/miniaudio)|
+|[RtAudio](https://github.com/thestk/rtaudio)|A set of C++ classes that provide a common API for realtime audio input/output across Linux, MacOS and Windows operating systems.|![](https://badgen.net/github/license/thestk/rtaudio)|![](https://badgen.net/github/last-commit/thestk/rtaudio)|
+|[MINIAUDIO](https://github.com/mackron/miniaudio)|Single file audio playback and capture library written in C|![](https://badgen.net/github/license/mackron/miniaudio)|![](https://badgen.net/github/last-commit/mackron/miniaudio)|
