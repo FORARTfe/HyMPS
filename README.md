@@ -10,13 +10,12 @@ HYbrid Multimedia Production Suite
 
 # [Audio Libraries](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md)
 
-# [Audio Resamplig](https://github.com/forart/HyMPS/blob/main/AudioRES.md)
+# [Audio Resampling](https://github.com/forart/HyMPS/blob/main/AudioRES.md)
 
 
 # ![](https://flat.badgen.net/badge/H_RSCS/VIDEO?scale=3?color=green)
 
-# Video LIBs
-https://github.com/OpenShot/libopenshot<br>
+# [Video Libraries](https://github.com/forart/HyMPS/blob/main/VideoLIBs.md)
 
 # Non-Linear-Editors projects
 https://github.com/olive-editor/olive<br>
