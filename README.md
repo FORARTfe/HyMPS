@@ -1,7 +1,7 @@
 ![preview](http://www.forart.it/progetti/HyMPS/logo.png)<br>
 HYbrid Multimedia Production Suite [gh release view]
 
-# ![](https://flat.badgen.net/badge/H_RESOURCES/AUDIO?scale=3?color=green)
+# ![](https://flat.badgen.net/badge/H_RSCS/AUDIO?scale=3?color=green)
 # [Guitar DSPs](https://github.com/forart/HyMPS/blob/main/GuitarDSPs.md)
 
 # [Audio DSPs](https://github.com/forart/HyMPS/blob/main/AudioDSPs.md)
@@ -9,7 +9,7 @@ HYbrid Multimedia Production Suite [gh release view]
 # [Audio LIBs](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md)
 
 
-# ![](https://flat.badgen.net/badge/H_RESOURCES/VIDEO?scale=3?color=green)
+# ![](https://flat.badgen.net/badge/H_RSCS/VIDEO?scale=3?color=green)
 
 # Video LIBs
 https://github.com/OpenShot/libopenshot<br>
