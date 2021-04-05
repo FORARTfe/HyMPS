@@ -15,10 +15,18 @@
 |[DSP IIR Realtime C++ filter library](https://github.com/berndporr/iir1)|IIR realtime filter library written in C++|![](https://flat.badgen.net/github/license/berndporr/iir1?label=)|![](https://flat.badgen.net/github/last-commit/berndporr/iir1?label=)|
 |[Dsp](https://github.com/nullpunktTUD/Dsp)|A digital signal processing library using Modern C++|![](https://flat.badgen.net/github/license/nullpunktTUD/Dsp?label=)|![](https://flat.badgen.net/github/last-commit/nullpunktTUD/Dsp?label=)|
 
+## Decoding
+|Website|Short description|License|Last commit|
+|:-:|:-:|:-:|:-:|
+|[dr_libs](https://github.com/mackron/dr_libs)|Single file audio decoding libraries for C/C++|![](https://flat.badgen.net/github/license/mackron/dr_libs?label=)|![](https://flat.badgen.net/github/last-commit/mackron/dr_libs?label=)|
+|[minimp3](https://github.com/lieff/minimp3)|Minimalistic MP3 decoder single header library|![](https://flat.badgen.net/github/license/lieff/minimp3?label=)|![](https://flat.badgen.net/github/last-commit/lieff/minimp3?label=)|
+|[Libnyquist](https://github.com/ddiakopoulos/libnyquist)|A cross platform C++11 library for decoding audio (mp3, wav, ogg, opus, flac, etc)|![](https://flat.badgen.net/github/license/ddiakopoulos/libnyquist?label=)|![](https://flat.badgen.net/github/last-commit/ddiakopoulos/libnyquist?label=)|
+
 ## Others
 |Website|Short description|License|Last commit|
 |:-:|:-:|:-:|:-:|
 |[RtAudio](https://github.com/thestk/rtaudio)|A set of C++ classes that provide a common API for realtime audio input/output across Linux, MacOS and Windows operating systems.|![](https://flat.badgen.net/github/license/thestk/rtaudio?label=)|![](https://flat.badgen.net/github/last-commit/thestk/rtaudio?label=)|
+|[SDL_audiolib](https://github.com/realnc/SDL_audiolib)|An audio decoding, resampling and mixing library|![](https://flat.badgen.net/github/license/realnc/SDL_audiolib?label=)|![](https://badgen.net/github/last-commit/realnc/SDL_audiolib?label=)|
 |[MINIAUDIO](https://github.com/mackron/miniaudio)|Single file audio playback and capture library written in C|![](https://flat.badgen.net/github/license/mackron/miniaudio?label=)|![](https://flat.badgen.net/github/last-commit/mackron/miniaudio?label=)|
 |[AudioFile](https://github.com/adamstark/AudioFile)|A simple C++ library for reading and writing audio files|![](https://flat.badgen.net/github/license/adamstark/AudioFile?label=)|![](https://flat.badgen.net/github/last-commit/adamstark/AudioFile?label=)|
 |[Essentia](https://essentia.upf.edu/)|C++ library for audio and music analysis, description and synthesis|![](https://flat.badgen.net/github/license/MTG/essentia?label=)|![](https://flat.badgen.net/github/last-commit/MTG/essentia?label=)|
