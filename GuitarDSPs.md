@@ -2,7 +2,7 @@
 |Website|Short description|License|Last commit|
 |:-:|:-:|:-:|:-:|
 |[ScorchCrafter Guitar FX DAW Plug-ins](https://sourceforge.net/projects/scorchcrafter/)|A group of audio DAW plug-ins mostly for Guitar Amplifier simulation|GPL (mostly)|2015|
-|[ScorchCrafter-Juce](https://github.com/osxmidi/ScorchCrafter-JUCE)|ScorchCrafter Amp Sim for JUCE||![](https://flat.badgen.net/github/license/osxmidi/ScorchCrafter-JUCE?label=)|![](https://flat.badgen.net/github/last-commit/osxmidi/ScorchCrafter-JUCE?label=)||
+|[ScorchCrafter-Juce](https://github.com/osxmidi/ScorchCrafter-JUCE)|ScorchCrafter Amp Sim for JUCE|![](https://flat.badgen.net/github/license/osxmidi/ScorchCrafter-JUCE?label=)|![](https://flat.badgen.net/github/last-commit/osxmidi/ScorchCrafter-JUCE?label=)||
 |[SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp)|Guitar plugin made with JUCE that uses neural network models to emulate real world hardware.|![](https://flat.badgen.net/github/license/GuitarML/SmartGuitarAmp?label=)|![](https://flat.badgen.net/github/last-commit/GuitarML/SmartGuitarAmp?label=)|
 |[Swanky Amp](https://github.com/resonantdsp/SwankyAmp#swanky-amp)|A tube amplifier simulation DSP plugin which aims to capture the details in the dynamics of tube amplifiers|![](https://flat.badgen.net/github/license/resonantdsp/SwankyAmp?label=)|![](https://flat.badgen.net/github/last-commit/resonantdsp/SwankyAmp?label=)|
 |[GuitarAmp](https://github.com/apohl79/GuitarAmp#guitaramp)|It models a preamp circuit with four ECC83/12AX7 tubes followed by a speaker cabinet and mic simulation.|![](https://flat.badgen.net/github/license/apohl79/GuitarAmp?label=)|![](https://flat.badgen.net/github/last-commit/apohl79/GuitarAmp?label=)|
