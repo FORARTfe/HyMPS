@@ -5,8 +5,9 @@ HYbrid Multimedia Production Suite
 
 # ![](https://flat.badgen.net/badge/HyMPS/AUDIO?scale=3?color=green)
 # [DAWs](https://github.com/forart/HyMPS/blob/main/DAWs.md)
-# [Guitar DSPs](https://github.com/forart/HyMPS/blob/main/GuitarDSPs.md)
-# [Bass DSPs](https://github.com/forart/HyMPS/blob/main/BassDSPs.md)
+# [Voice](https://github.com/forart/HyMPS/blob/main/Voice.md)
+# [Guitar](https://github.com/forart/HyMPS/blob/main/GuitarDSPs.md)
+# [Bass](https://github.com/forart/HyMPS/blob/main/BassDSPs.md)
 # [Audio DSPs](https://github.com/forart/HyMPS/blob/main/AudioDSPs.md)
 # [Audio Libraries](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md)
 # [Audio Resampling](https://github.com/forart/HyMPS/blob/main/AudioRES.md)
