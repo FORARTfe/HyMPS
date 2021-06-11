@@ -14,6 +14,7 @@
 |[DaisySP](https://github.com/electro-smith/DaisySP)|A Powerful, Open Source DSP Library in C++|![](https://flat.badgen.net/github/license/electro-smith/DaisySP?label=)|![](https://badgen.net/github/last-commit/electro-smith/DaisySP?label=)|
 |[DSP IIR Realtime C++ filter library](https://github.com/berndporr/iir1)|IIR realtime filter library written in C++|![](https://flat.badgen.net/github/license/berndporr/iir1?label=)|![](https://flat.badgen.net/github/last-commit/berndporr/iir1?label=)|
 |[Dsp](https://github.com/nullpunktTUD/Dsp)|A digital signal processing library using Modern C++|![](https://flat.badgen.net/github/license/nullpunktTUD/Dsp?label=)|![](https://flat.badgen.net/github/last-commit/nullpunktTUD/Dsp?label=)|
+|[NWaves](https://github.com/ar1st0crat/NWaves)|A .NET library for 1D signal processing focused specifically on audio processing.|![](https://flat.badgen.net/github/license/ar1st0crat/NWaves?label=)|![](https://flat.badgen.net/github/last-commit/ar1st0crat/NWaves?label=)|
 
 ## Decoding
 |Website|Short description|License|Last commit|
