@@ -6,6 +6,7 @@
 |[DPF - DISTRHO Plugin Framework](https://github.com/DISTRHO/DPF)|Allows developers to create plugins with custom UIs using a simple C++ API|![](https://flat.badgen.net/github/license/DISTRHO/DPF?label=)|![](https://flat.badgen.net/github/last-commit/DISTRHO/DPF?label=)|
 |[iPlug 2](https://github.com/iPlug2/iPlug2)|A simple-to-use C++ framework for developing cross platform audio plug-ins/apps and targeting multiple plug-in APIs with the same minimalistic code|![](https://flat.badgen.net/github/license/iPlug2/iPlug2?label=)|![](https://flat.badgen.net/github/last-commit/iPlug2/iPlug2?label=)|
 |[Dplug](https://github.com/AuburnSounds/Dplug)|Lets you create audio plug-ins with unmatched simplicity and speed, using the D language|![](https://flat.badgen.net/github/license/AuburnSounds/Dplug?label=)|![](https://flat.badgen.net/github/last-commit/AuburnSounds/Dplug?label=)|
+|[KFR](https://www.kfr.dev/)|Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters|![](https://flat.badgen.net/github/license/kfrlib/kfr?label=)|![](https://flat.badgen.net/github/last-commit/kfrlib/kfr?label=)|
 
 ## DSPs
 |Website|Short description|License|Last commit|
