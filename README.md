@@ -12,7 +12,7 @@ HYbrid Multimedia Production Suite
 # [Audio DSPs](https://github.com/forart/HyMPS/blob/main/AudioDSPs.md)
 # [Audio Libraries](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md)
 # [Audio Resampling](https://github.com/forart/HyMPS/blob/main/AudioRES.md)
-# [Other resources collections](https://github.com/forart/HyMPS/blob/main/Collections.md)
+# [Other audio resources collections](https://github.com/forart/HyMPS/blob/main/A_Collections.md)
 
 
 # ![](https://flat.badgen.net/badge/HyMPS/VIDEO?scale=3?color=green)
