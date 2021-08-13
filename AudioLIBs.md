@@ -16,6 +16,7 @@
 |[DSP IIR Realtime C++ filter library](https://github.com/berndporr/iir1)|IIR realtime filter library written in C++|![](https://flat.badgen.net/github/license/berndporr/iir1?label=)|![](https://flat.badgen.net/github/last-commit/berndporr/iir1?label=)|
 |[Dsp](https://github.com/nullpunktTUD/Dsp)|A digital signal processing library using Modern C++|![](https://flat.badgen.net/github/license/nullpunktTUD/Dsp?label=)|![](https://flat.badgen.net/github/last-commit/nullpunktTUD/Dsp?label=)|
 |[NWaves](https://github.com/ar1st0crat/NWaves)|A .NET library for 1D signal processing focused specifically on audio processing.|![](https://flat.badgen.net/github/license/ar1st0crat/NWaves?label=)|![](https://flat.badgen.net/github/last-commit/ar1st0crat/NWaves?label=)|
+|[liquid-dsp](https://liquidsdr.org/)|A set of extensible DSP modules that do not rely on external dependencies or cumbersome frameworks.|![](https://flat.badgen.net/github/license/jgaeddert/liquid-dsp?label=)|![](https://flat.badgen.net/github/last-commit/jgaeddert/liquid-dsp?label=)|
 
 ## Decoding
 |Website|Short description|License|Last commit|
@@ -33,3 +34,4 @@
 |[AudioFile](https://github.com/adamstark/AudioFile)|A simple C++ library for reading and writing audio files|![](https://flat.badgen.net/github/license/adamstark/AudioFile?label=)|![](https://flat.badgen.net/github/last-commit/adamstark/AudioFile?label=)|
 |[Essentia](https://essentia.upf.edu/)|C++ library for audio and music analysis, description and synthesis|![](https://flat.badgen.net/github/license/MTG/essentia?label=)|![](https://flat.badgen.net/github/last-commit/MTG/essentia?label=)|
 |[Rubber Band](https://breakfastquay.com/rubberband/)|An audio time-stretching and pitch-shifting library and utility program|![](https://flat.badgen.net/github/license/breakfastquay/rubberband?label=)|![](https://flat.badgen.net/github/last-commit/breakfastquay/rubberband?label=)|
+|[OpenShot Audio Library](https://github.com/OpenShot/libopenshot-audio)|A free, open-source project that enables high-quality editing and playback of audio.|![](https://flat.badgen.net/github/license/OpenShot/libopenshot-audio?label=)|![](https://flat.badgen.net/github/last-commit/OpenShot/libopenshot-audio?label=)|
