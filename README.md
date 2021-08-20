@@ -8,7 +8,7 @@ HYbrid Multimedia Production Suite
 # [Voice](https://github.com/forart/HyMPS/blob/main/Voice.md)
 # [Guitar](https://github.com/forart/HyMPS/blob/main/GuitarDSPs.md)
 # [Bass](https://github.com/forart/HyMPS/blob/main/BassDSPs.md)
-# [Effects](https://github.com/forart/HyMPS/blob/main/Effects.md)
+# [Effects](https://github.com/forart/HyMPS/blob/main/AudioFXs.md)
 # [Audio DSPs](https://github.com/forart/HyMPS/blob/main/AudioDSPs.md)
 # [Audio Libraries](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md)
 # [Audio Resampling](https://github.com/forart/HyMPS/blob/main/AudioRES.md)
