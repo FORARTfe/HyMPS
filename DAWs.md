@@ -1,7 +1,7 @@
 # DAWs
-|Website|Short description|License|Last commit|
-|:-:|:-:|:-:|:-:|
-|[LeGrandMechantLoop](http://benjamin.kuperberg.fr/lgml/en)|Node-based modular live performance oriented DAW|![](https://flat.badgen.net/github/license/benkuper/LeGrandMechantLoop?label=)|![](https://flat.badgen.net/github/last-commit/benkuper/LeGrandMechantLoop?label=)|
-|[Maolan](https://github.com/maolan/libmaolan)|DAW written in C++17|![](https://flat.badgen.net/github/license/maolan/libmaolan?label=)|![](https://flat.badgen.net/github/last-commit/maolan/libmaolan?label=)|
-|[DAWn](https://github.com/GroovemanAndCo/DAWn)|An attempt to learn about digital audio workstation development with a concrete motivation|![](https://flat.badgen.net/github/license/GroovemanAndCo/DAWn?label=)|![](https://flat.badgen.net/github/last-commit/GroovemanAndCo/DAWn?label=)|
-|[DawDreamer](https://github.com/DBraun/DawDreamer)|DAW with Python; VST instruments/effects, parameter automation, FAUST, Warp Markers, and JUCE processors |![](https://flat.badgen.net/github/license/DBraun/DawDreamer?label=)|![](https://flat.badgen.net/github/last-commit/DBraun/DawDreamer?label=)|
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[LeGrandMechantLoop](http://benjamin.kuperberg.fr/lgml/en)|Node-based modular live performance oriented DAW|![](https://img.shields.io/github/languages/top/benkuper/LeGrandMechantLoop?style=flat-square)|![](https://flat.badgen.net/github/license/benkuper/LeGrandMechantLoop?label=)|![](https://flat.badgen.net/github/last-commit/benkuper/LeGrandMechantLoop?label=)|
+|[Maolan](https://github.com/maolan/libmaolan)|DAW written in C++17|![](https://img.shields.io/github/languages/top/maolan/libmaolan?style=flat-square)|![](https://flat.badgen.net/github/license/maolan/libmaolan?label=)|![](https://flat.badgen.net/github/last-commit/maolan/libmaolan?label=)|
+|[DAWn](https://github.com/GroovemanAndCo/DAWn)|An attempt to learn about digital audio workstation development with a concrete motivation|![](https://img.shields.io/github/languages/top/GroovemanAndCo/DAWn?style=flat-square)|![](https://flat.badgen.net/github/license/GroovemanAndCo/DAWn?label=)|![](https://flat.badgen.net/github/last-commit/GroovemanAndCo/DAWn?label=)|
+|[DawDreamer](https://github.com/DBraun/DawDreamer)|DAW with Python; VST instruments/effects, parameter automation, FAUST, Warp Markers, and JUCE processors|![](https://img.shields.io/github/languages/top/DBraun/DawDreamer?style=flat-square)|![](https://flat.badgen.net/github/license/DBraun/DawDreamer?label=)|![](https://flat.badgen.net/github/last-commit/DBraun/DawDreamer?label=)|
