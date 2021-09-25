@@ -1,0 +1,5 @@
+# Video alignment
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[VideoSync](https://github.com/allisonnicoledeal/VideoSync)|A web application that automatically synchronizes and combines YouTube video clips to recreate a live concert experience from multiple angles.|![](https://img.shields.io/github/languages/top/allisonnicoledeal/VideoSync?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/allisonnicoledeal/VideoSync?label=)|![](https://flat.badgen.net/github/last-commit/allisonnicoledeal/VideoSync?label=)|
+|[align-videos-by-sound](https://github.com/align-videos-by-sound/align-videos-by-sound)|Align videos/sound files timewise with help of their soundtracks.|![](https://img.shields.io/github/languages/top/align-videos-by-sound/align-videos-by-sound?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/align-videos-by-sound/align-videos-by-sound?label=)|![](https://flat.badgen.net/github/last-commit/align-videos-by-sound/align-videos-by-sound?label=)|
