@@ -1,16 +1,16 @@
 # Audio libraries
 
 ## Plugins
-|Website|Short description|License|Last commit|
-|:-:|:-:|:-:|:-:|
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
 |[DPF - DISTRHO Plugin Framework](https://github.com/DISTRHO/DPF)|Allows developers to create plugins with custom UIs using a simple C++ API|![](https://img.shields.io/github/languages/top/DISTRHO/DPF?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/DISTRHO/DPF?label=)|![](https://flat.badgen.net/github/last-commit/DISTRHO/DPF?label=)|
 |[iPlug 2](https://github.com/iPlug2/iPlug2)|A simple-to-use C++ framework for developing cross platform audio plug-ins/apps and targeting multiple plug-in APIs with the same minimalistic code|![](https://img.shields.io/github/languages/top/iPlug2/iPlug2?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/iPlug2/iPlug2?label=)|![](https://flat.badgen.net/github/last-commit/iPlug2/iPlug2?label=)|
 |[Dplug](https://github.com/AuburnSounds/Dplug)|Lets you create audio plug-ins with unmatched simplicity and speed, using the D language|![](https://img.shields.io/github/languages/top/AuburnSounds/Dplug?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/AuburnSounds/Dplug?label=)|![](https://flat.badgen.net/github/last-commit/AuburnSounds/Dplug?label=)|
 |[KFR](https://www.kfr.dev/)|Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters|![](https://img.shields.io/github/languages/top/kfrlib/kfr?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/kfrlib/kfr?label=)|![](https://flat.badgen.net/github/last-commit/kfrlib/kfr?label=)|
 
 ## DSPs
-|Website|Short description|License|Last commit|
-|:-:|:-:|:-:|:-:|
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
 |[Maximilian](https://github.com/micknoise/Maximilian)|A cross-platform and multi-target audio synthesis and signal processing library|![](https://img.shields.io/github/languages/top/micknoise/Maximilian?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/micknoise/Maximilian?label=)|![](https://flat.badgen.net/github/last-commit/micknoise/Maximilian?label=)|
 |[DaisySP](https://github.com/electro-smith/DaisySP)|A Powerful, Open Source DSP Library in C++|![](https://img.shields.io/github/languages/top/electro-smith/DaisySP?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/electro-smith/DaisySP?label=)|![](https://badgen.net/github/last-commit/electro-smith/DaisySP?label=)|
 |[DSP IIR Realtime C++ filter library](https://github.com/berndporr/iir1)|IIR realtime filter library written in C++|![](https://img.shields.io/github/languages/top/berndporr/iir1?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/berndporr/iir1?label=)|![](https://flat.badgen.net/github/last-commit/berndporr/iir1?label=)|
@@ -19,15 +19,15 @@
 |[liquid-dsp](https://liquidsdr.org/)|A set of extensible DSP modules that do not rely on external dependencies or cumbersome frameworks.|![](https://img.shields.io/github/languages/top/jgaeddert/liquid-dsp?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/jgaeddert/liquid-dsp?label=)|![](https://flat.badgen.net/github/last-commit/jgaeddert/liquid-dsp?label=)|
 
 ## Decoding
-|Website|Short description|License|Last commit|
-|:-:|:-:|:-:|:-:|
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
 |[dr_libs](https://github.com/mackron/dr_libs)|Single file audio decoding libraries for C/C++|![](https://img.shields.io/github/languages/top/mackron/dr_libs?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/mackron/dr_libs?label=)|![](https://flat.badgen.net/github/last-commit/mackron/dr_libs?label=)|
 |[minimp3](https://github.com/lieff/minimp3)|Minimalistic MP3 decoder single header library|![](https://img.shields.io/github/languages/top/lieff/minimp3?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/lieff/minimp3?label=)|![](https://flat.badgen.net/github/last-commit/lieff/minimp3?label=)|
 |[Libnyquist](https://github.com/ddiakopoulos/libnyquist)|A cross platform C++11 library for decoding audio (mp3, wav, ogg, opus, flac, etc)|![](https://img.shields.io/github/languages/top/ddiakopoulos/libnyquist?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ddiakopoulos/libnyquist?label=)|![](https://flat.badgen.net/github/last-commit/ddiakopoulos/libnyquist?label=)|
 
 ## Others
-|Website|Short description|License|Last commit|
-|:-:|:-:|:-:|:-:|
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
 |[RtAudio](https://github.com/thestk/rtaudio)|A set of C++ classes that provide a common API for realtime audio input/output across Linux, MacOS and Windows operating systems.|![](https://img.shields.io/github/languages/top/thestk/rtaudio?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/thestk/rtaudio?label=)|![](https://flat.badgen.net/github/last-commit/thestk/rtaudio?label=)|
 |[SDL_audiolib](https://github.com/realnc/SDL_audiolib)|An audio decoding, resampling and mixing library|![](https://img.shields.io/github/languages/top/realnc/SDL_audiolib?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/realnc/SDL_audiolib?label=)|![](https://badgen.net/github/last-commit/realnc/SDL_audiolib?label=)|
 |[MINIAUDIO](https://github.com/mackron/miniaudio)|Single file audio playback and capture library written in C|![](https://img.shields.io/github/languages/top/mackron/miniaudio?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/mackron/miniaudio?label=)|![](https://flat.badgen.net/github/last-commit/mackron/miniaudio?label=)|
