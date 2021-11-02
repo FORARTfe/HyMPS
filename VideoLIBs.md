@@ -1,6 +1,6 @@
 # Video Libraries
-|Website|Short description|License|Last commit|
-|:-:|:-:|:-:|:-:|
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
 |[OpenShot Video Library](https://github.com/OpenShot/libopenshot)|A C++ library dedicated to delivering high quality video editing, animation, and playback solutions|![](https://img.shields.io/github/languages/top/OpenShot/libopenshot?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/OpenShot/libopenshot?label=)|![](https://flat.badgen.net/github/last-commit/OpenShot/libopenshot?label=)|
 |[Foleys Video Engine](https://github.com/ffAudio/foleys_video_engine)|A video engine to load, play, assemble and write video|![](https://img.shields.io/github/languages/top/ffAudio/foleys_video_engine?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ffAudio/foleys_video_engine?label=)|![](https://flat.badgen.net/github/last-commit/ffAudio/foleys_video_engine?label=)|
 |[MLT Multimedia Framework](https://www.mltframework.org/)|A multimedia framework, designed and developed for television broadcasting.|![](https://img.shields.io/github/languages/top/mltframework/mlt?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/mltframework/mlt?label=)|![](https://flat.badgen.net/github/last-commit/mltframework/mlt?label=)|
