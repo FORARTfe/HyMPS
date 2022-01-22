@@ -11,8 +11,9 @@ HYbrid Multimedia Production Suite
 # [Effects](https://github.com/forart/HyMPS/blob/main/AudioFXs.md)
 # [Fingerprinting](https://github.com/forart/HyMPS/blob/main/Fingerprinting.md)
 # [Audio DSPs](https://github.com/forart/HyMPS/blob/main/AudioDSPs.md)
-# [Audio Libraries](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md)
-# [Audio Resampling](https://github.com/forart/HyMPS/blob/main/AudioRES.md)
+# [Libraries](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md)
+# [Resampling](https://github.com/forart/HyMPS/blob/main/AudioRES.md)
+# [Programming](https://github.com/forart/HyMPS/blob/main/Programming.md)
 # [Other audio resources collections](https://github.com/forart/HyMPS/blob/main/A_Collections.md)
 
 
