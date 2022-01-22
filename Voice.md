@@ -1,4 +1,4 @@
-# VOICE
+# Voice
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Real-time Noise Suppression Plugin (VST2, LV2, LADSPA)](https://github.com/werman/noise-suppression-for-voice)|A real-time noise suppression plugin for voice based on [Xiph's RNNoise](https://jmvalin.ca/demo/rnnoise/).|![](https://img.shields.io/github/languages/top/werman/noise-suppression-for-voice?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/werman/noise-suppression-for-voice?label=)|![](https://flat.badgen.net/github/last-commit/werman/noise-suppression-for-voice?label=)|
