@@ -15,3 +15,5 @@
 |[go-dsp-guitar](https://github.com/andrepxx/go-dsp-guitar#go-dsp-guitar)|A cross-platform multichannel multi-effects processor for electric guitars and other instruments|![](https://img.shields.io/github/languages/top/andrepxx/go-dsp-guitar?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/kaktus3000/HighGain?label=)|![](https://flat.badgen.net/github/last-commit/kaktus3000/HighGain?label=)|
 |[ayeMux](https://github.com/forart/ayemux)|A program that patches LADSPA audio plugins using Jack to create a real time audio fx system similar to Guitar Rig.|![](https://img.shields.io/github/languages/top/forart/ayemux?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/forart/ayemux?label=)|![](https://flat.badgen.net/github/last-commit/forart/ayemux?label=)|
 |[ScorchCrafter Guitar FX DAW Plug-ins](https://sourceforge.net/projects/scorchcrafter/)|A group of audio DAW plug-ins mostly for Guitar Amplifier simulation|?|GPL (mostly)|2015|
+|[the C* Audio Plugin Suite](http://quitte.de/dsp/caps.html)|A collection of audio plugins|?|?|2018|
+
