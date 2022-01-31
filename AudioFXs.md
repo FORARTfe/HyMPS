@@ -19,4 +19,4 @@
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[abGate](https://abgate.sourceforge.io/)|noise gate plugin for Linux|![](https://img.shields.io/github/languages/top/antanasbruzas/abGate?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/antanasbruzas/abGate?label=)|![](https://flat.badgen.net/github/last-commit/antanasbruzas/abGate?label=)|
-|[Microtune](https://github.com/kyr0/microtune)|noise gate plugin for Linux|![](https://img.shields.io/github/languages/top/kyr0/microtune?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/kyr0/microtune?label=)|![](https://flat.badgen.net/github/last-commit/kyr0/microtune?label=)|
+|[Microtune](https://github.com/kyr0/microtune)|A MIDI FX plugin that microtunes any virtual instrument|![](https://img.shields.io/github/languages/top/kyr0/microtune?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/kyr0/microtune?label=)|![](https://flat.badgen.net/github/last-commit/kyr0/microtune?label=)|
