@@ -13,6 +13,7 @@
 |[avw LV2](http://openavproductions.com/artyfx/)|A port of the AMS internal modules to LV2 plugins|![](https://img.shields.io/github/languages/top/mfisher31/avwlv2?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/mfisher31/avwlv2?label=)|![](https://flat.badgen.net/github/last-commit/mfisher31/avwlv2?label=)|
 |[zam-plugins](http://www.zamaudio.com/?p=976)|Collection of LADSPA/LV2/VST/JACK audio plugins for high-quality processing|![](https://img.shields.io/github/languages/top/zamaudio/zam-plugins?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/zamaudio/zam-plugins?label=)|![](https://flat.badgen.net/github/last-commit/zamaudio/zam-plugins?label=)|
 |[x42-plugins](https://x42-plugins.com/x42/)|Collection of LV2 plugins (submodules) for packaging|![](https://img.shields.io/github/languages/top/x42/x42-plugins?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/x42/x42-plugins?label=)|![](https://flat.badgen.net/github/last-commit/x42/x42-plugins?label=)|
+|[LSP (Linux Studio Plugins)](https://lsp-plug.in/)|A collection of open-source plugins currently compatible with LADSPA, LV2 and LinuxVST formats|![](https://img.shields.io/github/languages/top/sadko4u/lsp-plugins?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/sadko4u/lsp-plugins?label=)|![](https://flat.badgen.net/github/last-commit/sadko4u/lsp-plugins?label=)|
 
 ## Singles
 |Website|Short description|Language|License|Last commit|
