@@ -11,12 +11,6 @@
 ## DSPs
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-|[Maximilian](https://github.com/micknoise/Maximilian)|A cross-platform and multi-target audio synthesis and signal processing library|![](https://img.shields.io/github/languages/top/micknoise/Maximilian?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/micknoise/Maximilian?label=)|![](https://flat.badgen.net/github/last-commit/micknoise/Maximilian?label=)|
-|[DaisySP](https://github.com/electro-smith/DaisySP)|A Powerful, Open Source DSP Library in C++|![](https://img.shields.io/github/languages/top/electro-smith/DaisySP?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/electro-smith/DaisySP?label=)|![](https://badgen.net/github/last-commit/electro-smith/DaisySP?label=)|
-|[DSP IIR Realtime C++ filter library](https://github.com/berndporr/iir1)|IIR realtime filter library written in C++|![](https://img.shields.io/github/languages/top/berndporr/iir1?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/berndporr/iir1?label=)|![](https://flat.badgen.net/github/last-commit/berndporr/iir1?label=)|
-|[Dsp](https://github.com/nullpunktTUD/Dsp)|A digital signal processing library using Modern C++|![](https://img.shields.io/github/languages/top/nullpunktTUD/Dsp?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/nullpunktTUD/Dsp?label=)|![](https://flat.badgen.net/github/last-commit/nullpunktTUD/Dsp?label=)|
-|[NWaves](https://github.com/ar1st0crat/NWaves)|A .NET library for 1D signal processing focused specifically on audio processing.|![](https://img.shields.io/github/languages/top/ar1st0crat/NWaves?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ar1st0crat/NWaves?label=)|![](https://flat.badgen.net/github/last-commit/ar1st0crat/NWaves?label=)|
-|[liquid-dsp](https://liquidsdr.org/)|A set of extensible DSP modules that do not rely on external dependencies or cumbersome frameworks.|![](https://img.shields.io/github/languages/top/jgaeddert/liquid-dsp?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/jgaeddert/liquid-dsp?label=)|![](https://flat.badgen.net/github/last-commit/jgaeddert/liquid-dsp?label=)|
 
 ## Decoding
 |Website|Short description|Language|License|Last commit|
