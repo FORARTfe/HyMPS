@@ -8,10 +8,6 @@
 |[Dplug](https://github.com/AuburnSounds/Dplug)|Lets you create audio plug-ins with unmatched simplicity and speed, using the D language|![](https://img.shields.io/github/languages/top/AuburnSounds/Dplug?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/AuburnSounds/Dplug?label=)|![](https://flat.badgen.net/github/last-commit/AuburnSounds/Dplug?label=)|
 |[KFR](https://www.kfr.dev/)|Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters|![](https://img.shields.io/github/languages/top/kfrlib/kfr?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/kfrlib/kfr?label=)|![](https://flat.badgen.net/github/last-commit/kfrlib/kfr?label=)|
 
-## DSPs
-|Website|Short description|Language|License|Last commit|
-|:-:|:-:|:-:|:-:|:-:|
-
 ## Decoding
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
