@@ -1,0 +1,34 @@
+# Adapters
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[LinVst](https://github.com/osxmidi/LinVst)|Linux Windows vst wrapper/bridge|![](https://img.shields.io/github/languages/top/osxmidi/LinVst?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/osxmidi/LinVst?label=)|![](https://flat.badgen.net/github/last-commit/osxmidi/LinVst?label=)|
+
+|[Maolan](https://github.com/maolan/libmaolan)|DAW written in C++17|![](https://img.shields.io/github/languages/top/maolan/libmaolan?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/maolan/libmaolan?label=)|![](https://flat.badgen.net/github/last-commit/maolan/libmaolan?label=)|
+
+|[DigiDAW](https://github.com/Dudejoe870/DigiDAW)|A Cross-Platform Open-Source Digital Audio Workstation|![](https://img.shields.io/github/languages/top/Dudejoe870/DigiDAW?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Dudejoe870/DigiDAW?label=)|![](https://flat.badgen.net/github/last-commit/Dudejoe870/DigiDAW?label=)|
+
+|[DawDreamer](https://github.com/DBraun/DawDreamer)|DAW with Python; VST instruments/effects, parameter automation, FAUST, Warp Markers, and JUCE processors|![](https://img.shields.io/github/languages/top/DBraun/DawDreamer?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/DBraun/DawDreamer?label=)|![](https://flat.badgen.net/github/last-commit/DBraun/DawDreamer?label=)|
+
+|[nama](https://freeshell.de/~bolangi/cgi1/nama.cgi/00home.html)|multitrack recorder and digital audio workstation|![](https://img.shields.io/github/languages/top/bolangi/nama?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/bolangi/nama?label=)|![](https://flat.badgen.net/github/last-commit/bolangi/nama?label=)|
+
+|[Stargate](https://github.com/stargateaudio/stargate)|An all-in-one DAW and plugin suite|![](https://img.shields.io/github/languages/top/stargateaudio/stargate?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/stargateaudio/stargate?label=)|![](https://flat.badgen.net/github/last-commit/stargateaudio/stargate?label=)|
+
+|[Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark)|A powerful recording, composing, editing, sound designing, mixing, and mastering tool for artists|![](https://img.shields.io/github/languages/top/MeadowlarkDAW/Meadowlark?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/MeadowlarkDAW/Meadowlark?label=)|![](https://flat.badgen.net/github/last-commit/MeadowlarkDAW/Meadowlark?label=)|
+
+|[Strauss](https://github.com/Noahdw/Strauss)|A Digital Audio Workstation / Notation software that attemps to create a more efficient workflow for the modern composer|![](https://img.shields.io/github/languages/top/Noahdw/Strauss?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Noahdw/Strauss?label=)|![](https://flat.badgen.net/github/last-commit/Noahdw/Strauss?label=)|
+
+|[nano_daw](https://github.com/abelkevich/nano_daw)|A DAW (digital audio workstation) that support external plugins (codecs, effects), real-time audio processing (via PortAudio) and REST-like API to control user workflow|![](https://img.shields.io/github/languages/top/abelkevich/nano_daw?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/abelkevich/nano_daw?label=)|![](https://flat.badgen.net/github/last-commit/abelkevich/nano_daw?label=)|
+
+|[Open Sound Refenation](https://github.com/OSRTeam/OpenSoundRefenation)|Open-Source Windows DAW|![](https://img.shields.io/github/languages/top/OSRTeam/OpenSoundRefenation?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/OSRTeam/OpenSoundRefenation?label=)|![](https://flat.badgen.net/github/last-commit/OSRTeam/OpenSoundRefenation?label=)|
+
+|[Wavelets](https://gitlab.com/epici/wavelets)|Open source DAW. Ditching analog for creative freedom.|![](https://img.shields.io/gitlab/languages/top/epici/wavelets?color=pink&style=flat-square)|![](https://flat.badgen.net/gitlab/license/epici/wavelets?label=)|![](https://flat.badgen.net/gitlab/last-commit/epici/wavelets?label=)|
+
+|[Zrythm](https://www.zrythm.org/)|A highly automated and intuitive digital audio workstation|![](https://img.shields.io/github/languages/top/zrythm/zrythm?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/zrythm/zrythm?label=)|![](https://flat.badgen.net/github/last-commit/zrythm/zrythm?label=)|
+
+|[Chaotic](https://github.com/dliganov/Chaotic-DAW)|A handy music composing tool, allowing to achieve complex results with minimal interface losses|![](https://img.shields.io/github/languages/top/dliganov/Chaotic-DAW?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/dliganov/Chaotic-DAW?label=)|![](https://flat.badgen.net/github/last-commit/dliganov/Chaotic-DAW?label=)|
+
+|[Traverso-DAW](https://github.com/rsijrier/Traverso-DAW)|A digital audio workstation designed to be an extension of your creativity and workflow|![](https://img.shields.io/github/languages/top/rsijrier/Traverso-DAW?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/rsijrier/Traverso-DAW?label=)|![](https://flat.badgen.net/github/last-commit/rsijrier/Traverso-DAW?label=)|
+
+|[Koblo Studio](https://github.com/octodo/koblo_software)|A free open source music editing application|![](https://img.shields.io/github/languages/top/octodo/koblo_software?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/octodo/koblo_software?label=)|![](https://flat.badgen.net/github/last-commit/octodo/koblo_software?label=)|
+
+|[Sound Ocean](https://github.com/Reaper10/Sound-Ocean)|A combination of koblo and traverso daw|![](https://img.shields.io/github/languages/top/Reaper10/Sound-Ocean?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Reaper10/Sound-Ocean?label=)|![](https://flat.badgen.net/github/last-commit/Reaper10/Sound-Ocean?label=)|
