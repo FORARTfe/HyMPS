@@ -14,7 +14,9 @@ HYbrid Multimedia Production Suite
 # [Libraries](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md)
 # [Resampling](https://github.com/forart/HyMPS/blob/main/AudioRES.md)
 # [Programming](https://github.com/forart/HyMPS/blob/main/Programming.md)
+# [Synthesizers](https://github.com/forart/HyMPS/blob/main/Synths.md)
 # [Adapters](https://github.com/forart/HyMPS/blob/main/Adapters.md)
+
 # [Other audio resources collections](https://github.com/forart/HyMPS/blob/main/A_Collections.md)
 
 
