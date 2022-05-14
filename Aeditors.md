@@ -1,5 +1,10 @@
 # Audio Editors
 
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[ReZound](http://rezound.sourceforge.net/)|A free, feature-rich, graphical audio editor|![](https://img.shields.io/github/languages/top/ddurham2/rezound?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ddurham2/rezound?label=)|![](https://flat.badgen.net/github/last-commit/ddurham2/rezound?label=)|
+
+
 Audacity-based
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
