@@ -1,6 +1,7 @@
 # DAWs
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[Tsunami](https://github.com/momentarylapse/tsunami)|An open-source digital audio workstation designed for ease of use and not-looking-crappy|![](https://img.shields.io/github/languages/top/momentarylapse/tsunami?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/momentarylapse/tsunami?label=)|![](https://flat.badgen.net/github/last-commit/momentarylapse/tsunami?label=)|
 |[LeGrandMechantLoop](http://benjamin.kuperberg.fr/lgml/en)|Node-based modular live performance oriented DAW|![](https://img.shields.io/github/languages/top/benkuper/LeGrandMechantLoop?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/benkuper/LeGrandMechantLoop?label=)|![](https://flat.badgen.net/github/last-commit/benkuper/LeGrandMechantLoop?label=)|
 |[Maolan](https://github.com/maolan/libmaolan)|DAW written in C++17|![](https://img.shields.io/github/languages/top/maolan/libmaolan?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/maolan/libmaolan?label=)|![](https://flat.badgen.net/github/last-commit/maolan/libmaolan?label=)|
 |[DigiDAW](https://github.com/Dudejoe870/DigiDAW)|A Cross-Platform Open-Source Digital Audio Workstation|![](https://img.shields.io/github/languages/top/Dudejoe870/DigiDAW?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Dudejoe870/DigiDAW?label=)|![](https://flat.badgen.net/github/last-commit/Dudejoe870/DigiDAW?label=)|
