@@ -3,7 +3,7 @@
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[ReZound](http://rezound.sourceforge.net/)|A free, feature-rich, graphical audio editor|![](https://img.shields.io/github/languages/top/ddurham2/rezound?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ddurham2/rezound?label=)|![](https://flat.badgen.net/github/last-commit/ddurham2/rezound?label=)|
-
+|[Audio Editor for macOS](https://github.com/russelldzhafarov/audio-editor-macos)|Simple Audio Editor app for macOS|![](https://img.shields.io/github/languages/top/russelldzhafarov/audio-editor-macos?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/russelldzhafarov/audio-editor-macos?label=)|![](https://flat.badgen.net/github/last-commit/russelldzhafarov/audio-editor-macos?label=)|
 
 Audacity-based
 |Website|Short description|Language|License|Last commit|
