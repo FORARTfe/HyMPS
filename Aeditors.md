@@ -2,6 +2,7 @@
 
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[Signals X-1](https://transonic.kohoutech.com/products/signalsx1/signalsx1.html)|A digital audio multitrack recorder|![](https://img.shields.io/github/languages/top/kohoutech/Signals-X-1?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/kohoutech/Signals-X-1?label=)|![](https://flat.badgen.net/github/last-commit/kohoutech/Signals-X-1?label=)|
 |[Eisenkraut](https://www.sciss.de/eisenkraut/)|A multi-channel and hi-res capable audio file editor|![](https://img.shields.io/github/languages/top/Sciss/Eisenkraut?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Sciss/Eisenkraut?label=)|![](https://flat.badgen.net/github/last-commit/Sciss/Eisenkraut?label=)|
 |[ReZound](http://rezound.sourceforge.net/)|A free, feature-rich, graphical audio editor|![](https://img.shields.io/github/languages/top/ddurham2/rezound?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ddurham2/rezound?label=)|![](https://flat.badgen.net/github/last-commit/ddurham2/rezound?label=)|
 |[WaveShop](http://waveshop.sourceforge.net/)|A free, open-source audio editor for Windows|![](https://img.shields.io/github/languages/top/victimofleisure/WaveShop?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/victimofleisure/WaveShop?label=)|![](https://flat.badgen.net/github/last-commit/victimofleisure/WaveShop?label=)|
