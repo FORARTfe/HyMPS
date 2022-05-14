@@ -5,7 +5,7 @@ HYbrid Multimedia Production Suite
 
 # ![](https://flat.badgen.net/badge/HyMPS/AUDIO?scale=3?color=green)
 # [DAWs](https://github.com/forart/HyMPS/blob/main/DAWs.md)
-# [Editors](https://github.com/forart/HyMPS/blob/main/Aeditors.md)
+# [Audio Editors](https://github.com/forart/HyMPS/blob/main/Aeditors.md)
 # [Voice](https://github.com/forart/HyMPS/blob/main/Voice.md)
 # [Guitar](https://github.com/forart/HyMPS/blob/main/GuitarDSPs.md)
 # [Bass](https://github.com/forart/HyMPS/blob/main/BassDSPs.md)
@@ -13,6 +13,7 @@ HYbrid Multimedia Production Suite
 # [Fingerprinting](https://github.com/forart/HyMPS/blob/main/Fingerprinting.md)
 # [Audio DSPs](https://github.com/forart/HyMPS/blob/main/AudioDSPs.md)
 # [Libraries](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md)
+# [Audio Engines](https://github.com/forart/HyMPS/blob/main/Aengines.md)
 # [Resampling](https://github.com/forart/HyMPS/blob/main/AudioRES.md)
 # [Programming](https://github.com/forart/HyMPS/blob/main/Programming.md)
 # [Synthesizers](https://github.com/forart/HyMPS/blob/main/Synths.md)
