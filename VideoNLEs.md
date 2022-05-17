@@ -13,3 +13,4 @@
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Natron](http://natrongithub.github.io/)|Open-source video compositing software|![](https://img.shields.io/github/languages/top/NatronGitHub/Natron?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/NatronGitHub/Natron?label=)|![](https://flat.badgen.net/github/last-commit/NatronGitHub/Natron?label=)|
+|[VidPy](https://antiboredom.github.io/vidpy/)|A Python video editor and compositor based on the [MLT Multimedia Framework](https://www.mltframework.org/)|![](https://img.shields.io/github/languages/top/antiboredom/vidpy?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/antiboredom/vidpy?label=)|![](https://flat.badgen.net/github/last-commit/antiboredom/vidpy?label=)|
