@@ -1,4 +1,4 @@
-![preview](http://www.forart.it/progetti/HyMPS/logo.png)<br>
+![HyMPS](http://www.forart.it/progetti/HyMPS/logo.png)<br>
 HYbrid Multimedia Production Suite
 
 ---
