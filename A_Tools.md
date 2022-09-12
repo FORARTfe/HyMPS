@@ -20,3 +20,8 @@
 |[PhaseAnalyzer](https://github.com/csteinmetz1/PhaseAnalyzer)|C++ plugin built with the JUCE Framework to provide insight about the relative phase relationship of audio signals|![](https://img.shields.io/github/languages/top/csteinmetz1/PhaseAnalyzer?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/csteinmetz1/PhaseAnalyzer?label=)|![](https://flat.badgen.net/github/last-commit/csteinmetz1/PhaseAnalyzer?label=)|
 |[KickFace](https://nullstar.github.io/?page=kickFace)|A kick and bass alignment and phase correction tool|![](https://img.shields.io/github/languages/top/nullstar/KickFace?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/nullstar/KickFace?label=)|![](https://flat.badgen.net/github/last-commit/nullstar/KickFace?label=)|
 |[A4PC](https://github.com/conundrumer/A4PC)|Automatic Analog Audio Alignment for Phase Cancellation|![](https://img.shields.io/github/languages/top/conundrumer/A4PC?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/conundrumer/A4PC?label=)|![](https://flat.badgen.net/github/last-commit/conundrumer/A4PC?label=)|
+
+# Noise reduction
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[phase_reconstruction](https://github.com/victormassatieze/phase_reconstruction)|Python implementations of some phase reconstruction algorithms for audio recovery from magnitude spectrograms|![](https://img.shields.io/github/languages/top/victormassatieze/phase_reconstruction?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/victormassatieze/phase_reconstruction?label=)|![](https://flat.badgen.net/github/last-commit/victormassatieze/phase_reconstruction?label=)|
