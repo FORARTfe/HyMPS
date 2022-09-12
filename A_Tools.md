@@ -24,4 +24,4 @@
 # Noise reduction
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-|[phase_reconstruction](https://github.com/victormassatieze/phase_reconstruction)|Python implementations of some phase reconstruction algorithms for audio recovery from magnitude spectrograms|![](https://img.shields.io/github/languages/top/victormassatieze/phase_reconstruction?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/victormassatieze/phase_reconstruction?label=)|![](https://flat.badgen.net/github/last-commit/victormassatieze/phase_reconstruction?label=)|
+|[libspecbleach](https://github.com/lucianodato/libspecbleach)|C library for audio noise reduction and other spectral effects|![](https://img.shields.io/github/languages/top/lucianodato/libspecbleach?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/lucianodato/libspecbleach?label=)|![](https://flat.badgen.net/github/last-commit/lucianodato/libspecbleach?label=)|
