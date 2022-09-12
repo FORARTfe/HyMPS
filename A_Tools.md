@@ -25,5 +25,5 @@
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[libspecbleach](https://github.com/lucianodato/libspecbleach)|C library for audio noise reduction and other spectral effects|![](https://img.shields.io/github/languages/top/lucianodato/libspecbleach?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/lucianodato/libspecbleach?label=)|![](https://flat.badgen.net/github/last-commit/lucianodato/libspecbleach?label=)|
-
 |[Audio De-noising](https://github.com/AP-Atul/Audio-Denoising)|Noise removal/ reducer from the audio file in python|![](https://img.shields.io/github/languages/top/AP-Atul/Audio-Denoising?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/AP-Atul/Audio-Denoising?label=)|![](https://flat.badgen.net/github/last-commit/AP-Atul/Audio-Denoising?label=)|
+|[Sekte](https://github.com/ahmetcanaydemir/sekte)|Reducing the Noise in the Audio Signal by Deep Learning Methods|![](https://img.shields.io/github/languages/top/ahmetcanaydemir/sekte?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ahmetcanaydemir/sekte?label=)|![](https://flat.badgen.net/github/last-commit/ahmetcanaydemir/sekte?label=)|
