@@ -10,6 +10,20 @@
 |[Clip Alignment](https://github.com/SebsCubs/Audio-synchro)|Aligns two tracks of digital audio that have been recorded at approximately the same time|![](https://img.shields.io/github/languages/top/SebsCubs/Audio-synchro?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/SebsCubs/Audio-synchro?label=)|![](https://flat.badgen.net/github/last-commit/SebsCubs/Audio-synchro?label=)|
 |[Synchronize-Audio](https://github.com/haydarevren/Synchronize-Audio)|Align a large collection of unorganized and unprocessed audio and video recordings according to their starting points on an unknown time line|![](https://img.shields.io/github/languages/top/haydarevren/Synchronize-Audio?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/haydarevren/Synchronize-Audio?label=)|![](https://flat.badgen.net/github/last-commit/haydarevren/Synchronize-Audio?label=)|
 
+# Mastering
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[master_me](https://github.com/trummerschlunk/master_me)|Automatic mastering plugin for live streaming, podcasts and internet radio|![](https://img.shields.io/github/languages/top/trummerschlunk/master_me?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/trummerschlunk/master_me?label=)|![](https://flat.badgen.net/github/last-commit/trummerschlunk/master_me?label=)|
+|[Audio Prepper](https://github.com/Audio-Prepper/audio-prepper-desktop)|An opinionated tool for mastering the audio of videos for streaming platforms|![](https://img.shields.io/github/languages/top/Audio-Prepper/audio-prepper-desktop?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Audio-Prepper/audio-prepper-desktop?label=)|![](https://flat.badgen.net/github/last-commit/Audio-Prepper/audio-prepper-desktop?label=)|
+|[AssistedSpectralRebalancePlugin](https://github.com/joaomauricio5/AssistedSpectralRebalancePlugin)|Rebalances the spectrum of a piece of audio by comparing and matching it with a suitable reference provided by the user|![](https://img.shields.io/github/languages/top/joaomauricio5/AssistedSpectralRebalancePlugin?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/joaomauricio5/AssistedSpectralRebalancePlugin?label=)|![](https://flat.badgen.net/github/last-commit/joaomauricio5/AssistedSpectralRebalancePlugin?label=)|
+
+# Noise reduction
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[libspecbleach](https://github.com/lucianodato/libspecbleach)|C library for audio noise reduction and other spectral effects|![](https://img.shields.io/github/languages/top/lucianodato/libspecbleach?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/lucianodato/libspecbleach?label=)|![](https://flat.badgen.net/github/last-commit/lucianodato/libspecbleach?label=)|
+|[Audio De-noising](https://github.com/AP-Atul/Audio-Denoising)|Noise removal/ reducer from the audio file in python|![](https://img.shields.io/github/languages/top/AP-Atul/Audio-Denoising?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/AP-Atul/Audio-Denoising?label=)|![](https://flat.badgen.net/github/last-commit/AP-Atul/Audio-Denoising?label=)|
+|[Sekte](https://github.com/ahmetcanaydemir/sekte)|Reducing the Noise in the Audio Signal by Deep Learning Methods|![](https://img.shields.io/github/languages/top/ahmetcanaydemir/sekte?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ahmetcanaydemir/sekte?label=)|![](https://flat.badgen.net/github/last-commit/ahmetcanaydemir/sekte?label=)|
+
 # Phase manipulation
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
@@ -20,20 +34,6 @@
 |[PhaseAnalyzer](https://github.com/csteinmetz1/PhaseAnalyzer)|C++ plugin built with the JUCE Framework to provide insight about the relative phase relationship of audio signals|![](https://img.shields.io/github/languages/top/csteinmetz1/PhaseAnalyzer?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/csteinmetz1/PhaseAnalyzer?label=)|![](https://flat.badgen.net/github/last-commit/csteinmetz1/PhaseAnalyzer?label=)|
 |[KickFace](https://nullstar.github.io/?page=kickFace)|A kick and bass alignment and phase correction tool|![](https://img.shields.io/github/languages/top/nullstar/KickFace?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/nullstar/KickFace?label=)|![](https://flat.badgen.net/github/last-commit/nullstar/KickFace?label=)|
 |[A4PC](https://github.com/conundrumer/A4PC)|Automatic Analog Audio Alignment for Phase Cancellation|![](https://img.shields.io/github/languages/top/conundrumer/A4PC?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/conundrumer/A4PC?label=)|![](https://flat.badgen.net/github/last-commit/conundrumer/A4PC?label=)|
-
-# Noise reduction
-|Website|Short description|Language|License|Last commit|
-|:-:|:-:|:-:|:-:|:-:|
-|[libspecbleach](https://github.com/lucianodato/libspecbleach)|C library for audio noise reduction and other spectral effects|![](https://img.shields.io/github/languages/top/lucianodato/libspecbleach?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/lucianodato/libspecbleach?label=)|![](https://flat.badgen.net/github/last-commit/lucianodato/libspecbleach?label=)|
-|[Audio De-noising](https://github.com/AP-Atul/Audio-Denoising)|Noise removal/ reducer from the audio file in python|![](https://img.shields.io/github/languages/top/AP-Atul/Audio-Denoising?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/AP-Atul/Audio-Denoising?label=)|![](https://flat.badgen.net/github/last-commit/AP-Atul/Audio-Denoising?label=)|
-|[Sekte](https://github.com/ahmetcanaydemir/sekte)|Reducing the Noise in the Audio Signal by Deep Learning Methods|![](https://img.shields.io/github/languages/top/ahmetcanaydemir/sekte?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ahmetcanaydemir/sekte?label=)|![](https://flat.badgen.net/github/last-commit/ahmetcanaydemir/sekte?label=)|
-
-# Mastering
-|Website|Short description|Language|License|Last commit|
-|:-:|:-:|:-:|:-:|:-:|
-|[master_me](https://github.com/trummerschlunk/master_me)|Automatic mastering plugin for live streaming, podcasts and internet radio|![](https://img.shields.io/github/languages/top/trummerschlunk/master_me?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/trummerschlunk/master_me?label=)|![](https://flat.badgen.net/github/last-commit/trummerschlunk/master_me?label=)|
-|[Audio Prepper](https://github.com/Audio-Prepper/audio-prepper-desktop)|An opinionated tool for mastering the audio of videos for streaming platforms|![](https://img.shields.io/github/languages/top/Audio-Prepper/audio-prepper-desktop?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Audio-Prepper/audio-prepper-desktop?label=)|![](https://flat.badgen.net/github/last-commit/Audio-Prepper/audio-prepper-desktop?label=)|
-|[AssistedSpectralRebalancePlugin](https://github.com/joaomauricio5/AssistedSpectralRebalancePlugin)|Rebalances the spectrum of a piece of audio by comparing and matching it with a suitable reference provided by the user|![](https://img.shields.io/github/languages/top/joaomauricio5/AssistedSpectralRebalancePlugin?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/joaomauricio5/AssistedSpectralRebalancePlugin?label=)|![](https://flat.badgen.net/github/last-commit/joaomauricio5/AssistedSpectralRebalancePlugin?label=)|
 
 # Resampling
 |Website|Short description|Language|License|Last commit|
