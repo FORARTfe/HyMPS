@@ -10,6 +10,11 @@
 |[Clip Alignment](https://github.com/SebsCubs/Audio-synchro)|Aligns two tracks of digital audio that have been recorded at approximately the same time|![](https://img.shields.io/github/languages/top/SebsCubs/Audio-synchro?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/SebsCubs/Audio-synchro?label=)|![](https://flat.badgen.net/github/last-commit/SebsCubs/Audio-synchro?label=)|
 |[Synchronize-Audio](https://github.com/haydarevren/Synchronize-Audio)|Align a large collection of unorganized and unprocessed audio and video recordings according to their starting points on an unknown time line|![](https://img.shields.io/github/languages/top/haydarevren/Synchronize-Audio?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/haydarevren/Synchronize-Audio?label=)|![](https://flat.badgen.net/github/last-commit/haydarevren/Synchronize-Audio?label=)|
 
+## Enhance
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[Audio-Enhancement-GAN](https://github.com/nimeshrisal/Audio-Enhancement-GAN)|This is a Audio enhancement system which uses GAN|![](https://img.shields.io/github/languages/top/nimeshrisal/Audio-Enhancement-GAN?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/nimeshrisal/Audio-Enhancement-GAN?label=)|![](https://flat.badgen.net/github/last-commit/nimeshrisal/Audio-Enhancement-GAN?label=)|
+
 ## Fingerprinting
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
@@ -37,6 +42,7 @@
 |[libspecbleach](https://github.com/lucianodato/libspecbleach)|C library for audio noise reduction and other spectral effects|![](https://img.shields.io/github/languages/top/lucianodato/libspecbleach?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/lucianodato/libspecbleach?label=)|![](https://flat.badgen.net/github/last-commit/lucianodato/libspecbleach?label=)|
 |[Audio De-noising](https://github.com/AP-Atul/Audio-Denoising)|Noise removal/ reducer from the audio file in python|![](https://img.shields.io/github/languages/top/AP-Atul/Audio-Denoising?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/AP-Atul/Audio-Denoising?label=)|![](https://flat.badgen.net/github/last-commit/AP-Atul/Audio-Denoising?label=)|
 |[Sekte](https://github.com/ahmetcanaydemir/sekte)|Reducing the Noise in the Audio Signal by Deep Learning Methods|![](https://img.shields.io/github/languages/top/ahmetcanaydemir/sekte?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ahmetcanaydemir/sekte?label=)|![](https://flat.badgen.net/github/last-commit/ahmetcanaydemir/sekte?label=)|
+|[Audio-Denoiser](https://github.com/ChihEnChou/Audio-Denoiser)|Reducing the Noise in the Audio Signal by Deep Learning Methods|![](https://img.shields.io/github/languages/top/ChihEnChou/Audio-Denoiser?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ChihEnChou/Audio-Denoiser?label=)|![](https://flat.badgen.net/github/last-commit/ChihEnChou/Audio-Denoiser?label=)|
 
 # Phase manipulation
 |Website|Short description|Language|License|Last commit|
