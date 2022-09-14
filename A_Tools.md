@@ -1,4 +1,4 @@
-# Alignment/synch
+## Alignment/synch
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audalign](https://github.com/benfmiller/audalign)|Package for aligning audio files through audio fingerprinting|![](https://img.shields.io/github/languages/top/benfmiller/audalign?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/benfmiller/audalign?label=)|![](https://flat.badgen.net/github/last-commit/benfmiller/audalign?label=)|
@@ -10,7 +10,7 @@
 |[Clip Alignment](https://github.com/SebsCubs/Audio-synchro)|Aligns two tracks of digital audio that have been recorded at approximately the same time|![](https://img.shields.io/github/languages/top/SebsCubs/Audio-synchro?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/SebsCubs/Audio-synchro?label=)|![](https://flat.badgen.net/github/last-commit/SebsCubs/Audio-synchro?label=)|
 |[Synchronize-Audio](https://github.com/haydarevren/Synchronize-Audio)|Align a large collection of unorganized and unprocessed audio and video recordings according to their starting points on an unknown time line|![](https://img.shields.io/github/languages/top/haydarevren/Synchronize-Audio?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/haydarevren/Synchronize-Audio?label=)|![](https://flat.badgen.net/github/last-commit/haydarevren/Synchronize-Audio?label=)|
 
-# Fingerprinting
+## Fingerprinting
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Aurio](https://github.com/protyposis/Aurio)|A .NET library that focuses on audio processing, analysis, media synchronization and media retrieval and implements various audio fingerprinting methods.|![](https://img.shields.io/github/languages/top/protyposis/Aurio?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/protyposis/Aurio?label=)|![](https://flat.badgen.net/github/last-commit/protyposis/Aurio?label=)|
