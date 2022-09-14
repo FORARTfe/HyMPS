@@ -14,6 +14,8 @@
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio-Enhancement-GAN](https://github.com/nimeshrisal/Audio-Enhancement-GAN)|This is a Audio enhancement system which uses GAN|![](https://img.shields.io/github/languages/top/nimeshrisal/Audio-Enhancement-GAN?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/nimeshrisal/Audio-Enhancement-GAN?label=)|![](https://flat.badgen.net/github/last-commit/nimeshrisal/Audio-Enhancement-GAN?label=)|
+|[ClipAway](https://github.com/cplaguna-audio/ClipAway)|Web Application To Declip Audio|![](https://img.shields.io/github/languages/top/cplaguna-audio/ClipAway?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/cplaguna-audio/ClipAway?label=)|![](https://flat.badgen.net/github/last-commit/cplaguna-audio/ClipAway?label=)|
+
 
 ## Fingerprinting
 |Website|Short description|Language|License|Last commit|
