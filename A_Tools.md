@@ -77,6 +77,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[Python Audio Restoration Suite](https://github.com/HENDRIX-ZT2/pyaudiorestoration)|A set of tools to restore audio quality from a variety of old analog sources|![](https://img.shields.io/github/languages/top/HENDRIX-ZT2/pyaudiorestoration?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/HENDRIX-ZT2/pyaudiorestoration?label=)|![](https://flat.badgen.net/github/last-commit/HENDRIX-ZT2/pyaudiorestoration?label=)|
 |[DEVINYL](https://github.com/matiaszanolli/devinyl)|Recover vynils beyond recovering|![](https://img.shields.io/github/languages/top/matiaszanolli/devinyl?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/matiaszanolli/devinyl?label=)|![](https://flat.badgen.net/github/last-commit/matiaszanolli/devinyl?label=)|
+|[Digital Audio Restoration](https://github.com/gburlet/audio-restore)|Click and pop removal using an autoregressive model (AR) and sinusoid + AR model|![](https://img.shields.io/github/languages/top/gburlet/audio-restore?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/gburlet/audio-restore?label=)|![](https://flat.badgen.net/github/last-commit/gburlet/audio-restore?label=)|
 
 # Resampling
 |Website|Short description|Language|License|Last commit|
