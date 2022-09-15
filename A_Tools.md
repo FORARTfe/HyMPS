@@ -23,12 +23,15 @@
 |[declipper](https://github.com/eebmagic/declipper)|Uses a neural net to take clipped audio and convert it back to the unclipped version|![](https://img.shields.io/github/languages/top/eebmagic/declipper?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/eebmagic/declipper?label=)|![](https://flat.badgen.net/github/last-commit/eebmagic/declipper?label=)|
 |[audio-declipper](https://github.com/Imado1997/audio-declipper)|2014 IEEE Audio Declipping with Social Sparsity|![](https://img.shields.io/github/languages/top/Imado1997/audio-declipper?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Imado1997/audio-declipper?label=)|![](https://flat.badgen.net/github/last-commit/Imado1997/audio-declipper?label=)|
 
+# Dequantize
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[Audio Dequantization Using (Co)Sparse (Non)Convex Methods](https://github.com/zawi01/audio_dequantization)|Accompanying source code repository to the [relative paper](https://arxiv.org/abs/2010.16386)|![](https://img.shields.io/github/languages/top/zawi01/audio_dequantization?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/zawi01/audio_dequantization?label=)|![](https://flat.badgen.net/github/last-commit/zawi01/audio_dequantization?label=)|
 
 # Enhance
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio-Enhancement-GAN](https://github.com/nimeshrisal/Audio-Enhancement-GAN)|This is a Audio enhancement system which uses GAN|![](https://img.shields.io/github/languages/top/nimeshrisal/Audio-Enhancement-GAN?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/nimeshrisal/Audio-Enhancement-GAN?label=)|![](https://flat.badgen.net/github/last-commit/nimeshrisal/Audio-Enhancement-GAN?label=)|
-
 
 # Fingerprinting
 |Website|Short description|Language|License|Last commit|
@@ -60,6 +63,7 @@
 |[Audio-denoising---SDR](https://github.com/manojparthiban/Audio-denoising---SDR)|An software defined radio (SDR) toolkit to remove noise from audio source|![](https://img.shields.io/github/languages/top/manojparthiban/Audio-denoising---SDR?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/manojparthiban/Audio-denoising---SDR?label=)|![](https://flat.badgen.net/github/last-commit/manojparthiban/Audio-denoising---SDR?label=)|
 |[Sekte](https://github.com/ahmetcanaydemir/sekte)|Reducing the Noise in the Audio Signal by Deep Learning Methods|![](https://img.shields.io/github/languages/top/ahmetcanaydemir/sekte?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ahmetcanaydemir/sekte?label=)|![](https://flat.badgen.net/github/last-commit/ahmetcanaydemir/sekte?label=)|
 |[Audio-Denoiser](https://github.com/ChihEnChou/Audio-Denoiser)|Reducing the Noise in the Audio Signal by Deep Learning Methods|![](https://img.shields.io/github/languages/top/ChihEnChou/Audio-Denoiser?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ChihEnChou/Audio-Denoiser?label=)|![](https://flat.badgen.net/github/last-commit/ChihEnChou/Audio-Denoiser?label=)|
+|[audio-recovery](https://github.com/brunocasu/audio-recovery)|Digital audio analyzer that implement filters for noise suppression in the audio signal|![](https://img.shields.io/github/languages/top/brunocasu/audio-recovery?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/brunocasu/audio-recovery?label=)|![](https://flat.badgen.net/github/last-commit/brunocasu/audio-recovery?label=)|
 
 # Phase manipulation
 |Website|Short description|Language|License|Last commit|
