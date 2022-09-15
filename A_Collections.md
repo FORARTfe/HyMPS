@@ -8,5 +8,6 @@
 |[Awesome Music Production](https://github.com/ad-si/awesome-music-production)|A curated list of software, hardware, and other resources to create music.|![](https://flat.badgen.net/github/license/ad-si/awesome-music-production?label=)|![](https://flat.badgen.net/github/last-commit/ad-si/awesome-music-production?label=)|
 |[awesome-synth](https://github.com/psykon/awesome-synth)|List of awesome opensource synth project. Software and Hardware|![](https://flat.badgen.net/github/license/psykon/awesome-synth?label=)|![](https://flat.badgen.net/github/last-commit/psykon/awesome-synth?label=)|
 |[Open-Source Audio Plugins & Apps](https://openaudio.webprofusion.com/)|A list of open-source VST (and other format) plugin/app projects.|![](https://flat.badgen.net/github/license/webprofusion/OpenAudio?label=)|![](https://flat.badgen.net/github/last-commit/webprofusion/OpenAudio?label=)|
+|[Audio-Plugin-Development-Resources](https://github.com/jareddrayton/Audio-Plugin-Development-Resources)|Various resources related to developing plugins for audio production|![](https://flat.badgen.net/github/license/jareddrayton/Audio-Plugin-Development-Resources?label=)|![](https://flat.badgen.net/github/last-commit/jareddrayton/Audio-Plugin-Development-Resources?label=)|
 
 https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio
