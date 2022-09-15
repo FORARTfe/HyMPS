@@ -1,4 +1,4 @@
-## Alignment/synch
+# Alignment/synch
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audalign](https://github.com/benfmiller/audalign)|Package for aligning audio files through audio fingerprinting|![](https://img.shields.io/github/languages/top/benfmiller/audalign?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/benfmiller/audalign?label=)|![](https://flat.badgen.net/github/last-commit/benfmiller/audalign?label=)|
@@ -10,14 +10,27 @@
 |[Clip Alignment](https://github.com/SebsCubs/Audio-synchro)|Aligns two tracks of digital audio that have been recorded at approximately the same time|![](https://img.shields.io/github/languages/top/SebsCubs/Audio-synchro?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/SebsCubs/Audio-synchro?label=)|![](https://flat.badgen.net/github/last-commit/SebsCubs/Audio-synchro?label=)|
 |[Synchronize-Audio](https://github.com/haydarevren/Synchronize-Audio)|Align a large collection of unorganized and unprocessed audio and video recordings according to their starting points on an unknown time line|![](https://img.shields.io/github/languages/top/haydarevren/Synchronize-Audio?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/haydarevren/Synchronize-Audio?label=)|![](https://flat.badgen.net/github/last-commit/haydarevren/Synchronize-Audio?label=)|
 
-## Enhance
+# Declip
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[A Survey and an Extensive Evaluation of Popular Audio Declipping Methods](https://github.com/rajmic/declipping2020_codes)|Codes and data coming with article|![](https://img.shields.io/github/languages/top/rajmic/declipping2020_codes?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/rajmic/declipping2020_codes?label=)|![](https://flat.badgen.net/github/last-commit/rajmic/declipping2020_codes?label=)|
+|[audio-declipper](https://github.com/kripton/audio-declipper)|Proof-of-concept (or more) to declip sample-based audio files|![](https://img.shields.io/github/languages/top/kripton/audio-declipper?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/kripton/audio-declipper?label=)|![](https://flat.badgen.net/github/last-commit/kripton/audio-declipper?label=)|
+|[Audio Declipping](https://github.com/paquiteau/audioDeclipping)|audioDeclipping Project, Sparse coding course, ATSI Master|![](https://img.shields.io/github/languages/top/paquiteau/audioDeclipping?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/kripton/audio-declipper?label=)|![](https://flat.badgen.net/github/last-commit/paquiteau/audioDeclipping?label=)|
+|[spade-declipping](https://github.com/andryr/spade-declipping)|Implementation of ASPADE and SSPADE declipping algorithms|![](https://img.shields.io/github/languages/top/andryr/spade-declipping?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/andryr/spade-declipping?label=)|![](https://flat.badgen.net/github/last-commit/andryr/spade-declipping?label=)|
+|[ClipAway](https://github.com/cplaguna-audio/ClipAway)|Web Application To Declip Audio|![](https://img.shields.io/github/languages/top/cplaguna-audio/ClipAway?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/cplaguna-audio/ClipAway?label=)|![](https://flat.badgen.net/github/last-commit/cplaguna-audio/ClipAway?label=)|
+|[Consistent dictionary learning](https://github.com/LucasRr/Dictionary_learning_for_declipping)|algorithm for signal declipping ([Python code](https://github.com/LucasRr/Dictionary_learning_for_declipping))|![](https://img.shields.io/github/languages/top/LucasRr/Dictionary_learning_for_declipping?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/LucasRr/Dictionary_learning_for_declipping?label=)|![](https://flat.badgen.net/github/last-commit/LucasRr/Dictionary_learning_for_declipping?label=)|
+|[declipnet](https://github.com/cocuh/declipnet)|declipping audio with deep learning technique(wavenet)|![](https://img.shields.io/github/languages/top/cocuh/declipnet?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/cocuh/declipnet?label=)|![](https://flat.badgen.net/github/last-commit/cocuh/declipnet?label=)|
+|[declipper](https://github.com/eebmagic/declipper)|Uses a neural net to take clipped audio and convert it back to the unclipped version|![](https://img.shields.io/github/languages/top/eebmagic/declipper?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/eebmagic/declipper?label=)|![](https://flat.badgen.net/github/last-commit/eebmagic/declipper?label=)|
+|[audio-declipper](https://github.com/Imado1997/audio-declipper)|2014 IEEE Audio Declipping with Social Sparsity|![](https://img.shields.io/github/languages/top/Imado1997/audio-declipper?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Imado1997/audio-declipper?label=)|![](https://flat.badgen.net/github/last-commit/Imado1997/audio-declipper?label=)|
+
+
+# Enhance
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio-Enhancement-GAN](https://github.com/nimeshrisal/Audio-Enhancement-GAN)|This is a Audio enhancement system which uses GAN|![](https://img.shields.io/github/languages/top/nimeshrisal/Audio-Enhancement-GAN?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/nimeshrisal/Audio-Enhancement-GAN?label=)|![](https://flat.badgen.net/github/last-commit/nimeshrisal/Audio-Enhancement-GAN?label=)|
-|[ClipAway](https://github.com/cplaguna-audio/ClipAway)|Web Application To Declip Audio|![](https://img.shields.io/github/languages/top/cplaguna-audio/ClipAway?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/cplaguna-audio/ClipAway?label=)|![](https://flat.badgen.net/github/last-commit/cplaguna-audio/ClipAway?label=)|
 
 
-## Fingerprinting
+# Fingerprinting
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Aurio](https://github.com/protyposis/Aurio)|A .NET library that focuses on audio processing, analysis, media synchronization and media retrieval and implements various audio fingerprinting methods.|![](https://img.shields.io/github/languages/top/protyposis/Aurio?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/protyposis/Aurio?label=)|![](https://flat.badgen.net/github/last-commit/protyposis/Aurio?label=)|
