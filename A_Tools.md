@@ -1,5 +1,5 @@
 # Subsections
-[Alignment/synch](#alignmentsynch-) - [Declipping](#declipping-) - [Dequantizing](#dequantizing-) - [Enhancing](#enhancing-) - [Fingerprinting](#fingerprinting-) - [Mastering](#mastering-) - [Noise reducing](#noisereducing-) - [Phasing](#phasing-) - [Restoring](#restoring-) - [Resampling](#resampling-)
+[Alignment/synch](#alignmentsynch-) - [Declipping](#declipping-) - [Dequantizing](#dequantizing-) - [Enhancing](#enhancing-) - [Fingerprinting](#fingerprinting-) - [Mastering](#mastering-) - [Noise reducing](#noise-reducing-) - [Phasing](#phasing-) - [Restoring](#restoring-) - [Resampling](#resampling-)
 
 ## Alignment/synch [«](#subsections)
 |Website|Short description|Language|License|Last commit|
