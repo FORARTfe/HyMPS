@@ -1,3 +1,5 @@
+Subsections: Alignment/synch / Declipping / Dequantizing / Enhancing / Fingerprinting / Mastering / Noise reducing / Phasing / Restoring / Resampling / 
+
 # Alignment/synch
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
@@ -10,7 +12,7 @@
 |[Clip Alignment](https://github.com/SebsCubs/Audio-synchro)|Aligns two tracks of digital audio that have been recorded at approximately the same time|![](https://img.shields.io/github/languages/top/SebsCubs/Audio-synchro?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/SebsCubs/Audio-synchro?label=)|![](https://flat.badgen.net/github/last-commit/SebsCubs/Audio-synchro?label=)|
 |[Synchronize-Audio](https://github.com/haydarevren/Synchronize-Audio)|Align a large collection of unorganized and unprocessed audio and video recordings according to their starting points on an unknown time line|![](https://img.shields.io/github/languages/top/haydarevren/Synchronize-Audio?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/haydarevren/Synchronize-Audio?label=)|![](https://flat.badgen.net/github/last-commit/haydarevren/Synchronize-Audio?label=)|
 
-# Declip
+# Declipping
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[A Survey and an Extensive Evaluation of Popular Audio Declipping Methods](https://github.com/rajmic/declipping2020_codes)|Codes and data coming with article|![](https://img.shields.io/github/languages/top/rajmic/declipping2020_codes?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/rajmic/declipping2020_codes?label=)|![](https://flat.badgen.net/github/last-commit/rajmic/declipping2020_codes?label=)|
@@ -23,12 +25,12 @@
 |[declipper](https://github.com/eebmagic/declipper)|Uses a neural net to take clipped audio and convert it back to the unclipped version|![](https://img.shields.io/github/languages/top/eebmagic/declipper?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/eebmagic/declipper?label=)|![](https://flat.badgen.net/github/last-commit/eebmagic/declipper?label=)|
 |[audio-declipper](https://github.com/Imado1997/audio-declipper)|2014 IEEE Audio Declipping with Social Sparsity|![](https://img.shields.io/github/languages/top/Imado1997/audio-declipper?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Imado1997/audio-declipper?label=)|![](https://flat.badgen.net/github/last-commit/Imado1997/audio-declipper?label=)|
 
-# Dequantize
+# Dequantizing
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio Dequantization Using (Co)Sparse (Non)Convex Methods](https://github.com/zawi01/audio_dequantization)|Accompanying source code repository to the [relative paper](https://arxiv.org/abs/2010.16386)|![](https://img.shields.io/github/languages/top/zawi01/audio_dequantization?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/zawi01/audio_dequantization?label=)|![](https://flat.badgen.net/github/last-commit/zawi01/audio_dequantization?label=)|
 
-# Enhance
+# Enhancing
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio-Enhancement-GAN](https://github.com/nimeshrisal/Audio-Enhancement-GAN)|This is a Audio enhancement system which uses GAN|![](https://img.shields.io/github/languages/top/nimeshrisal/Audio-Enhancement-GAN?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/nimeshrisal/Audio-Enhancement-GAN?label=)|![](https://flat.badgen.net/github/last-commit/nimeshrisal/Audio-Enhancement-GAN?label=)|
@@ -54,7 +56,7 @@
 |[Audio Prepper](https://github.com/Audio-Prepper/audio-prepper-desktop)|An opinionated tool for mastering the audio of videos for streaming platforms|![](https://img.shields.io/github/languages/top/Audio-Prepper/audio-prepper-desktop?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Audio-Prepper/audio-prepper-desktop?label=)|![](https://flat.badgen.net/github/last-commit/Audio-Prepper/audio-prepper-desktop?label=)|
 |[AssistedSpectralRebalancePlugin](https://github.com/joaomauricio5/AssistedSpectralRebalancePlugin)|Rebalances the spectrum of a piece of audio by comparing and matching it with a suitable reference provided by the user|![](https://img.shields.io/github/languages/top/joaomauricio5/AssistedSpectralRebalancePlugin?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/joaomauricio5/AssistedSpectralRebalancePlugin?label=)|![](https://flat.badgen.net/github/last-commit/joaomauricio5/AssistedSpectralRebalancePlugin?label=)|
 
-# Noise reduction
+# Noise reducing
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[libspecbleach](https://github.com/lucianodato/libspecbleach)|C library for audio noise reduction and other spectral effects|![](https://img.shields.io/github/languages/top/lucianodato/libspecbleach?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/lucianodato/libspecbleach?label=)|![](https://flat.badgen.net/github/last-commit/lucianodato/libspecbleach?label=)|
@@ -65,7 +67,7 @@
 |[Audio-Denoiser](https://github.com/ChihEnChou/Audio-Denoiser)|Reducing the Noise in the Audio Signal by Deep Learning Methods|![](https://img.shields.io/github/languages/top/ChihEnChou/Audio-Denoiser?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ChihEnChou/Audio-Denoiser?label=)|![](https://flat.badgen.net/github/last-commit/ChihEnChou/Audio-Denoiser?label=)|
 |[audio-recovery](https://github.com/brunocasu/audio-recovery)|Digital audio analyzer that implement filters for noise suppression in the audio signal|![](https://img.shields.io/github/languages/top/brunocasu/audio-recovery?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/brunocasu/audio-recovery?label=)|![](https://flat.badgen.net/github/last-commit/brunocasu/audio-recovery?label=)|
 
-# Phase manipulation
+# Phasing
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[phase_reconstruction](https://github.com/victormassatieze/phase_reconstruction)|Python implementations of some phase reconstruction algorithms for audio recovery from magnitude spectrograms|![](https://img.shields.io/github/languages/top/victormassatieze/phase_reconstruction?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/victormassatieze/phase_reconstruction?label=)|![](https://flat.badgen.net/github/last-commit/victormassatieze/phase_reconstruction?label=)|
@@ -76,7 +78,7 @@
 |[KickFace](https://nullstar.github.io/?page=kickFace)|A kick and bass alignment and phase correction tool|![](https://img.shields.io/github/languages/top/nullstar/KickFace?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/nullstar/KickFace?label=)|![](https://flat.badgen.net/github/last-commit/nullstar/KickFace?label=)|
 |[A4PC](https://github.com/conundrumer/A4PC)|Automatic Analog Audio Alignment for Phase Cancellation|![](https://img.shields.io/github/languages/top/conundrumer/A4PC?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/conundrumer/A4PC?label=)|![](https://flat.badgen.net/github/last-commit/conundrumer/A4PC?label=)|
 
-# Restoration
+# Restoring
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Python Audio Restoration Suite](https://github.com/HENDRIX-ZT2/pyaudiorestoration)|A set of tools to restore audio quality from a variety of old analog sources|![](https://img.shields.io/github/languages/top/HENDRIX-ZT2/pyaudiorestoration?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/HENDRIX-ZT2/pyaudiorestoration?label=)|![](https://flat.badgen.net/github/last-commit/HENDRIX-ZT2/pyaudiorestoration?label=)|
