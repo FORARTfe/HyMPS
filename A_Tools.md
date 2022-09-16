@@ -1,4 +1,4 @@
-Subsections: Alignment/synch / Declipping / Dequantizing / Enhancing / Fingerprinting / Mastering / Noise reducing / Phasing / Restoring / Resampling / 
+Alignment/synch - Declipping - Dequantizing - Enhancing - Fingerprinting - Mastering - Noise reducing - Phasing - Restoring - Resampling
 
 # Alignment/synch
 |Website|Short description|Language|License|Last commit|
