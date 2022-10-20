@@ -1,4 +1,4 @@
-# DAWs
+# Generic
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Tsunami](https://github.com/momentarylapse/tsunami)|An open-source digital audio workstation designed for ease of use and not-looking-crappy|![](https://img.shields.io/github/languages/top/momentarylapse/tsunami?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/momentarylapse/tsunami?label=)|![](https://flat.badgen.net/github/last-commit/momentarylapse/tsunami?label=)|
@@ -19,3 +19,13 @@
 |[Traverso-DAW](https://github.com/rsijrier/Traverso-DAW)|A digital audio workstation designed to be an extension of your creativity and workflow|![](https://img.shields.io/github/languages/top/rsijrier/Traverso-DAW?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/rsijrier/Traverso-DAW?label=)|![](https://flat.badgen.net/github/last-commit/rsijrier/Traverso-DAW?label=)|
 |[Koblo Studio](https://github.com/octodo/koblo_software)|A free open source music editing application|![](https://img.shields.io/github/languages/top/octodo/koblo_software?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/octodo/koblo_software?label=)|![](https://flat.badgen.net/github/last-commit/octodo/koblo_software?label=)|
 |[Sound Ocean](https://github.com/Reaper10/Sound-Ocean)|A combination of koblo and traverso daw|![](https://img.shields.io/github/languages/top/Reaper10/Sound-Ocean?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Reaper10/Sound-Ocean?label=)|![](https://flat.badgen.net/github/last-commit/Reaper10/Sound-Ocean?label=)|
+|[py_headless_daw](https://github.com/hq9000/py_headless_daw)|A GUI-less DAW for producing electronic music using python|![](https://img.shields.io/github/languages/top/hq9000/py_headless_daw?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/hq9000/py_headless_daw?label=)|![](https://flat.badgen.net/github/last-commit/hq9000/py_headless_daw?label=)|
+|[daw](https://github.com/grc4kd/daw)|Digital Audio Workstation|![](https://img.shields.io/github/languages/top/grc4kd/daw?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/grc4kd/daw?label=)|![](https://flat.badgen.net/github/last-commit/grc4kd/daw?label=)|
+|[StylerDAW](https://github.com/F3DoT48/StylerDAW)|A loop-based DAW with patterns that respond to real time chord changes|![](https://img.shields.io/github/languages/top/F3DoT48/StylerDAW?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/F3DoT48/StylerDAW?label=)|![](https://flat.badgen.net/github/last-commit/F3DoT48/StylerDAW?label=)|
+|[daw](https://github.com/grc4kd/daw)|Digital Audio Workstation|![](https://img.shields.io/github/languages/top/grc4kd/daw?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/grc4kd/daw?label=)|![](https://flat.badgen.net/github/last-commit/grc4kd/daw?label=)|
+
+# Specialistic
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[gba-daw](https://github.com/emurray2/gba-daw)|A DAW for the Gameboy Advance|![](https://img.shields.io/github/languages/top/emurray2/gba-daw?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/emurray2/gba-daw?label=)|![](https://flat.badgen.net/github/last-commit/emurray2/gba-daw?label=)|
+|[LMN-3-DAW](https://github.com/FundamentalFrequency)|DAW for the LMN-3 open source controller|![](https://img.shields.io/github/languages/top/FundamentalFrequency/LMN-3-DAW?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/FundamentalFrequency/LMN-3-DAW?label=)|![](https://flat.badgen.net/github/last-commit/FundamentalFrequency/LMN-3-DAW?label=)|
