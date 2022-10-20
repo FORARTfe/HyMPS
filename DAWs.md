@@ -1,4 +1,8 @@
-# Generic
+# Subsections
+[Generic](#generic-) - [Specialistic](#specialistic-)
+
+
+## Generic [«](#subsections)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Tsunami](https://github.com/momentarylapse/tsunami)|An open-source digital audio workstation designed for ease of use and not-looking-crappy|![](https://img.shields.io/github/languages/top/momentarylapse/tsunami?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/momentarylapse/tsunami?label=)|![](https://flat.badgen.net/github/last-commit/momentarylapse/tsunami?label=)|
@@ -24,7 +28,7 @@
 |[StylerDAW](https://github.com/F3DoT48/StylerDAW)|A loop-based DAW with patterns that respond to real time chord changes|![](https://img.shields.io/github/languages/top/F3DoT48/StylerDAW?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/F3DoT48/StylerDAW?label=)|![](https://flat.badgen.net/github/last-commit/F3DoT48/StylerDAW?label=)|
 |[daw](https://github.com/grc4kd/daw)|Digital Audio Workstation|![](https://img.shields.io/github/languages/top/grc4kd/daw?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/grc4kd/daw?label=)|![](https://flat.badgen.net/github/last-commit/grc4kd/daw?label=)|
 
-# Specialistic
+## Specialistic [«](#subsections)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[gba-daw](https://github.com/emurray2/gba-daw)|A DAW for the Gameboy Advance|![](https://img.shields.io/github/languages/top/emurray2/gba-daw?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/emurray2/gba-daw?label=)|![](https://flat.badgen.net/github/last-commit/emurray2/gba-daw?label=)|
