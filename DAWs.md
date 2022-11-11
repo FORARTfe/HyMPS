@@ -27,6 +27,11 @@
 |[daw](https://github.com/grc4kd/daw)|Digital Audio Workstation|![](https://img.shields.io/github/languages/top/grc4kd/daw?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/grc4kd/daw?label=)|![](https://flat.badgen.net/github/last-commit/grc4kd/daw?label=)|
 |[StylerDAW](https://github.com/F3DoT48/StylerDAW)|A loop-based DAW with patterns that respond to real time chord changes|![](https://img.shields.io/github/languages/top/F3DoT48/StylerDAW?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/F3DoT48/StylerDAW?label=)|![](https://flat.badgen.net/github/last-commit/F3DoT48/StylerDAW?label=)|
 |[daw](https://github.com/grc4kd/daw)|Digital Audio Workstation|![](https://img.shields.io/github/languages/top/grc4kd/daw?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/grc4kd/daw?label=)|![](https://flat.badgen.net/github/last-commit/grc4kd/daw?label=)|
+|[EIM](https://github.com/EchoInMirror/EIM)|A free, open source DAW supports VST|![](https://img.shields.io/github/languages/top/EchoInMirror/EIM?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/EchoInMirror/EIM?label=)|![](https://flat.badgen.net/github/last-commit/EchoInMirror/EIM?label=)|
+|[NoiseG8](https://github.com/NoiseG8/NoiseG8)|A free and open-source DAW. Created for simplicity and efficiency.|![](https://img.shields.io/github/languages/top/NoiseG8/NoiseG8?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/NoiseG8/NoiseG8?label=)|![](https://flat.badgen.net/github/last-commit/NoiseG8/NoiseG8?label=)|
+|[Dawsome](https://github.com/nbennett320/dawesome)|A digital audio workstation for all platforms that is libre, gratis, and awesome|![](https://img.shields.io/github/languages/top/nbennett320/dawesome?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/nbennett320/dawesome?label=)|![](https://flat.badgen.net/github/last-commit/nbennett320/dawesome?label=)|
+
+
 
 ## Specialistic [«](#subsections)
 |Website|Short description|Language|License|Last commit|
