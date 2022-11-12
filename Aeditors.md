@@ -1,5 +1,7 @@
-# Audio Editors
+# Subsections
+[Generic](#generic-) - [Audacity-based](#audacity-based-) - [Embryonal](#embryonal-)
 
+## Generic [«](#subsections)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Signals X-1](https://transonic.kohoutech.com/products/signalsx1/signalsx1.html)|A digital audio multitrack recorder|![](https://img.shields.io/github/languages/top/kohoutech/Signals-X-1?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/kohoutech/Signals-X-1?label=)|![](https://flat.badgen.net/github/last-commit/kohoutech/Signals-X-1?label=)|
@@ -9,8 +11,7 @@
 |[Audio Editor for macOS](https://github.com/russelldzhafarov/audio-editor-macos)|Simple Audio Editor app for macOS|![](https://img.shields.io/github/languages/top/russelldzhafarov/audio-editor-macos?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/russelldzhafarov/audio-editor-macos?label=)|![](https://flat.badgen.net/github/last-commit/russelldzhafarov/audio-editor-macos?label=)|
 |[Gum](https://github.com/stackp/Gum)|Simple, hackable audio editor for Linux|![](https://img.shields.io/github/languages/top/stackp/Gum?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/stackp/Gum?label=)|![](https://flat.badgen.net/github/last-commit/stackp/Gum?label=)|
 
-
-Audacity-based
+## Audacity-based [«](#subsections)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Tenacity](https://tenacityaudio.org/)|An easy-to-use, cross-platform multi-track audio editor/recorder|![](https://img.shields.io/github/languages/top/tenacityteam/tenacity?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/tenacityteam/tenacity?label=)|![](https://flat.badgen.net/github/last-commit/tenacityteam/tenacity?label=)|
@@ -18,7 +19,7 @@ Audacity-based
 |[audacium](https://audacium.xyz/)|(won't be updated) multi-track audio editor and recorder|![](https://img.shields.io/github/languages/top/SartoxSoftware/audacium?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/SartoxSoftware/audacium?label=)|![](https://flat.badgen.net/github/last-commit/SartoxSoftware/audacium?label=)|
 |[Sneedacity](https://sneedacity.org/)|Aims to provide a telemetry-free experience while otherwise being up-to-date with [Audacity](https://www.audacityteam.org/)'s original codebase|![](https://img.shields.io/github/languages/top/Sneeds-Feed-and-Seed/sneedacity?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Sneeds-Feed-and-Seed/sneedacity?label=)|![](https://flat.badgen.net/github/last-commit/Sneeds-Feed-and-Seed/sneedacity?label=)|
 
-Embryonal (?)
+## Embryonal [«](#subsections)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[audio_editor](https://github.com/objective-audio/audio_editor)|-|![](https://img.shields.io/github/languages/top/objective-audio/audio_editor?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/objective-audio/audio_editor?label=)|![](https://flat.badgen.net/github/last-commit/objective-audio/audio_editor?label=)|
