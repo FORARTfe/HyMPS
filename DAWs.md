@@ -30,8 +30,8 @@
 |[EIM](https://github.com/EchoInMirror/EIM)|A free, open source DAW supports VST|![](https://img.shields.io/github/languages/top/EchoInMirror/EIM?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/EchoInMirror/EIM?label=)|![](https://flat.badgen.net/github/last-commit/EchoInMirror/EIM?label=)|
 |[NoiseG8](https://github.com/NoiseG8/NoiseG8)|A free and open-source DAW. Created for simplicity and efficiency.|![](https://img.shields.io/github/languages/top/NoiseG8/NoiseG8?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/NoiseG8/NoiseG8?label=)|![](https://flat.badgen.net/github/last-commit/NoiseG8/NoiseG8?label=)|
 |[Dawsome](https://github.com/nbennett320/dawesome)|A digital audio workstation for all platforms that is libre, gratis, and awesome|![](https://img.shields.io/github/languages/top/nbennett320/dawesome?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/nbennett320/dawesome?label=)|![](https://flat.badgen.net/github/last-commit/nbennett320/dawesome?label=)|
-
-
+|[Delirium Studio V](https://github.com/JonasKorte/DeliriumStudioV)|An Open-Source DAW for Windows, Mac OS X & Linux aimed to make producing and recording better, more accessible and more intuitive|![](https://img.shields.io/github/languages/top/JonasKorte/DeliriumStudioV?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/JonasKorte/DeliriumStudioV?label=)|![](https://flat.badgen.net/github/last-commit/JonasKorte/DeliriumStudioV?label=)|
+|[MSynth](https://github.com/MRoc/MSynth)|A small DAW for Windows with sequencer, synthesizer and drum machines|![](https://img.shields.io/github/languages/top/MRoc/MSynth?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/MRoc/MSynth?label=)|![](https://flat.badgen.net/github/last-commit/MRoc/MSynth?label=)|
 
 ## Specialistic [«](#subsections)
 |Website|Short description|Language|License|Last commit|
