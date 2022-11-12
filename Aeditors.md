@@ -7,6 +7,7 @@
 |[ReZound](http://rezound.sourceforge.net/)|A free, feature-rich, graphical audio editor|![](https://img.shields.io/github/languages/top/ddurham2/rezound?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ddurham2/rezound?label=)|![](https://flat.badgen.net/github/last-commit/ddurham2/rezound?label=)|
 |[WaveShop](http://waveshop.sourceforge.net/)|A free, open-source audio editor for Windows|![](https://img.shields.io/github/languages/top/victimofleisure/WaveShop?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/victimofleisure/WaveShop?label=)|![](https://flat.badgen.net/github/last-commit/victimofleisure/WaveShop?label=)|
 |[Audio Editor for macOS](https://github.com/russelldzhafarov/audio-editor-macos)|Simple Audio Editor app for macOS|![](https://img.shields.io/github/languages/top/russelldzhafarov/audio-editor-macos?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/russelldzhafarov/audio-editor-macos?label=)|![](https://flat.badgen.net/github/last-commit/russelldzhafarov/audio-editor-macos?label=)|
+|[Gum](https://github.com/stackp/Gum)|Simple, hackable audio editor for Linux|![](https://img.shields.io/github/languages/top/stackp/Gum?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/stackp/Gum?label=)|![](https://flat.badgen.net/github/last-commit/stackp/Gum?label=)|
 
 
 Audacity-based
