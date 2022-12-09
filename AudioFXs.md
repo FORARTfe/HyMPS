@@ -1,5 +1,8 @@
-# Effects
-## Bundles
+# Subsections
+[Bundles](#bundles-) - [Singles](#singles-) - [Impulse response](#impulseresponse-)
+
+
+## Bundles [«](#subsections)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Matchering 2.0](https://github.com/sergree/matchering)|A novel Containerized Web Application and Python Library for audio matching and mastering.|![](https://img.shields.io/github/languages/top/sergree/matchering?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/sergree/matchering?label=)|![](https://flat.badgen.net/github/last-commit/sergree/matchering?label=)|
@@ -15,7 +18,7 @@
 |[LSP (Linux Studio Plugins)](https://lsp-plug.in/)|A collection of open-source plugins currently compatible with LADSPA, LV2 and LinuxVST formats|![](https://img.shields.io/github/languages/top/sadko4u/lsp-plugins?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/sadko4u/lsp-plugins?label=)|![](https://flat.badgen.net/github/last-commit/sadko4u/lsp-plugins?label=)|
 |[SOUL-VA](https://github.com/thezhe/SOUL-VA)|A collection of analog-inspired audio effects|![](https://img.shields.io/github/languages/top/thezhe/SOUL-VA?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/thezhe/SOUL-VA?label=)|![](https://flat.badgen.net/github/last-commit/thezhe/SOUL-VA?label=)|
 
-## Singles
+## Singles [«](#subsections)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[abGate](https://abgate.sourceforge.io/)|noise gate plugin for Linux|![](https://img.shields.io/github/languages/top/antanasbruzas/abGate?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/antanasbruzas/abGate?label=)|![](https://flat.badgen.net/github/last-commit/antanasbruzas/abGate?label=)|
@@ -23,3 +26,8 @@
 |[Microtune](https://github.com/kyr0/microtune)|A MIDI FX plugin that microtunes any virtual instrument|![](https://img.shields.io/github/languages/top/kyr0/microtune?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/kyr0/microtune?label=)|![](https://flat.badgen.net/github/last-commit/kyr0/microtune?label=)|
 |[KlangFalter](https://github.com/HiFi-LoFi/KlangFalter)|A convolution audio plugin, e.g. for usage as convolution reverb|![](https://img.shields.io/github/languages/top/HiFi-LoFi/KlangFalter?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/HiFi-LoFi/KlangFalter?label=)|![](https://flat.badgen.net/github/last-commit/HiFi-LoFi/KlangFalter?label=)|
 |[Darvaza](https://github.com/igorski/darvaza)|A VST/AU plug-in which provides a gating effect|![](https://img.shields.io/github/languages/top/igorski/darvaza?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/igorski/darvaza?label=)|![](https://flat.badgen.net/github/last-commit/igorski/darvaza?label=)|
+
+
+## Impulse response [«](#subsections)
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
