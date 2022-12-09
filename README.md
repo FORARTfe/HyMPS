@@ -2,8 +2,8 @@
 HYbrid Multimedia Production Suite
 
 ---
+![](https://flat.badgen.net/badge/HyMPS/AUDIO?scale=3?color=green)
 
-# ![](https://flat.badgen.net/badge/HyMPS/AUDIO?scale=3?color=green)
 # [DAWs](https://github.com/forart/HyMPS/blob/main/DAWs.md)
 # [Audio Editors](https://github.com/forart/HyMPS/blob/main/Aeditors.md)
 # [Voice](https://github.com/forart/HyMPS/blob/main/Voice.md)
@@ -20,7 +20,7 @@ HYbrid Multimedia Production Suite
 
 # [Other audio resources collections](https://github.com/forart/HyMPS/blob/main/A_Collections.md)
 
-
+---
 # ![](https://flat.badgen.net/badge/HyMPS/VIDEO?scale=3?color=green)
 # [Video Libraries](https://github.com/forart/HyMPS/blob/main/VideoLIBs.md)
 # [Video Effects](https://github.com/forart/HyMPS/blob/main/VideoFXs.md)
