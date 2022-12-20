@@ -1,5 +1,5 @@
 # Subsections
-[Amp Sims](#amp-sims-) - [DSPs](#dsps-) - [Impulse response](#impulse-response-) - [Deep Learning](#deep-learning-) - [Libraries](#libraries) - [Hardware](#hardware)
+[Amp Sims](#amp-sims-) - [DSPs](#dsps-) - [Impulse response](#impulse-response-) - [Deep Learning](#deep-learning-) - [Libraries](#libraries-) - [Hardware](#hardware-)
 
 
 ## Amp Sims [«](#subsections)
