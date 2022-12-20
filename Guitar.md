@@ -38,6 +38,9 @@
 |[the C* Audio Plugin Suite](http://quitte.de/dsp/caps.html)|A collection of audio plugins|?|?|2018|
 |[Plugin-Portfolio](https://github.com/shmillo/Plugin-Portfolio)|Analog Modelled VSTs made in JUCE using C++|![](https://img.shields.io/github/languages/top/shmillo/Plugin-Portfolio?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/shmillo/Plugin-Portfolio?label=)|![](https://flat.badgen.net/github/last-commit/shmillo/Plugin-Portfolio?label=)|
 
+|[ayemux](https://github.com/tobiasdemaine/ayemux)|A midi controllable guitar multi fx for linux|[![](https://img.shields.io/github/languages/top/tobiasdemaine/ayemux?color=pink&style=flat-square)](https://github.com/tobiasdemaine/ayemux/graphs/contributors)|[![](https://flat.badgen.net/github/license/tobiasdemaine/ayemux?label=)](https://github.com/tobiasdemaine/ayemux/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/tobiasdemaine/ayemux?label=)](https://github.com/tobiasdemaine/ayemux/graphs/code-frequency)|
+
+
 ## Impulse response [«](#subsections)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
