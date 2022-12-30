@@ -1,5 +1,5 @@
 # Subsections
-[Generic](#generic-) - [Web/online](#webonline-) - [Dedicated](#dedicated-)
+[Generic](#generic-)
 
 
 ## Generic [«](#subsections)
