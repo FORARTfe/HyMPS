@@ -1,4 +1,4 @@
-## [DSPs](https://github.com/forart/HyMPS#-1) -> DSPs ##
+## [AUDIO](https://github.com/forart/HyMPS#-1) -> DSPs ##
 Subsections:
 
 |Website|Short description|Language|License|Last commit|
