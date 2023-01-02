@@ -1,4 +1,4 @@
-## [![#HyMPS](http://www.forart.it/progetti/HyMPS/logo.png)](http://www.forart.it/progetti/HyMPS/ "HYbrid Multimedia Production Suite") ##
+## [![#HyMPS](http://www.forart.it/progetti/HyMPS/logo.png)](http://www.forart.it/progetti/HyMPS/# "HYbrid Multimedia Production Suite") ##
 
 ## [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO?scale=3?color=green)](http://www.forart.it/progetti/HyMPS/ "AUDIO resources") ##
 
