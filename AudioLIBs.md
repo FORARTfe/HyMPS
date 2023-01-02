@@ -1,4 +1,5 @@
-# Audio libraries
+## [Audio](https://github.com/forart/HyMPS#-1) -> Libraries ##
+Subsections: [Plugins](#plugins-) - [Decoding](#decoding-) - [Others](#others-)
 
 ## Plugins
 |Website|Short description|Language|License|Last commit|
