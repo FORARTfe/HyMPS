@@ -2,7 +2,7 @@
 HYbrid Multimedia Production Suite
 
 ---
-![](https://flat.badgen.net/badge/HyMPS/AUDIO?scale=3?color=green)
+[![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO?scale=3?color=green)](http://www.forart.it/progetti/HyMPS/ "AUDIO subsection")
 
 # [DAWs](https://github.com/forart/HyMPS/blob/main/DAWs.md#subsections)
 # [Audio Editors](https://github.com/forart/HyMPS/blob/main/Aeditors.md#subsections)
