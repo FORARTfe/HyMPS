@@ -1,4 +1,6 @@
-# Audio DSPs
+## [DSPs](https://github.com/forart/HyMPS#-1) -> DSPs ##
+Subsections:
+
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[The Synthesis ToolKit in C++ (STK)](https://ccrma.stanford.edu/software/stk/)|A set of open source audio signal processing and algorithmic synthesis classes written in the C++ programming language|![](https://img.shields.io/github/languages/top/thestk/stk?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/thestk/stk?label=)|![](https://flat.badgen.net/github/last-commit/thestk/stk?label=)|
