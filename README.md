@@ -1,7 +1,6 @@
-[![HyMPS](http://www.forart.it/progetti/HyMPS/logo.png)](http://www.forart.it/progetti/HyMPS/ "HYbrid Multimedia Production Suite")
+## [![#HyMPS](http://www.forart.it/progetti/HyMPS/logo.png)](http://www.forart.it/progetti/HyMPS/ "HYbrid Multimedia Production Suite") ##
 
----
-[![#AUDIOres](https://flat.badgen.net/badge/HyMPS/AUDIO?scale=3?color=green)](http://www.forart.it/progetti/HyMPS/ "AUDIO resources")
+## [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO?scale=3?color=green)](http://www.forart.it/progetti/HyMPS/ "AUDIO resources") ##
 
 # [DAWs](https://github.com/forart/HyMPS/blob/main/DAWs.md#subsections)
 # [Audio Editors](https://github.com/forart/HyMPS/blob/main/Aeditors.md#subsections)
