@@ -3,7 +3,7 @@
 
 
 
-## Generic [«](#audio---audio-editors)
+## Generic [«](#audio---editors)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[audio_editor](https://github.com/objective-audio/audio_editor)|-|[![](https://img.shields.io/github/languages/top/objective-audio/audio_editor?color=pink&style=flat-square)](https://github.com/objective-audio/audio_editor/graphs/contributors)|[![](https://flat.badgen.net/github/license/objective-audio/audio_editor?label=)](https://github.com/objective-audio/audio_editor/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/objective-audio/audio_editor?label=)](https://github.com/objective-audio/audio_editor/graphs/code-frequency)|
@@ -20,7 +20,7 @@
 |[WaveShop](https://victimofleisure.github.io/WaveShop/)|A bit-perfect audio editor for Windows|[![](https://img.shields.io/github/languages/top/victimofleisure/WaveShop?color=pink&style=flat-square)](https://github.com/victimofleisure/WaveShop/graphs/contributors)|[![](https://flat.badgen.net/github/license/victimofleisure/WaveShop?label=)](https://github.com/victimofleisure/WaveShop/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/victimofleisure/WaveShop?label=)](https://github.com/victimofleisure/WaveShop/graphs/code-frequency)|
 
 
-## [Audacity](https://www.audacityteam.org/)-based [«](#audio---audio-editors)
+## [Audacity](https://www.audacityteam.org/)-based [«](#audio---editors)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audacity](https://github.com/audacity/audacity)|An easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems|[![](https://img.shields.io/github/languages/top/audacity/audacity?color=pink&style=flat-square)](https://github.com/audacity/audacity/graphs/contributors)|[![](https://flat.badgen.net/github/license/audacity/audacity?label=)](https://github.com/audacity/audacity/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/audacity/audacity?label=)](https://github.com/audacity/audacity/graphs/code-frequency)|
@@ -29,7 +29,7 @@
 |[Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity)|An easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems|[![](https://img.shields.io/github/languages/top/Sneeds-Feed-and-Seed/sneedacity?color=pink&style=flat-square)](https://github.com/Sneeds-Feed-and-Seed/sneedacity/graphs/contributors)|[![](https://flat.badgen.net/github/license/Sneeds-Feed-and-Seed/sneedacity?label=)](https://github.com/Sneeds-Feed-and-Seed/sneedacity/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Sneeds-Feed-and-Seed/sneedacity?label=)](https://github.com/Sneeds-Feed-and-Seed/sneedacity/graphs/code-frequency)|
 
 
-## Tools [«](#audio---audio-editors)
+## Tools [«](#audio---editors)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[LosslessCut](https://mifi.no/losslesscut/)|The swiss army knife of lossless video/audio editing|[![](https://img.shields.io/github/languages/top/mifi/lossless-cut?color=pink&style=flat-square)](https://github.com/mifi/lossless-cut/graphs/contributors)|[![](https://flat.badgen.net/github/license/mifi/lossless-cut?label=)](https://github.com/mifi/lossless-cut/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mifi/lossless-cut?label=)](https://github.com/mifi/lossless-cut/graphs/code-frequency)|
