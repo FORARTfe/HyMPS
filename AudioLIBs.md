@@ -1,7 +1,7 @@
 ## [Audio](https://github.com/forart/HyMPS#-1) -> Libraries ##
 Subsections: [Plugins](#plugins) - [Decoding](#decoding) - [Others](#others)
 
-## Plugins
+## Plugins [«](#audio---libraries)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[DPF - DISTRHO Plugin Framework](https://github.com/DISTRHO/DPF)|Allows developers to create plugins with custom UIs using a simple C++ API|![](https://img.shields.io/github/languages/top/DISTRHO/DPF?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/DISTRHO/DPF?label=)|![](https://flat.badgen.net/github/last-commit/DISTRHO/DPF?label=)|
@@ -9,14 +9,14 @@ Subsections: [Plugins](#plugins) - [Decoding](#decoding) - [Others](#others)
 |[Dplug](https://github.com/AuburnSounds/Dplug)|Lets you create audio plug-ins with unmatched simplicity and speed, using the D language|![](https://img.shields.io/github/languages/top/AuburnSounds/Dplug?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/AuburnSounds/Dplug?label=)|![](https://flat.badgen.net/github/last-commit/AuburnSounds/Dplug?label=)|
 |[KFR](https://www.kfr.dev/)|Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters|![](https://img.shields.io/github/languages/top/kfrlib/kfr?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/kfrlib/kfr?label=)|![](https://flat.badgen.net/github/last-commit/kfrlib/kfr?label=)|
 
-## Decoding
+## Decoding [«](#audio---libraries)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[dr_libs](https://github.com/mackron/dr_libs)|Single file audio decoding libraries for C/C++|![](https://img.shields.io/github/languages/top/mackron/dr_libs?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/mackron/dr_libs?label=)|![](https://flat.badgen.net/github/last-commit/mackron/dr_libs?label=)|
 |[minimp3](https://github.com/lieff/minimp3)|Minimalistic MP3 decoder single header library|![](https://img.shields.io/github/languages/top/lieff/minimp3?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/lieff/minimp3?label=)|![](https://flat.badgen.net/github/last-commit/lieff/minimp3?label=)|
 |[Libnyquist](https://github.com/ddiakopoulos/libnyquist)|A cross platform C++11 library for decoding audio (mp3, wav, ogg, opus, flac, etc)|![](https://img.shields.io/github/languages/top/ddiakopoulos/libnyquist?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/ddiakopoulos/libnyquist?label=)|![](https://flat.badgen.net/github/last-commit/ddiakopoulos/libnyquist?label=)|
 
-## Others
+## Others [«](#audio---libraries)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[sound_lib](https://github.com/aswin-aach/sound_lib)|A library for manipulating PCM audio samples|![](https://img.shields.io/github/languages/top/aswin-aach/sound_lib?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/aswin-aach/sound_lib?label=)|![](https://flat.badgen.net/github/last-commit/aswin-aach/sound_lib?label=)|
