@@ -1,6 +1,6 @@
 ## [![#HyMPS](http://www.forart.it/progetti/HyMPS/logo.png)](https://github.com/forart/HyMPS# "HYbrid Multimedia Production Suite") ##
 
-## [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO?scale=3?color=green)](https://github.com/forart/HyMPS#-1 "AUDIO resources") ##
+## [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=3)](https://github.com/forart/HyMPS#-1 "AUDIO resources") ##
 
 # [DAWs](https://github.com/forart/HyMPS/blob/main/DAWs.md#audio---daws)
 # [Editors](https://github.com/forart/HyMPS/blob/main/Aeditors.md#audio---editors)
@@ -19,7 +19,7 @@
 
 # [Other audio resources collections](https://github.com/forart/HyMPS/blob/main/A_Collections.md)
 
-## [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO?scale=3?color=green)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ##
+## [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=3)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ##
 # [Video Libraries](https://github.com/forart/HyMPS/blob/main/VideoLIBs.md#subsections)
 # [Video Effects](https://github.com/forart/HyMPS/blob/main/VideoFXs.md#subsections)
 # [Video Editors](https://github.com/forart/HyMPS/blob/main/VideoNLEs.md#subsections)
