@@ -1,4 +1,4 @@
-# [Audio](https://github.com/forart/HyMPS#-1) -> Editors
+# [AUDIO](https://github.com/forart/HyMPS#-1) -> Editors
 [Generic](#generic-) - [Audacity-based](#audacity-based-) - [Tools](#tools-)
 
 
