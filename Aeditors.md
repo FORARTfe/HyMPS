@@ -1,8 +1,6 @@
 # [AUDIO](https://github.com/forart/HyMPS#-1) -> Editors
 Subsections: [Generic](#generic-) - [Audacity-based](#audacity-based-) - [Tools](#tools-)
 
-
-
 ## Generic [«](#audio---editors)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
