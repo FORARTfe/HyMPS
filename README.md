@@ -5,7 +5,6 @@
 # [DAWs](https://github.com/forart/HyMPS/blob/main/DAWs.md#audio---daws)
 # [Editors](https://github.com/forart/HyMPS/blob/main/Aeditors.md#audio---editors)
 # [Libraries](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md#audio---libraries)
-# [DSPs](https://github.com/forart/HyMPS/blob/main/AudioDSPs.md#audio---dsps)
 # [Voice](https://github.com/forart/HyMPS/blob/main/Voice.md#audio---voice)
 # [Guitar](https://github.com/forart/HyMPS/blob/main/Guitar.md#audio---guitar)
 # [Bass](https://github.com/forart/HyMPS/blob/main/BassDSPs.md#audio---bass)
