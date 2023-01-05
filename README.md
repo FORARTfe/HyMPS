@@ -2,7 +2,7 @@
 
 ## [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=3)](https://github.com/forart/HyMPS#-1 "AUDIO resources") ##
 
-# [DAWs](https://github.com/forart/HyMPS/blob/main/DAWs.md#audio---daws)
+# [DAWs](https://github.com/forart/HyMPS/blob/main/DAWs.md#audio---daws-)
 # [Editors](https://github.com/forart/HyMPS/blob/main/Aeditors.md#audio---editors)
 # [Effects](https://github.com/forart/HyMPS/blob/main/AudioFXs.md#audio---effects)
 # [Libraries](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md#audio---libraries)
