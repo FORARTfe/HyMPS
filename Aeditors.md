@@ -17,18 +17,6 @@ Subsections: [Generic](#generic-) - [Audacity-based](#audacity-based-) - [Tools]
 |[Audio-Editor](https://github.com/D3RPole96/Audio-Editor)|Audio editor with a user-friendly graphical interface|[![](https://img.shields.io/github/languages/top/D3RPole96/Audio-Editor?color=pink&style=flat-square)](https://github.com/D3RPole96/Audio-Editor/graphs/contributors)|[![](https://flat.badgen.net/github/license/D3RPole96/Audio-Editor?label=)](https://github.com/D3RPole96/Audio-Editor/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/D3RPole96/Audio-Editor?label=)](https://github.com/D3RPole96/Audio-Editor/graphs/code-frequency)|
 |[Audio Editor for macOS](https://github.com/russelldzhafarov/audio-editor-macos)|Simple Audio Editor app for macOS|[![](https://img.shields.io/github/languages/top/russelldzhafarov/audio-editor-macos?color=pink&style=flat-square)](https://github.com/russelldzhafarov/audio-editor-macos/graphs/contributors)|[![](https://flat.badgen.net/github/license/russelldzhafarov/audio-editor-macos?label=)](https://github.com/russelldzhafarov/audio-editor-macos/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/russelldzhafarov/audio-editor-macos?label=)](https://github.com/russelldzhafarov/audio-editor-macos/graphs/code-frequency)|
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## [Audacity](https://www.audacityteam.org/)-based [«](#audio---editors)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
@@ -42,4 +30,4 @@ Subsections: [Generic](#generic-) - [Audacity-based](#audacity-based-) - [Tools]
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[LosslessCut](https://mifi.no/losslesscut/)|The swiss army knife of lossless video/audio editing|[![](https://img.shields.io/github/languages/top/mifi/lossless-cut?color=pink&style=flat-square)](https://github.com/mifi/lossless-cut/graphs/contributors)|[![](https://flat.badgen.net/github/license/mifi/lossless-cut?label=)](https://github.com/mifi/lossless-cut/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mifi/lossless-cut?label=)](https://github.com/mifi/lossless-cut/graphs/code-frequency)|
-|[Spek](http://spek.cc/)|An acoustic spectrum analyser written in C++|[![](https://img.shields.io/github/languages/top/alexkay/spek?color=pink&style=flat-square)](https://github.com/alexkay/spek/graphs/contributors)|[![](https://flat.badgen.net/github/license/alexkay/spek?label=)](https://github.com/alexkay/spek/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/alexkay/spek?label=)](https://github.com/alexkay/spek/graphs/code-frequency)|
+|[Spek](http://spek.cc/)|An acoustic spectrum analyser written in C++|[![](https://img.shields.io/github/languages/top/alexkay/spek?color=pink&style=flat-square)](https://github.com/alexkay/spek/graphs/contributors)|[![](https://flat.badgen.net/badge/license/OWN/blue?label=)](https://github.com/alexkay/spek/blob/master/LICENCE.md)|[![](https://flat.badgen.net/github/last-commit/alexkay/spek?label=)](https://github.com/alexkay/spek/graphs/code-frequency)|
