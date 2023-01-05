@@ -1,4 +1,4 @@
-# Subsections
+# Subsections <img src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="2.7%" />
 [Bundles](#bundles-) - [Singles](#singles-) - [Impulse response](#impulse-response-)
 
 ## Voice [«](#subsections)
