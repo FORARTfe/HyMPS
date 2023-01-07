@@ -9,5 +9,7 @@
 |[awesome-synth](https://github.com/psykon/awesome-synth)|List of awesome opensource synth project. Software and Hardware|![](https://flat.badgen.net/github/license/psykon/awesome-synth?label=)|![](https://flat.badgen.net/github/last-commit/psykon/awesome-synth?label=)|
 |[Open-Source Audio Plugins & Apps](https://openaudio.webprofusion.com/)|A list of open-source VST (and other format) plugin/app projects.|![](https://flat.badgen.net/github/license/webprofusion/OpenAudio?label=)|![](https://flat.badgen.net/github/last-commit/webprofusion/OpenAudio?label=)|
 |[Audio-Plugin-Development-Resources](https://github.com/jareddrayton/Audio-Plugin-Development-Resources)|Various resources related to developing plugins for audio production|![](https://flat.badgen.net/github/license/jareddrayton/Audio-Plugin-Development-Resources?label=)|![](https://flat.badgen.net/github/last-commit/jareddrayton/Audio-Plugin-Development-Resources?label=)|
+|[Audio-Development-Tools-List (ADTL)](https://github.com/Derrick-Yuan/Audio-Development-Tools-List)|A list of sound, audio and music development tools which contains machine learning, audio signal processing, sound synthesis, spatial audio, music information retrieval, music generation, speech recognition, speech synthesis, singing voice synthesis and more|![](https://flat.badgen.net/github/license/Derrick-Yuan/Audio-Development-Tools-List?label=)|![](https://flat.badgen.net/github/last-commit/Derrick-Yuan/Audio-Development-Tools-List?label=)|
+
 
 https://en.wikipedia.org/wiki/Comparison_of_free_software_for_audio
