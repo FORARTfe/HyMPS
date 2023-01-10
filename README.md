@@ -6,7 +6,6 @@
 # [Editors](https://github.com/forart/HyMPS/blob/main/Aeditors.md#audio---editors-)
 # [Effects](https://github.com/forart/HyMPS/blob/main/AudioFXs.md#audio---effects-)
 # [Libraries](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md#audio---libraries-)
-# [Guitar](https://github.com/forart/HyMPS/blob/main/Guitar.md#audio---guitar-)
 # [Engines](https://github.com/forart/HyMPS/blob/main/Aengines.md#audio---engines-)
 # [Programming](https://github.com/forart/HyMPS/blob/main/Programming.md#audio---programming-)
 # [Synthesizers](https://github.com/forart/HyMPS/blob/main/Synths.md#audio---synthesizers-)
