@@ -1,8 +1,8 @@
 # [AUDIO](https://github.com/forart/HyMPS#-1) -> Effects <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
-Subsections: [Bundles](#bundles-) - [Vocals](#vocals-) - [Bass](#bass) - - [Misc](#misc-)
+Subsections: [Bundles](#bundles-) - [Guitar](https://github.com/forart/HyMPS/blob/main/Guitar.md#audio---guitar-) - [Bass](#bass-) - [Vocals](#vocals-) - [Misc](#misc-)
 
 
-## Bundles [«](#subsections)
+## Bundles [«](#audio---effects-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Dragonfly Reverb](https://github.com/michaelwillis/dragonfly-reverb)|A bundle of free audio effects for Linux, MacOS, and Windows|[![](https://img.shields.io/github/languages/top/michaelwillis/dragonfly-reverb?color=pink&style=flat-square)](https://github.com/michaelwillis/dragonfly-reverb/graphs/contributors)|[![](https://flat.badgen.net/github/license/michaelwillis/dragonfly-reverb?label=)](https://github.com/michaelwillis/dragonfly-reverb/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/michaelwillis/dragonfly-reverb?label=)](https://github.com/michaelwillis/dragonfly-reverb/graphs/code-frequency)|
@@ -17,7 +17,7 @@ Subsections: [Bundles](#bundles-) - [Vocals](#vocals-) - [Bass](#bass) - - [Misc
 |[LSP (Linux Studio Plugins)](https://lsp-plug.in/)|A collection of open-source plugins currently compatible with LADSPA, LV2 and LinuxVST formats|[![](https://img.shields.io/github/languages/top/sadko4u/lsp-plugins?color=pink&style=flat-square)](https://github.com/sadko4u/lsp-plugins/graphs/contributors)|[![](https://flat.badgen.net/github/license/sadko4u/lsp-plugins?label=)](https://github.com/sadko4u/lsp-plugins/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/sadko4u/lsp-plugins?label=)](https://github.com/sadko4u/lsp-plugins/graphs/code-frequency)|
 |[SOUL-VA](https://github.com/thezhe/SOUL-VA)|A collection of virtual analog audio effects|[![](https://img.shields.io/github/languages/top/thezhe/SOUL-VA?color=pink&style=flat-square)](https://github.com/thezhe/SOUL-VA/graphs/contributors)|[![](https://flat.badgen.net/github/license/thezhe/SOUL-VA?label=)](https://github.com/thezhe/SOUL-VA/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/thezhe/SOUL-VA?label=)](https://github.com/thezhe/SOUL-VA/graphs/code-frequency)|
 
-## Vocals [«](#subsections)
+## Vocals [«](#audio---effects-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Real-time Noise Suppression Plugin (VST2, LV2, LADSPA)](https://github.com/werman/noise-suppression-for-voice)|A real-time noise suppression plugin for voice based on [Xiph's RNNoise](https://jmvalin.ca/demo/rnnoise/)|[![](https://img.shields.io/github/languages/top/werman/noise-suppression-for-voice?color=pink&style=flat-square)](https://github.com/werman/noise-suppression-for-voice/graphs/contributors)|[![](https://flat.badgen.net/github/license/werman/noise-suppression-for-voice?label=)](https://github.com/werman/noise-suppression-for-voice/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/werman/noise-suppression-for-voice?label=)](https://github.com/werman/noise-suppression-for-voice/graphs/code-frequency)|
@@ -29,7 +29,7 @@ Subsections: [Bundles](#bundles-) - [Vocals](#vocals-) - [Bass](#bass) - - [Misc
 |[voice-transformer](https://github.com/chenstarx/voice-transformer)|Real-time voice transform tool with multiple sound effects|[![](https://img.shields.io/github/languages/top/chenstarx/voice-transformer?color=pink&style=flat-square)](https://github.com/chenstarx/voice-transformer/graphs/contributors)|[![](https://flat.badgen.net/github/license/chenstarx/voice-transformer?label=)](https://github.com/chenstarx/voice-transformer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/chenstarx/voice-transformer?label=)](https://github.com/chenstarx/voice-transformer/graphs/code-frequency)|
 |[Voice-Effects](https://github.com/T1210Taichi/Voice-Effects)|Create a voice changer using Processing|[![](https://img.shields.io/github/languages/top/T1210Taichi/Voice-Effects?color=pink&style=flat-square)](https://github.com/T1210Taichi/Voice-Effects/graphs/contributors)|[![](https://flat.badgen.net/github/license/T1210Taichi/Voice-Effects?label=)](https://github.com/T1210Taichi/Voice-Effects/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/T1210Taichi/Voice-Effects?label=)](https://github.com/T1210Taichi/Voice-Effects/graphs/code-frequency)|
 
-## Bass 
+## Bass [«](#audio---effects-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[GxBlueAmp.lv2](https://github.com/brummer10/GxBlueAmp.lv2)|Single - ended head amplifier simulation inspired by late 1950s Fender “Princeton” and “Champ” amplifier designs, it delivers tight bass, clean mids and highs|[![](https://img.shields.io/github/languages/top/brummer10/GxBlueAmp.lv2?color=pink&style=flat-square)](https://github.com/brummer10/GxBlueAmp.lv2/graphs/contributors)|[![](https://flat.badgen.net/github/license/brummer10/GxBlueAmp.lv2?label=)](https://github.com/brummer10/GxBlueAmp.lv2/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/brummer10/GxBlueAmp.lv2?label=)](https://github.com/brummer10/GxBlueAmp.lv2/graphs/code-frequency)|
@@ -37,7 +37,7 @@ Subsections: [Bundles](#bundles-) - [Vocals](#vocals-) - [Bass](#bass) - - [Misc
 |[FreshWaterBassAmp](https://github.com/thomboggs/FreshWaterBassAmp)|Bass Preamp/Effects plugin to be used for DI bass guitar|[![](https://img.shields.io/github/languages/top/thomboggs/FreshWaterBassAmp?color=pink&style=flat-square)](https://github.com/thomboggs/FreshWaterBassAmp/graphs/contributors)|[![](https://flat.badgen.net/github/license/thomboggs/FreshWaterBassAmp?label=)](https://github.com/thomboggs/FreshWaterBassAmp/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/thomboggs/FreshWaterBassAmp?label=)](https://github.com/thomboggs/FreshWaterBassAmp/graphs/code-frequency)|
 |[GxVBassPreAmp.lv2](https://github.com/brummer10/GxVBassPreAmp.lv2)|Analog Simulation of the Vox Venue Bass 100 Pre Amp Section|[![](https://img.shields.io/github/languages/top/brummer10/GxVBassPreAmp.lv2?color=pink&style=flat-square)](https://github.com/brummer10/GxVBassPreAmp.lv2/graphs/contributors)|[![](https://flat.badgen.net/github/license/brummer10/GxVBassPreAmp.lv2?label=)](https://github.com/brummer10/GxVBassPreAmp.lv2/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/brummer10/GxVBassPreAmp.lv2?label=)](https://github.com/brummer10/GxVBassPreAmp.lv2/graphs/code-frequency)|
 
-## Misc [«](#subsections)
+## Misc [«](#audio---effects-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[abGate](https://abgate.sourceforge.io/)|LV2 noise gate plugin for Linux|[![](https://img.shields.io/github/languages/top/antanasbruzas/abGate?color=pink&style=flat-square)](https://github.com/antanasbruzas/abGate/graphs/contributors)|[![](https://flat.badgen.net/github/license/antanasbruzas/abGate?label=)](https://github.com/antanasbruzas/abGate/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/antanasbruzas/abGate?label=)](https://github.com/antanasbruzas/abGate/graphs/code-frequency)|
