@@ -1,8 +1,8 @@
-# Subsections <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
-[Amp Sims](#amp-sims-) - [DSPs](#dsps-) - [Tuning](#tuning-) - [Impulse response](#impulse-response-) - [Deep Learning](#deep-learning-) - [Libraries](#libraries-) - [Hardware](#hardware-)
+# [AUDIO](https://github.com/forart/HyMPS#-1) -> [Effects](https://github.com/forart/HyMPS/blob/main/AudioFXs.md#audio---effects-) -> Guitar <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
+Subsections: [Amp Sims](#amp-sims-) - [DSPs](#dsps-) - [Tuning](#tuning-) - [Impulse response](#impulse-response-) - [Deep Learning](#deep-learning-) - [Libraries](#libraries-) - [Hardware](#hardware-)
 
 
-## Amp Sims [«](#subsections)
+## Amp Sims [«](#audio---effects---guitar-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[ScorchCrafter-Juce](https://github.com/osxmidi/ScorchCrafter-JUCE)|ScorchCrafter Amp Sim for JUCE|[![](https://img.shields.io/github/languages/top/osxmidi/ScorchCrafter-JUCE?color=pink&style=flat-square)](https://github.com/osxmidi/ScorchCrafter-JUCE/graphs/contributors)|[![](https://flat.badgen.net/github/license/osxmidi/ScorchCrafter-JUCE?label=)](https://github.com/osxmidi/ScorchCrafter-JUCE/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/osxmidi/ScorchCrafter-JUCE?label=)](https://github.com/osxmidi/ScorchCrafter-JUCE/graphs/code-frequency)|
@@ -18,8 +18,7 @@
 |[VAmpNL](https://github.com/mqnc/VAmpNL)|An Ardour5 plugin for simulating the central part of guitar amps|[![](https://img.shields.io/github/languages/top/mqnc/VAmpNL?color=pink&style=flat-square)](https://github.com/mqnc/VAmpNL/graphs/contributors)|[![](https://flat.badgen.net/github/license/mqnc/VAmpNL?label=)](https://github.com/mqnc/VAmpNL/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mqnc/VAmpNL?label=)](https://github.com/mqnc/VAmpNL/graphs/code-frequency)|
 |[ScorchCrafter Guitar FX DAW Plug-ins](https://sourceforge.net/projects/scorchcrafter/)|A group of audio DAW plug-ins mostly for Guitar Amplifier simulation|[![](https://flat.badgen.net/badge/language/100/pink?label=C%2B%2B)](https://sourceforge.net/p/scorchcrafter/activity/)|[![](https://flat.badgen.net/badge/license/GPL-3.0/blue?label=)](https://www.gnu.org/licenses/gpl-3.0.txt)|[![](https://flat.badgen.net/badge/last-commit/2015/green?label=)](https://sourceforge.net/p/scorchcrafter/code/HEAD/tree/)|
 
-
-## DSPs [«](#subsections)
+## DSPs [«](#audio---effects---guitar-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Klon Centaur Model](https://github.com/jatinchowdhury18/KlonCentaur)|Digital emulation of the Klon Centaur guitar pedal using RNNs, Wave Digital Filters, and more|[![](https://img.shields.io/github/languages/top/jatinchowdhury18/KlonCentaur?color=pink&style=flat-square)](https://github.com/jatinchowdhury18/KlonCentaur/graphs/contributors)|[![](https://flat.badgen.net/github/license/jatinchowdhury18/KlonCentaur?label=)](https://github.com/jatinchowdhury18/KlonCentaur/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jatinchowdhury18/KlonCentaur?label=)](https://github.com/jatinchowdhury18/KlonCentaur/graphs/code-frequency)|
@@ -37,12 +36,12 @@
 |[ffmpeg-guitar-scripts](https://github.com/daveschere/ffmpeg-guitar-scripts)|bash scripts for turning your computer into a guitar affects processor using [FFmpeg](https://ffmpeg.org/)|[![](https://img.shields.io/github/languages/top/daveschere/ffmpeg-guitar-scripts?color=pink&style=flat-square)](https://github.com/daveschere/ffmpeg-guitar-scripts/graphs/contributors)|[![](https://flat.badgen.net/github/license/daveschere/ffmpeg-guitar-scripts?label=)](https://github.com/daveschere/ffmpeg-guitar-scripts/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/daveschere/ffmpeg-guitar-scripts?label=)](https://github.com/daveschere/ffmpeg-guitar-scripts/graphs/code-frequency)|
 |[AmpDriver](https://github.com/rojamdev/AmpDriver)|Digital emulation of a guitar overdrive pedal|[![](https://img.shields.io/github/languages/top/rojamdev/AmpDriver?color=pink&style=flat-square)](https://github.com/rojamdev/AmpDriver/graphs/contributors)|[![](https://flat.badgen.net/github/license/rojamdev/AmpDriver?label=)](https://github.com/rojamdev/AmpDriver/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/rojamdev/AmpDriver?label=)](https://github.com/rojamdev/AmpDriver/graphs/code-frequency)|
 
-## Tuning [«](#subsections)
+## Tuning [«](#audio---effects---guitar-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[GuitarTuner App](https://github.com/TomSchimansky/GuitarTuner)|A simple chromatic tuner designed for guitar tuning, but it should also work with every other instrument|[![](https://img.shields.io/github/languages/top/TomSchimansky/GuitarTuner?color=pink&style=flat-square)](https://github.com/TomSchimansky/GuitarTuner/graphs/contributors)|[![](https://flat.badgen.net/github/license/TomSchimansky/GuitarTuner?label=)](https://github.com/TomSchimansky/GuitarTuner/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/TomSchimansky/GuitarTuner?label=)](https://github.com/TomSchimansky/GuitarTuner/graphs/code-frequency)|
 
-## Impulse response [«](#subsections)
+## Impulse response [«](#audio---effects---guitar-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[HISSTools Impulse Response Toolbox (HIRT)](https://github.com/HISSTools/HISSTools_Impulse_Response_Toolbox)|A toolbox for convolution, deconvolution and other impulse response related tasks|[![](https://img.shields.io/github/languages/top/HISSTools/HISSTools_Impulse_Response_Toolbox?color=pink&style=flat-square)](https://github.com/HISSTools/HISSTools_Impulse_Response_Toolbox/graphs/contributors)|[![](https://flat.badgen.net/github/license/HISSTools/HISSTools_Impulse_Response_Toolbox?label=)](https://github.com/HISSTools/HISSTools_Impulse_Response_Toolbox/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/HISSTools/HISSTools_Impulse_Response_Toolbox?label=)](https://github.com/HISSTools/HISSTools_Impulse_Response_Toolbox/graphs/code-frequency)|
@@ -53,8 +52,7 @@
 |[pygsound](https://github.com/GAMMA-UMD/pygsound)|Impulse response generation based on state-of-the-art geometric sound propagation engine|[![](https://img.shields.io/github/languages/top/GAMMA-UMD/pygsound?color=pink&style=flat-square)](https://github.com/GAMMA-UMD/pygsound/graphs/contributors)|[![](https://flat.badgen.net/badge/license/UNC%20Software/blue?label=)](https://github.com/GAMMA-UMD/pygsound/blob/master/LICENSE.txt)|[![](https://flat.badgen.net/github/last-commit/GAMMA-UMD/pygsound?label=)](https://github.com/GAMMA-UMD/pygsound/graphs/code-frequency)|
 |[pyrirtool](https://github.com/maj4e/pyrirtool)|Measuring room impulse responses with python and sounddevice|[![](https://img.shields.io/github/languages/top/maj4e/pyrirtool?color=pink&style=flat-square)](https://github.com/maj4e/pyrirtool/graphs/contributors)|[![](https://flat.badgen.net/github/license/maj4e/pyrirtool?label=)](https://github.com/maj4e/pyrirtool/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/maj4e/pyrirtool?label=)](https://github.com/maj4e/pyrirtool/graphs/code-frequency)|
 
-
-## Deep Learning [«](#subsections)
+## Deep Learning [«](#audio---effects---guitar-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp)|Guitar plugin made with JUCE that uses neural network models to emulate real world hardware|[![](https://img.shields.io/github/languages/top/GuitarML/SmartGuitarAmp?color=pink&style=flat-square)](https://github.com/GuitarML/SmartGuitarAmp/graphs/contributors)|[![](https://flat.badgen.net/github/license/GuitarML/SmartGuitarAmp?label=)](https://github.com/GuitarML/SmartGuitarAmp/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/GuitarML/SmartGuitarAmp?label=)](https://github.com/GuitarML/SmartGuitarAmp/graphs/code-frequency)|
@@ -66,14 +64,13 @@
 |[Deep Guitar Amplifier](https://github.com/salvatorefara/deepGuitarAmp)|A little project to practice Tensorflow/Keras where I use deep learning for black-box modelling of a guitar amplifier|[![](https://img.shields.io/github/languages/top/salvatorefara/deepGuitarAmp?color=pink&style=flat-square)](https://github.com/salvatorefara/deepGuitarAmp/graphs/contributors)|[![](https://flat.badgen.net/github/license/salvatorefara/deepGuitarAmp?label=)](https://github.com/salvatorefara/deepGuitarAmp/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/salvatorefara/deepGuitarAmp?label=)](https://github.com/salvatorefara/deepGuitarAmp/graphs/code-frequency)|
 |[CNN Distortion](https://github.com/mganger/cnn-distortion)|Combine deep learning and DSP|[![](https://img.shields.io/github/languages/top/mganger/cnn-distortion?color=pink&style=flat-square)](https://github.com/mganger/cnn-distortion/graphs/contributors)|[![](https://flat.badgen.net/github/license/mganger/cnn-distortion?label=)](https://github.com/mganger/cnn-distortion/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mganger/cnn-distortion?label=)](https://github.com/mganger/cnn-distortion/graphs/code-frequency)|
 
-
-## Libraries [«](#subsections)
+## Libraries [«](#audio---effects---guitar-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AmpModellingLib](https://github.com/NIXXAMPS/AmpModellingLib)|C++ library for use to model guitar amps|[![](https://img.shields.io/github/languages/top/NIXXAMPS/AmpModellingLib?color=pink&style=flat-square)](https://github.com/NIXXAMPS/AmpModellingLib/graphs/contributors)|[![](https://flat.badgen.net/github/license/NIXXAMPS/AmpModellingLib?label=)](https://github.com/NIXXAMPS/AmpModellingLib/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/NIXXAMPS/AmpModellingLib?label=)](https://github.com/NIXXAMPS/AmpModellingLib/graphs/code-frequency)|
 |[Midi Guitar](https://github.com/seansund/midi-guitar)|Library and simple driver for processing midi events generated by a guitar|[![](https://img.shields.io/github/languages/top/seansund/midi-guitar?color=pink&style=flat-square)](https://github.com/seansund/midi-guitar/graphs/contributors)|[![](https://flat.badgen.net/github/license/seansund/midi-guitar?label=)](https://github.com/seansund/midi-guitar/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/seansund/midi-guitar?label=)](https://github.com/seansund/midi-guitar/graphs/code-frequency)|
 
-## Hardware [«](#subsections)
+## Hardware [«](#audio---effects---guitar-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[myAmp](https://github.com/nodep/myAmp)|Battery powered, solid state, guitar amplifier schematic and PCB|[![](https://img.shields.io/github/languages/top/nodep/myAmp?color=pink&style=flat-square)](https://github.com/nodep/myAmp/graphs/contributors)|[![](https://flat.badgen.net/github/license/nodep/myAmp?label=)](https://github.com/nodep/myAmp/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/nodep/myAmp?label=)](https://github.com/nodep/myAmp/graphs/code-frequency)|
