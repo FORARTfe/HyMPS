@@ -5,7 +5,7 @@
 Subsections: [Generic](#generic-) - [Web/online](#webonline-) - [Dedicated](#dedicated-)
 
 
-## Generic [«](#audio---daws)
+## Generic [«](#audio---daws-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Zrythm](https://www.zrythm.org/)|A highly automated and intuitive digital audio workstation|[![](https://img.shields.io/github/languages/top/zrythm/zrythm?color=pink&style=flat-square)](https://github.com/zrythm/zrythm/graphs/contributors)|[![](https://flat.badgen.net/badge/license/OWN/blue?label=)](https://github.com/zrythm/zrythm/blob/master/COPYING)|[![](https://flat.badgen.net/github/last-commit/zrythm/zrythm?label=)](https://github.com/zrythm/zrythm/graphs/code-frequency)|
@@ -41,7 +41,7 @@ Subsections: [Generic](#generic-) - [Web/online](#webonline-) - [Dedicated](#ded
 |[EIM](https://github.com/EchoInMirror/EIM#readme)|A free, open source DAW supports VST|[![](https://img.shields.io/github/languages/top/EchoInMirror/EIM?color=pink&style=flat-square)](https://github.com/EchoInMirror/EIM/graphs/contributors)|[![](https://flat.badgen.net/github/license/EchoInMirror/EIM?label=)](https://github.com/EchoInMirror/EIM/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/EchoInMirror/EIM?label=)](https://github.com/EchoInMirror/EIM/graphs/code-frequency)|
 |[Dawsome](https://github.com/nbennett320/dawesome#readme)|A digital audio workstation for all platforms that is libre, gratis, and awesome|[![](https://img.shields.io/github/languages/top/nbennett320/dawesome?color=pink&style=flat-square)](https://github.com/nbennett320/dawesome/graphs/contributors)|[![](https://flat.badgen.net/github/license/nbennett320/dawesome?label=)](https://github.com/nbennett320/dawesome/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/nbennett320/dawesome?label=)](https://github.com/nbennett320/dawesome/graphs/code-frequency)|
 
-## Web/online [«](#audio---daws)
+## Web/online [«](#audio---daws-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Glissando](https://github.com/glissando-daw/glissando-daw#readme)|A web-based digital audio workstation using the web platform APIs (Web Audio, Web MIDI) and WebAssembly|[![](https://img.shields.io/github/languages/top/glissando-daw/glissando-daw?color=pink&style=flat-square)](https://github.com/glissando-daw/glissando-daw/graphs/contributors)|[![](https://flat.badgen.net/github/license/glissando-daw/glissando-daw?label=)](https://github.com/glissando-daw/glissando-daw/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/glissando-daw/glissando-daw?label=)](https://github.com/glissando-daw/glissando-daw/graphs/code-frequency)|
@@ -56,7 +56,7 @@ Subsections: [Generic](#generic-) - [Web/online](#webonline-) - [Dedicated](#ded
 |[Web-App-DAW](https://github.com/cobyj33/Web-App-DAW#readme)|A simple music creation DAW app created using HTML, CSS, JS, and Tone.js|[![](https://img.shields.io/github/languages/top/cobyj33/Web-App-DAW?color=pink&style=flat-square)](https://github.com/cobyj33/Web-App-DAW/graphs/contributors)|[![](https://flat.badgen.net/github/license/cobyj33/Web-App-DAW?label=)](https://github.com/cobyj33/Web-App-DAW/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/cobyj33/Web-App-DAW?label=)](https://github.com/cobyj33/Web-App-DAW/graphs/code-frequency)|
 
 
-## Dedicated [«](#audio---daws)
+## Dedicated [«](#audio---daws-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[gba-daw](https://github.com/emurray2/gba-daw#readme)|A DAW for the Gameboy Advance|![](https://img.shields.io/github/languages/top/emurray2/gba-daw?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/emurray2/gba-daw?label=)|![](https://flat.badgen.net/github/last-commit/emurray2/gba-daw?label=)|
