@@ -55,5 +55,5 @@ Subsections: [Generic](#generic-) - [Web/online](#webonline-) - [Dedicated](#ded
 ## Dedicated [«](#audio---daws-)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-|[gba-daw](https://github.com/emurray2/gba-daw#readme)|A DAW for the Gameboy Advance|![](https://img.shields.io/github/languages/top/emurray2/gba-daw?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/emurray2/gba-daw?label=)|![](https://flat.badgen.net/github/last-commit/emurray2/gba-daw?label=)|
 |[LMN-3-DAW](https://github.com/FundamentalFrequency#fundamental-frequency)|DAW for the LMN-3 open source controller|![](https://img.shields.io/github/languages/top/FundamentalFrequency/LMN-3-DAW?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/FundamentalFrequency/LMN-3-DAW?label=)|![](https://flat.badgen.net/github/last-commit/FundamentalFrequency/LMN-3-DAW?label=)|
+|[gba-daw](https://github.com/emurray2/gba-daw#readme)|A DAW for the Gameboy Advance|![](https://img.shields.io/github/languages/top/emurray2/gba-daw?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/emurray2/gba-daw?label=)|![](https://flat.badgen.net/github/last-commit/emurray2/gba-daw?label=)|
