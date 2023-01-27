@@ -1,4 +1,4 @@
-# Video FXs
+# Video FXs <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Frei0r](https://frei0r.dyne.org/)|Minimalistic plugin API for video effects|![](https://img.shields.io/github/languages/top/dyne/frei0r?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/dyne/frei0r?label=)|![](https://flat.badgen.net/github/last-commit/dyne/frei0r?label=)|
