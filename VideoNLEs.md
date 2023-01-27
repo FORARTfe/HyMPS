@@ -1,4 +1,4 @@
-# Non-Linear Video Editors
+# Non-Linear Video Editors <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Olive Video Editor](https://www.olivevideoeditor.org/)|(wannabe) Professional Video Editor|![](https://img.shields.io/github/languages/top/olive-editor/olive?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/olive-editor/olive?label=)|![](https://flat.badgen.net/github/last-commit/olive-editor/olive?label=)|
