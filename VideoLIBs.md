@@ -1,4 +1,4 @@
-# Video Libraries
+# Video Libraries <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[OpenShot Video Library](https://github.com/OpenShot/libopenshot)|A C++ library dedicated to delivering high quality video editing, animation, and playback solutions|![](https://img.shields.io/github/languages/top/OpenShot/libopenshot?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/OpenShot/libopenshot?label=)|![](https://flat.badgen.net/github/last-commit/OpenShot/libopenshot?label=)|
