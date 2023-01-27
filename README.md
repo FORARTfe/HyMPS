@@ -16,8 +16,10 @@
 # [Other audio resources collections](https://github.com/forart/HyMPS/blob/main/A_Collections.md)
 
 ## [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=3)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ##
-# [Video Libraries](https://github.com/forart/HyMPS/blob/main/VideoLIBs.md#subsections)
-# [Video Effects](https://github.com/forart/HyMPS/blob/main/VideoFXs.md#subsections)
-# [Video Editors](https://github.com/forart/HyMPS/blob/main/VideoNLEs.md#subsections)
+# [NLEs](https://github.com/forart/HyMPS/blob/main/VideoNLEs.md#subsections)
+# [Libraries](https://github.com/forart/HyMPS/blob/main/VideoLIBs.md#subsections)
+# [Effects](https://github.com/forart/HyMPS/blob/main/VideoFXs.md#subsections)
+# [Tools](https://github.com/forart/HyMPS/blob/main/VideoTools.md#video---tools-)
+
 
     
