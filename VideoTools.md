@@ -1,6 +1,19 @@
 # Subsections <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
-[Encoding](#encoding-)
+[Encoders](#encoders-) - [GUIs](#guis-)
 
-## Encoding [«](#subsections)
+
+## GUIs [«](#subsections)
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[FastFlix](https://github.com/cdgriffith/FastFlix#readme)|A simple and friendly GUI for encoding videos|[![](https://img.shields.io/github/languages/top/cdgriffith/FastFlix?color=pink&style=flat-square)](https://github.com/cdgriffith/FastFlix/graphs/contributors)|[![](https://flat.badgen.net/github/license/cdgriffith/FastFlix?label=)](https://github.com/cdgriffith/FastFlix/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/cdgriffith/FastFlix?label=)](https://github.com/cdgriffith/FastFlix/graphs/code-frequency)|
+|[ConvertToHEVC++](https://github.com/thronic-gh/ConvertToHEVC#readme)|A simple explorer right-click converter made for converting media with NVIDIA cards|[![](https://img.shields.io/github/languages/top/thronic-gh/ConvertToHEVC?color=pink&style=flat-square)](https://github.com/thronic-gh/ConvertToHEVC/graphs/contributors)|[![](https://flat.badgen.net/github/license/thronic-gh/ConvertToHEVC?label=)](https://github.com/thronic-gh/ConvertToHEVC/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/thronic-gh/ConvertToHEVC?label=)](https://github.com/thronic-gh/ConvertToHEVC/graphs/code-frequency)|
+|[videer](https://github.com/hclivess/videer#readme)|FFmpeg batch GUI with AviSynth support for deinterlacing and profile configuration that can be used in [frameserving](https://github.com/satishsampath/frame-server)|[![](https://img.shields.io/github/languages/top/hclivess/videer?color=pink&style=flat-square)](https://github.com/hclivess/videer/graphs/contributors)|[![](https://flat.badgen.net/github/license/hclivess/videer?label=)](https://github.com/hclivess/videer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/hclivess/videer?label=)](https://github.com/hclivess/videer/graphs/code-frequency)|
+|[Videomass](https://jeanslack.github.io/Videomass/)|A free, open source and cross-platform GUI for FFmpeg and youtube-dl / yt-dlp|[![](https://img.shields.io/github/languages/top/jeanslack/Videomass?color=pink&style=flat-square)](https://github.com/jeanslack/Videomass/graphs/contributors)|[![](https://flat.badgen.net/github/license/jeanslack/Videomass?label=)](https://github.com/jeanslack/Videomass/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jeanslack/Videomass?label=)](https://github.com/jeanslack/Videomass/graphs/code-frequency)|
+|[HandBrake](https://handbrake.fr/)|An open-source video transcoder|[![](https://img.shields.io/github/languages/top/HandBrake/HandBrake?color=pink&style=flat-square)](https://github.com/HandBrake/HandBrake/graphs/contributors)|[![](https://flat.badgen.net/github/license/HandBrake/HandBrake?label=)](https://github.com/HandBrake/HandBrake/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/HandBrake/HandBrake?label=)](https://github.com/HandBrake/HandBrake/graphs/code-frequency)|
+|[DuME - The Duduf Media Encoder](https://rxlaboratory.org/tools/dume/)|A fast, versatile, easy-to-use and cross-platform Media Encoder based on FFmpeg|[![](https://img.shields.io/github/languages/top/RxLaboratory/DuME/?color=pink&style=flat-square)](https://github.com/RxLaboratory/DuME//graphs/contributors)|[![](https://flat.badgen.net/github/license/RxLaboratory/DuME/?label=)](https://github.com/RxLaboratory/DuME//blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/RxLaboratory/DuME/?label=)](https://github.com/RxLaboratory/DuME//graphs/code-frequency)|
+
+
+
+## Encoders [«](#subsections)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
