@@ -1,8 +1,8 @@
-# [AUDIO](https://github.com/forart/HyMPS#-1) -> DAWs <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
+# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.5)](https://github.com/forart/HyMPS#-1 "AUDIO resources") \ ![DAWs](https://flat.badgen.net/badge/section/DAWs/red?scale=1.5&label=) <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
 Subsections: [Generic](#generic-) - [Web/online](#webonline-) - [Dedicated](#dedicated-)
 
-## Generic [«](#audio---daws-)
+## Generic [«](DAWs.md#---)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Zrythm](https://www.zrythm.org/)|A highly automated and intuitive digital audio workstation|[![](https://img.shields.io/github/languages/top/zrythm/zrythm?color=pink&style=flat-square)](https://github.com/zrythm/zrythm/graphs/contributors)|[![](https://flat.badgen.net/badge/license/OWN/blue?label=)](https://github.com/zrythm/zrythm/blob/master/COPYING)|[![](https://flat.badgen.net/github/last-commit/zrythm/zrythm?label=)](https://github.com/zrythm/zrythm/graphs/code-frequency)|
@@ -38,7 +38,7 @@ Subsections: [Generic](#generic-) - [Web/online](#webonline-) - [Dedicated](#ded
 |[EIM](https://github.com/EchoInMirror/EIM#readme)|A free, open source DAW supports VST|[![](https://img.shields.io/github/languages/top/EchoInMirror/EIM?color=pink&style=flat-square)](https://github.com/EchoInMirror/EIM/graphs/contributors)|[![](https://flat.badgen.net/github/license/EchoInMirror/EIM?label=)](https://github.com/EchoInMirror/EIM/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/EchoInMirror/EIM?label=)](https://github.com/EchoInMirror/EIM/graphs/code-frequency)|
 |[Dawsome](https://github.com/nbennett320/dawesome#readme)|A digital audio workstation for all platforms that is libre, gratis, and awesome|[![](https://img.shields.io/github/languages/top/nbennett320/dawesome?color=pink&style=flat-square)](https://github.com/nbennett320/dawesome/graphs/contributors)|[![](https://flat.badgen.net/github/license/nbennett320/dawesome?label=)](https://github.com/nbennett320/dawesome/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/nbennett320/dawesome?label=)](https://github.com/nbennett320/dawesome/graphs/code-frequency)|
 
-## Web/online [«](#audio---daws-)
+## Web/online [«](DAWs.md#---)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Propeller](https://github.com/Bryan351018/Propeller#readme)|A web-based, MIDI-compliant Digital Audio Workstation|[![](https://img.shields.io/github/languages/top/Bryan351018/Propeller?color=pink&style=flat-square)](https://github.com/Bryan351018/Propeller/graphs/contributors)|[![](https://flat.badgen.net/github/license/Bryan351018/Propeller?label=)](https://github.com/Bryan351018/Propeller/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Bryan351018/Propeller?label=)](https://github.com/Bryan351018/Propeller/graphs/code-frequency)|
@@ -52,7 +52,7 @@ Subsections: [Generic](#generic-) - [Web/online](#webonline-) - [Dedicated](#ded
 |[Treackter](https://github.com/edu-flores/treackter-daw#readme)|Minimal digital audio workstation site for creating simple tracks|[![](https://img.shields.io/github/languages/top/edu-flores/treackter-daw?color=pink&style=flat-square)](https://github.com/edu-flores/treackter-daw/graphs/contributors)|[![](https://flat.badgen.net/github/license/edu-flores/treackter-daw?label=)](https://github.com/edu-flores/treackter-daw/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/edu-flores/treackter-daw?label=)](https://github.com/edu-flores/treackter-daw/graphs/code-frequency)|
 |[Nervous Groove](https://github.com/NervousGroove/Nervous-Groove#readme)|A totally free and extremely powerful JavaScript-built DAW|[![](https://img.shields.io/github/languages/top/NervousGroove/Nervous-Groove?color=pink&style=flat-square)](https://github.com/NervousGroove/Nervous-Groove/graphs/contributors)|[![](https://flat.badgen.net/badge/license/OWN/blue?label=)](https://github.com/NervousGroove/Nervous-Groove/blob/main/LICENSE)|[![](https://flat.badgen.net/github/last-commit/NervousGroove/Nervous-Groove?label=)](https://github.com/NervousGroove/Nervous-Groove/graphs/code-frequency)|
 
-## Dedicated [«](#audio---daws-)
+## Dedicated [«](DAWs.md#---)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[LMN-3-DAW](https://github.com/FundamentalFrequency#fundamental-frequency)|DAW for the LMN-3 open source controller|![](https://img.shields.io/github/languages/top/FundamentalFrequency/LMN-3-DAW?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/FundamentalFrequency/LMN-3-DAW?label=)|![](https://flat.badgen.net/github/last-commit/FundamentalFrequency/LMN-3-DAW?label=)|
