@@ -18,6 +18,6 @@
 ## [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=3)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ##
 # [NLEs](https://github.com/forart/HyMPS/blob/main/VideoNLEs.md#subsections)
 # [Libraries](https://github.com/forart/HyMPS/blob/main/VideoLIBs.md#subsections)
-# [Effects](https://github.com/forart/HyMPS/blob/main/VideoFXs.md#subsections)
+# [Tools](https://github.com/forart/HyMPS/blob/main/VideoTools.md#subsections)
 # [Processing](https://github.com/forart/HyMPS/blob/main/Processing.md#subsections-)
     
