@@ -1,6 +1,7 @@
-# RTSP [⌂](https://github.com/forart/HyMPS#-1) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+# [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ![RTSP](https://flat.badgen.net/badge/HyMPS/RTSP/blue?scale=1.8&label=) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+Subsections: [Generic](#generic-) - [Android](#Android-)
 
-
+## Generic [«](RTSP.md#--)
 |git|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[IPCameraViewer](https://github.com/Mawkey/IPCameraViewer#readme)|A way to organize IP cameras in to a grid|[![](https://img.shields.io/github/languages/top/Mawkey/IPCameraViewer?color=pink&style=flat-square)](https://github.com/Mawkey/IPCameraViewer/graphs/contributors)|[![](https://flat.badgen.net/github/license/Mawkey/IPCameraViewer?label=)](https://github.com/Mawkey/IPCameraViewer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Mawkey/IPCameraViewer?label=)](https://github.com/Mawkey/IPCameraViewer/graphs/code-frequency)|
@@ -23,6 +24,17 @@
 |[RTSP_ImouRanger2C](https://github.com/Sehyn/RTSP_ImouRanger2C#readme)|Simple RTSP Live Playback player for ImouRanger 2C cameras|[![](https://img.shields.io/github/languages/top/Sehyn/RTSP_ImouRanger2C?color=pink&style=flat-square)](https://github.com/Sehyn/RTSP_ImouRanger2C/graphs/contributors)|[![](https://flat.badgen.net/github/license/Sehyn/RTSP_ImouRanger2C?label=)](https://github.com/Sehyn/RTSP_ImouRanger2C/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Sehyn/RTSP_ImouRanger2C?label=)](https://github.com/Sehyn/RTSP_ImouRanger2C/graphs/code-frequency)|
 |[MomoPlayer](https://github.com/onlyet/MomoPlayer#readme)|A simple RTSP player（latency is between 200 and 300 milliseconds)|[![](https://img.shields.io/github/languages/top/onlyet/MomoPlayer?color=pink&style=flat-square)](https://github.com/onlyet/MomoPlayer/graphs/contributors)|[![](https://flat.badgen.net/github/license/onlyet/MomoPlayer?label=)](https://github.com/onlyet/MomoPlayer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/onlyet/MomoPlayer?label=)](https://github.com/onlyet/MomoPlayer/graphs/code-frequency)|
 
+## Android [«](RTSP.md#--)
+|git|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+https://github.com/ahmettopak/LowLatencyRtspPlayer
+https://github.com/Autokaka/rplayer
+https://github.com/tsingsee/EasyPlayer-RTSP-Android
+https://github.com/ghotik/RtspPlayerX4
+https://github.com/damianhoppe/RTSP-Player
+https://github.com/Yash-Garg/streamer
+https://github.com/rfpanizzon/Android_MediaPlayer_RTSPStream
+https://github.com/diewland/exo-player-rtsp-101
 
 
 
@@ -52,15 +64,6 @@ https://github.com/whl88/rtsp-player
 https://github.com/kwonsangkyun/RTSP_PLAYER
 
 
-Android:
-https://github.com/ahmettopak/LowLatencyRtspPlayer
-https://github.com/Autokaka/rplayer
-https://github.com/tsingsee/EasyPlayer-RTSP-Android
-https://github.com/ghotik/RtspPlayerX4
-https://github.com/damianhoppe/RTSP-Player
-https://github.com/Yash-Garg/streamer
-https://github.com/rfpanizzon/Android_MediaPlayer_RTSPStream
-https://github.com/diewland/exo-player-rtsp-101
 
 
 
