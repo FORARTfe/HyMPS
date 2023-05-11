@@ -32,30 +32,22 @@ Subsections: [Generic](#generic-) - [Android](#android-)
 ## Android [«](RTSP.md#--)
 |git|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-https://github.com/ahmettopak/LowLatencyRtspPlayer
-https://github.com/Autokaka/rplayer
-https://github.com/tsingsee/EasyPlayer-RTSP-Android
-https://github.com/ghotik/RtspPlayerX4
-https://github.com/damianhoppe/RTSP-Player
+|[EasyPlayer](https://github-com.translate.goog/tsingsee/EasyPlayer-RTSP-Android?_x_tr_sl=auto&_x_tr_tl=en)|A more refined RTSP-dedicated player than most general-purpose ones with very good delay control|[![](https://img.shields.io/github/languages/top/tsingsee/EasyPlayer-RTSP-Android?color=pink&style=flat-square)](https://github.com/tsingsee/EasyPlayer-RTSP-Android/graphs/contributors)|[![](https://flat.badgen.net/github/license/tsingsee/EasyPlayer-RTSP-Android?label=)](https://github.com/tsingsee/EasyPlayer-RTSP-Android/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/tsingsee/EasyPlayer-RTSP-Android?label=)](https://github.com/tsingsee/EasyPlayer-RTSP-Android/graphs/code-frequency)|
+|[LowLatencyRtspPlayer](https://github.com/ahmettopak/LowLatencyRtspPlayer#readme)|Low latency rtsp player for android with java|[![](https://img.shields.io/github/languages/top/ahmettopak/LowLatencyRtspPlayer?color=pink&style=flat-square)](https://github.com/ahmettopak/LowLatencyRtspPlayer/graphs/contributors)|[![](https://flat.badgen.net/github/license/ahmettopak/LowLatencyRtspPlayer?label=)](https://github.com/ahmettopak/LowLatencyRtspPlayer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ahmettopak/LowLatencyRtspPlayer?label=)](https://github.com/ahmettopak/LowLatencyRtspPlayer/graphs/code-frequency)|
+|[RtspPlayerX4](https://github.com/ghotik/RtspPlayerX4#readme)|A test project to show up to 4 rtsp live streams on Android App using EXOPlayer components|[![](https://img.shields.io/github/languages/top/ghotik/RtspPlayerX4?color=pink&style=flat-square)](https://github.com/ghotik/RtspPlayerX4/graphs/contributors)|[![](https://flat.badgen.net/github/license/ghotik/RtspPlayerX4?label=)](https://github.com/ghotik/RtspPlayerX4/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ghotik/RtspPlayerX4?label=)](https://github.com/ghotik/RtspPlayerX4/graphs/code-frequency)|
+
+
+
 https://github.com/Yash-Garg/streamer
 https://github.com/rfpanizzon/Android_MediaPlayer_RTSPStream
 https://github.com/diewland/exo-player-rtsp-101
-https://github.com/tsingsee/EasyPlayer-RTSP-Android
+
+:
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Young:
+## Todo [«](RTSP.md#--)
+|git|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
 https://github.com/ivankossdev/RtspPlayer
 https://github.com/DevRSC/rtsp-player
 https://github.com/qqJoker/OpenGLPlayerNet
@@ -67,9 +59,3 @@ https://github.com/manuarya1610/RTSP-Video-Player
 https://github.com/soapgu/RtspPlayer
 https://github.com/whl88/rtsp-player
 https://github.com/kwonsangkyun/RTSP_PLAYER
-
-
-
-
-
-|[rtsp-player](https://github.com/DevRSC/rtsp-player#readme)|-|[![](https://img.shields.io/github/languages/top/DevRSC/rtsp-player?color=pink&style=flat-square)](https://github.com/DevRSC/rtsp-player/graphs/contributors)|[![](https://flat.badgen.net/github/license/DevRSC/rtsp-player?label=)](https://github.com/DevRSC/rtsp-player/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/DevRSC/rtsp-player?label=)](https://github.com/DevRSC/rtsp-player/graphs/code-frequency)|
