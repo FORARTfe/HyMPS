@@ -1,9 +1,11 @@
-# [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") ![Editors](https://flat.badgen.net/badge/HyMPS/Editors/blue?scale=1.8&label=) <img align="right" src="[https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png](https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png)" width="5%" />
-
-Subsections: [Non-Linear Video Editors](#non-linear-video-editors-) - [Video Compositors](#video-compositors)
+# [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") ![Editors](https://flat.badgen.net/badge/HyMPS/Editors/blue?scale=1.8&label=) <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 
 
-# Non-Linear Video Editors <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+
+Subsections: [Non-Linear Video Editors](#non-linear-video-editors) - [Video Compositors](#video-compositors)
+
+
+# Non-Linear Video Editors
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Olive Video Editor](https://www.olivevideoeditor.org/)|(wannabe) Professional Video Editor|[![](https://img.shields.io/github/languages/top/olive-editor/olive?color=pink&style=flat-square)](https://github.com/olive-editor/olive/graphs/contributors)|[![](https://flat.badgen.net/github/license/olive-editor/olive?label=)](https://github.com/olive-editor/olive/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/olive-editor/olive?label=)](https://github.com/olive-editor/olive/graphs/code-frequency)|
