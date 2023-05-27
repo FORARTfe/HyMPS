@@ -1,8 +1,8 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ![Editors](https://flat.badgen.net/badge/HyMPS/Editors/blue?scale=1.8&label=) <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 
-Subsections: [Non-Linear Video Editors](#non-linear-video-editors) - [Video Compositors](#video-compositors)
+## Subsections: [Non-Linear Video Editors](#non-linear-video-editors) - [Video Compositors](#video-compositors)
 
-# Non-Linear Video Editors [«](VideoEditors.md#--)
+## Non-Linear Video Editors [«](VideoEditors.md#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[MachinTruc](https://github.com/hftom/MachinTruc#readme)|A GPU accelerated non linear video editor|[![](https://img.shields.io/github/languages/top/hftom/MachinTruc?color=pink&style=flat-square)](https://github.com/hftom/MachinTruc/graphs/contributors)|[![](https://flat.badgen.net/github/license/hftom/MachinTruc?label=)](https://github.com/hftom/MachinTruc/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/hftom/MachinTruc?label=)](https://github.com/hftom/MachinTruc/graphs/code-frequency)|
@@ -14,7 +14,7 @@ Subsections: [Non-Linear Video Editors](#non-linear-video-editors) - [Video Comp
 |[Flowblade](https://jliljebl.github.io/flowblade/)|A multitrack non-linear video editor for Linux|[![](https://img.shields.io/github/languages/top/jliljebl/flowblade?color=pink&style=flat-square)](https://github.com/jliljebl/flowblade/graphs/contributors)|[![](https://flat.badgen.net/github/license/jliljebl/flowblade?label=)](https://github.com/jliljebl/flowblade/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jliljebl/flowblade?label=)](https://github.com/jliljebl/flowblade/graphs/code-frequency)|
 
 
-# Video Compositors [«](VideoEditors.md#--)
+## Video Compositors [«](VideoEditors.md#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AMVtool](https://github.com/l33tmeatwad/AMVtool#readme)|Qt GUI for FFmpeg designed for video editors|[![](https://img.shields.io/github/languages/top/l33tmeatwad/AMVtool?color=pink&style=flat-square)](https://github.com/l33tmeatwad/AMVtool/graphs/contributors)|[![](https://flat.badgen.net/github/license/l33tmeatwad/AMVtool?label=)](https://github.com/l33tmeatwad/AMVtool/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/l33tmeatwad/AMVtool?label=)](https://github.com/l33tmeatwad/AMVtool/graphs/code-frequency)|
