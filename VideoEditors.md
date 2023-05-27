@@ -1,6 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ![Editors](https://flat.badgen.net/badge/HyMPS/Editors/blue?scale=1.8&label=) <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 
-## Subsections: [Non-Linear Video Editors](#non-linear-video-editors) - [Video Compositors](#video-compositors)
+## Subsections: [Non-Linear Video Editors](#non-linear-video-editors-) - [Video Compositors](#video-compositors-)
 
 ## Non-Linear Video Editors [«](VideoEditors.md#--)
 |Website|Short description|Language|License|Last commit|
