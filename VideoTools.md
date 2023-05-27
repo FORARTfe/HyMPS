@@ -1,8 +1,8 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 
-Subsections: [GUIs](#guis-) - [Enhancers](#enhancers-) - [Encoders](#encoders-) - [Codecs](#codecs-)
+## Subsections: [GUIs](#guis-) - [Enhancers](#enhancers-) - [Encoders](#encoders-) - [Codecs](#codecs-)
 
-## GUIs [«](#subsections)
+## GUIs [«](VideoTools.md#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[HandBrake](https://handbrake.fr/)|An open-source video transcoder|[![](https://img.shields.io/github/languages/top/HandBrake/HandBrake?color=pink&style=flat-square)](https://github.com/HandBrake/HandBrake/graphs/contributors)|[![](https://flat.badgen.net/github/license/HandBrake/HandBrake?label=)](https://github.com/HandBrake/HandBrake/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/HandBrake/HandBrake?label=)](https://github.com/HandBrake/HandBrake/graphs/code-frequency)|
@@ -33,19 +33,19 @@ Subsections: [GUIs](#guis-) - [Enhancers](#enhancers-) - [Encoders](#encoders-) 
 
 
 
-## Enhancers [«](#subsections)
+## Enhancers [«](VideoTools.md#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[enhancr](https://github.com/mafiosnik777/enhancr#readme)|An elegant and easy to use GUI for Video Frame Interpolation and Video Upscaling which takes advantage of artificial intelligence|[![](https://img.shields.io/github/languages/top/mafiosnik777/enhancr?color=pink&style=flat-square)](https://github.com/mafiosnik777/enhancr/graphs/contributors)|[![](https://flat.badgen.net/github/license/mafiosnik777/enhancr?label=)](https://github.com/mafiosnik777/enhancr/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mafiosnik777/enhancr?label=)](https://github.com/mafiosnik777/enhancr/graphs/code-frequency)|
 |[InterUpTool](https://github.com/GhostPoro/InterUpTool#readme)|GUI Tool for control, queue and automate video enhancing process, provided by FFMPEG video encoder, Real-ESRGAN image upscaler and RIFE/DAIN video frame interpolators|[![](https://img.shields.io/github/languages/top/GhostPoro/InterUpTool?color=pink&style=flat-square)](https://github.com/GhostPoro/InterUpTool/graphs/contributors)|[![](https://flat.badgen.net/github/license/GhostPoro/InterUpTool?label=)](https://github.com/GhostPoro/InterUpTool/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/GhostPoro/InterUpTool?label=)](https://github.com/GhostPoro/InterUpTool/graphs/code-frequency)|
 
-## Deep Learning [«](#subsections)
+## Deep Learning [«](VideoTools.md#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[VSGAN-tensorrt-docker](https://github.com/styler00dollar/VSGAN-tensorrt-docker#readme)|Super resolution models and video frame interpolation models and also trying to speed them up with TensorRT|[![](https://img.shields.io/github/languages/top/styler00dollar/VSGAN-tensorrt-docker?color=pink&style=flat-square)](https://github.com/styler00dollar/VSGAN-tensorrt-docker/graphs/contributors)|[![](https://flat.badgen.net/github/license/styler00dollar/VSGAN-tensorrt-docker?label=)](https://github.com/styler00dollar/VSGAN-tensorrt-docker/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/styler00dollar/VSGAN-tensorrt-docker?label=)](https://github.com/styler00dollar/VSGAN-tensorrt-docker/graphs/code-frequency)|
 
 
-## Encoders [«](#subsections)
+## Encoders [«](VideoTools.md#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[FFmpeg](https://ffmpeg.org/)|A complete, cross-platform solution to record, convert and stream audio and video|[![](https://img.shields.io/github/languages/top/FFmpeg/FFmpeg?color=pink&style=flat-square)](https://github.com/FFmpeg/FFmpeg/graphs/contributors)|[![](https://flat.badgen.net/github/license/FFmpeg/FFmpeg?label=)](https://github.com/FFmpeg/FFmpeg/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/FFmpeg/FFmpeg?label=)](https://github.com/FFmpeg/FFmpeg/graphs/code-frequency)|
