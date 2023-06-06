@@ -1,4 +1,5 @@
-# Programming <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "AUDIO resources") [![Programming](https://flat.badgen.net/badge/HyMPS/Programming/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#programming "Programming") <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Gwion](https://gwion.github.io/Gwion/)|A strongly timed programming language for making music|![](https://img.shields.io/github/languages/top/Gwion/Gwion?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Gwion/Gwion?label=)|![](https://flat.badgen.net/github/last-commit/Gwion/Gwion?label=)|
