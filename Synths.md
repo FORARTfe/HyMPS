@@ -1,4 +1,5 @@
-# Synthesizers <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "AUDIO resources") [![Synthesizers](https://flat.badgen.net/badge/HyMPS/Synthesizers/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#synthesizers "Synthesizers") <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[ADLplug](https://github.com/jpcima/ADLplug)|Provides FM synthesizer plugins, based on OPL3 and OPN2 sound chip emulations|![](https://img.shields.io/github/languages/top/jpcima/ADLplug?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/jpcima/ADLplug?label=)|![](https://flat.badgen.net/github/last-commit/jpcima/ADLplug?label=)|
