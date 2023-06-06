@@ -9,7 +9,7 @@
 # [Engines](https://github.com/forart/HyMPS/blob/main/Aengines.md#subsections-)
 # [Programming](https://github.com/forart/HyMPS/blob/main/Programming.md#subsections-)
 # [Synthesizers](https://github.com/forart/HyMPS/blob/main/Synths.md#subsections-)
-# [Sequencers](https://github.com/forart/HyMPS/blob/main/Seqcrs.md#subsections-)
+# [Visualization / Analysis](https://github.com/forart/HyMPS/blob/main/visuanalysis.md#--)
 # [Adapters](https://github.com/forart/HyMPS/blob/main/Adapters.md#subsections-)
 # [Tools](https://github.com/forart/HyMPS/blob/main/A_Tools.md#subsections-)
 
