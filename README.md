@@ -1,4 +1,4 @@
-## [![#HyMPS](http://www.forart.it/progetti/HyMPS/logo.png)](https://github.com/forart/HyMPS# "HYbrid Multimedia Production Suite") <img align="right" src="//c.andyhoppe.com/1686913050">
+## [![#HyMPS](http://www.forart.it/progetti/HyMPS/logo.png)](https://github.com/forart/HyMPS# "HYbrid Multimedia Production Suite") <img align="right" src="//c.andyhoppe.com/1686913050" />
 
 ## [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=3)](https://github.com/forart/HyMPS#-1 "AUDIO resources") ##
 
