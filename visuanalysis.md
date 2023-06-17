@@ -2,7 +2,7 @@
 > **Note** _**`SORT: Language > License > Website`**_
 
 
-## Subsections: [Visualization](#visualization-) - [Analysis](#analysis-)
+## Subsections: [Visualization](#visualization-arrow_heading_up) - [Analysis](#analysis-arrow_heading_up)
 
 ## Visualization [:arrow_heading_up:](#--)
 |Website|Short description|Language|License|Last commit|
