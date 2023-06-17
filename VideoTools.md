@@ -1,4 +1,5 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+>**Note** _**`SORT: Language > License > Website`**_
 
 ## Subsections: [GUIs](#guis-) - [Enhancers](#enhancers-) - [Encoders](#encoders-) - [Codecs](#codecs-)
 
