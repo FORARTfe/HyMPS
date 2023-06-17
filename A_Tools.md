@@ -1,7 +1,7 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "AUDIO resources") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#tools "Tools") <img align="right" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 
 # Subsections <img src="https://github.com/forart/HyMPS/assets/171307/68591531-8573-450a-a62e-6f8c1230be3b" width="2%" />
-[Alignment/synch](#alignmentsynch-) - [Declipping](#declipping-) - [Dequantizing](#dequantizing-) - [Enhancing](#enhancing-) - [Fingerprinting](#fingerprinting-) - [Mastering](#mastering-) - [Noise reducing](#noise-reducing-) - [Phasing](#phasing-) - [Restoring](#restoring-) - [Resampling](#resampling-)
+[Alignment/synch](#alignmentsynch-arrow_heading_up) - [Declipping](#declipping-arrow_heading_up) - [Dequantizing](#dequantizing-arrow_heading_up) - [Enhancing](#enhancing-arrow_heading_up) - [Fingerprinting](#fingerprinting-arrow_heading_up) - [Mastering](#mastering-arrow_heading_up) - [Noise reducing](#noise-reducing-arrow_heading_up) - [Phasing](#phasing-arrow_heading_up) - [Restoring](#restoring-arrow_heading_up) - [Resampling](#resampling-arrow_heading_up)
 
 ## Alignment/synch [:arrow_heading_up:](#--)
 |Website|Short description|Language|License|Last commit|
