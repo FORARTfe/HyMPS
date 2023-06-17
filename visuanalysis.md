@@ -2,14 +2,14 @@
 
 ## Subsections: [Visualization](#visualization-) - [Analysis](#analysis-)
 
-## Visualization [:arrow_heading_up:](visuanalysis.md#--)
+## Visualization [:arrow_heading_up:](visuanalysis.md)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Real-time audio-reactive music visualization](https://github.com/brogli/realtime-audioreactive-music-visualization#readme)|Real-time audio- (and human) reactive music visualization, made with untiy|[![](https://img.shields.io/github/languages/top/brogli/realtime-audioreactive-music-visualization?color=pink&style=flat-square)](https://github.com/brogli/realtime-audioreactive-music-visualization/graphs/contributors)|[![](https://flat.badgen.net/github/license/brogli/realtime-audioreactive-music-visualization?label=)](https://github.com/brogli/realtime-audioreactive-music-visualization/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/brogli/realtime-audioreactive-music-visualization?label=)](https://github.com/brogli/realtime-audioreactive-music-visualization/graphs/code-frequency)|
 |[Libvisual](http://libvisual.org/)|Instantly transforms music into psychedelic art|[![](https://img.shields.io/github/languages/top/Libvisual/libvisual?color=pink&style=flat-square)](https://github.com/Libvisual/libvisual/graphs/contributors)|[![](https://flat.badgen.net/github/license/Libvisual/libvisual?label=)](https://github.com/Libvisual/libvisual/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Libvisual/libvisual?label=)](https://github.com/Libvisual/libvisual/graphs/code-frequency)|
 |[Thesia](https://github.com/Sytronik/thesia#readme)|(very early stage) Multi-track Spectrogram / Waveform Viewer|[![](https://img.shields.io/github/languages/top/Sytronik/thesia?color=pink&style=flat-square)](https://github.com/Sytronik/thesia/graphs/contributors)|[![](https://flat.badgen.net/github/license/Sytronik/thesia?label=)](https://github.com/Sytronik/thesia/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Sytronik/thesia?label=)](https://github.com/Sytronik/thesia/graphs/code-frequency)|
 
-## Analysis [:arrow_heading_up:](visuanalysis.md#--)
+## Analysis [:arrow_heading_up:](visuanalysis.md)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[audavillage](https://github.com/zh-qs/audavillage#readme)|Audio signal analysis application|[![](https://img.shields.io/github/languages/top/zh-qs/audavillage?color=pink&style=flat-square)](https://github.com/zh-qs/audavillage/graphs/contributors)|[![](https://flat.badgen.net/github/license/zh-qs/audavillage?label=)](https://github.com/zh-qs/audavillage/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/zh-qs/audavillage?label=)](https://github.com/zh-qs/audavillage/graphs/code-frequency)|
