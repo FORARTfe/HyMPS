@@ -106,7 +106,7 @@
 |[declick-rs](https://github.com/dbatbold/declick-rs#readme)|Simple tool for removing clicks from audio stream|[![](https://img.shields.io/github/languages/top/dbatbold/declick-rs?color=pink&style=flat-square)](https://github.com/dbatbold/declick-rs/graphs/contributors)|[![](https://flat.badgen.net/github/license/dbatbold/declick-rs?label=)](https://github.com/dbatbold/declick-rs/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/dbatbold/declick-rs?label=)](https://github.com/dbatbold/declick-rs/graphs/code-frequency)|
 |[clicks_removal_audios_signal](https://github.com/rsebai/clicks_removal_audios_signal#readme)|-|[![](https://img.shields.io/github/languages/top/rsebai/clicks_removal_audios_signal?color=pink&style=flat-square)](https://github.com/rsebai/clicks_removal_audios_signal/graphs/contributors)|[![](https://flat.badgen.net/github/license/rsebai/clicks_removal_audios_signal?label=)](https://github.com/rsebai/clicks_removal_audios_signal/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/rsebai/clicks_removal_audios_signal?label=)](https://github.com/rsebai/clicks_removal_audios_signal/graphs/code-frequency)|
 
-## Resampling [«](#subsections)
+## Resampling [:arrow_heading_up:](#A_Tools.md#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[resampler](https://github.com/cpuimage/resampler)|A Simple and Efficient Audio Resampler Implementation in C|![](https://img.shields.io/github/languages/top/cpuimage/resampler?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/cpuimage/resampler?label=)|![](https://flat.badgen.net/github/last-commit/cpuimage/resampler?label=)|
