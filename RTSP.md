@@ -1,5 +1,5 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ![RTSP](https://flat.badgen.net/badge/HyMPS/RTSP/blue?scale=1.8&label=) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
-Subsections: [Generic](#generic-) - [Android](#android-) - [Related](#related-) - [No data](#no-data-)
+Subsections: [Generic](#generic-) - [Android](#android-) - [Other](#other-) - [No data](#no-data-)
 
 >**Note** _**`SORT: Language (a>z) > License (openness) > git (a>z)`**_
 
@@ -52,11 +52,11 @@ Subsections: [Generic](#generic-) - [Android](#android-) - [Related](#related-) 
 |[Streamer](https://github.com/Yash-Garg/streamer#readme)|Android TV Focused Application for playing RTSP streams written in Jetpack Compose|[![](https://img.shields.io/github/languages/top/Yash-Garg/streamer?color=pink&style=flat-square)](https://github.com/Yash-Garg/streamer/graphs/contributors)|[![](https://flat.badgen.net/github/license/Yash-Garg/streamer?label=)](https://github.com/Yash-Garg/streamer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Yash-Garg/streamer/main?label=)](https://github.com/Yash-Garg/streamer/graphs/code-frequency)|
 |[RtspPlayerX4](https://github.com/ghotik/RtspPlayerX4#readme)|A test project to show up to 4 rtsp live streams on Android App using EXOPlayer components|[![](https://img.shields.io/github/languages/top/ghotik/RtspPlayerX4?color=pink&style=flat-square)](https://github.com/ghotik/RtspPlayerX4/graphs/contributors)|[![](https://flat.badgen.net/github/license/ghotik/RtspPlayerX4?label=)](https://github.com/ghotik/RtspPlayerX4/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ghotik/RtspPlayerX4/main?label=)](https://github.com/ghotik/RtspPlayerX4/graphs/code-frequency)|
 
-## Related [«](RTSP.md#--)
+## Other [«](RTSP.md#--)
 |git|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[rawcam](https://github.com/frnjjq/raw-camera#readme)|Demonstation of the minimum lag from glass to glass using a bayer raw camera|[![](https://img.shields.io/github/languages/top/frnjjq/raw-camera?color=pink&style=flat-square)](https://github.com/frnjjq/raw-camera/graphs/contributors)|[![](https://flat.badgen.net/github/license/frnjjq/raw-camera?label=)](https://github.com/frnjjq/raw-camera/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/frnjjq/raw-camera/master?label=)](https://github.com/frnjjq/raw-camera/graphs/code-frequency)|
-
+|[rtsp-samsung-tv](https://github.com/vzakharchenko/rtsp-samsung-tv#readme)|Display RTSP streams from IP Cameras on Samsung Smart TV (Tizen TV)|[![](https://img.shields.io/github/languages/top/vzakharchenko/rtsp-samsung-tv?color=pink&style=flat-square)](https://github.com/vzakharchenko/rtsp-samsung-tv/graphs/contributors)|[![](https://flat.badgen.net/github/license/vzakharchenko/rtsp-samsung-tv?label=)](https://github.com/vzakharchenko/rtsp-samsung-tv/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/vzakharchenko/rtsp-samsung-tv/master?label=)](https://github.com/vzakharchenko/rtsp-samsung-tv/graphs/code-frequency)|
 
 ## No data [«](RTSP.md#--)
 |git|Short description|Language|License|Last commit|
