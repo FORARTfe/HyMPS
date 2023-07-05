@@ -20,4 +20,6 @@
 # [Libraries](https://github.com/forart/HyMPS/blob/main/VideoLIBs.md#subsections)
 # [Tools](https://github.com/forart/HyMPS/blob/main/VideoTools.md#subsections)
 # [Processing](https://github.com/forart/HyMPS/blob/main/Processing.md#subsections-)
+# [Pan Tilt Zoom](https://github.com/forart/HyMPS/blob/main/PTZstuff.md#--)
+# [RTSP](https://github.com/forart/HyMPS/blob/main/RTSP.md#--)
     
