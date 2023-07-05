@@ -1,4 +1,4 @@
-# [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ![Pan Tilt Zoom](https://flat.badgen.net/badge/HyMPS/Pan%20Tilt%20Zoom/blue?scale=1.8&label=) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+# [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") ![Pan Tilt Zoom](https://flat.badgen.net/badge/HyMPS/Pan%20Tilt%20Zoom/blue?scale=1.8&label=) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 Subsections: [Generic](#generic-) - [GUI](#gui-) - [Android](#android-) - [HID](#hid-) - [ONVIF](#onvif-) - [VISCA](#visca-) - [Other](#other-)
 
 >**Note** _**`SORT: Language (a>z) > License (openness) > git (a>z)`**_
