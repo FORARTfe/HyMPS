@@ -2,10 +2,10 @@
 
 ## Subsections: [Visualization](#visualization-) - [Analysis](#analysis-)
 
->**Note** _**`SORT: Language (a>z) > License (openness) > Name/URL (a>z)`**_
+>**Note** _**`SORT: Language (a>z) > License (openness) > Name / URL (a>z)`**_
 
 ## Visualization [⌂](#--)
-|Name/URL|Short description|Language|License|Last commit|
+|Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Libvisual](http://libvisual.org/)|Instantly transforms music into psychedelic art|[![](https://img.shields.io/github/languages/top/Libvisual/libvisual?color=pink&style=flat-square)](https://github.com/Libvisual/libvisual/graphs/contributors)|[![](https://flat.badgen.net/github/license/Libvisual/libvisual?label=)](https://github.com/Libvisual/libvisual/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Libvisual/libvisual?label=)](https://github.com/Libvisual/libvisual/graphs/code-frequency)|
 |[Real-time audio-reactive music visualization](https://github.com/brogli/realtime-audioreactive-music-visualization#readme)|Real-time audio- (and human) reactive music visualization, made with untiy|[![](https://img.shields.io/github/languages/top/brogli/realtime-audioreactive-music-visualization?color=pink&style=flat-square)](https://github.com/brogli/realtime-audioreactive-music-visualization/graphs/contributors)|[![](https://flat.badgen.net/github/license/brogli/realtime-audioreactive-music-visualization?label=)](https://github.com/brogli/realtime-audioreactive-music-visualization/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/brogli/realtime-audioreactive-music-visualization?label=)](https://github.com/brogli/realtime-audioreactive-music-visualization/graphs/code-frequency)|
@@ -13,7 +13,7 @@
 |[Multitrack Visualizer](https://git.tombo.sh/tom/multitrack-visualizer)|Render multitrack waveforms to video|[![](https://img.shields.io/github/languages/top/TomboFry/multitrack-visualizer?color=pink&style=flat-square)](https://github.com/TomboFry/multitrack-visualizer/graphs/contributors)|[![](https://flat.badgen.net/github/license/TomboFry/multitrack-visualizer?label=)](https://github.com/TomboFry/multitrack-visualizer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/TomboFry/multitrack-visualizer/main?label=)](https://github.com/TomboFry/multitrack-visualizer/graphs/code-frequency)|
 
 ## Analysis [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+|Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[audavillage](https://github.com/zh-qs/audavillage#readme)|Audio signal analysis application|[![](https://img.shields.io/github/languages/top/zh-qs/audavillage?color=pink&style=flat-square)](https://github.com/zh-qs/audavillage/graphs/contributors)|[![](https://flat.badgen.net/github/license/zh-qs/audavillage?label=)](https://github.com/zh-qs/audavillage/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/zh-qs/audavillage?label=)](https://github.com/zh-qs/audavillage/graphs/code-frequency)|
 |[IIR Filter Analyzer](https://github.com/JREWeav/FilterVisualization#readme)|Audio Analyzer made in JUCE with C++|[![](https://img.shields.io/github/languages/top/JREWeav/FilterVisualization?color=pink&style=flat-square)](https://github.com/JREWeav/FilterVisualization/graphs/contributors)|[![](https://flat.badgen.net/github/license/JREWeav/FilterVisualization?label=)](https://github.com/JREWeav/FilterVisualization/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/JREWeav/FilterVisualization?label=)](https://github.com/JREWeav/FilterVisualization/graphs/code-frequency)|
