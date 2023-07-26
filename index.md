@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ![#HyMPS](http://www.forart.it/progetti/HyMPS/logo.png)
 
 You can use the [editor on GitHub](https://github.com/forart/HyMPS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
