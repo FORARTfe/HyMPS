@@ -1,17 +1,18 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "AUDIO resources") [![Visualization / Analysis](https://flat.badgen.net/badge/HyMPS/Visualization-Analysis/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/tree/main#visualization--analysis "Visualization/ Analysis") <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" /> 
->**Note** _**`SORT: Language > License > Website`**_
 
+## Subsections: [Visualization](#visualization-) - [Analysis](#analysis-)
 
-## Subsections: [Visualization](#visualization-arrow_heading_up) - [Analysis](#analysis-arrow_heading_up)
+>**Note** _**`SORT: Language (a>z) > License (openness) > Name/URL (a>z)`**_
 
-## Visualization [:arrow_heading_up:](#--)
-|Website|Short description|Language|License|Last commit|
+## Visualization [⌂](#--)
+|Name/URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-|[Real-time audio-reactive music visualization](https://github.com/brogli/realtime-audioreactive-music-visualization#readme)|Real-time audio- (and human) reactive music visualization, made with untiy|[![](https://img.shields.io/github/languages/top/brogli/realtime-audioreactive-music-visualization?color=pink&style=flat-square)](https://github.com/brogli/realtime-audioreactive-music-visualization/graphs/contributors)|[![](https://flat.badgen.net/github/license/brogli/realtime-audioreactive-music-visualization?label=)](https://github.com/brogli/realtime-audioreactive-music-visualization/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/brogli/realtime-audioreactive-music-visualization?label=)](https://github.com/brogli/realtime-audioreactive-music-visualization/graphs/code-frequency)|
 |[Libvisual](http://libvisual.org/)|Instantly transforms music into psychedelic art|[![](https://img.shields.io/github/languages/top/Libvisual/libvisual?color=pink&style=flat-square)](https://github.com/Libvisual/libvisual/graphs/contributors)|[![](https://flat.badgen.net/github/license/Libvisual/libvisual?label=)](https://github.com/Libvisual/libvisual/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Libvisual/libvisual?label=)](https://github.com/Libvisual/libvisual/graphs/code-frequency)|
+|[Real-time audio-reactive music visualization](https://github.com/brogli/realtime-audioreactive-music-visualization#readme)|Real-time audio- (and human) reactive music visualization, made with untiy|[![](https://img.shields.io/github/languages/top/brogli/realtime-audioreactive-music-visualization?color=pink&style=flat-square)](https://github.com/brogli/realtime-audioreactive-music-visualization/graphs/contributors)|[![](https://flat.badgen.net/github/license/brogli/realtime-audioreactive-music-visualization?label=)](https://github.com/brogli/realtime-audioreactive-music-visualization/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/brogli/realtime-audioreactive-music-visualization?label=)](https://github.com/brogli/realtime-audioreactive-music-visualization/graphs/code-frequency)|
 |[Thesia](https://github.com/Sytronik/thesia#readme)|(very early stage) Multi-track Spectrogram / Waveform Viewer|[![](https://img.shields.io/github/languages/top/Sytronik/thesia?color=pink&style=flat-square)](https://github.com/Sytronik/thesia/graphs/contributors)|[![](https://flat.badgen.net/github/license/Sytronik/thesia?label=)](https://github.com/Sytronik/thesia/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Sytronik/thesia?label=)](https://github.com/Sytronik/thesia/graphs/code-frequency)|
+|[Multitrack Visualizer](https://git.tombo.sh/tom/multitrack-visualizer)|Render multitrack waveforms to video|[![](https://img.shields.io/github/languages/top/TomboFry/multitrack-visualizer?color=pink&style=flat-square)](https://github.com/TomboFry/multitrack-visualizer/graphs/contributors)|[![](https://flat.badgen.net/github/license/TomboFry/multitrack-visualizer?label=)](https://github.com/TomboFry/multitrack-visualizer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/TomboFry/multitrack-visualizer/main?label=)](https://github.com/TomboFry/multitrack-visualizer/graphs/code-frequency)|
 
-## Analysis [:arrow_heading_up:](#--)
+## Analysis [⌂](#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[audavillage](https://github.com/zh-qs/audavillage#readme)|Audio signal analysis application|[![](https://img.shields.io/github/languages/top/zh-qs/audavillage?color=pink&style=flat-square)](https://github.com/zh-qs/audavillage/graphs/contributors)|[![](https://flat.badgen.net/github/license/zh-qs/audavillage?label=)](https://github.com/zh-qs/audavillage/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/zh-qs/audavillage?label=)](https://github.com/zh-qs/audavillage/graphs/code-frequency)|
