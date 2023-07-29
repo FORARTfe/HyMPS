@@ -32,3 +32,4 @@
 
 ## Resources [«](#subsections-)
 - [Awesome Image or Video Denoising Algorithms](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art#awesome-image-or-video-denoising-algorithms)
+- [A curated list of video stabilization methods](https://github.com/yaochih/awesome-video-stabilization)
