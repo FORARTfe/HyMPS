@@ -4,7 +4,11 @@
 [Alignment/synch](#alignmentsynch-) - [Declipping](#declipping-) - [Dequantizing](#dequantizing-) - [Enhancing](#enhancing-) - [Fingerprinting](#fingerprinting-) - [Mastering](#mastering-) - [Noise reducing](#noise-reducing-) - [Phasing](#phasing-) - [Restoring](#restoring-) - [Resampling](#resampling-)
 
 ## Alignment/synch [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+> **Note**
+> _`SORT: Language (A>Z) > License (openness) > Website (A>Z)`_
+
+
+|Name & URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio alignment tool](https://github.com/norihiro/alignaudio#readme)|A tool to align audio files|[![](https://img.shields.io/github/languages/top/norihiro/alignaudio?color=pink&style=flat-square)](https://github.com/norihiro/alignaudio/graphs/contributors)|[![](https://flat.badgen.net/github/license/norihiro/alignaudio?label=)](https://github.com/norihiro/alignaudio/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/norihiro/alignaudio?label=)](https://github.com/norihiro/alignaudio/graphs/code-frequency)|
 |[Video Audio Sync for FFMPEG](https://github.com/jhpark16/Video-Audio-Sync-for-FFMPEG#readme)|Reads multiple a/v files and present them as wave forms for easier alignment|[![](https://img.shields.io/github/languages/top/jhpark16/Video-Audio-Sync-for-FFMPEG?color=pink&style=flat-square)](https://github.com/jhpark16/Video-Audio-Sync-for-FFMPEG/graphs/contributors)|[![](https://flat.badgen.net/github/license/jhpark16/Video-Audio-Sync-for-FFMPEG?label=)](https://github.com/jhpark16/Video-Audio-Sync-for-FFMPEG/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jhpark16/Video-Audio-Sync-for-FFMPEG?label=)](https://github.com/jhpark16/Video-Audio-Sync-for-FFMPEG/graphs/code-frequency)|
@@ -20,7 +24,10 @@
 |[Shign](https://github.com/KnurpsBram/shign#readme)|Shift and align recordings of the same audio event to match them in time|[![](https://img.shields.io/github/languages/top/KnurpsBram/shign?color=pink&style=flat-square)](https://github.com/KnurpsBram/shign/graphs/contributors)|[![](https://flat.badgen.net/github/license/KnurpsBram/shign?label=)](https://github.com/KnurpsBram/shign/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/KnurpsBram/shign?label=)](https://github.com/KnurpsBram/shign/graphs/code-frequency)|
 
 ## Declipping [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+> **Note**
+> _`SORT: unsorted`_
+
+|Name & URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[A Survey and an Extensive Evaluation of Popular Audio Declipping Methods](https://github.com/rajmic/declipping2020_codes)|Codes and data coming with article|![](https://img.shields.io/github/languages/top/rajmic/declipping2020_codes?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/rajmic/declipping2020_codes?label=)|![](https://flat.badgen.net/github/last-commit/rajmic/declipping2020_codes?label=)|
 |[audio-declipper](https://github.com/kripton/audio-declipper)|Proof-of-concept (or more) to declip sample-based audio files|![](https://img.shields.io/github/languages/top/kripton/audio-declipper?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/kripton/audio-declipper?label=)|![](https://flat.badgen.net/github/last-commit/kripton/audio-declipper?label=)|
@@ -32,17 +39,26 @@
 |[audio-declipper](https://github.com/Imado1997/audio-declipper)|2014 IEEE Audio Declipping with Social Sparsity|![](https://img.shields.io/github/languages/top/Imado1997/audio-declipper?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/Imado1997/audio-declipper?label=)|![](https://flat.badgen.net/github/last-commit/Imado1997/audio-declipper?label=)|
 
 ## Dequantizing [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+> **Note**
+> _`SORT: Language (A>Z) > License (openness) > Website (A>Z)`_
+
+|Name & URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio Dequantization Using (Co)Sparse (Non)Convex Methods](https://github.com/zawi01/audio_dequantization)|Accompanying source code repository to the [relative paper](https://arxiv.org/abs/2010.16386)|![](https://img.shields.io/github/languages/top/zawi01/audio_dequantization?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/zawi01/audio_dequantization?label=)|![](https://flat.badgen.net/github/last-commit/zawi01/audio_dequantization?label=)|
 
 ## Enhancing [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+> **Note**
+> _`SORT: Language (A>Z) > License (openness) > Website (A>Z)`_
+
+|Name & URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio-Enhancement-GAN](https://github.com/nimeshrisal/Audio-Enhancement-GAN)|This is a Audio enhancement system which uses GAN|![](https://img.shields.io/github/languages/top/nimeshrisal/Audio-Enhancement-GAN?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/nimeshrisal/Audio-Enhancement-GAN?label=)|![](https://flat.badgen.net/github/last-commit/nimeshrisal/Audio-Enhancement-GAN?label=)|
 
 ## Fingerprinting [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+> **Note**
+> _`SORT: unsorted`_
+
+|Name & URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Aurio](https://github.com/protyposis/Aurio)|A .NET library that focuses on audio processing, analysis, media synchronization and media retrieval and implements various audio fingerprinting methods|![](https://img.shields.io/github/languages/top/protyposis/Aurio?color=pink&style=flat-square)|[![](https://flat.badgen.net/github/license/protyposis/Aurio?label=)](https://github.com/protyposis/Aurio/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/protyposis/Aurio?label=)](https://github.com/protyposis/Aurio/graphs/code-frequency)|
 |[soundfingerprinting](https://github.com/AddictedCS/soundfingerprinting)|A C# framework designed for companies, enthusiasts, researchers in the fields of audio and digital signal processing, data mining and audio recognition|![](https://img.shields.io/github/languages/top/AddictedCS/soundfingerprinting?color=pink&style=flat-square)|[![](https://flat.badgen.net/github/license/AddictedCS/soundfingerprinting?label=)](https://github.com/AddictedCS/soundfingerprinting/blob/develop/license.txt)|[![](https://flat.badgen.net/github/last-commit/AddictedCS/soundfingerprinting?label=)](https://github.com/AddictedCS/soundfingerprinting/graphs/code-frequency)|
@@ -59,7 +75,11 @@
 
 
 ## Mastering [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+> **Note**
+> _`SORT: unsorted`_
+
+
+|Name & URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[master_me](https://github.com/trummerschlunk/master_me)|Automatic mastering plugin for live streaming, podcasts and internet radio|![](https://img.shields.io/github/languages/top/trummerschlunk/master_me?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/trummerschlunk/master_me?label=)|![](https://flat.badgen.net/github/last-commit/trummerschlunk/master_me?label=)|
 |[Yams](https://github.com/adammurdocknh/YAMS)|An audio plugin for a 30 second master.|![](https://img.shields.io/github/languages/top/adammurdocknh/YAMS?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/adammurdocknh/YAMS?label=)|![](https://flat.badgen.net/github/last-commit/adammurdocknh/YAMS?label=)|
@@ -70,7 +90,11 @@
 |[Matchering 2.0](https://github.com/sergree/matchering)|A novel Containerized Web Application and Python Library for audio matching and mastering|[![](https://img.shields.io/github/languages/top/sergree/matchering?color=pink&style=flat-square)](https://github.com/sergree/matchering/graphs/contributors)|[![](https://flat.badgen.net/github/license/sergree/matchering?label=)](https://github.com/sergree/matchering/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/sergree/matchering?label=)](https://github.com/sergree/matchering/graphs/code-frequency)|
 
 ## Noise reducing [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+> **Note**
+> _`SORT: unsorted`_
+
+
+|Name & URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[libspecbleach](https://github.com/lucianodato/libspecbleach)|C library for audio noise reduction and other spectral effects|![](https://img.shields.io/github/languages/top/lucianodato/libspecbleach?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/lucianodato/libspecbleach?label=)|![](https://flat.badgen.net/github/last-commit/lucianodato/libspecbleach?label=)|
 |[Joint Audio Correction Kit (J.A.C.K.)](https://cooperbarth.github.io/Joint-Audio-Correction-Kit/)|An effective solution for stationary audio noise reduction|![](https://img.shields.io/github/languages/top/cooperbarth/Joint-Audio-Correction-Kit?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/cooperbarth/Joint-Audio-Correction-Kit?label=)|![](https://flat.badgen.net/github/last-commit/cooperbarth/Joint-Audio-Correction-Kit?label=)|
@@ -84,7 +108,10 @@
 |[Denoise-Human-Voice](https://github.com/kumar306Ankit/Denoise-Human-Voice#readme)|Aims to remove unwanted noise from human voice using a technique called band-limited noise|[![](https://img.shields.io/github/languages/top/kumar306Ankit/Denoise-Human-Voice?color=pink&style=flat-square)](https://github.com/kumar306Ankit/Denoise-Human-Voice/graphs/contributors)|[![](https://flat.badgen.net/github/license/kumar306Ankit/Denoise-Human-Voice?label=)](https://github.com/kumar306Ankit/Denoise-Human-Voice/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/kumar306Ankit/Denoise-Human-Voice?label=)](https://github.com/kumar306Ankit/Denoise-Human-Voice/graphs/code-frequency)|
 
 ## Phasing [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+> **Note**
+> _`SORT: unsorted`_
+
+|Name & URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[phase_reconstruction](https://github.com/victormassatieze/phase_reconstruction)|Python implementations of some phase reconstruction algorithms for audio recovery from magnitude spectrograms|![](https://img.shields.io/github/languages/top/victormassatieze/phase_reconstruction?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/victormassatieze/phase_reconstruction?label=)|![](https://flat.badgen.net/github/last-commit/victormassatieze/phase_reconstruction?label=)|
 |[phaserotate.lv2](https://x42-plugins.com/x42/x42-phaserotate)|a simple plugin with a single control-slider to shift the phase of the signal ± 180 deg|![](https://img.shields.io/github/languages/top/x42/phaserotate.lv2?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/x42/phaserotate.lv2?label=)|![](https://flat.badgen.net/github/last-commit/x42/phaserotate.lv2?label=)|
@@ -95,7 +122,10 @@
 |[A4PC](https://github.com/conundrumer/A4PC)|Automatic Analog Audio Alignment for Phase Cancellation|![](https://img.shields.io/github/languages/top/conundrumer/A4PC?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/conundrumer/A4PC?label=)|![](https://flat.badgen.net/github/last-commit/conundrumer/A4PC?label=)|
 
 ## Restoring [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+> **Note**
+> _`SORT: unsorted`_
+
+|Name & URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Python Audio Restoration Suite](https://github.com/HENDRIX-ZT2/pyaudiorestoration)|A set of tools to restore audio quality from a variety of old analog sources|![](https://img.shields.io/github/languages/top/HENDRIX-ZT2/pyaudiorestoration?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/HENDRIX-ZT2/pyaudiorestoration?label=)|![](https://flat.badgen.net/github/last-commit/HENDRIX-ZT2/pyaudiorestoration?label=)|
 |[DEVINYL](https://github.com/matiaszanolli/devinyl)|Recover vynils beyond recovering|![](https://img.shields.io/github/languages/top/matiaszanolli/devinyl?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/matiaszanolli/devinyl?label=)|![](https://flat.badgen.net/github/last-commit/matiaszanolli/devinyl?label=)|
@@ -108,7 +138,10 @@
 
 
 ## Resampling [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+> **Note**
+> _`SORT: Language (A>Z) > License (openness) > Website (A>Z)`_
+
+|Name & URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[ReSampler](https://github.com/jniemann66/ReSampler#readme)|High quality command-line audio sample rate converter|[![](https://img.shields.io/github/languages/top/jniemann66/ReSampler?color=pink&style=flat-square)](https://github.com/jniemann66/ReSampler/graphs/contributors)|[![](https://flat.badgen.net/github/license/jniemann66/ReSampler?label=)](https://github.com/jniemann66/ReSampler/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jniemann66/ReSampler/master?label=)](https://github.com/jniemann66/ReSampler/graphs/code-frequency)|
 |[resampler](https://github.com/cpuimage/resampler#readme)|A Simple and Efficient Audio Resampler Implementation in C|[![](https://img.shields.io/github/languages/top/cpuimage/resampler?color=pink&style=flat-square)](https://github.com/cpuimage/resampler/graphs/contributors)|[![](https://flat.badgen.net/github/license/cpuimage/resampler?label=)](https://github.com/cpuimage/resampler/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/cpuimage/resampler/master?label=)](https://github.com/cpuimage/resampler/graphs/code-frequency)|
