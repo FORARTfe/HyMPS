@@ -1,5 +1,5 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "AUDIO resources") [![Editors](https://flat.badgen.net/badge/HyMPS/Editors/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#editors "Editors") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
-## Subsections: [Generic](#generic-) - [Audacity-based](#audacity-based-) - [Tools](#tools-)
+## Subsections: [Generic](#generic-) - [Audacity-based](#audacity-based-) - [Loopers](#loopers-) [Tools](#tools-)
 
 >**Note** _**`SORT: Language (a>z) > License (openness) > Name / URL (a>z)`**_
 
@@ -26,6 +26,11 @@
 |[Audacium](https://audacium.github.io/audacium/)|Free and open-source audio editor|[![](https://img.shields.io/github/languages/top/SartoxSoftware/audacium?color=pink&style=flat-square)](https://github.com/SartoxSoftware/audacium/graphs/contributors)|[![](https://flat.badgen.net/github/license/SartoxSoftware/audacium?label=)](https://github.com/SartoxSoftware/audacium/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/SartoxSoftware/audacium?label=)](https://github.com/SartoxSoftware/audacium/graphs/code-frequency)|
 |[Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity#readme)|An easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems|[![](https://img.shields.io/github/languages/top/Sneeds-Feed-and-Seed/sneedacity?color=pink&style=flat-square)](https://github.com/Sneeds-Feed-and-Seed/sneedacity/graphs/contributors)|[![](https://flat.badgen.net/github/license/Sneeds-Feed-and-Seed/sneedacity?label=)](https://github.com/Sneeds-Feed-and-Seed/sneedacity/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Sneeds-Feed-and-Seed/sneedacity?label=)](https://github.com/Sneeds-Feed-and-Seed/sneedacity/graphs/code-frequency)|
 |[Tenacity](https://tenacityaudio.org/)|An easy-to-use, cross-platform multi-track audio editor/recorder|[![](https://img.shields.io/github/languages/top/tenacityteam/tenacity?color=pink&style=flat-square)](https://github.com/tenacityteam/tenacity/graphs/contributors)|[![](https://flat.badgen.net/github/license/tenacityteam/tenacity?label=)](https://github.com/tenacityteam/tenacity/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/tenacityteam/tenacity?label=)](https://github.com/tenacityteam/tenacity/graphs/code-frequency)|
+
+## Loopers [⌂](#--)
+|Name / URL|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[Giada](https://www.giadamusic.com/)|An open source, minimalistic and hardcore music production tool|[![](https://img.shields.io/github/languages/top/monocasual/giada?color=pink&style=flat-square)](https://github.com/monocasual/giada/graphs/contributors)|[![](https://flat.badgen.net/github/license/monocasual/giada?label=)](https://github.com/monocasual/giada/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/monocasual/giada/master?label=)](https://github.com/monocasual/giada/graphs/code-frequency)|
 
 
 ## Tools [⌂](#--)
