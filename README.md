@@ -1,4 +1,6 @@
 ## [![#HyMPS](http://www.forart.it/progetti/HyMPS/logo.png)](https://github.com/forart/HyMPS# "HYbrid Multimedia Production Suite") <img src="https://c.andyhoppe.com/1686913050" align="right" style="border:none" alt="Visite" />
+It will be platform-indipendent software suite for advanced audio/video contents production.
+
 
 ## [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=3)]() ##
 
