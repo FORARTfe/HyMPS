@@ -1,4 +1,6 @@
-# [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ![Editors](https://flat.badgen.net/badge/HyMPS/Editors/blue?scale=1.8&label=) <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+# [![AUDIO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![Editors](https://flat.badgen.net/badge/HyMPS/Editors/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#editors-1 "Editors") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
+
+>**Note** _**`SORT: Language (a>z) > License (openness) > Name / URL (a>z)`**_
 
 ## Subsections: [Non-Linear Video Editors](#non-linear-video-editors-) - [Video Compositors](#video-compositors-) - [Other](#other-)
 
