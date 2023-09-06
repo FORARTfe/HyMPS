@@ -2,7 +2,15 @@
 
 >**Note** _**`SORT: Language (a>z) > License (openness) > Name / URL (a>z)`**_
 
-## Subsections: [Non-Linear Video Editors](#non-linear-video-editors-) - [Video Compositors](#video-compositors-) - [Other](#other-)
+## Subsections: [AI-based](#ai-based-) - [Non-Linear Video Editors](#non-linear-video-editors-) - [Video Compositors](#video-compositors-) - [Uncategorized](#uncategorized-)
+
+## AI-based [⌂](#--)
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[folioviz.ai](https://github.com/darekm101/folioviz.ai#readme)|Video Editor driven by Ai|[![](https://img.shields.io/github/languages/top/darekm101/folioviz.ai?color=pink&style=flat-square)](https://github.com/darekm101/folioviz.ai/graphs/contributors)|[![](https://flat.badgen.net/github/license/darekm101/folioviz.ai?label=)](https://github.com/darekm101/folioviz.ai/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/darekm101/folioviz.ai/main?label=)](https://github.com/darekm101/folioviz.ai/graphs/code-frequency)|
+|[Framester](https://github.com/mohitgupta3/Framester#readme)|An AI driven Video manipulation toolkit|[![](https://img.shields.io/github/languages/top/mohitgupta3/Framester?color=pink&style=flat-square)](https://github.com/mohitgupta3/Framester/graphs/contributors)|[![](https://flat.badgen.net/github/license/mohitgupta3/Framester?label=)](https://github.com/mohitgupta3/Framester/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mohitgupta3/Framester/main?label=)](https://github.com/mohitgupta3/Framester/graphs/code-frequency)|
+|[VideoEditor](https://github.com/parthdomadia/VideoEditor#readme)|AI assisted video editor based on motion difference between the frames of given videos|[![](https://img.shields.io/github/languages/top/parthdomadia/VideoEditor?color=pink&style=flat-square)](https://github.com/parthdomadia/VideoEditor/graphs/contributors)|[![](https://flat.badgen.net/github/license/parthdomadia/VideoEditor?label=)](https://github.com/parthdomadia/VideoEditor/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/parthdomadia/VideoEditor/master?label=)](https://github.com/parthdomadia/VideoEditor/graphs/code-frequency)|
+|[ai_video_editor](https://github.com/alumiaCoder/expS_ai_video_editor#readme)|A yolov7 based, human aware video editor for real time video manipulation|[![](https://img.shields.io/github/languages/top/alumiaCoder/expS_ai_video_editor?color=pink&style=flat-square)](https://github.com/alumiaCoder/expS_ai_video_editor/graphs/contributors)|[![](https://flat.badgen.net/github/license/alumiaCoder/expS_ai_video_editor?label=)](https://github.com/alumiaCoder/expS_ai_video_editor/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/alumiaCoder/expS_ai_video_editor/main?label=)](https://github.com/alumiaCoder/expS_ai_video_editor/graphs/code-frequency)|
 
 ## Non-Linear Video Editors [⌂](#--)
 |Website|Short description|Language|License|Last commit|
@@ -27,7 +35,9 @@
 |[VidPy](https://antiboredom.github.io/vidpy/)|A Python video editor and compositor based on the [MLT Multimedia Framework](https://www.mltframework.org/)|[![](https://img.shields.io/github/languages/top/antiboredom/vidpy?color=pink&style=flat-square)](https://github.com/antiboredom/vidpy/graphs/contributors)|[![](https://flat.badgen.net/github/license/antiboredom/vidpy?label=)](https://github.com/antiboredom/vidpy/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/antiboredom/vidpy?label=)](https://github.com/antiboredom/vidpy/graphs/code-frequency)|
 |[Vcdp](https://github.com/overdev-l/vcdp#readme)|Quickly build WYSIWYG video editors|[![](https://img.shields.io/github/languages/top/overdev-l/vcdp?color=pink&style=flat-square)](https://github.com/overdev-l/vcdp/graphs/contributors)|[![](https://flat.badgen.net/github/license/overdev-l/vcdp?label=)](https://github.com/overdev-l/vcdp/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/overdev-l/vcdp?label=)](https://github.com/overdev-l/vcdp/graphs/code-frequency)|
 
-## Other [⌂](#--)
+## Uncategorized [⌂](#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[Custom Video Editor](https://github.com/joec05/custom_video_editor#readme)|Video editor designed for trimming and cropping videos|[![](https://img.shields.io/github/languages/top/joec05/custom_video_editor?color=pink&style=flat-square)](https://github.com/joec05/custom_video_editor/graphs/contributors)|[![](https://flat.badgen.net/github/license/joec05/custom_video_editor?label=)](https://github.com/joec05/custom_video_editor/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/joec05/custom_video_editor/master?label=)](https://github.com/joec05/custom_video_editor/graphs/code-frequency)|
 |[Brave](https://github.com/bbc/brave#readme)|Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud|[![](https://img.shields.io/github/languages/top/bbc/brave?color=pink&style=flat-square)](https://github.com/bbc/brave/graphs/contributors)|[![](https://flat.badgen.net/github/license/bbc/brave?label=)](https://github.com/bbc/brave/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/bbc/brave/master?label=)](https://github.com/bbc/brave/graphs/code-frequency)|
+
