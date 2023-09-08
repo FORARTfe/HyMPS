@@ -2,7 +2,7 @@
 
 ## Subsections: [Mix](#mix-) - [Drums](#drums-) - [Bass](#bass-) - [Guitar](#guitar-) - [MIDI](#midi-) - [Misc](#misc-)
 
->**Note** _**`SORT: none`**_
+>**Note** _**`SORT: unsorted`**_
 
 ## Mix [⌂](#--)
 |Website|Short description|Language|License|Last commit|
