@@ -10,7 +10,7 @@
 |[DeOldify](https://github.com/jantic/DeOldify#readme)|A Deep Learning based project for colorizing and restoring old images (and video!)|[![](https://img.shields.io/github/languages/top/jantic/DeOldify?color=pink&style=flat-square)](https://github.com/jantic/DeOldify/graphs/contributors)|[![](https://flat.badgen.net/github/license/jantic/DeOldify?label=)](https://github.com/jantic/DeOldify/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jantic/DeOldify/master?label=)](https://github.com/jantic/DeOldify/graphs/code-frequency)|
 
 Todo:
-[Awesome Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion#awesome-video-diffusion--)
-[Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization#awesome-image-colorization)/[Video Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization#4-video-colorization)
-[Video restoration based on deep learning: a comprehensive survey](https://github.com/claudiom4sir/VideoRestoration)
+- [Awesome Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion#awesome-video-diffusion--)
+- [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization#awesome-image-colorization)/[Video Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization#4-video-colorization)
+- [Video restoration based on deep learning: a comprehensive survey](https://github.com/claudiom4sir/VideoRestoration)
 
