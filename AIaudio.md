@@ -5,25 +5,25 @@
 >**Note** _**`SORT: unsorted`**_
 
 ## Mix [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+|Git|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[automix-toolkit](https://github.com/csteinmetz1/automix-toolkit#readme)|Models and datasets for training deep learning automatic mixing models|[![](https://img.shields.io/github/languages/top/csteinmetz1/automix-toolkit?color=pink&style=flat-square)](https://github.com/csteinmetz1/automix-toolkit/graphs/contributors)|[![](https://flat.badgen.net/github/license/csteinmetz1/automix-toolkit?label=)](https://github.com/csteinmetz1/automix-toolkit/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/csteinmetz1/automix-toolkit/main?label=)](https://github.com/csteinmetz1/automix-toolkit/graphs/code-frequency)|
 |[AudMIX](https://github.com/dssudake/AudMIX#readme)|A web-based system for processing Audio using Deep Learning|[![](https://img.shields.io/github/languages/top/dssudake/AudMIX?color=pink&style=flat-square)](https://github.com/dssudake/AudMIX/graphs/contributors)|[![](https://flat.badgen.net/github/license/dssudake/AudMIX?label=)](https://github.com/dssudake/AudMIX/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/dssudake/AudMIX/master?label=)](https://github.com/dssudake/AudMIX/graphs/code-frequency)|
 |[deep-audio-mixer](https://github.com/apelykh/deep-audio-mixer#readme)|Deep Learning based system for audio mixing|[![](https://img.shields.io/github/languages/top/apelykh/deep-audio-mixer?color=pink&style=flat-square)](https://github.com/apelykh/deep-audio-mixer/graphs/contributors)|[![](https://flat.badgen.net/github/license/apelykh/deep-audio-mixer?label=)](https://github.com/apelykh/deep-audio-mixer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/apelykh/deep-audio-mixer/master?label=)](https://github.com/apelykh/deep-audio-mixer/graphs/code-frequency)|
 
 ## Drums [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+|Git|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Final-Project](https://github.com/KyleDhauke/Final-Project#readme)|A deep learning, source separation program which uses source separation to detect drum beats from audio and transcribe them to MIDI|[![](https://img.shields.io/github/languages/top/KyleDhauke/Final-Project?color=pink&style=flat-square)](https://github.com/KyleDhauke/Final-Project/graphs/contributors)|[![](https://flat.badgen.net/github/license/KyleDhauke/Final-Project?label=)](https://github.com/KyleDhauke/Final-Project/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/KyleDhauke/Final-Project/master?label=)](https://github.com/KyleDhauke/Final-Project/graphs/code-frequency)|
 |[Mix-Wave-U-Net](https://github.com/f90/Mix-Wave-U-Net/#readme)|Implementation of the [Mix-Wave-U-Net](https://www.aes.org/e-lib/browse.cfm?elib=21023) for automatic mixing of drums|[![](https://img.shields.io/github/languages/top/f90/Mix-Wave-U-Net/?color=pink&style=flat-square)](https://github.com/f90/Mix-Wave-U-Net//graphs/contributors)|[![](https://flat.badgen.net/github/license/f90/Mix-Wave-U-Net/?label=)](https://github.com/f90/Mix-Wave-U-Net//blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/f90/Mix-Wave-U-Net//master?label=)](https://github.com/f90/Mix-Wave-U-Net//graphs/code-frequency)|
 
 ## Bass [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+|Git|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Beatle-Basslines](https://github.com/jmineroff/Beatle-Basslines#readme)|Deep Learning model for creation of an instrument track in a performer's style from other tracks in a MIDI file|[![](https://img.shields.io/github/languages/top/jmineroff/Beatle-Basslines?color=pink&style=flat-square)](https://github.com/jmineroff/Beatle-Basslines/graphs/contributors)|[![](https://flat.badgen.net/github/license/jmineroff/Beatle-Basslines?label=)](https://github.com/jmineroff/Beatle-Basslines/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jmineroff/Beatle-Basslines/master?label=)](https://github.com/jmineroff/Beatle-Basslines/graphs/code-frequency)|
 
 ## Guitar [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+|Git|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[SmartAmpPro](https://github.com/GuitarML/SmartAmpPro#readme)|Guitar plugin made with JUCE that uses neural network models to emulate real world hardware|[![](https://img.shields.io/github/languages/top/GuitarML/SmartAmpPro?color=pink&style=flat-square)](https://github.com/GuitarML/SmartAmpPro/graphs/contributors)|[![](https://flat.badgen.net/github/license/GuitarML/SmartAmpPro?label=)](https://github.com/GuitarML/SmartAmpPro/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/GuitarML/SmartAmpPro?label=)](https://github.com/GuitarML/SmartAmpPro/graphs/code-frequency)|
 |[SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp#readme)|Guitar plugin made with JUCE that uses neural network models to emulate real world hardware|[![](https://img.shields.io/github/languages/top/GuitarML/SmartGuitarAmp?color=pink&style=flat-square)](https://github.com/GuitarML/SmartGuitarAmp/graphs/contributors)|[![](https://flat.badgen.net/github/license/GuitarML/SmartGuitarAmp?label=)](https://github.com/GuitarML/SmartGuitarAmp/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/GuitarML/SmartGuitarAmp?label=)](https://github.com/GuitarML/SmartGuitarAmp/graphs/code-frequency)|
@@ -35,13 +35,13 @@
 |[NAM: neural amp modeler](https://github.com/sdatkinson/neural-amp-modeler#readme)|Neural network emulator for guitar amplifiers|[![](https://img.shields.io/github/languages/top/sdatkinson/neural-amp-modeler?color=pink&style=flat-square)](https://github.com/sdatkinson/neural-amp-modeler/graphs/contributors)|[![](https://flat.badgen.net/github/license/sdatkinson/neural-amp-modeler?label=)](https://github.com/sdatkinson/neural-amp-modeler/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/sdatkinson/neural-amp-modeler?label=)](https://github.com/sdatkinson/neural-amp-modeler/graphs/code-frequency)|
 
 ## MIDI [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+|Git|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[NeuralNote](https://github.com/DamRsn/NeuralNote#readme)|Audio Plugin for Audio to MIDI transcription using deep learning|[![](https://img.shields.io/github/languages/top/DamRsn/NeuralNote?color=pink&style=flat-square)](https://github.com/DamRsn/NeuralNote/graphs/contributors)|[![](https://flat.badgen.net/github/license/DamRsn/NeuralNote?label=)](https://github.com/DamRsn/NeuralNote/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/DamRsn/NeuralNote/master?label=)](https://github.com/DamRsn/NeuralNote/graphs/code-frequency)|
 
 
 ## Misc [⌂](#--)
-|Website|Short description|Language|License|Last commit|
+|Git|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Musical-Accompaniment-GAN](https://github.com/RaphRozenblum/Musical-Accompaniment-GAN#readme)|Deep Learning project to create a model for accompaniment of piano tracks with guitar, strings, bass and drums|[![](https://img.shields.io/github/languages/top/RaphRozenblum/Musical-Accompaniment-GAN?color=pink&style=flat-square)](https://github.com/RaphRozenblum/Musical-Accompaniment-GAN/graphs/contributors)|[![](https://flat.badgen.net/github/license/RaphRozenblum/Musical-Accompaniment-GAN?label=)](https://github.com/RaphRozenblum/Musical-Accompaniment-GAN/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/RaphRozenblum/Musical-Accompaniment-GAN/master?label=)](https://github.com/RaphRozenblum/Musical-Accompaniment-GAN/graphs/code-frequency)|
 |[Automatic Transcription via DL](https://github.com/9rg/AutomaticTranscription-viaDL#readme)|Deep learning Japanese instruments - flute and drum - automatic transcription|[![](https://img.shields.io/github/languages/top/9rg/AutomaticTranscription-viaDL?color=pink&style=flat-square)](https://github.com/9rg/AutomaticTranscription-viaDL/graphs/contributors)|[![](https://flat.badgen.net/github/license/9rg/AutomaticTranscription-viaDL?label=)](https://github.com/9rg/AutomaticTranscription-viaDL/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/9rg/AutomaticTranscription-viaDL/master?label=)](https://github.com/9rg/AutomaticTranscription-viaDL/graphs/code-frequency)|
