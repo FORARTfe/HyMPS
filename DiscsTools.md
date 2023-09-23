@@ -2,7 +2,7 @@
 
 ## Subsections: [Burning](#burning-) - [Dumping](#dumping-) - [Ripping](#ripping-)
 
->**Note** _**`SORT: unsorted`**_
+>**Note** _**`UNSORTED`**_
 
 ## Burning [⌂](#--)
 |URL|Short description|Language|License|Last commit|
@@ -13,6 +13,7 @@
 |URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[DiscImageCreator](http://forum.redump.org/topic/10483/discimagecreator/)|This is the disc (CD, GD, DVD, HD-DVD, BD, GC/Wii, XBOX, XBOX 360) and disk (Floppy, MO, USB etc) image creation tool|[![](https://img.shields.io/github/languages/top/saramibreak/DiscImageCreator?color=pink&style=flat-square)](https://github.com/saramibreak/DiscImageCreator/graphs/contributors)|[![](https://flat.badgen.net/github/license/saramibreak/DiscImageCreator?label=)](https://github.com/saramibreak/DiscImageCreator/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/saramibreak/DiscImageCreator/master?label=)](https://github.com/saramibreak/DiscImageCreator/graphs/code-frequency)|
+|[redumper](https://github.com/superg/redumper#readme)|Low level CD dumper utility|[![](https://img.shields.io/github/languages/top/superg/redumper?color=pink&style=flat-square)](https://github.com/superg/redumper/graphs/contributors)|[![](https://flat.badgen.net/github/license/superg/redumper?label=)](https://github.com/superg/redumper/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/superg/redumper?label=)](https://github.com/superg/redumper/graphs/code-frequency)|
 
 ## Ripping [⌂](#--)
 |URL|Short description|Language|License|Last commit|
