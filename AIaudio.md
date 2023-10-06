@@ -2,7 +2,8 @@
 
 ## Subsections: [Codecs](#codecs-) - [Mixing](#mixing-) - [Drums](#drums-) - [Bass](#bass-) - [Guitar](#guitar-) - [MIDI](#midi-) - [Misc](#misc-)
 
->**Note** _**`SORT: unsorted`**_
+> **Note**
+> _`SORT: unsorted`_
 
 ## Codecs [⌂](#--)
 |Git|Short description|Language|License|Last commit|
