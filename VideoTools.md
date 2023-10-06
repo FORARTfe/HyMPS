@@ -3,7 +3,7 @@
 ## Subsections: [GUIs](#guis-) - [Enhancers](#enhancers-) - [Encoders](#encoders-) - [Codecs](#codecs-)
 
 > **Note**
-> _`SORT: Language (A>Z) > License (openness) > Website (A>Z)`_
+> _`SORT: Language (A>Z) > License (openness) > Name/URL (A>Z)`_
 
 
 ## GUIs [⌂](#--)
