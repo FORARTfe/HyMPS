@@ -1,11 +1,12 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
-Subsections: [GUIs](#guis-) - [Enhancers](#enhancers-) - [Encoders](#encoders-) - [Codecs](#codecs-)
 
-## GUIs [⌂](#--)
 > **Note**
 > _`SORT: Language (A>Z) > License (openness) > Website (A>Z)`_
 
-|Website|Short description|Language|License|Last commit|
+Subsections: [GUIs](#guis-) - [Enhancers](#enhancers-) - [Encoders](#encoders-) - [Codecs](#codecs-)
+
+## GUIs [⌂](#--)
+|URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[HandBrake](https://handbrake.fr/)|An open-source video transcoder|[![](https://img.shields.io/github/languages/top/HandBrake/HandBrake?color=pink&style=flat-square)](https://github.com/HandBrake/HandBrake/graphs/contributors)|[![](https://flat.badgen.net/github/license/HandBrake/HandBrake?label=)](https://github.com/HandBrake/HandBrake/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/HandBrake/HandBrake?label=)](https://github.com/HandBrake/HandBrake/graphs/code-frequency)|
 |[Video File Organiser](https://github.com/CraigWatt/vfo#readme)|A utility for batch-encoding your video portfolio|[![](https://img.shields.io/github/languages/top/CraigWatt/vfo?color=pink&style=flat-square)](https://github.com/CraigWatt/vfo/graphs/contributors)|[![](https://flat.badgen.net/github/license/CraigWatt/vfo?label=)](https://github.com/CraigWatt/vfo/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/CraigWatt/vfo?label=)](https://github.com/CraigWatt/vfo/graphs/code-frequency)|
@@ -33,29 +34,20 @@ Subsections: [GUIs](#guis-) - [Enhancers](#enhancers-) - [Encoders](#encoders-) 
 
 
 ## Enhancers [⌂](#--)
-> **Note**
-> _`SORT: Language (A>Z) > License (openness) > Website (A>Z)`_
-
-|Website|Short description|Language|License|Last commit|
+|URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[InterUpTool](https://github.com/GhostPoro/InterUpTool#readme)|GUI Tool for control, queue and automate video enhancing process, provided by FFMPEG video encoder, Real-ESRGAN image upscaler and RIFE/DAIN video frame interpolators|[![](https://img.shields.io/github/languages/top/GhostPoro/InterUpTool?color=pink&style=flat-square)](https://github.com/GhostPoro/InterUpTool/graphs/contributors)|[![](https://flat.badgen.net/github/license/GhostPoro/InterUpTool?label=)](https://github.com/GhostPoro/InterUpTool/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/GhostPoro/InterUpTool?label=)](https://github.com/GhostPoro/InterUpTool/graphs/code-frequency)|
 |[enhancr](https://github.com/mafiosnik777/enhancr#readme)|An elegant and easy to use GUI for Video Frame Interpolation and Video Upscaling which takes advantage of artificial intelligence|[![](https://img.shields.io/github/languages/top/mafiosnik777/enhancr?color=pink&style=flat-square)](https://github.com/mafiosnik777/enhancr/graphs/contributors)|[![](https://flat.badgen.net/github/license/mafiosnik777/enhancr?label=)](https://github.com/mafiosnik777/enhancr/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mafiosnik777/enhancr?label=)](https://github.com/mafiosnik777/enhancr/graphs/code-frequency)|
 
 
 ## Deep Learning [⌂](#--)
-> **Note**
-> _`SORT: Language (A>Z) > License (openness) > Website (A>Z)`_
-
-|Website|Short description|Language|License|Last commit|
+|URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[VSGAN-tensorrt-docker](https://github.com/styler00dollar/VSGAN-tensorrt-docker#readme)|Super resolution models and video frame interpolation models and also trying to speed them up with TensorRT|[![](https://img.shields.io/github/languages/top/styler00dollar/VSGAN-tensorrt-docker?color=pink&style=flat-square)](https://github.com/styler00dollar/VSGAN-tensorrt-docker/graphs/contributors)|[![](https://flat.badgen.net/github/license/styler00dollar/VSGAN-tensorrt-docker?label=)](https://github.com/styler00dollar/VSGAN-tensorrt-docker/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/styler00dollar/VSGAN-tensorrt-docker?label=)](https://github.com/styler00dollar/VSGAN-tensorrt-docker/graphs/code-frequency)|
 
 
 ## Encoders [⌂](#--)
-> **Note**
-> _`SORT: unsorted`_
-
-|Website|Short description|Language|License|Last commit|
+|URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[FFmpeg](https://ffmpeg.org/)|A complete, cross-platform solution to record, convert and stream audio and video|[![](https://img.shields.io/github/languages/top/FFmpeg/FFmpeg?color=pink&style=flat-square)](https://github.com/FFmpeg/FFmpeg/graphs/contributors)|[![](https://flat.badgen.net/github/license/FFmpeg/FFmpeg?label=)](https://github.com/FFmpeg/FFmpeg/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/FFmpeg/FFmpeg?label=)](https://github.com/FFmpeg/FFmpeg/graphs/code-frequency)|
 |[xin26x](https://github.com/pigpeppa/xin26x#readme)|Video Encoder for Now and Next Decade|[![](https://img.shields.io/github/languages/top/pigpeppa/xin26x?color=pink&style=flat-square)](https://github.com/pigpeppa/xin26x/graphs/contributors)|[![](https://flat.badgen.net/github/license/pigpeppa/xin26x?label=)](https://github.com/pigpeppa/xin26x/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/pigpeppa/xin26x?label=)](https://github.com/pigpeppa/xin26x/graphs/code-frequency)|
@@ -69,9 +61,6 @@ Subsections: [GUIs](#guis-) - [Enhancers](#enhancers-) - [Encoders](#encoders-) 
 
 
 ## Codecs [⌂](#--)
-> **Note**
-> _`SORT: Language (A>Z) > License (openness) > Website (A>Z)`_
-
-|Website|Short description|Language|License|Last commit|
+|URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Fraunhofer Versatile Video Encoder (VVenC)](https://www.hhi.fraunhofer.de/en/departments/vca/technologies-and-solutions/h266-vvc.html)|A fast and efficient H.266/VVC encoder implementation|[![](https://img.shields.io/github/languages/top/fraunhoferhhi/vvenc?color=pink&style=flat-square)](https://github.com/fraunhoferhhi/vvenc/graphs/contributors)|[![](https://flat.badgen.net/github/license/fraunhoferhhi/vvenc?label=)](https://github.com/fraunhoferhhi/vvenc/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/fraunhoferhhi/vvenc?label=)](https://github.com/fraunhoferhhi/vvenc/graphs/code-frequency)|
