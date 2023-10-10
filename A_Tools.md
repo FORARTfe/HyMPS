@@ -6,6 +6,7 @@
 ## Alignment/synch [⌂](#--)
 > **Note**
 > _`SORT: Language (A>Z) > License (openness) > Name/URL (A>Z)`_
+
 |Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio alignment tool](https://github.com/norihiro/alignaudio#readme)|A tool to align audio files|[![](https://img.shields.io/github/languages/top/norihiro/alignaudio?color=pink&style=flat-square)](https://github.com/norihiro/alignaudio/graphs/contributors)|[![](https://flat.badgen.net/github/license/norihiro/alignaudio?label=)](https://github.com/norihiro/alignaudio/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/norihiro/alignaudio?label=)](https://github.com/norihiro/alignaudio/graphs/code-frequency)|
@@ -24,6 +25,7 @@
 ## Declipping [⌂](#--)
 > **Note**
 > _`SORT: Language (A>Z) > License (openness) > Name/URL (A>Z)`_
+> 
 |Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[audio-declipper](https://github.com/kripton/audio-declipper#readme)|Proof-of-concept (or more) to declip sample-based audio files|[![](https://img.shields.io/github/languages/top/kripton/audio-declipper?color=pink&style=flat-square)](https://github.com/kripton/audio-declipper/graphs/contributors)|[![](https://flat.badgen.net/github/license/kripton/audio-declipper?label=)](https://github.com/kripton/audio-declipper/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/kripton/audio-declipper/master?label=)](https://github.com/kripton/audio-declipper/graphs/code-frequency)|
@@ -32,12 +34,15 @@
 |[spade-declipping](https://github.com/andryr/spade-declipping#readme)|Implementation of ASPADE and SSPADE declipping algorithms|[![](https://img.shields.io/github/languages/top/andryr/spade-declipping?color=pink&style=flat-square)](https://github.com/andryr/spade-declipping/graphs/contributors)|[![](https://flat.badgen.net/github/license/andryr/spade-declipping?label=)](https://github.com/andryr/spade-declipping/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/andryr/spade-declipping/main?label=)](https://github.com/andryr/spade-declipping/graphs/code-frequency)|
 |[declipnet](https://github.com/cocuh/declipnet#readme)|Declipping audio with deep learning technique (wavenet)|[![](https://img.shields.io/github/languages/top/cocuh/declipnet?color=pink&style=flat-square)](https://github.com/cocuh/declipnet/graphs/contributors)|[![](https://flat.badgen.net/github/license/cocuh/declipnet?label=)](https://github.com/cocuh/declipnet/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/cocuh/declipnet/master?label=)](https://github.com/cocuh/declipnet/graphs/code-frequency)|
 |[ClipAway](https://github.com/cplaguna-audio/ClipAway#readme)|Web Application To Declip Audio|[![](https://img.shields.io/github/languages/top/cplaguna-audio/ClipAway?color=pink&style=flat-square)](https://github.com/cplaguna-audio/ClipAway/graphs/contributors)|[![](https://flat.badgen.net/github/license/cplaguna-audio/ClipAway?label=)](https://github.com/cplaguna-audio/ClipAway/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/cplaguna-audio/ClipAway/master?label=)](https://github.com/cplaguna-audio/ClipAway/graphs/code-frequency)|
+|[Audio_declipping](https://github.com/glasry/Audio_declipping#readme)|Audio De-clipping Via Deep Learning|[![](https://img.shields.io/github/languages/top/glasry/Audio_declipping?color=pink&style=flat-square)](https://github.com/glasry/Audio_declipping/graphs/contributors)|[![](https://flat.badgen.net/github/license/glasry/Audio_declipping?label=)](https://github.com/glasry/Audio_declipping/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/glasry/Audio_declipping/main?label=)](https://github.com/glasry/Audio_declipping/graphs/code-frequency)|
 |[audio-declipper](https://github.com/Imado1997/audio-declipper#readme)|Audio Declipping with Social Sparsity|[![](https://img.shields.io/github/languages/top/Imado1997/audio-declipper?color=pink&style=flat-square)](https://github.com/Imado1997/audio-declipper/graphs/contributors)|[![](https://flat.badgen.net/github/license/Imado1997/audio-declipper?label=)](https://github.com/Imado1997/audio-declipper/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Imado1997/audio-declipper/main?label=)](https://github.com/Imado1997/audio-declipper/graphs/code-frequency)|
 |[Audio Declipping](https://github.com/paquiteau/audioDeclipping#readme)|audioDeclipping Project, Sparse coding course, ATSI Master|[![](https://img.shields.io/github/languages/top/paquiteau/audioDeclipping?color=pink&style=flat-square)](https://github.com/paquiteau/audioDeclipping/graphs/contributors)|[![](https://flat.badgen.net/github/license/paquiteau/audioDeclipping?label=)](https://github.com/paquiteau/audioDeclipping/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/paquiteau/audioDeclipping/master?label=)](https://github.com/paquiteau/audioDeclipping/graphs/code-frequency)|
+
 
 ## Dequantizing [⌂](#--)
 > **Note**
 > _`SORT: Language (A>Z) > License (openness) > Name/URL (A>Z)`_
+
 |Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio Dequantization Using (Co)Sparse (Non)Convex Methods](https://github.com/zawi01/audio_dequantization)|Accompanying source code repository to the [relative paper](https://arxiv.org/abs/2010.16386)|![](https://img.shields.io/github/languages/top/zawi01/audio_dequantization?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/zawi01/audio_dequantization?label=)|![](https://flat.badgen.net/github/last-commit/zawi01/audio_dequantization?label=)|
@@ -87,7 +92,6 @@
 ## Noise reducing [⌂](#--)
 > **Note**
 > _`SORT: Language (A>Z) > License (openness) > Website (A>Z)`_
-
 
 |Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
