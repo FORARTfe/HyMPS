@@ -2,7 +2,7 @@
 
 >**Note** _**`SORT: Language (a>z) > License (openness) > Name / URL (a>z)`**_
 
-## Subsections: [AI-based](#ai-based-) - [Non-Linear Video Editors](#non-linear-video-editors-) - [Video Compositors](#video-compositors-) - [Uncategorized](#uncategorized-)
+## Subsections: [AI-based](#ai-based-) - [Non-Linear Editors](#non-linear-editors-) - [Video Compositors](#video-compositors-) - [Uncategorized](#uncategorized-)
 
 ## AI-based [⌂](#--)
 |Website|Short description|Language|License|Last commit|
@@ -12,7 +12,7 @@
 |[VideoEditor](https://github.com/parthdomadia/VideoEditor#readme)|AI assisted video editor based on motion difference between the frames of given videos|[![](https://img.shields.io/github/languages/top/parthdomadia/VideoEditor?color=pink&style=flat-square)](https://github.com/parthdomadia/VideoEditor/graphs/contributors)|[![](https://flat.badgen.net/github/license/parthdomadia/VideoEditor?label=)](https://github.com/parthdomadia/VideoEditor/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/parthdomadia/VideoEditor/master?label=)](https://github.com/parthdomadia/VideoEditor/graphs/code-frequency)|
 |[ai_video_editor](https://github.com/alumiaCoder/expS_ai_video_editor#readme)|A yolov7 based, human aware video editor for real time video manipulation|[![](https://img.shields.io/github/languages/top/alumiaCoder/expS_ai_video_editor?color=pink&style=flat-square)](https://github.com/alumiaCoder/expS_ai_video_editor/graphs/contributors)|[![](https://flat.badgen.net/github/license/alumiaCoder/expS_ai_video_editor?label=)](https://github.com/alumiaCoder/expS_ai_video_editor/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/alumiaCoder/expS_ai_video_editor/main?label=)](https://github.com/alumiaCoder/expS_ai_video_editor/graphs/code-frequency)|
 
-## Non-Linear Video Editors [⌂](#--)
+## Non-Linear Editors [⌂](#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[MachinTruc](https://github.com/hftom/MachinTruc#readme)|A GPU accelerated non linear video editor|[![](https://img.shields.io/github/languages/top/hftom/MachinTruc?color=pink&style=flat-square)](https://github.com/hftom/MachinTruc/graphs/contributors)|[![](https://flat.badgen.net/github/license/hftom/MachinTruc?label=)](https://github.com/hftom/MachinTruc/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/hftom/MachinTruc?label=)](https://github.com/hftom/MachinTruc/graphs/code-frequency)|
