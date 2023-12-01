@@ -1,4 +1,4 @@
-# [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") ![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+# [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/tree/main#tools-1) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 
 ## Subsections: [GUIs](#guis-) - [Enhancers](#enhancers-) - [Encoders](#encoders-) - [Codecs](#codecs-)
 
@@ -32,7 +32,6 @@
 |[vs265-batch-GUI](https://github.com/010203le/vs265-batch-GUI#readme)|Self-use rough parameter batch pressing package GUI|[![](https://img.shields.io/github/languages/top/010203le/vs265-batch-GUI?color=pink&style=flat-square)](https://github.com/010203le/vs265-batch-GUI/graphs/contributors)|[![](https://flat.badgen.net/github/license/010203le/vs265-batch-GUI?label=)](https://github.com/010203le/vs265-batch-GUI/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/010203le/vs265-batch-GUI?label=)](https://github.com/010203le/vs265-batch-GUI/graphs/code-frequency)|
 |[StaxRip](https://github.com/staxrip/staxrip#readme)|A powerful video/audio encoding GUI for Windows|[![](https://img.shields.io/github/languages/top/staxrip/staxrip?color=pink&style=flat-square)](https://github.com/staxrip/staxrip/graphs/contributors)|[![](https://flat.badgen.net/github/license/staxrip/staxrip?label=)](https://github.com/staxrip/staxrip/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/staxrip/staxrip?label=)](https://github.com/staxrip/staxrip/graphs/code-frequency)|
 
-
 ## Enhancers [⌂](#--)
 |URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
@@ -53,7 +52,6 @@
 |[Av1an](https://github.com/master-of-zen/Av1an#readme)|Cross-platform command-line AV1 / VP9 / HEVC / H264 encoding framework with per scene quality encoding|[![](https://img.shields.io/github/languages/top/master-of-zen/Av1an?color=pink&style=flat-square)](https://github.com/master-of-zen/Av1an/graphs/contributors)|[![](https://flat.badgen.net/github/license/master-of-zen/Av1an?label=)](https://github.com/master-of-zen/Av1an/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/master-of-zen/Av1an?label=)](https://github.com/master-of-zen/Av1an/graphs/code-frequency)|
 |[x262](https://github.com/kierank/x262#readme)|x264 with MPEG-2 support|[![](https://img.shields.io/github/languages/top/kierank/x262?color=pink&style=flat-square)](https://github.com/kierank/x262/graphs/contributors)|[![](https://flat.badgen.net/github/license/kierank/x262?label=)](https://github.com/kierank/x262/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/kierank/x262?label=)](https://github.com/kierank/x262/graphs/code-frequency)|
 |[y262](https://github.com/rwillenbacher/y262#readme)|An mpeg-1/2 video encoder|[![](https://img.shields.io/github/languages/top/rwillenbacher/y262?color=pink&style=flat-square)](https://github.com/rwillenbacher/y262/graphs/contributors)|[![](https://flat.badgen.net/github/license/rwillenbacher/y262?label=)](https://github.com/rwillenbacher/y262/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/rwillenbacher/y262?label=)](https://github.com/rwillenbacher/y262/graphs/code-frequency)|
-
 
 ## Codecs [⌂](#--)
 |URL|Short description|Language|License|Last commit|
