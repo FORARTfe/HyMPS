@@ -38,13 +38,8 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[InterUpTool](https://github.com/GhostPoro/InterUpTool#readme)|GUI Tool for control, queue and automate video enhancing process, provided by FFMPEG video encoder, Real-ESRGAN image upscaler and RIFE/DAIN video frame interpolators|[![](https://img.shields.io/github/languages/top/GhostPoro/InterUpTool?color=pink&style=flat-square)](https://github.com/GhostPoro/InterUpTool/graphs/contributors)|[![](https://flat.badgen.net/github/license/GhostPoro/InterUpTool?label=)](https://github.com/GhostPoro/InterUpTool/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/GhostPoro/InterUpTool?label=)](https://github.com/GhostPoro/InterUpTool/graphs/code-frequency)|
 |[enhancr](https://github.com/mafiosnik777/enhancr#readme)|An elegant and easy to use GUI for Video Frame Interpolation and Video Upscaling which takes advantage of artificial intelligence|[![](https://img.shields.io/github/languages/top/mafiosnik777/enhancr?color=pink&style=flat-square)](https://github.com/mafiosnik777/enhancr/graphs/contributors)|[![](https://flat.badgen.net/github/license/mafiosnik777/enhancr?label=)](https://github.com/mafiosnik777/enhancr/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mafiosnik777/enhancr?label=)](https://github.com/mafiosnik777/enhancr/graphs/code-frequency)|
-
-
-## Deep Learning [⌂](#--)
-|URL|Short description|Language|License|Last commit|
-|:-:|:-:|:-:|:-:|:-:|
+|[Flowframes](https://github.com/n00mkrad/flowframes#readme)|Windows GUI for video interpolation using DAIN (NCNN) or RIFE (CUDA/NCNN)|[![](https://img.shields.io/github/languages/top/n00mkrad/flowframes?color=pink&style=flat-square)](https://github.com/n00mkrad/flowframes/graphs/contributors)|[![](https://flat.badgen.net/github/license/n00mkrad/flowframes?label=)](https://github.com/n00mkrad/flowframes/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/n00mkrad/flowframes/main?label=)](https://github.com/n00mkrad/flowframes/graphs/code-frequency)|
 |[VSGAN-tensorrt-docker](https://github.com/styler00dollar/VSGAN-tensorrt-docker#readme)|Super resolution models and video frame interpolation models and also trying to speed them up with TensorRT|[![](https://img.shields.io/github/languages/top/styler00dollar/VSGAN-tensorrt-docker?color=pink&style=flat-square)](https://github.com/styler00dollar/VSGAN-tensorrt-docker/graphs/contributors)|[![](https://flat.badgen.net/github/license/styler00dollar/VSGAN-tensorrt-docker?label=)](https://github.com/styler00dollar/VSGAN-tensorrt-docker/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/styler00dollar/VSGAN-tensorrt-docker?label=)](https://github.com/styler00dollar/VSGAN-tensorrt-docker/graphs/code-frequency)|
-
 
 ## Encoders [⌂](#--)
 |URL|Short description|Language|License|Last commit|
