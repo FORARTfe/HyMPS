@@ -1,4 +1,4 @@
-# [![VIDEO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![Processing](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#processing "Tools") <img align="right" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+# [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![Processing](https://flat.badgen.net/badge/HyMPS/Processing/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#processing "Processing") <img align="right" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 
 ## Subsections
 [Denoisers](#denoisers-) - [Frameworks](#frameworks-) - [Resources](#resources-)
