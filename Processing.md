@@ -1,6 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") [![Processing](https://flat.badgen.net/badge/HyMPS/Processing/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#processing "Processing") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [Denoisers](#denoisers-) - [Frameworks](#frameworks-) - [Stabilizers](#stabilizers) - [Resources](#resources-)
+## Subsections: [Denoisers](#denoisers-) - [Frameworks](#frameworks-) - [Stabilizers](#stabilizers-) - [Resources](#resources-)
 
 >**Note**
 >_**`UNSORTED`**_
