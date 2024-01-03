@@ -1,10 +1,10 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![RTSP](https://flat.badgen.net/badge/HyMPS/RTSP/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/tree/main#rtsp) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 Subsections: [Generic](#generic-) - [Android](#android-) - [Other](#other-) - [No data](#no-data-)
 
->**Note** _**`SORT: Language (a>z) > License (openness) > git (a>z)`**_
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
 ## Generic [«](RTSP.md#--)
-|git|Short description|Language|License|Last commit|
+|Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[lowlatency-live](https://github.com/janssen70/lowlatency-live#readme)|GTK+ application that sets up a low latency RTSP stream from IP camera|[![](https://img.shields.io/github/languages/top/janssen70/lowlatency-live?color=pink&style=flat-square)](https://github.com/janssen70/lowlatency-live/graphs/contributors)|[![](https://flat.badgen.net/github/license/janssen70/lowlatency-live?label=)](https://github.com/janssen70/lowlatency-live/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/janssen70/lowlatency-live/main?label=)](https://github.com/janssen70/lowlatency-live/graphs/code-frequency)|
 |[MomoPlayer](https://github.com/onlyet/MomoPlayer#readme)|A simple RTSP player（latency is between 200 and 300 milliseconds)|[![](https://img.shields.io/github/languages/top/onlyet/MomoPlayer?color=pink&style=flat-square)](https://github.com/onlyet/MomoPlayer/graphs/contributors)|[![](https://flat.badgen.net/github/license/onlyet/MomoPlayer?label=)](https://github.com/onlyet/MomoPlayer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/onlyet/MomoPlayer/master?label=)](https://github.com/onlyet/MomoPlayer/graphs/code-frequency)|
@@ -38,7 +38,7 @@ Subsections: [Generic](#generic-) - [Android](#android-) - [Other](#other-) - [N
 
 
 ## Android [«](RTSP.md#--)
-|git|Short description|Language|License|Last commit|
+|Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[RPlayer](https://github.com/Autokaka/rplayer#readme)|Flutter RTSP low latency video player for Android TV only|[![](https://img.shields.io/github/languages/top/Autokaka/rplayer?color=pink&style=flat-square)](https://github.com/Autokaka/rplayer/graphs/contributors)|[![](https://flat.badgen.net/github/license/Autokaka/rplayer?label=)](https://github.com/Autokaka/rplayer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Autokaka/rplayer/master?label=)](https://github.com/Autokaka/rplayer/graphs/code-frequency)|
 |[Ojo](https://github.com/penguin86/ojo#readme)|A basic RTSP IP Camera surveillance wall for Android|[![](https://img.shields.io/github/languages/top/penguin86/ojo?color=pink&style=flat-square)](https://github.com/penguin86/ojo/graphs/contributors)|[![](https://flat.badgen.net/github/license/penguin86/ojo?label=)](https://github.com/penguin86/ojo/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/penguin86/ojo/stable?label=)](https://github.com/penguin86/ojo/graphs/code-frequency)|
@@ -59,7 +59,7 @@ Subsections: [Generic](#generic-) - [Android](#android-) - [Other](#other-) - [N
 |[rtsp-samsung-tv](https://github.com/vzakharchenko/rtsp-samsung-tv#readme)|Display RTSP streams from IP Cameras on Samsung Smart TV (Tizen TV)|[![](https://img.shields.io/github/languages/top/vzakharchenko/rtsp-samsung-tv?color=pink&style=flat-square)](https://github.com/vzakharchenko/rtsp-samsung-tv/graphs/contributors)|[![](https://flat.badgen.net/github/license/vzakharchenko/rtsp-samsung-tv?label=)](https://github.com/vzakharchenko/rtsp-samsung-tv/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/vzakharchenko/rtsp-samsung-tv/master?label=)](https://github.com/vzakharchenko/rtsp-samsung-tv/graphs/code-frequency)|
 
 ## No data [«](RTSP.md#--)
-|git|Short description|Language|License|Last commit|
+|Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[RtspPlayer](https://github.com/ivankossdev/RtspPlayer#readme)|-|[![](https://img.shields.io/github/languages/top/ivankossdev/RtspPlayer?color=pink&style=flat-square)](https://github.com/ivankossdev/RtspPlayer/graphs/contributors)|[![](https://flat.badgen.net/github/license/ivankossdev/RtspPlayer?label=)](https://github.com/ivankossdev/RtspPlayer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ivankossdev/RtspPlayer/main?label=)](https://github.com/ivankossdev/RtspPlayer/graphs/code-frequency)|
 |[RTSP-Video-Player](https://github.com/manuarya1610/RTSP-Video-Player#readme)|-|[![](https://img.shields.io/github/languages/top/manuarya1610/RTSP-Video-Player?color=pink&style=flat-square)](https://github.com/manuarya1610/RTSP-Video-Player/graphs/contributors)|[![](https://flat.badgen.net/github/license/manuarya1610/RTSP-Video-Player?label=)](https://github.com/manuarya1610/RTSP-Video-Player/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/manuarya1610/RTSP-Video-Player/main?label=)](https://github.com/manuarya1610/RTSP-Video-Player/graphs/code-frequency)|
