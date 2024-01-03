@@ -2,9 +2,7 @@
 
 ## Subsections: [GUIs](#guis-) - [Enhancers](#enhancers-) - [Encoders](#encoders-) - [Codecs](#codecs-)
 
->**Note**
->_**`SORT: Language (a>z) > License (openness) > Name / URL (a>z)`**_
-
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
 ## GUIs [⌂](#--)
 |URL|Short description|Language|License|Last commit|
