@@ -2,7 +2,7 @@
 
 ## Subsections: [Burning](#burning-) - [Dumping](#dumping-) - [Ripping](#ripping-)
 
->**Note** _**`UNSORTED`**_
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: none}}$ 
 
 ## Burning [⌂](#--)
 |URL|Short description|Language|License|Last commit|
