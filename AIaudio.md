@@ -2,8 +2,7 @@
 
 ## Subsections: [Codecs](#codecs-) - [Mixing](#mixing-) - [Drums](#drums-) - [Bass](#bass-) - [Guitar](#guitar-) - [MIDI](#midi-) - [Source Separation](#source-separation-) - [Misc](#misc-)
 
->**Note**
->_**`SORT: Language (a>z) > License (openness) > Name / URL (a>z)`**_
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
 ## Codecs [⌂](#--)
 |Git|Short description|Language|License|Last commit|
