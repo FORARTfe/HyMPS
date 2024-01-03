@@ -1,9 +1,8 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") [![Libraries](https://flat.badgen.net/badge/HyMPS/Libraries/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#libraries-1 "Libraries") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
->**Note**
->_**`SORT: Language (a>z) > License (openness) > Name / URL (a>z)`**_
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
-|URL|Short description|Language|License|Last commit|
+|Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[MLT Multimedia Framework](https://www.mltframework.org/)|A multimedia framework, designed and developed for television broadcasting|[![](https://img.shields.io/github/languages/top/mltframework/mlt?color=pink&style=flat-square)](https://github.com/mltframework/mlt/graphs/contributors)|[![](https://flat.badgen.net/github/license/mltframework/mlt?label=)](https://github.com/mltframework/mlt/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mltframework/mlt?label=)](https://github.com/mltframework/mlt/graphs/code-frequency)|
 |[MediaCore](https://github.com/opencodewin/MediaCore#readme)|Non-linear editor framework. Present video and andio raw data as ImMat instances.|[![](https://img.shields.io/github/languages/top/opencodewin/MediaCore?color=pink&style=flat-square)](https://github.com/opencodewin/MediaCore/graphs/contributors)|[![](https://flat.badgen.net/github/license/opencodewin/MediaCore?label=)](https://github.com/opencodewin/MediaCore/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/opencodewin/MediaCore?label=)](https://github.com/opencodewin/MediaCore/graphs/code-frequency)|
