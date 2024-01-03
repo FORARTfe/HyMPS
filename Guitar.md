@@ -2,7 +2,7 @@
 
 Subsections: [Amp Sims](#amp-sims-) - [DSPs](#dsps-) - [Tuning](#tuning-) - [Impulse response](#impulse-response-) - [Libraries](#libraries-) - [Hardware](#hardware-)
 
->**Note** _**`SORT: Language (a>z) > License (openness) > Website (a>z)`**_
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
 ## Amp Sims [«](Guitar.md#--) 
 |Website|Short description|Language|License|Last commit|
