@@ -1,8 +1,8 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "AUDIO resources") [![Synthesizers](https://flat.badgen.net/badge/HyMPS/Synthesizers/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#synthesizers "Synthesizers") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
->**Note** _**`SORT: Language (a>z) > License (openness) > Name / URL (a>z)`**_
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
-|URL|Short description|Language|License|Last commit|
+|Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[hexter](http://smbolton.com/hexter.html)|A software synthesizer that models the sound generation of a [Yamaha DX7](https://en.wikipedia.org/wiki/Yamaha_DX7) synthesizer|[![](https://img.shields.io/github/languages/top/smbolton/hexter?color=pink&style=flat-square)](https://github.com/smbolton/hexter/graphs/contributors)|[![](https://flat.badgen.net/github/license/smbolton/hexter?label=)](https://github.com/smbolton/hexter/blob/master/COPYING)|[![](https://flat.badgen.net/github/last-commit/smbolton/hexter/master?label=)](https://github.com/smbolton/hexter/graphs/code-frequency)|
 |[andes](https://artfwo.github.io/andes/)|A digital software synthesizer based on Perlin noise|[![](https://img.shields.io/github/languages/top/artfwo/andes?color=pink&style=flat-square)](https://github.com/artfwo/andes/graphs/contributors)|[![](https://flat.badgen.net/github/license/artfwo/andes?label=)](https://github.com/artfwo/andes/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/artfwo/andes/master?label=)](https://github.com/artfwo/andes/graphs/code-frequency)|
