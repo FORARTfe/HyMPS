@@ -2,7 +2,7 @@
 
 ## Subsections: [Visualization](#visualization-) - [Analysis](#analysis-)
 
->**Note** _**`SORT: Language (a>z) > License (openness) > Name / URL (a>z)`**_
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
 ## Visualization [⌂](#--)
 |Name / URL|Short description|Language|License|Last commit|
