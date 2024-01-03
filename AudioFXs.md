@@ -2,6 +2,7 @@
 
 ## Subsections: [Bundles](#bundles-) - [Drums](#drums-) - [Guitar](https://github.com/forart/HyMPS/blob/main/Guitar.md#audio---effects---guitar-) - [Bass](#bass-) - [Vocals](#vocals-) - [Misc](#misc-)
 
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
 ## Bundles [⌂](#--)
 |URL|Short description|Language|License|Last commit|
