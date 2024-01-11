@@ -1,6 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/tree/main#tools-1 "Video tools") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [Codecs](#codecs-) - [Encoders](#encoders-) - [Encoding](#encoding-) - [GUIs](#guis-)
+## Subsections: [Codecs](#codecs-) - [Cut&Copy](#cutcopy-) - [Encoders](#encoders-) - [Encoding](#encoding-) - [GUIs](#guis-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -12,6 +12,8 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 ## Cut&Copy [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[VideoRangeCopier](https://github.com/butaixianran/VideoRangeCopier#readme)|A windows Avalonia App can cut a range of video into a new video without encoding|[![](https://img.shields.io/github/languages/top/butaixianran/VideoRangeCopier?color=pink&style=flat-square)](https://github.com/butaixianran/VideoRangeCopier/graphs/contributors)|[![](https://flat.badgen.net/github/license/butaixianran/VideoRangeCopier?label=)](https://github.com/butaixianran/VideoRangeCopier/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/butaixianran/VideoRangeCopier?label=)](https://github.com/butaixianran/VideoRangeCopier/graphs/code-frequency)|
+|[Cut videos](https://github.com/ChsHub/cut_videos#readme)|Program for cutting and encoding videos|[![](https://img.shields.io/github/languages/top/ChsHub/cut_videos?color=pink&style=flat-square)](https://github.com/ChsHub/cut_videos/graphs/contributors)|[![](https://flat.badgen.net/github/license/ChsHub/cut_videos?label=)](https://github.com/ChsHub/cut_videos/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ChsHub/cut_videos?label=)](https://github.com/ChsHub/cut_videos/graphs/code-frequency)|
 
 ## Encoders [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
