@@ -1,11 +1,11 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-2 "VIDEO resources") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/tree/main#tools-1 "Video tools") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [GUIs](#guis-) - [Enhancers](#enhancers-) - [Encoders](#encoders-) - [Codecs](#codecs-)
+## Subsections: [GUIs](#guis-) - [Encoders](#encoders-) - [Encoding Tools](#encoding-tools-) - [Codecs](#codecs-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
 ## GUIs [⌂](#--)
-|URL|Short description|Language|License|Last commit|
+|Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[HandBrake](https://handbrake.fr/)|An open-source video transcoder|[![](https://img.shields.io/github/languages/top/HandBrake/HandBrake?color=pink&style=flat-square)](https://github.com/HandBrake/HandBrake/graphs/contributors)|[![](https://flat.badgen.net/github/license/HandBrake/HandBrake?label=)](https://github.com/HandBrake/HandBrake/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/HandBrake/HandBrake?label=)](https://github.com/HandBrake/HandBrake/graphs/code-frequency)|
 |[Video File Organiser](https://github.com/CraigWatt/vfo#readme)|A utility for batch-encoding your video portfolio|[![](https://img.shields.io/github/languages/top/CraigWatt/vfo?color=pink&style=flat-square)](https://github.com/CraigWatt/vfo/graphs/contributors)|[![](https://flat.badgen.net/github/license/CraigWatt/vfo?label=)](https://github.com/CraigWatt/vfo/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/CraigWatt/vfo?label=)](https://github.com/CraigWatt/vfo/graphs/code-frequency)|
@@ -30,6 +30,11 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[TurnH264](https://github.com/craftnut/TurnH264#readme)|A simple GUI program that converts the selected video into H264 using FFmpeg|[![](https://img.shields.io/github/languages/top/craftnut/TurnH264?color=pink&style=flat-square)](https://github.com/craftnut/TurnH264/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/craftnut/TurnH264/blob/main/LICENSE.md)|[![](https://flat.badgen.net/github/last-commit/craftnut/TurnH264?label=)](https://github.com/craftnut/TurnH264/graphs/code-frequency)|
 |[vs265-batch-GUI](https://github.com/010203le/vs265-batch-GUI#readme)|Self-use rough parameter batch pressing package GUI|[![](https://img.shields.io/github/languages/top/010203le/vs265-batch-GUI?color=pink&style=flat-square)](https://github.com/010203le/vs265-batch-GUI/graphs/contributors)|[![](https://flat.badgen.net/github/license/010203le/vs265-batch-GUI?label=)](https://github.com/010203le/vs265-batch-GUI/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/010203le/vs265-batch-GUI?label=)](https://github.com/010203le/vs265-batch-GUI/graphs/code-frequency)|
 |[StaxRip](https://github.com/staxrip/staxrip#readme)|A powerful video/audio encoding GUI for Windows|[![](https://img.shields.io/github/languages/top/staxrip/staxrip?color=pink&style=flat-square)](https://github.com/staxrip/staxrip/graphs/contributors)|[![](https://flat.badgen.net/github/license/staxrip/staxrip?label=)](https://github.com/staxrip/staxrip/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/staxrip/staxrip?label=)](https://github.com/staxrip/staxrip/graphs/code-frequency)|
+
+## Encoding Tools [⌂](#--)
+|URL|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+
 
 ## Encoders [⌂](#--)
 |URL|Short description|Language|License|Last commit|
