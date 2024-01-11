@@ -2,7 +2,7 @@
 
 ## Subsections: [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-)
 
->**Note** _**`SORT: unsorted`**_
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
 ## Editing [⌂](#--)
 |Git|Short description|Language|License|Last commit|
