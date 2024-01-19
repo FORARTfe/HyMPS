@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO resources") [![AI-based projects](https://flat.badgen.net/badge/HyMPS/AI-based%20projects/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#ai-based "AI-based") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [Codecs](#codecs-) - [Mixing](#mixing-) - [Drums](#drums-) - [Bass](#bass-) - [Guitar](#guitar-) - [MIDI](#midi-) - [Source Separation](#source-separation-) - [Misc](#misc-)
+## Subsections: [Codecs](#codecs-) - [Mixing](#mixing-) - [Drums](#drums-) - [Bass](#bass-) - [Guitar](#guitar-) - [MIDI](#midi-) - [Fingerprinting](#fingerprinting-) - [Source Separation](#source-separation-) - [Misc](#misc-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -75,6 +75,13 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Audio Source Separation](https://github.com/Ankit123Mishra/audio-source-separation#readme)|Deep Neural Network model for Audio source separation|[![](https://img.shields.io/github/languages/top/Ankit123Mishra/audio-source-separation?color=pink&style=flat-square)](https://github.com/Ankit123Mishra/audio-source-separation/graphs/contributors)|[![](https://flat.badgen.net/github/license/Ankit123Mishra/audio-source-separation?label=)](https://github.com/Ankit123Mishra/audio-source-separation/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Ankit123Mishra/audio-source-separation?label=)](https://github.com/Ankit123Mishra/audio-source-separation/graphs/code-frequency)|
 |[CASS](https://github.com/ongyongzheng/cass#readme)|CROSS ADVERSARIAL SOURCE SEPARATION VIA AUTOENCODER|[![](https://img.shields.io/github/languages/top/ongyongzheng/cass?color=pink&style=flat-square)](https://github.com/ongyongzheng/cass/graphs/contributors)|[![](https://flat.badgen.net/github/license/ongyongzheng/cass?label=)](https://github.com/ongyongzheng/cass/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ongyongzheng/cass?label=)](https://github.com/ongyongzheng/cass/graphs/code-frequency)|
 |[GENERATIVE ADVERSARIAL SOURCE SEPARATION](https://github.com/ycemsubakan/sourceseparation_misc#readme)|Generative sourceseparation with GANs|[![](https://img.shields.io/github/languages/top/ycemsubakan/sourceseparation_misc?color=pink&style=flat-square)](https://github.com/ycemsubakan/sourceseparation_misc/graphs/contributors)|[![](https://flat.badgen.net/github/license/ycemsubakan/sourceseparation_misc?label=)](https://github.com/ycemsubakan/sourceseparation_misc/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ycemsubakan/sourceseparation_misc?label=)](https://github.com/ycemsubakan/sourceseparation_misc/graphs/code-frequency)|
+
+## Fingerprinting [⌂](#--)
+|Name + URL|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[neural-audio-fp](https://github.com/mimbres/neural-audio-fp)|Neural Audio Fingerprint for High-specific Audio Retrieval based on Contrasive Learning|![](https://img.shields.io/github/languages/top/mimbres/neural-audio-fp?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/mimbres/neural-audio-fp?label=)|![](https://flat.badgen.net/github/last-commit/mimbres/neural-audio-fp?label=)|
+|[FingerprintDNN](https://github.com/carlmoore256/FingerprintDNN)|Fast pitch detection using a deep neural network trained on audio fingerprints|![](https://img.shields.io/github/languages/top/carlmoore256/FingerprintDNN?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/carlmoore256/FingerprintDNN?label=)|![](https://flat.badgen.net/github/last-commit/carlmoore256/FingerprintDNN?label=)|
+|[pfann](https://github.com/stdio2016/pfann)|Neural Audio Fingerprint for High-specific Audio Retrieval based on Contrasive Learning|![](https://img.shields.io/github/languages/top/stdio2016/pfann?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/stdio2016/pfann?label=)|![](https://flat.badgen.net/github/last-commit/stdio2016/pfann?label=)|
 
 ## Misc [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
