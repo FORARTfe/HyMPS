@@ -5,14 +5,14 @@
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
 ## Denoisers [⌂](#--)
-|Name & URL|Short description|Language|License|Last commit|
+|Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Aydin](https://royerlab.github.io/aydin/)|User-friendly, Fast, Self-Supervised Image Denoising for All|[![](https://img.shields.io/github/languages/top/royerlab/aydin?color=pink&style=flat-square)](https://github.com/royerlab/aydin/graphs/contributors)|[![](https://flat.badgen.net/github/license/royerlab/aydin?label=)](https://github.com/royerlab/aydin/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/royerlab/aydin?label=)](https://github.com/royerlab/aydin/graphs/code-frequency)|
 |[Video-Filter](https://github.com/antonioam82/Video-Filter#readme)|denoise video files|[![](https://img.shields.io/github/languages/top/antonioam82/Video-Filter?color=pink&style=flat-square)](https://github.com/antonioam82/Video-Filter/graphs/contributors)|[![](https://flat.badgen.net/github/license/antonioam82/Video-Filter?label=)](https://github.com/antonioam82/Video-Filter/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/antonioam82/Video-Filter?label=)](https://github.com/antonioam82/Video-Filter/graphs/code-frequency)|
 
 
 ## Frameworks [⌂](#--)
-|Name & URL|Short description|Language|License|Last commit|
+|Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Frei0r](https://frei0r.dyne.org/)|Minimalistic plugin API for video effects|[![](https://img.shields.io/github/languages/top/dyne/frei0r?color=pink&style=flat-square)](https://github.com/dyne/frei0r/graphs/contributors)|[![](https://flat.badgen.net/github/license/dyne/frei0r?label=)](https://github.com/dyne/frei0r/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/dyne/frei0r/master?label=)](https://github.com/dyne/frei0r/graphs/code-frequency)|
 |[Movit](https://movit.sesse.net/)|An high-quality, high-performance, open-source library for video filters|[![](https://img.shields.io/github/languages/top/ddennedy/movit?color=pink&style=flat-square)](https://github.com/ddennedy/movit/graphs/contributors)|[![](https://flat.badgen.net/github/license/ddennedy/movit?label=)](https://github.com/ddennedy/movit/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ddennedy/movit/master?label=)](https://github.com/ddennedy/movit/graphs/code-frequency)|
@@ -20,7 +20,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[MetalVideoProcess](https://github.com/wangrenzhu/MetalVideoProcess#readme)|High-Performance video effects processing framework|[![](https://img.shields.io/github/languages/top/wangrenzhu/MetalVideoProcess?color=pink&style=flat-square)](https://github.com/wangrenzhu/MetalVideoProcess/graphs/contributors)|[![](https://flat.badgen.net/github/license/wangrenzhu/MetalVideoProcess?label=)](https://github.com/wangrenzhu/MetalVideoProcess/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/wangrenzhu/MetalVideoProcess/master?label=)](https://github.com/wangrenzhu/MetalVideoProcess/graphs/code-frequency)|
 
 ## Stabilizers [⌂](#--)
-|Name & URL|Short description|Language|License|Last commit|
+|Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[CUVISTA](https://rainermtb.github.io/cuvista/)|A small and simple Application to stabilize shaky video footage using the Cuda platform when available|[![](https://img.shields.io/github/languages/top/RainerMtb/cuvista?color=pink&style=flat-square)](https://github.com/RainerMtb/cuvista/graphs/contributors)|[![](https://flat.badgen.net/github/license/RainerMtb/cuvista?label=)](https://github.com/RainerMtb/cuvista/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/RainerMtb/cuvista/master?label=)](https://github.com/RainerMtb/cuvista/graphs/code-frequency)|
 |[VStabiliser](https://www.constantrobotics.com/video-stabilizer-lib)|Provides standard interface as well defines data structures and rules for different implementation of video stabilisation algorithms|[![](https://img.shields.io/github/languages/top/ConstantRobotics-Ltd/VStabiliser?color=pink&style=flat-square)](https://github.com/ConstantRobotics-Ltd/VStabiliser/graphs/contributors)|[![](https://flat.badgen.net/github/license/ConstantRobotics-Ltd/VStabiliser?label=)](https://github.com/ConstantRobotics-Ltd/VStabiliser/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ConstantRobotics-Ltd/VStabiliser?label=)](https://github.com/ConstantRobotics-Ltd/VStabiliser/graphs/code-frequency)|
