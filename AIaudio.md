@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO resources") [![AI-based projects](https://flat.badgen.net/badge/HyMPS/AI-based%20projects/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#ai-based "AI-based") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [Codecs](#codecs-) - [Mixing](#mixing-) - [Drums](#drums-) - [Bass](#bass-) - [Guitar](#guitar-) - [MIDI](#midi-) - [Fingerprinting](#fingerprinting-) - [Source Separation](#source-separation-) - [Misc](#misc-)
+## Subsections: [Codecs](#codecs-) - [Mixing](#mixing-) - [Drums](#drums-) - [Bass](#bass-) - [Guitar](#guitar-) - [MIDI](#midi-) - [Fingerprinting](#fingerprinting-) - [Source Separation](#source-separation-) - [Watermarking](#watermarking-) -  [Misc](#misc-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -85,7 +85,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[FingerprintDNN](https://github.com/carlmoore256/FingerprintDNN)|Fast pitch detection using a deep neural network trained on audio fingerprints|![](https://img.shields.io/github/languages/top/carlmoore256/FingerprintDNN?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/carlmoore256/FingerprintDNN?label=)|![](https://flat.badgen.net/github/last-commit/carlmoore256/FingerprintDNN?label=)|
 |[pfann](https://github.com/stdio2016/pfann)|Neural Audio Fingerprint for High-specific Audio Retrieval based on Contrasive Learning|![](https://img.shields.io/github/languages/top/stdio2016/pfann?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/stdio2016/pfann?label=)|![](https://flat.badgen.net/github/last-commit/stdio2016/pfann?label=)|
 
-## Fingerprinting [⌂](#--)
+## Watermarking [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[IDEAW](https://github.com/PecholaL/IDEAW#readme)|Robust Neural Audio Watermarking with Invertible Dual-Embedding|[![](https://img.shields.io/github/languages/top/PecholaL/IDEAW?color=pink&style=flat-square)](https://github.com/PecholaL/IDEAW/graphs/contributors)|[![](https://flat.badgen.net/github/license/PecholaL/IDEAW?label=)](https://github.com/PecholaL/IDEAW/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/PecholaL/IDEAW?label=)](https://github.com/PecholaL/IDEAW/graphs/code-frequency)|[![](https://flat.badgen.net/github/last-commit/9rg/AutomaticTranscription-viaDL/master?label=)](https://github.com/9rg/AutomaticTranscription-viaDL/graphs/code-frequency)|
