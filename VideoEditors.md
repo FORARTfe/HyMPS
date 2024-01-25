@@ -5,7 +5,7 @@
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
 ## Non-Linear Editors [⌂](#--)
-|Name / URL|Short description|Language|License|Last commit|
+|Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[MachinTruc](https://github.com/hftom/MachinTruc#readme)|A GPU accelerated non linear video editor|[![](https://img.shields.io/github/languages/top/hftom/MachinTruc?color=pink&style=flat-square)](https://github.com/hftom/MachinTruc/graphs/contributors)|[![](https://flat.badgen.net/github/license/hftom/MachinTruc?label=)](https://github.com/hftom/MachinTruc/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/hftom/MachinTruc?label=)](https://github.com/hftom/MachinTruc/graphs/code-frequency)|
 |[Nlive Video Editor](https://github.com/orange4glace/nlive#readme)|Renewal of [Olive](https://www.olivevideoeditor.org/) rewritten in Qt|[![](https://img.shields.io/github/languages/top/orange4glace/nlive?color=pink&style=flat-square)](https://github.com/orange4glace/nlive/graphs/contributors)|[![](https://flat.badgen.net/github/license/orange4glace/nlive?label=)](https://github.com/orange4glace/nlive/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/orange4glace/nlive?label=)](https://github.com/orange4glace/nlive/graphs/code-frequency)|
@@ -19,7 +19,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ## Video Compositors [⌂](#--)
-|Name / URL|Short description|Language|License|Last commit|
+|Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AMVtool](https://github.com/l33tmeatwad/AMVtool#readme)|Qt GUI for FFmpeg designed for video editors|[![](https://img.shields.io/github/languages/top/l33tmeatwad/AMVtool?color=pink&style=flat-square)](https://github.com/l33tmeatwad/AMVtool/graphs/contributors)|[![](https://flat.badgen.net/github/license/l33tmeatwad/AMVtool?label=)](https://github.com/l33tmeatwad/AMVtool/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/l33tmeatwad/AMVtool?label=)](https://github.com/l33tmeatwad/AMVtool/graphs/code-frequency)|
 |[Natron](http://natrongithub.github.io/)|Open-source video compositing software|[![](https://img.shields.io/github/languages/top/NatronGitHub/Natron?color=pink&style=flat-square)](https://github.com/NatronGitHub/Natron/graphs/contributors)|[![](https://flat.badgen.net/github/license/NatronGitHub/Natron?label=)](https://github.com/NatronGitHub/Natron/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/NatronGitHub/Natron?label=)](https://github.com/NatronGitHub/Natron/graphs/code-frequency)|
@@ -30,7 +30,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ## Uncategorized [⌂](#--)
-|Name / URL|Short description|Language|License|Last commit|
+|Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Custom Video Editor](https://github.com/joec05/custom_video_editor#readme)|Video editor designed for trimming and cropping videos|[![](https://img.shields.io/github/languages/top/joec05/custom_video_editor?color=pink&style=flat-square)](https://github.com/joec05/custom_video_editor/graphs/contributors)|[![](https://flat.badgen.net/github/license/joec05/custom_video_editor?label=)](https://github.com/joec05/custom_video_editor/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/joec05/custom_video_editor/master?label=)](https://github.com/joec05/custom_video_editor/graphs/code-frequency)|
 |[Brave](https://github.com/bbc/brave#readme)|Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud|[![](https://img.shields.io/github/languages/top/bbc/brave?color=pink&style=flat-square)](https://github.com/bbc/brave/graphs/contributors)|[![](https://flat.badgen.net/github/license/bbc/brave?label=)](https://github.com/bbc/brave/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/bbc/brave/master?label=)](https://github.com/bbc/brave/graphs/code-frequency)|
