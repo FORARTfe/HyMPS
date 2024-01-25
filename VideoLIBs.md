@@ -2,7 +2,7 @@
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
-|Name / URL|Short description|Language|License|Last commit|
+|Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[MLT Multimedia Framework](https://www.mltframework.org/)|A multimedia framework, designed and developed for television broadcasting|[![](https://img.shields.io/github/languages/top/mltframework/mlt?color=pink&style=flat-square)](https://github.com/mltframework/mlt/graphs/contributors)|[![](https://flat.badgen.net/github/license/mltframework/mlt?label=)](https://github.com/mltframework/mlt/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mltframework/mlt?label=)](https://github.com/mltframework/mlt/graphs/code-frequency)|
 |[MediaCore](https://github.com/opencodewin/MediaCore#readme)|Non-linear editor framework. Present video and andio raw data as ImMat instances.|[![](https://img.shields.io/github/languages/top/opencodewin/MediaCore?color=pink&style=flat-square)](https://github.com/opencodewin/MediaCore/graphs/contributors)|[![](https://flat.badgen.net/github/license/opencodewin/MediaCore?label=)](https://github.com/opencodewin/MediaCore/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/opencodewin/MediaCore?label=)](https://github.com/opencodewin/MediaCore/graphs/code-frequency)|
