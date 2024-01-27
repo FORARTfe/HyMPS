@@ -75,4 +75,3 @@ Other resources:
 - [Awesome Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion#awesome-video-diffusion--)
 - [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization#awesome-image-colorization)/[Video Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization#4-video-colorization)
 - [Video restoration based on deep learning: a comprehensive survey](https://github.com/claudiom4sir/VideoRestoration)
-
