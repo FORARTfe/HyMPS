@@ -1,6 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![AI-based projects](https://flat.badgen.net/badge/HyMPS/AI-based%20projects/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#ai-based-1 "AI-based") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-)
+## Subsections: [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-) - [Artifacts reduction](#artifacts-reduction-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -61,7 +61,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[ESTRNN & BSD](https://github.com/zzh-tech/ESTRNN#readme)|This work presents an efficient RNN-based model and the first real-world dataset for image/video deblurring|[![](https://img.shields.io/github/languages/top/zzh-tech/ESTRNN?color=pink&style=flat-square)](https://github.com/zzh-tech/ESTRNN/graphs/contributors)|[![](https://flat.badgen.net/github/license/zzh-tech/ESTRNN?label=)](https://github.com/zzh-tech/ESTRNN/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/zzh-tech/ESTRNN?label=)](https://github.com/zzh-tech/ESTRNN/graphs/code-frequency)|
 |[STFAN](https://github.com/sczhou/STFAN#readme)|Code repo for the "[Spatio-Temporal Filter Adaptive Network for Video Deblurring](https://shangchenzhou.com/projects/stfan/)" paper|[![](https://img.shields.io/github/languages/top/sczhou/STFAN?color=pink&style=flat-square)](https://github.com/sczhou/STFAN/graphs/contributors)|[![](https://flat.badgen.net/github/license/sczhou/STFAN?label=)](https://github.com/sczhou/STFAN/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/sczhou/STFAN?label=)](https://github.com/sczhou/STFAN/graphs/code-frequency)|
 
-## Artifact reduction [⌂](#--)
+## Artifacts reduction [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[MFQE 2.0](https://github.com/RyanXingQL/MFQEv2.0#readme)|Official repository of "[MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video](https://arxiv.org/abs/1902.09707)" paper|[![](https://img.shields.io/github/languages/top/RyanXingQL/MFQEv2.0?color=pink&style=flat-square)](https://github.com/RyanXingQL/MFQEv2.0/graphs/contributors)|[![](https://flat.badgen.net/github/license/RyanXingQL/MFQEv2.0?label=)](https://github.com/RyanXingQL/MFQEv2.0/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/RyanXingQL/MFQEv2.0?label=)](https://github.com/RyanXingQL/MFQEv2.0/graphs/code-frequency)|
