@@ -1,8 +1,15 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO resources") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#tools "Tools") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [Bridges](#bridges-) - [Routing](#routing-)
+## Subsections: [ASIO](#asio-) - [Bridges](#bridges-) - [Routing](#routing-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
+
+## ASIO [⌂](#--)
+|Name + URL|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[FlexASIO](https://github.com/dechamps/FlexASIO#readme)|A flexible universal ASIO driver that uses the PortAudio sound I/O library|[![](https://img.shields.io/github/languages/top/dechamps/FlexASIO?color=pink&style=flat-square)](https://github.com/dechamps/FlexASIO/graphs/contributors)|[![](https://flat.badgen.net/github/license/dechamps/FlexASIO?label=)](https://github.com/dechamps/FlexASIO/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/dechamps/FlexASIO?label=)](https://github.com/dechamps/FlexASIO/graphs/code-frequency)|
+|[FlexASIO_GUI](https://github.com/flipswitchingmonkey/FlexASIO_GUI#readme)|Simple configuration GUI for FlexASIO|[![](https://img.shields.io/github/languages/top/flipswitchingmonkey/FlexASIO_GUI?color=pink&style=flat-square)](https://github.com/flipswitchingmonkey/FlexASIO_GUI/graphs/contributors)|[![](https://flat.badgen.net/github/license/flipswitchingmonkey/FlexASIO_GUI?label=)](https://github.com/flipswitchingmonkey/FlexASIO_GUI/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/flipswitchingmonkey/FlexASIO_GUI?label=)](https://github.com/flipswitchingmonkey/FlexASIO_GUI/graphs/code-frequency)|
+
 
 ## Bridges [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
@@ -23,3 +30,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[ASIO Rec and Play](https://github.com/LAGonauta/ASIORecAndPlay#readme)|A simple program to route the audio from one ASIO interface to another|[![](https://img.shields.io/github/languages/top/LAGonauta/ASIORecAndPlay?color=pink&style=flat-square)](https://github.com/LAGonauta/ASIORecAndPlay/graphs/contributors)|[![](https://flat.badgen.net/github/license/LAGonauta/ASIORecAndPlay?label=)](https://github.com/LAGonauta/ASIORecAndPlay/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/LAGonauta/ASIORecAndPlay?label=)](https://github.com/LAGonauta/ASIORecAndPlay/graphs/code-frequency)|
 |[AudiFork](https://github.com/0JA/AudiFork#readme)|A versatile audio routing tool designed for Windows, allowing users to seamlessly direct application-specific audio outputs to their desired devices|[![](https://img.shields.io/github/languages/top/0JA/AudiFork?color=pink&style=flat-square)](https://github.com/0JA/AudiFork/graphs/contributors)|[![](https://flat.badgen.net/github/license/0JA/AudiFork?label=)](https://github.com/0JA/AudiFork/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/0JA/AudiFork?label=)](https://github.com/0JA/AudiFork/graphs/code-frequency)|
 |[VB-Audio-Router](https://github.com/ShortDevelopment/VB-Audio-Router#readme)|An advanced audio routing application build with UWP and the WinRT Audio Graph API|[![](https://img.shields.io/github/languages/top/ShortDevelopment/VB-Audio-Router?color=pink&style=flat-square)](https://github.com/ShortDevelopment/VB-Audio-Router/graphs/contributors)|[![](https://flat.badgen.net/github/license/ShortDevelopment/VB-Audio-Router?label=)](https://github.com/ShortDevelopment/VB-Audio-Router/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ShortDevelopment/VB-Audio-Router?label=)](https://github.com/ShortDevelopment/VB-Audio-Router/graphs/code-frequency)|
+
+## WASAPI [⌂](#--)
+|Name + URL|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
