@@ -14,6 +14,7 @@ It will be platform-indipendent software suite for advanced audio/video contents
 # [Visualization / Analysis](https://github.com/forart/HyMPS/blob/main/visuanalysis.md#--)
 # [DSPs](https://github.com/forart/HyMPS/blob/main/DSPs.md#--)
 # [Tools](https://github.com/forart/HyMPS/blob/main/A_Tools.md#--)
+# [Treatments](https://github.com/forart/HyMPS/blob/main/A_Treatments.md#--)
 
 # [Other audio resources collections](https://github.com/forart/HyMPS/blob/main/A_Collections.md)
 
