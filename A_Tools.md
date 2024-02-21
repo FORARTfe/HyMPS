@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO resources") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#tools "Tools") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [ASIO](#asio-) - [Bridges](#bridges-) - [Routing](#routing-)
+## Subsections: [ASIO](#asio-) - [Bridges](#bridges-) - [Routing](#routing-) - [WASAPI](#wasapi-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -39,3 +39,4 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 ## WASAPI [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[SpeAnaLED](https://github.com/osamusg/SpeAnaLED#readme)|A WASAPI Loopback Spectrum-Analyzer-like visualizer with LED-matrix-like visualization|[![](https://img.shields.io/github/languages/top/osamusg/SpeAnaLED?color=pink&style=flat-square)](https://github.com/osamusg/SpeAnaLED/graphs/contributors)|[![](https://flat.badgen.net/github/license/osamusg/SpeAnaLED?label=)](https://github.com/osamusg/SpeAnaLED/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/osamusg/SpeAnaLED?label=)](https://github.com/osamusg/SpeAnaLED/graphs/code-frequency)|
