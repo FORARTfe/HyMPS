@@ -5,7 +5,7 @@ It will be platform-indipendent software suite for advanced audio/video contents
 ## [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=3)]()
 # [AI-based](https://github.com/forart/HyMPS/blob/main/AIaudio.md#--)
 # [DAWs](https://github.com/forart/HyMPS/blob/main/DAWs.md#--)
-# [Editors](https://github.com/forart/HyMPS/blob/main/Aeditors.md#--)
+# [Editors](https://github.com/forart/HyMPS/blob/main/A_Eeditors.md#--)
 # [Effects](https://github.com/forart/HyMPS/blob/main/AudioFXs.md#--)
 # [Libraries](https://github.com/forart/HyMPS/blob/main/AudioLIBs.md#--)
 # [Engines](https://github.com/forart/HyMPS/blob/main/Aengines.md#--)
