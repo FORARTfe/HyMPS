@@ -1,11 +1,11 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO resources") [![AI-based projects](https://flat.badgen.net/badge/HyMPS/AI-based%20projects/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#ai-based "AI-based") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
-## Subsections
+
 ### [Codecs](#codecs-) - [Mixing](#mixing-) - [Drums](#drums-) - [Bass](#bass-) - [Guitar](#guitar-) - [MIDI](#midi-) - [Fingerprinting](#fingerprinting-) - [Source Separation](#source-separation-) - [Watermarking](#watermarking-) -  [Misc](#misc-)
 
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
 
-## Codecs [⌂](#--)
+### Codecs [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AudioCodec-Hub](https://github.com/ga642381/AudioCodec-Hub#readme)|A Python library for encoding and decoding audio data, supporting various neural audio codec models|[![](https://img.shields.io/github/languages/top/ga642381/AudioCodec-Hub?color=pink&style=flat-square)](https://github.com/ga642381/AudioCodec-Hub/graphs/contributors)|[![](https://flat.badgen.net/github/license/ga642381/AudioCodec-Hub?label=)](https://github.com/ga642381/AudioCodec-Hub/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ga642381/AudioCodec-Hub/main?label=)](https://github.com/ga642381/AudioCodec-Hub/graphs/code-frequency)|
@@ -16,7 +16,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Siamese SIREN](https://github.com/lucala/siamese-siren#readme)|Audio Compression with Implicit Neural Representations|[![](https://img.shields.io/github/languages/top/lucala/siamese-siren?color=pink&style=flat-square)](https://github.com/lucala/siamese-siren/graphs/contributors)|[![](https://flat.badgen.net/github/license/lucala/siamese-siren?label=)](https://github.com/lucala/siamese-siren/blob/main/LICENSE)|[![](https://flat.badgen.net/github/last-commit/lucala/siamese-siren/main?label=)](https://github.com/lucala/siamese-siren/graphs/code-frequency)|
 |[Stochastic-Restoration-GAN](https://github.com/abreuwallace/Stochastic-Restoration-GAN#stochastic-restoration-gan)|Stochastic Restoration of Heavily Compressed Musical Audio using Generative Adversarial Networks in Pytorch|[![](https://img.shields.io/github/languages/top/abreuwallace/Stochastic-Restoration-GAN?color=pink&style=flat-square)](https://github.com/abreuwallace/Stochastic-Restoration-GAN/graphs/contributors)|[![](https://flat.badgen.net/github/license/abreuwallace/Stochastic-Restoration-GAN?label=)](https://github.com/abreuwallace/Stochastic-Restoration-GAN/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/abreuwallace/Stochastic-Restoration-GAN?label=)](https://github.com/abreuwallace/Stochastic-Restoration-GAN/graphs/code-frequency)|
 
-## Mixing [⌂](#--)
+### Mixing [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Evolving artificial neural networks for cross-adaptive audio effects](http://iver56.github.io/cross-adaptive-audio/)|Analysis of various features of the audio signal is used to adaptively control parameters of audio processing of the same signal|[![](https://img.shields.io/github/languages/top/iver56/cross-adaptive-audio?color=pink&style=flat-square)](https://github.com/iver56/cross-adaptive-audio/graphs/contributors)|[![](https://flat.badgen.net/github/license/iver56/cross-adaptive-audio?label=)](https://github.com/iver56/cross-adaptive-audio/blob/master/LICENCE)|[![](https://flat.badgen.net/github/last-commit/iver56/cross-adaptive-audio?label=)](https://github.com/iver56/cross-adaptive-audio/graphs/code-frequency)|
@@ -27,7 +27,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[deep-audio-mixer](https://github.com/apelykh/deep-audio-mixer#readme)|Deep Learning based system for audio mixing|[![](https://img.shields.io/github/languages/top/apelykh/deep-audio-mixer?color=pink&style=flat-square)](https://github.com/apelykh/deep-audio-mixer/graphs/contributors)|[![](https://flat.badgen.net/github/license/apelykh/deep-audio-mixer?label=)](https://github.com/apelykh/deep-audio-mixer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/apelykh/deep-audio-mixer/master?label=)](https://github.com/apelykh/deep-audio-mixer/graphs/code-frequency)|
 
 
-## Drums [⌂](#--)
+### Drums [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Automatic Drum Transcription](https://github.com/underson14/automatic-drum-transcription#readme)|Automatic drum transcription using neural nets|[![](https://img.shields.io/github/languages/top/underson14/automatic-drum-transcription?color=pink&style=flat-square)](https://github.com/underson14/automatic-drum-transcription/graphs/contributors)|[![](https://flat.badgen.net/github/license/underson14/automatic-drum-transcription?label=)](https://github.com/underson14/automatic-drum-transcription/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/underson14/automatic-drum-transcription?label=)](https://github.com/underson14/automatic-drum-transcription/graphs/code-frequency)|
@@ -39,7 +39,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Generative Adversarial Networks - Drum Pattern Generation](https://github.com/omerkolcak/GANs-Drum-Pattern-Generator#readme)|It generates drum patterns similar to those by [Maciej Kowalski](https://www.metal-archives.com/artists/Maciej_Kowalski/10225/)|[![](https://img.shields.io/github/languages/top/omerkolcak/GANs-Drum-Pattern-Generator?color=pink&style=flat-square)](https://github.com/omerkolcak/GANs-Drum-Pattern-Generator/graphs/contributors)|[![](https://flat.badgen.net/github/license/omerkolcak/GANs-Drum-Pattern-Generator?label=)](https://github.com/omerkolcak/GANs-Drum-Pattern-Generator/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/omerkolcak/GANs-Drum-Pattern-Generator?label=)](https://github.com/omerkolcak/GANs-Drum-Pattern-Generator/graphs/code-frequency)|
 
 
-## Bass [⌂](#--)
+### Bass [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Walking Bass Transcription](https://github.com/jakobabesser/walking_bass_transcription_dnn#readme)|Algorithm for walking bass transcription in jazz ensemble recordings using Deep Neural Networks (DNN)|[![](https://img.shields.io/github/languages/top/jakobabesser/walking_bass_transcription_dnn?color=pink&style=flat-square)](https://github.com/jakobabesser/walking_bass_transcription_dnn/graphs/contributors)|[![](https://flat.badgen.net/github/license/jakobabesser/walking_bass_transcription_dnn?label=)](https://github.com/jakobabesser/walking_bass_transcription_dnn/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jakobabesser/walking_bass_transcription_dnn?label=)](https://github.com/jakobabesser/walking_bass_transcription_dnn/graphs/code-frequency)|
@@ -47,7 +47,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[bassTranscriber](https://github.com/NicholasBlaskey/bassTranscriber#readme)|Automatically transcribing bass lines using neural networks|[![](https://img.shields.io/github/languages/top/NicholasBlaskey/bassTranscriber?color=pink&style=flat-square)](https://github.com/NicholasBlaskey/bassTranscriber/graphs/contributors)|[![](https://flat.badgen.net/github/license/NicholasBlaskey/bassTranscriber?label=)](https://github.com/NicholasBlaskey/bassTranscriber/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/NicholasBlaskey/bassTranscriber?label=)](https://github.com/NicholasBlaskey/bassTranscriber/graphs/code-frequency)|
 |[Beatle-Basslines](https://github.com/jmineroff/Beatle-Basslines#readme)|Deep Learning model for creation of an instrument track in a performer's style from other tracks in a MIDI file|[![](https://img.shields.io/github/languages/top/jmineroff/Beatle-Basslines?color=pink&style=flat-square)](https://github.com/jmineroff/Beatle-Basslines/graphs/contributors)|[![](https://flat.badgen.net/github/license/jmineroff/Beatle-Basslines?label=)](https://github.com/jmineroff/Beatle-Basslines/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jmineroff/Beatle-Basslines/master?label=)](https://github.com/jmineroff/Beatle-Basslines/graphs/code-frequency)|
 
-## Guitar [⌂](#--)
+### Guitar [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[SmartAmpPro](https://github.com/GuitarML/SmartAmpPro#readme)|Guitar plugin made with JUCE that uses neural network models to emulate real world hardware|[![](https://img.shields.io/github/languages/top/GuitarML/SmartAmpPro?color=pink&style=flat-square)](https://github.com/GuitarML/SmartAmpPro/graphs/contributors)|[![](https://flat.badgen.net/github/license/GuitarML/SmartAmpPro?label=)](https://github.com/GuitarML/SmartAmpPro/blob/main/LICENSE.txt)|[![](https://flat.badgen.net/github/last-commit/GuitarML/SmartAmpPro?label=)](https://github.com/GuitarML/SmartAmpPro/graphs/code-frequency)|
@@ -59,14 +59,14 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[CNN Distortion](https://github.com/mganger/cnn-distortion#readme)|Combine deep learning and DSP|[![](https://img.shields.io/github/languages/top/mganger/cnn-distortion?color=pink&style=flat-square)](https://github.com/mganger/cnn-distortion/graphs/contributors)|[![](https://flat.badgen.net/github/license/mganger/cnn-distortion?label=)](https://github.com/mganger/cnn-distortion/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mganger/cnn-distortion?label=)](https://github.com/mganger/cnn-distortion/graphs/code-frequency)|
 |[Deep Guitar Amplifier](https://github.com/salvatorefara/deepGuitarAmp#readme)|A little project to practice Tensorflow/Keras where I use deep learning for black-box modelling of a guitar amplifier|[![](https://img.shields.io/github/languages/top/salvatorefara/deepGuitarAmp?color=pink&style=flat-square)](https://github.com/salvatorefara/deepGuitarAmp/graphs/contributors)|[![](https://flat.badgen.net/github/license/salvatorefara/deepGuitarAmp?label=)](https://github.com/salvatorefara/deepGuitarAmp/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/salvatorefara/deepGuitarAmp?label=)](https://github.com/salvatorefara/deepGuitarAmp/graphs/code-frequency)|
 
-## MIDI [⌂](#--)
+### MIDI [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[NeuralNote](https://github.com/DamRsn/NeuralNote#readme)|Audio Plugin for Audio to MIDI transcription using deep learning|[![](https://img.shields.io/github/languages/top/DamRsn/NeuralNote?color=pink&style=flat-square)](https://github.com/DamRsn/NeuralNote/graphs/contributors)|[![](https://flat.badgen.net/github/license/DamRsn/NeuralNote?label=)](https://github.com/DamRsn/NeuralNote/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/DamRsn/NeuralNote/master?label=)](https://github.com/DamRsn/NeuralNote/graphs/code-frequency)|
 |[Notochord](https://github.com/Intelligent-Instruments-Lab/notochord#readme)|A real-time neural network model for MIDI performances|[![](https://img.shields.io/github/languages/top/Intelligent-Instruments-Lab/notochord?color=pink&style=flat-square)](https://github.com/Intelligent-Instruments-Lab/notochord/graphs/contributors)|[![](https://flat.badgen.net/github/license/Intelligent-Instruments-Lab/notochord?label=)](https://github.com/Intelligent-Instruments-Lab/notochord/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Intelligent-Instruments-Lab/notochord?label=)](https://github.com/Intelligent-Instruments-Lab/notochord/graphs/code-frequency)|
 |[RoboDrummer](https://github.com/lincolt/RoboDrummer#readme)|Midi drums generator based on deep neural network|[![](https://img.shields.io/github/languages/top/lincolt/RoboDrummer?color=pink&style=flat-square)](https://github.com/lincolt/RoboDrummer/graphs/contributors)|[![](https://flat.badgen.net/github/license/lincolt/RoboDrummer?label=)](https://github.com/lincolt/RoboDrummer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/lincolt/RoboDrummer?label=)](https://github.com/lincolt/RoboDrummer/graphs/code-frequency)|
 
-## Source Separation [⌂](#--)
+### Source Separation [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[audioss](https://github.com/victor23k/audioss#readme)|Audio source separation tool using a neural network|[![](https://img.shields.io/github/languages/top/victor23k/audioss?color=pink&style=flat-square)](https://github.com/victor23k/audioss/graphs/contributors)|[![](https://flat.badgen.net/github/license/victor23k/audioss?label=)](https://github.com/victor23k/audioss/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/victor23k/audioss?label=)](https://github.com/victor23k/audioss/graphs/code-frequency)|
@@ -81,21 +81,21 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[GENERATIVE ADVERSARIAL SOURCE SEPARATION](https://github.com/ycemsubakan/sourceseparation_misc#readme)|Generative sourceseparation with GANs|[![](https://img.shields.io/github/languages/top/ycemsubakan/sourceseparation_misc?color=pink&style=flat-square)](https://github.com/ycemsubakan/sourceseparation_misc/graphs/contributors)|[![](https://flat.badgen.net/github/license/ycemsubakan/sourceseparation_misc?label=)](https://github.com/ycemsubakan/sourceseparation_misc/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ycemsubakan/sourceseparation_misc?label=)](https://github.com/ycemsubakan/sourceseparation_misc/graphs/code-frequency)|
 
 
-## Fingerprinting [⌂](#--)
+### Fingerprinting [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[neural-audio-fp](https://github.com/mimbres/neural-audio-fp)|Neural Audio Fingerprint for High-specific Audio Retrieval based on Contrasive Learning|![](https://img.shields.io/github/languages/top/mimbres/neural-audio-fp?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/mimbres/neural-audio-fp?label=)|![](https://flat.badgen.net/github/last-commit/mimbres/neural-audio-fp?label=)|
 |[FingerprintDNN](https://github.com/carlmoore256/FingerprintDNN)|Fast pitch detection using a deep neural network trained on audio fingerprints|![](https://img.shields.io/github/languages/top/carlmoore256/FingerprintDNN?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/carlmoore256/FingerprintDNN?label=)|![](https://flat.badgen.net/github/last-commit/carlmoore256/FingerprintDNN?label=)|
 |[pfann](https://github.com/stdio2016/pfann)|Neural Audio Fingerprint for High-specific Audio Retrieval based on Contrasive Learning|![](https://img.shields.io/github/languages/top/stdio2016/pfann?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/stdio2016/pfann?label=)|![](https://flat.badgen.net/github/last-commit/stdio2016/pfann?label=)|
 
-## Watermarking [⌂](#--)
+### Watermarking [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[DNN-audio-watermarking](https://github.com/kosta-pmf/dnn-audio-watermarking#readme)|A robust DNN-based audio watermarking system|[![](https://img.shields.io/github/languages/top/kosta-pmf/dnn-audio-watermarking?color=pink&style=flat-square)](https://github.com/kosta-pmf/dnn-audio-watermarking/graphs/contributors)|[![](https://flat.badgen.net/github/license/kosta-pmf/dnn-audio-watermarking?label=)](https://github.com/kosta-pmf/dnn-audio-watermarking/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/kosta-pmf/dnn-audio-watermarking?label=)](https://github.com/kosta-pmf/dnn-audio-watermarking/graphs/code-frequency)|
 |[WavMark](https://github.com/wavmark/wavmark#readme)|AI-based Audio Watermarking Tool|[![](https://img.shields.io/github/languages/top/wavmark/wavmark?color=pink&style=flat-square)](https://github.com/wavmark/wavmark/graphs/contributors)|[![](https://flat.badgen.net/github/license/wavmark/wavmark?label=)](https://github.com/wavmark/wavmark/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/wavmark/wavmark?label=)](https://github.com/wavmark/wavmark/graphs/code-frequency)|
 |[IDEAW](https://github.com/PecholaL/IDEAW#readme)|Robust Neural Audio Watermarking with Invertible Dual-Embedding|[![](https://img.shields.io/github/languages/top/PecholaL/IDEAW?color=pink&style=flat-square)](https://github.com/PecholaL/IDEAW/graphs/contributors)|[![](https://flat.badgen.net/github/license/PecholaL/IDEAW?label=)](https://github.com/PecholaL/IDEAW/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/PecholaL/IDEAW?label=)](https://github.com/PecholaL/IDEAW/graphs/code-frequency)|[![](https://flat.badgen.net/github/last-commit/9rg/AutomaticTranscription-viaDL/master?label=)](https://github.com/9rg/AutomaticTranscription-viaDL/graphs/code-frequency)|
 
-## Misc [⌂](#--)
+### Misc [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[OpenVINO™ AI Plugins for Audacity](https://github.com/intel/openvino-plugins-ai-audacity#readme)|A set of AI-enabled effects, generators, and analyzers for [Audacity®](https://www.audacityteam.org/)|[![](https://img.shields.io/github/languages/top/intel/openvino-plugins-ai-audacity?color=pink&style=flat-square)](https://github.com/intel/openvino-plugins-ai-audacity/graphs/contributors)|[![](https://flat.badgen.net/github/license/intel/openvino-plugins-ai-audacity?label=)](https://github.com/intel/openvino-plugins-ai-audacity/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/intel/openvino-plugins-ai-audacity?label=)](https://github.com/intel/openvino-plugins-ai-audacity/graphs/code-frequency)|
