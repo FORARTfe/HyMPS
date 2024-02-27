@@ -41,6 +41,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 ## Dequantizing [⌂](#--)
 |Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[Recognize Audio Quantization](https://github.com/MariusBange/Recognize-Audio-Quantization#readme)|-|[![](https://img.shields.io/github/languages/top/MariusBange/Recognize-Audio-Quantization?color=pink&style=flat-square)](https://github.com/MariusBange/Recognize-Audio-Quantization/graphs/contributors)|[![](https://flat.badgen.net/github/license/MariusBange/Recognize-Audio-Quantization?label=)](https://github.com/MariusBange/Recognize-Audio-Quantization/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/MariusBange/Recognize-Audio-Quantization?label=)](https://github.com/MariusBange/Recognize-Audio-Quantization/graphs/code-frequency)|
 |[Audio Dequantization Using (Co)Sparse (Non)Convex Methods](https://github.com/zawi01/audio_dequantization#readme)|Accompanying source code repository to the [relative paper](https://arxiv.org/abs/2010.16386)|[![](https://img.shields.io/github/languages/top/zawi01/audio_dequantization?color=pink&style=flat-square)](https://github.com/zawi01/audio_dequantization/graphs/contributors)|[![](https://flat.badgen.net/github/license/zawi01/audio_dequantization?label=)](https://github.com/zawi01/audio_dequantization/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/zawi01/audio_dequantization/main?label=)](https://github.com/zawi01/audio_dequantization/graphs/code-frequency)|
 
 
