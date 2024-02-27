@@ -4,7 +4,7 @@
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$
 
-## Generic [⌂](#--)
+### Generic [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Jackdaw](https://github.com/chvolow24/jackdaw#readme)|A keyboard-focused Digital Audio Workstation (DAW) taking some cues from non-linear editors|[![](https://img.shields.io/github/languages/top/chvolow24/jackdaw?color=pink&style=flat-square)](https://github.com/chvolow24/jackdaw/graphs/contributors)|[![](https://flat.badgen.net/github/license/chvolow24/jackdaw?label=)](https://github.com/chvolow24/jackdaw/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/chvolow24/jackdaw?label=)](https://github.com/chvolow24/jackdaw/graphs/code-frequency)|
@@ -52,8 +52,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Dawsome](https://github.com/nbennett320/dawesome#readme)|A digital audio workstation for all platforms that is libre, gratis, and awesome|[![](https://img.shields.io/github/languages/top/nbennett320/dawesome?color=pink&style=flat-square)](https://github.com/nbennett320/dawesome/graphs/contributors)|[![](https://flat.badgen.net/github/license/nbennett320/dawesome?label=)](https://github.com/nbennett320/dawesome/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/nbennett320/dawesome?label=)](https://github.com/nbennett320/dawesome/graphs/code-frequency)|
 |[streamia](https://github.com/Y-jiji/streamia#readme)|Revolutionary digital audio workstation with a JIT compiler|[![](https://img.shields.io/github/languages/top/Y-jiji/streamia?color=pink&style=flat-square)](https://github.com/Y-jiji/streamia/graphs/contributors)|[![](https://flat.badgen.net/github/license/Y-jiji/streamia?label=)](https://github.com/Y-jiji/streamia/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Y-jiji/streamia?label=)](https://github.com/Y-jiji/streamia/graphs/code-frequency)|
 
-
-## Browser-based [⌂](#--)
+### Browser-based [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[OpenDAW](https://github.com/pverrecchia/OpenDAW#readme)|An open source online digital audio workstation (DAW) based on the [Web Audio API](https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/specification.html)|[![](https://img.shields.io/github/languages/top/pverrecchia/OpenDAW?color=pink&style=flat-square)](https://github.com/pverrecchia/OpenDAW/graphs/contributors)|[![](https://flat.badgen.net/github/license/pverrecchia/OpenDAW?label=)](https://github.com/pverrecchia/OpenDAW/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/pverrecchia/OpenDAW?label=)](https://github.com/pverrecchia/OpenDAW/graphs/code-frequency)|
@@ -70,7 +69,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[WebDAW](https://github.com/ai-music/webdaw#readme)|A portable music composition and production environment that runs in browsers|[![](https://img.shields.io/github/languages/top/ai-music/webdaw?color=pink&style=flat-square)](https://github.com/ai-music/webdaw/graphs/contributors)|[![](https://flat.badgen.net/github/license/ai-music/webdaw?label=)](https://github.com/ai-music/webdaw/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ai-music/webdaw?label=)](https://github.com/ai-music/webdaw/graphs/code-frequency)|
 |[React Audio Workstation](https://github.com/notakamihe/REAW#readme)|React Audio Workstation (REAW) is Digital Audio Workstation coded in React and Typescript|[![](https://img.shields.io/github/languages/top/notakamihe/REAW?color=pink&style=flat-square)](https://github.com/notakamihe/REAW/graphs/contributors)|[![](https://flat.badgen.net/github/license/notakamihe/REAW?label=)](https://github.com/notakamihe/REAW/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/notakamihe/REAW?label=)](https://github.com/notakamihe/REAW/graphs/code-frequency)|
 
-## Dedicated [⌂](#--)
+### Dedicated [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[LMN-3-DAW](https://github.com/FundamentalFrequency#fundamental-frequency)|DAW for the LMN-3 open source controller|![](https://img.shields.io/github/languages/top/FundamentalFrequency/LMN-3-DAW?color=pink&style=flat-square)|![](https://flat.badgen.net/github/license/FundamentalFrequency/LMN-3-DAW?label=)|![](https://flat.badgen.net/github/last-commit/FundamentalFrequency/LMN-3-DAW?label=)|
