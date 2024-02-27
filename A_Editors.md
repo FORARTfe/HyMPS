@@ -1,9 +1,9 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO resources") [![Editors](https://flat.badgen.net/badge/HyMPS/Editors/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#editors "Editors") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [Generic](#generic-) - [Audacity-based](#audacity-based-) - [Loopers](#loopers-)
+### [Generic](#generic-) - [Audacity-based](#audacity-based-) - [Loopers](#loopers-)
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
-## Generic [⌂](#--)
+### Generic [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Odio Edit](https://tari.in/www/software/odio-edit/)|A light and fast audio wave editor with a simple GTK+ interface|[![](https://img.shields.io/github/languages/top/tari01/odio-edit?color=pink&style=flat-square)](https://github.com/tari01/odio-edit/graphs/contributors)|[![](https://flat.badgen.net/github/license/tari01/odio-edit?label=)](https://github.com/tari01/odio-edit/blob/main/COPYING)|[![](https://flat.badgen.net/github/last-commit/tari01/odio-edit?label=)](https://github.com/tari01/odio-edit/graphs/code-frequency)|
@@ -21,7 +21,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Eisenkraut](https://www.sciss.de/eisenkraut/)|A multi-channel and hi-res capable audio file editor|[![]()]()|[![](https://flat.badgen.net/badge/license/AGPL/blue?label=)](https://codeberg.org/sciss/Eisenkraut/src/branch/main/LICENSE)|[![]()](https://codeberg.org/sciss/Eisenkraut/activity)|
 
 
-## [Audacity](https://www.audacityteam.org/)-based [⌂](#--)
+### [Audacity](https://www.audacityteam.org/)-based [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audacity](https://github.com/audacity/audacity#readme)|An easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems|[![](https://img.shields.io/github/languages/top/audacity/audacity?color=pink&style=flat-square)](https://github.com/audacity/audacity/graphs/contributors)|[![](https://flat.badgen.net/badge/license/MULTI/blue?label=)](https://github.com/audacity/audacity/blob/master/LICENSE.txt)|[![](https://flat.badgen.net/github/last-commit/audacity/audacity?label=)](https://github.com/audacity/audacity/graphs/code-frequency)|
@@ -29,7 +29,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Sneedacity](https://github.com/Sneeds-Feed-and-Seed/sneedacity#readme)|An easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems|[![](https://img.shields.io/github/languages/top/Sneeds-Feed-and-Seed/sneedacity?color=pink&style=flat-square)](https://github.com/Sneeds-Feed-and-Seed/sneedacity/graphs/contributors)|[![](https://flat.badgen.net/github/license/Sneeds-Feed-and-Seed/sneedacity?label=)](https://github.com/Sneeds-Feed-and-Seed/sneedacity/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Sneeds-Feed-and-Seed/sneedacity?label=)](https://github.com/Sneeds-Feed-and-Seed/sneedacity/graphs/code-frequency)|
 |[Tenacity](https://tenacityaudio.org/)|An easy-to-use, cross-platform multi-track audio editor/recorder|[![](https://img.shields.io/github/languages/top/tenacityteam/tenacity?color=pink&style=flat-square)](https://github.com/tenacityteam/tenacity/graphs/contributors)|[![](https://flat.badgen.net/github/license/tenacityteam/tenacity?label=)](https://github.com/tenacityteam/tenacity/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/tenacityteam/tenacity?label=)](https://github.com/tenacityteam/tenacity/graphs/code-frequency)|
 
-## Loopers [⌂](#--)
+### Loopers [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Loopidity](https://github.com/bill-auger/loopidity#readme)|A multi-track, multi-channel, looping audio recorder designed for live handsfree use|[![](https://img.shields.io/github/languages/top/bill-auger/loopidity?color=pink&style=flat-square)](https://github.com/bill-auger/loopidity/graphs/contributors)|[![](https://flat.badgen.net/github/license/bill-auger/loopidity?label=)](https://github.com/bill-auger/loopidity/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/bill-auger/loopidity/master?label=)](https://github.com/bill-auger/loopidity/graphs/code-frequency)|
