@@ -1,5 +1,5 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "AUDIO resources") [![Libraries](https://flat.badgen.net/badge/HyMPS/Libraries/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#libraries "Libraries") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
-### [Plugins](#plugins-) - [IO](#io-) - [Handling](#handling-) - [Decoding](#decoding-) - [Analysis](#analysis-) - [Others](#others-)
+### [Plugins](#plugins-) - [IO](#io-) - [Handling](#handling-) - [Decoding](#decoding-) - [Analysis](#analysis-) - [Misc](#misc-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -47,7 +47,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[librosa](https://librosa.org/)|A python package for music and audio analysis|[![](https://img.shields.io/github/languages/top/librosa/librosa?color=pink&style=flat-square)](https://github.com/librosa/librosa/graphs/contributors)|[![](https://flat.badgen.net/github/license/librosa/librosa?label=)](https://github.com/librosa/librosa/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/librosa/librosa?label=)](https://github.com/librosa/librosa/graphs/code-frequency)|
 |[spafe: Simplified Python Audio Features Extraction](https://superkogito.github.io/spafe/)|A light weight library that aims to unite audio feature extraction algorithms in one simple code|[![](https://img.shields.io/github/languages/top/SuperKogito/spafe?color=pink&style=flat-square)](https://github.com/SuperKogito/spafe/graphs/contributors)|[![](https://flat.badgen.net/github/license/SuperKogito/spafe?label=)](https://github.com/SuperKogito/spafe/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/SuperKogito/spafe?label=)](https://github.com/SuperKogito/spafe/graphs/code-frequency)|
 
-### Others [⌂](#--)
+### Misc [⌂](#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[librem](https://github.com/baresip/rem)|Audio and video processing media library|[![](https://img.shields.io/github/languages/top/baresip/rem?color=pink&style=flat-square)](https://github.com/baresip/rem/graphs/contributors)|[![](https://flat.badgen.net/github/license/baresip/rem?label=)](https://github.com/baresip/rem/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/baresip/rem?label=)](https://github.com/baresip/rem/graphs/code-frequency)|
