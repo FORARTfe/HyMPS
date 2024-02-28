@@ -1,9 +1,9 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "AUDIO resources") [![Libraries](https://flat.badgen.net/badge/HyMPS/Libraries/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#libraries "Libraries") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
-## Subsections: [Plugins](#plugins-) - [IO](#io-) - [Handling](#handling-) - [Decoding](#decoding-) - [Analysis](#analysis-) - [Others](#others-)
+### [Plugins](#plugins-) - [IO](#io-) - [Handling](#handling-) - [Decoding](#decoding-) - [Analysis](#analysis-) - [Others](#others-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
-## Plugins [⌂](#--)
+### Plugins [⌂](#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[iPlug 2](https://github.com/iPlug2/iPlug2#readme)|A simple-to-use C++ framework for developing cross platform audio plug-ins/apps and targeting multiple plug-in APIs with the same minimalistic code|[![](https://img.shields.io/github/languages/top/iPlug2/iPlug2?color=pink&style=flat-square)](https://github.com/iPlug2/iPlug2/graphs/contributors)|[![](https://flat.badgen.net/badge/license/OWN/blue?label=)](https://github.com/iPlug2/iPlug2/blob/master/LICENSE.txt)|[![](https://flat.badgen.net/github/last-commit/iPlug2/iPlug2?label=)](https://github.com/iPlug2/iPlug2/graphs/code-frequency)|
@@ -11,7 +11,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Dplug](https://github.com/AuburnSounds/Dplug#readme)|Lets you create audio plug-ins with unmatched simplicity and speed, using the D language|[![](https://img.shields.io/github/languages/top/AuburnSounds/Dplug?color=pink&style=flat-square)](https://github.com/AuburnSounds/Dplug/graphs/contributors)|[![](https://flat.badgen.net/badge/license/OWN/blue?label=)](https://github.com/AuburnSounds/Dplug/blob/master/LICENSE.txt)|[![](https://flat.badgen.net/github/last-commit/AuburnSounds/Dplug?label=)](https://github.com/AuburnSounds/Dplug/graphs/code-frequency)|
 
 
-## IO [⌂](#--)
+### IO [⌂](#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[MINIAUDIO](https://github.com/mackron/miniaudio#readme)|Single file audio playback and capture library written in C|[![](https://img.shields.io/github/languages/top/mackron/miniaudio?color=pink&style=flat-square)](https://github.com/mackron/miniaudio/graphs/contributors)|[![](https://flat.badgen.net/badge/license/OWN/blue?label=)](https://github.com/mackron/miniaudio/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mackron/miniaudio?label=)](https://github.com/mackron/miniaudio/graphs/code-frequency)|
@@ -21,7 +21,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Oto](https://github.com/hajimehoshi/oto#readme)|A low-level library to play sound on multiple platforms|[![](https://img.shields.io/github/languages/top/hajimehoshi/oto?color=pink&style=flat-square)](https://github.com/hajimehoshi/oto/graphs/contributors)|[![](https://flat.badgen.net/github/license/hajimehoshi/oto?label=)](https://github.com/hajimehoshi/oto/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/hajimehoshi/oto?label=)](https://github.com/hajimehoshi/oto/graphs/code-frequency)|
 
 
-## Handling [⌂](#--)
+### Handling [⌂](#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Gavl](https://github.com/bplaum/gavl#readme)|A library for handling uncompressed audio- and video data|[![](https://img.shields.io/github/languages/top/bplaum/gavl?color=pink&style=flat-square)](https://github.com/bplaum/gavl/graphs/contributors)|[![](https://flat.badgen.net/badge/license/OWN/blue?label=)](https://github.com/bplaum/gavl/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/bplaum/gavl/main?label=)](https://github.com/bplaum/gavl/graphs/code-frequency)|
@@ -30,7 +30,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Crozet](https://github.com/Reiex/Crozet#readme)|Simple audio handling library|[![](https://img.shields.io/github/languages/top/Reiex/Crozet?color=pink&style=flat-square)](https://github.com/Reiex/Crozet/graphs/contributors)|[![](https://flat.badgen.net/github/license/Reiex/Crozet?label=)](https://github.com/Reiex/Crozet/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Reiex/Crozet?label=)](https://github.com/Reiex/Crozet/graphs/code-frequency)|
 |[ProteaAudio](https://github.com/csabahruska/proteaaudio#readme)|Simple audio library for Windows, Linux, OSX|[![](https://img.shields.io/github/languages/top/csabahruska/proteaaudio?color=pink&style=flat-square)](https://github.com/csabahruska/proteaaudio/graphs/contributors)|[![](https://flat.badgen.net/github/license/csabahruska/proteaaudio?label=)](https://github.com/csabahruska/proteaaudio/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/csabahruska/proteaaudio/master?label=)](https://github.com/csabahruska/proteaaudio/graphs/code-frequency)|
 
-## Decoding [⌂](#--)
+### Decoding [⌂](#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AudEar](https://github.com/daramkun/AudEar#readme)|Audio Decoding and Playing Library for Windows|[![](https://img.shields.io/github/languages/top/daramkun/AudEar?color=pink&style=flat-square)](https://github.com/daramkun/AudEar/graphs/contributors)|[![](https://flat.badgen.net/github/license/daramkun/AudEar?label=)](https://github.com/daramkun/AudEar/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/daramkun/AudEar/master?label=)](https://github.com/daramkun/AudEar/graphs/code-frequency)|
@@ -39,7 +39,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[SDL_audiolib](https://github.com/realnc/SDL_audiolib#readme)|An audio decoding, resampling and mixing library|[![](https://img.shields.io/github/languages/top/realnc/SDL_audiolib?color=pink&style=flat-square)](https://github.com/realnc/SDL_audiolib/graphs/contributors)|[![](https://flat.badgen.net/github/license/realnc/SDL_audiolib?label=)](https://github.com/realnc/SDL_audiolib/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/realnc/SDL_audiolib?label=)](https://github.com/realnc/SDL_audiolib/graphs/code-frequency)|
 |[Libnyquist](https://github.com/ddiakopoulos/libnyquist#readme)|A cross platform C++11 library for decoding audio (mp3, wav, ogg, opus, flac, etc)|[![](https://img.shields.io/github/languages/top/ddiakopoulos/libnyquist?color=pink&style=flat-square)](https://github.com/ddiakopoulos/libnyquist/graphs/contributors)|[![](https://flat.badgen.net/github/license/ddiakopoulos/libnyquist?label=)](https://github.com/ddiakopoulos/libnyquist/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ddiakopoulos/libnyquist?label=)](https://github.com/ddiakopoulos/libnyquist/graphs/code-frequency)|
 
-## Analysis [⌂](#--)
+### Analysis [⌂](#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[jumaudio](https://github.com/HunterWhyte/jumaudio#readme)|Simple, cross-platform audio visualization library, with built-in file playback and capture|[![](https://img.shields.io/github/languages/top/HunterWhyte/jumaudio?color=pink&style=flat-square)](https://github.com/HunterWhyte/jumaudio/graphs/contributors)|[![](https://flat.badgen.net/github/license/HunterWhyte/jumaudio?label=)](https://github.com/HunterWhyte/jumaudio/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/HunterWhyte/jumaudio?label=)](https://github.com/HunterWhyte/jumaudio/graphs/code-frequency)|
@@ -47,7 +47,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[librosa](https://librosa.org/)|A python package for music and audio analysis|[![](https://img.shields.io/github/languages/top/librosa/librosa?color=pink&style=flat-square)](https://github.com/librosa/librosa/graphs/contributors)|[![](https://flat.badgen.net/github/license/librosa/librosa?label=)](https://github.com/librosa/librosa/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/librosa/librosa?label=)](https://github.com/librosa/librosa/graphs/code-frequency)|
 |[spafe: Simplified Python Audio Features Extraction](https://superkogito.github.io/spafe/)|A light weight library that aims to unite audio feature extraction algorithms in one simple code|[![](https://img.shields.io/github/languages/top/SuperKogito/spafe?color=pink&style=flat-square)](https://github.com/SuperKogito/spafe/graphs/contributors)|[![](https://flat.badgen.net/github/license/SuperKogito/spafe?label=)](https://github.com/SuperKogito/spafe/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/SuperKogito/spafe?label=)](https://github.com/SuperKogito/spafe/graphs/code-frequency)|
 
-## Others [⌂](#--)
+### Others [⌂](#--)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[librem](https://github.com/baresip/rem)|Audio and video processing media library|[![](https://img.shields.io/github/languages/top/baresip/rem?color=pink&style=flat-square)](https://github.com/baresip/rem/graphs/contributors)|[![](https://flat.badgen.net/github/license/baresip/rem?label=)](https://github.com/baresip/rem/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/baresip/rem?label=)](https://github.com/baresip/rem/graphs/code-frequency)|
