@@ -3,7 +3,7 @@ It will be platform-indipendent software suite for advanced audio/video contents
 
 
 ## [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=3)]()
-# [AI-based](https://github.com/forart/HyMPS/blob/main/A_AIaudio.md#--)
+# [AI-based](https://github.com/forart/HyMPS/blob/main/A_AI.md#--)
 # [DAWs](https://github.com/forart/HyMPS/blob/main/A_DAWs.md#--)
 # [Editors](https://github.com/forart/HyMPS/blob/main/A_Editors.md#--)
 # [Effects](https://github.com/forart/HyMPS/blob/main/A_Effects.md#--)
@@ -19,11 +19,11 @@ It will be platform-indipendent software suite for advanced audio/video contents
 # [Other audio resources collections](https://github.com/forart/HyMPS/blob/main/A_Collections.md)
 
 ## [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=3)]()
-# [AI-based](https://github.com/forart/HyMPS/blob/main/AIvideo.md#--)
-# [Editors](https://github.com/forart/HyMPS/blob/main/VideoEditors.md#--)
-# [Libraries](https://github.com/forart/HyMPS/blob/main/VideoLIBs.md#--)
+# [AI-based](https://github.com/forart/HyMPS/blob/main/V_AI.md#--)
+# [Editors](https://github.com/forart/HyMPS/blob/main/V_Editors.md#--)
+# [Libraries](https://github.com/forart/HyMPS/blob/main/V_LIBs.md#--)
 # [Tools](https://github.com/forart/HyMPS/blob/main/V_Tools.md#--)
-# [Processing](https://github.com/forart/HyMPS/blob/main/Processing.md#--)
-# [Pan Tilt Zoom](https://github.com/forart/HyMPS/blob/main/PTZstuff.md#--)
-# [RTSP](https://github.com/forart/HyMPS/blob/main/RTSP.md#--)
+# [Processing](https://github.com/forart/HyMPS/blob/main/V_Processing.md#--)
+# [Pan Tilt Zoom](https://github.com/forart/HyMPS/blob/main/V_PTZstuff.md#--)
+# [RTSP](https://github.com/forart/HyMPS/blob/main/V_RTSP.md#--)
     
