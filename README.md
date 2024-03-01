@@ -24,6 +24,6 @@ It will be platform-indipendent software suite for advanced audio/video contents
 # [Libraries](https://github.com/forart/HyMPS/blob/main/V_LIBs.md#--)
 # [Tools](https://github.com/forart/HyMPS/blob/main/V_Tools.md#--)
 # [Processing](https://github.com/forart/HyMPS/blob/main/V_Processing.md#--)
-# [Pan Tilt Zoom](https://github.com/forart/HyMPS/blob/main/V_PTZstuff.md#--)
+# [Pan Tilt Zoom](https://github.com/forart/HyMPS/blob/main/V_PTZ.md#--)
 # [RTSP](https://github.com/forart/HyMPS/blob/main/V_RTSP.md#--)
     
