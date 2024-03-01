@@ -2,7 +2,7 @@
 
 ### [Burning](#burning-) - [Dumping](#dumping-) - [Ripping](#ripping-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: none}}$ 
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$
 
 ### Burning [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
