@@ -1,10 +1,10 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![Pan Tilt Zoom](https://flat.badgen.net/badge/HyMPS/Pan%20Tilt%20Zoom/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#pan-tilt-zoom) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 
-## Subsections: [Generic](#generic-) - [GUI](#gui-) - [Android](#android-) - [HID](#hid-) - [ONVIF](#onvif-) - [VISCA](#visca-) - [Other](#other-)
+### [Generic](#generic-) - [GUI](#gui-) - [Android](#android-) - [HID](#hid-) - [ONVIF](#onvif-) - [VISCA](#visca-) - [Other](#other-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
-## Generic [«](#--)
+### Generic [«](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[visca_over_ip_mock_camera](https://github.com/elodotwe/visca_over_ip_mock_camera#readme)|Simulate a PTZOptics VISCA-over-IP camera for the purposes of analyzing/debugging VISCA-over-IP clients|[![](https://img.shields.io/github/languages/top/elodotwe/visca_over_ip_mock_camera?color=pink&style=flat-square)](https://github.com/elodotwe/visca_over_ip_mock_camera/graphs/contributors)|[![](https://flat.badgen.net/github/license/elodotwe/visca_over_ip_mock_camera?label=)](https://github.com/elodotwe/visca_over_ip_mock_camera/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/elodotwe/visca_over_ip_mock_camera/main?label=)](https://github.com/elodotwe/visca_over_ip_mock_camera/graphs/code-frequency)|
@@ -13,7 +13,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[PTZ-SERVER](https://github.com/jeffmikels/ptz-server#readme)|Control any PTZ camera that supports the VISCA Protocol either over serial or IP or both|[![](https://img.shields.io/github/languages/top/jeffmikels/ptz-server?color=pink&style=flat-square)](https://github.com/jeffmikels/ptz-server/graphs/contributors)|[![](https://flat.badgen.net/github/license/jeffmikels/ptz-server?label=)](https://github.com/jeffmikels/ptz-server/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jeffmikels/ptz-server/main?label=)](https://github.com/jeffmikels/ptz-server/graphs/code-frequency)|
 |[ptzopticscontrol](https://github.com/Garionion/ptzopticscontrol#readme)|Little Python Script for controlling a PTZOptics NDI HX Camera|[![](https://img.shields.io/github/languages/top/Garionion/ptzopticscontrol?color=pink&style=flat-square)](https://github.com/Garionion/ptzopticscontrol/graphs/contributors)|[![](https://flat.badgen.net/github/license/Garionion/ptzopticscontrol?label=)](https://github.com/Garionion/ptzopticscontrol/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Garionion/ptzopticscontrol/master?label=)](https://github.com/Garionion/ptzopticscontrol/graphs/code-frequency)|
 
-## GUI [«](#--)
+### GUI [«](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[PTZCameraController](https://github.com/pataelmo/PTZCameraController#readme)|A project to create a controller for PTZ Cameras|[![](https://img.shields.io/github/languages/top/pataelmo/PTZCameraController?color=pink&style=flat-square)](https://github.com/pataelmo/PTZCameraController/graphs/contributors)|[![](https://flat.badgen.net/github/license/pataelmo/PTZCameraController?label=)](https://github.com/pataelmo/PTZCameraController/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/pataelmo/PTZCameraController/main?label=)](https://github.com/pataelmo/PTZCameraController/graphs/code-frequency)|
@@ -28,13 +28,13 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Sony-VISCA-IP-Controller](https://github.com/agennaro1/VISCA-IP-Controller-main#readme)|Sony Visca Controller with GUI|[![](https://img.shields.io/github/languages/top/agennaro1/VISCA-IP-Controller-main?color=pink&style=flat-square)](https://github.com/agennaro1/VISCA-IP-Controller-main/graphs/contributors)|[![](https://flat.badgen.net/github/license/agennaro1/VISCA-IP-Controller-main?label=)](https://github.com/agennaro1/VISCA-IP-Controller-main/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/agennaro1/VISCA-IP-Controller-main/main?label=)](https://github.com/agennaro1/VISCA-IP-Controller-main/graphs/code-frequency)|
 |[PTZOptics-Simple-IP](https://github.com/jbjbjb1/PTZOptics-Simple-IP#readme)|PTZOptics VISCA over IP graphical user interface to set camera zoom positions|[![](https://img.shields.io/github/languages/top/jbjbjb1/PTZOptics-Simple-IP?color=pink&style=flat-square)](https://github.com/jbjbjb1/PTZOptics-Simple-IP/graphs/contributors)|[![](https://flat.badgen.net/github/license/jbjbjb1/PTZOptics-Simple-IP?label=)](https://github.com/jbjbjb1/PTZOptics-Simple-IP/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jbjbjb1/PTZOptics-Simple-IP/main?label=)](https://github.com/jbjbjb1/PTZOptics-Simple-IP/graphs/code-frequency)|
 
-## Android [«](#--)
+### Android [«](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AndroidPtzCameraControl](https://github.com/cg229836277/AndroidPtzCameraControl#readme)|Can control ptz camera in android |[![](https://img.shields.io/github/languages/top/cg229836277/AndroidPtzCameraControl?color=pink&style=flat-square)](https://github.com/cg229836277/AndroidPtzCameraControl/graphs/contributors)|[![](https://flat.badgen.net/github/license/cg229836277/AndroidPtzCameraControl?label=)](https://github.com/cg229836277/AndroidPtzCameraControl/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/cg229836277/AndroidPtzCameraControl/master?label=)](https://github.com/cg229836277/AndroidPtzCameraControl/graphs/code-frequency)|
 |[ptzbetter](https://github.com/elodotwe/ptzbetter#readme)|Android app to control VISCA-over-IP cameras|[![](https://img.shields.io/github/languages/top/elodotwe/ptzbetter?color=pink&style=flat-square)](https://github.com/elodotwe/ptzbetter/graphs/contributors)|[![](https://flat.badgen.net/github/license/elodotwe/ptzbetter?label=)](https://github.com/elodotwe/ptzbetter/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/elodotwe/ptzbetter/master?label=)](https://github.com/elodotwe/ptzbetter/graphs/code-frequency)|
 
-## HID [«](#--)
+### HID [«](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[ViscaJoy](https://github.com/HighTechHarmony/ViscaJoy#readme)|Control VISCA compliant PTZ cameras using a flight controller joystick|[![](https://img.shields.io/github/languages/top/HighTechHarmony/ViscaJoy?color=pink&style=flat-square)](https://github.com/HighTechHarmony/ViscaJoy/graphs/contributors)|[![](https://flat.badgen.net/github/license/HighTechHarmony/ViscaJoy?label=)](https://github.com/HighTechHarmony/ViscaJoy/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/HighTechHarmony/ViscaJoy/main?label=)](https://github.com/HighTechHarmony/ViscaJoy/graphs/code-frequency)|
@@ -46,7 +46,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[visca-joystick](https://github.com/International-Anglican-Church/visca-joystick#readme)|A simple python app for connecting a gaming controller to a VISCA over IP camera|[![](https://img.shields.io/github/languages/top/International-Anglican-Church/visca-joystick?color=pink&style=flat-square)](https://github.com/International-Anglican-Church/visca-joystick/graphs/contributors)|[![](https://flat.badgen.net/github/license/International-Anglican-Church/visca-joystick?label=)](https://github.com/International-Anglican-Church/visca-joystick/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/International-Anglican-Church/visca-joystick/main?label=)](https://github.com/International-Anglican-Church/visca-joystick/graphs/code-frequency)|
 
 
-## ONVIF [«](#--)
+### ONVIF [«](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Onvif-IP-Camera-Viewer](https://github.com/ozekiltd/Onvif-IP-Camera-Viewer#readme)|A fully-functional camera software written in C#.NET that can be used to control your whole IP surveillance / monitoring system by providing such useful USB webcam and IP camera features as device discovery, video recording, PTZ motion control, motion detection, onvif video server, streaming to remote locations and websites, etc|[![](https://img.shields.io/github/languages/top/ozekiltd/Onvif-IP-Camera-Viewer?color=pink&style=flat-square)](https://github.com/ozekiltd/Onvif-IP-Camera-Viewer/graphs/contributors)|[![](https://flat.badgen.net/github/license/ozekiltd/Onvif-IP-Camera-Viewer?label=)](https://github.com/ozekiltd/Onvif-IP-Camera-Viewer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ozekiltd/Onvif-IP-Camera-Viewer/master?label=)](https://github.com/ozekiltd/Onvif-IP-Camera-Viewer/graphs/code-frequency)|
@@ -54,7 +54,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[cam2mqtt](https://github.com/berfenger/cam2mqtt#readme)|Implements a translation layer between camera interfaces (ONVIF, ad-hoc HTTP APIs, etc) and MQTT|[![](https://img.shields.io/github/languages/top/berfenger/cam2mqtt?color=pink&style=flat-square)](https://github.com/berfenger/cam2mqtt/graphs/contributors)|[![](https://flat.badgen.net/github/license/berfenger/cam2mqtt?label=)](https://github.com/berfenger/cam2mqtt/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/berfenger/cam2mqtt/master?label=)](https://github.com/berfenger/cam2mqtt/graphs/code-frequency)|
 
 
-## VISCA [«](#--)
+### VISCA [«](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[companion-module-marshall-visca](https://github.com/bitfocus/companion-module-marshall-visca#readme)|Controls the Marshall CV IP cameras over Visca|[![](https://img.shields.io/github/languages/top/bitfocus/companion-module-marshall-visca?color=pink&style=flat-square)](https://github.com/bitfocus/companion-module-marshall-visca/graphs/contributors)|[![](https://flat.badgen.net/github/license/bitfocus/companion-module-marshall-visca?label=)](https://github.com/bitfocus/companion-module-marshall-visca/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/bitfocus/companion-module-marshall-visca/main?label=)](https://github.com/bitfocus/companion-module-marshall-visca/graphs/code-frequency)|
@@ -67,7 +67,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[ptzbot](https://github.com/wcameronbowen/ptzbot#readme)|Control PTZOptics camera via VISCA over IP|[![](https://img.shields.io/github/languages/top/wcameronbowen/ptzbot?color=pink&style=flat-square)](https://github.com/wcameronbowen/ptzbot/graphs/contributors)|[![](https://flat.badgen.net/github/license/wcameronbowen/ptzbot?label=)](https://github.com/wcameronbowen/ptzbot/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/wcameronbowen/ptzbot/main?label=)](https://github.com/wcameronbowen/ptzbot/graphs/code-frequency)|
 
 
-## Tracking [«](#--)
+### Tracking [«](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[SmartPTZ](https://github.com/BitsByToader/SmartPTZ#readme)|Control a HikVision PTZ SpeedDome IP Camera by using computer vision to follow pedestrians (and possibly vehicles as well) and motion input from other IP cameras in the vicinity|[![](https://img.shields.io/github/languages/top/BitsByToader/SmartPTZ?color=pink&style=flat-square)](https://github.com/BitsByToader/SmartPTZ/graphs/contributors)|[![](https://flat.badgen.net/github/license/BitsByToader/SmartPTZ?label=)](https://github.com/BitsByToader/SmartPTZ/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/BitsByToader/SmartPTZ/main?label=)](https://github.com/BitsByToader/SmartPTZ/graphs/code-frequency)|
@@ -82,7 +82,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[PTZ Camera Face Tracker](https://github.com/Midlight25/ptz-camera-facetracker#readme)|Make your ONVIF-enabled PTZ camera track a subject by using facial recognition|[![](https://img.shields.io/github/languages/top/Midlight25/ptz-camera-facetracker?color=pink&style=flat-square)](https://github.com/Midlight25/ptz-camera-facetracker/graphs/contributors)|[![](https://flat.badgen.net/github/license/Midlight25/ptz-camera-facetracker?label=)](https://github.com/Midlight25/ptz-camera-facetracker/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Midlight25/ptz-camera-facetracker?label=)](https://github.com/Midlight25/ptz-camera-facetracker/graphs/code-frequency)|
 
 
-## Other [«](#--)
+### Other [«](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[ptzctrl](https://github.com/Undone/ptzctrl#readme)|Wrapper for remote control of hi3510 based IP cameras|[![](https://img.shields.io/github/languages/top/Undone/ptzctrl?color=pink&style=flat-square)](https://github.com/Undone/ptzctrl/graphs/contributors)|[![](https://flat.badgen.net/github/license/Undone/ptzctrl?label=)](https://github.com/Undone/ptzctrl/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Undone/ptzctrl/master?label=)](https://github.com/Undone/ptzctrl/graphs/code-frequency)|
