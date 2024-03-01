@@ -1,17 +1,17 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![Processing](https://flat.badgen.net/badge/HyMPS/Processing/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#processing "Processing") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [Denoisers](#denoisers-) - [Frameworks](#frameworks-) - [Stabilizers](#stabilizers-) - [Resources](#resources-)
+### [Denoisers](#denoisers-) - [Frameworks](#frameworks-) - [Stabilizers](#stabilizers-) - [Resources](#resources-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
-## Denoisers [⌂](#--)
+### Denoisers [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Aydin](https://royerlab.github.io/aydin/)|User-friendly, Fast, Self-Supervised Image Denoising for All|[![](https://img.shields.io/github/languages/top/royerlab/aydin?color=pink&style=flat-square)](https://github.com/royerlab/aydin/graphs/contributors)|[![](https://flat.badgen.net/github/license/royerlab/aydin?label=)](https://github.com/royerlab/aydin/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/royerlab/aydin?label=)](https://github.com/royerlab/aydin/graphs/code-frequency)|
 |[Video-Filter](https://github.com/antonioam82/Video-Filter#readme)|denoise video files|[![](https://img.shields.io/github/languages/top/antonioam82/Video-Filter?color=pink&style=flat-square)](https://github.com/antonioam82/Video-Filter/graphs/contributors)|[![](https://flat.badgen.net/github/license/antonioam82/Video-Filter?label=)](https://github.com/antonioam82/Video-Filter/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/antonioam82/Video-Filter?label=)](https://github.com/antonioam82/Video-Filter/graphs/code-frequency)|
 
 
-## Frameworks [⌂](#--)
+### Frameworks [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Frei0r](https://frei0r.dyne.org/)|Minimalistic plugin API for video effects|[![](https://img.shields.io/github/languages/top/dyne/frei0r?color=pink&style=flat-square)](https://github.com/dyne/frei0r/graphs/contributors)|[![](https://flat.badgen.net/github/license/dyne/frei0r?label=)](https://github.com/dyne/frei0r/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/dyne/frei0r/master?label=)](https://github.com/dyne/frei0r/graphs/code-frequency)|
@@ -19,7 +19,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[z.lib](https://github.com/sekrit-twc/zimg#readme)|Implements the commonly required image processing basics of scaling, colorspace conversion, and depth conversion|[![](https://img.shields.io/github/languages/top/sekrit-twc/zimg?color=pink&style=flat-square)](https://github.com/sekrit-twc/zimg/graphs/contributors)|[![](https://flat.badgen.net/github/license/sekrit-twc/zimg?label=)](https://github.com/sekrit-twc/zimg/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/sekrit-twc/zimg/master?label=)](https://github.com/sekrit-twc/zimg/graphs/code-frequency)|
 |[MetalVideoProcess](https://github.com/wangrenzhu/MetalVideoProcess#readme)|High-Performance video effects processing framework|[![](https://img.shields.io/github/languages/top/wangrenzhu/MetalVideoProcess?color=pink&style=flat-square)](https://github.com/wangrenzhu/MetalVideoProcess/graphs/contributors)|[![](https://flat.badgen.net/github/license/wangrenzhu/MetalVideoProcess?label=)](https://github.com/wangrenzhu/MetalVideoProcess/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/wangrenzhu/MetalVideoProcess/master?label=)](https://github.com/wangrenzhu/MetalVideoProcess/graphs/code-frequency)|
 
-## Stabilizers [⌂](#--)
+### Stabilizers [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[CUVISTA](https://rainermtb.github.io/cuvista/)|A small and simple Application to stabilize shaky video footage using the Cuda platform when available|[![](https://img.shields.io/github/languages/top/RainerMtb/cuvista?color=pink&style=flat-square)](https://github.com/RainerMtb/cuvista/graphs/contributors)|[![](https://flat.badgen.net/github/license/RainerMtb/cuvista?label=)](https://github.com/RainerMtb/cuvista/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/RainerMtb/cuvista/master?label=)](https://github.com/RainerMtb/cuvista/graphs/code-frequency)|
@@ -33,6 +33,6 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Video Stabilization With Gaussian and Kalman Filter](https://github.com/adithyapranav/VIDEO-STABILIZATION-USING-KALMAN-AND-GAUSSIAN-FILTER#readme)|-|[![](https://img.shields.io/github/languages/top/adithyapranav/VIDEO-STABILIZATION-USING-KALMAN-AND-GAUSSIAN-FILTER?color=pink&style=flat-square)](https://github.com/adithyapranav/VIDEO-STABILIZATION-USING-KALMAN-AND-GAUSSIAN-FILTER/graphs/contributors)|[![](https://flat.badgen.net/github/license/adithyapranav/VIDEO-STABILIZATION-USING-KALMAN-AND-GAUSSIAN-FILTER?label=)](https://github.com/adithyapranav/VIDEO-STABILIZATION-USING-KALMAN-AND-GAUSSIAN-FILTER/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/adithyapranav/VIDEO-STABILIZATION-USING-KALMAN-AND-GAUSSIAN-FILTER?label=)](https://github.com/adithyapranav/VIDEO-STABILIZATION-USING-KALMAN-AND-GAUSSIAN-FILTER/graphs/code-frequency)|
 
 
-## Resources [⌂](#--)
+### Resources [⌂](#--)
 - [Awesome Image or Video Denoising Algorithms](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art#awesome-image-or-video-denoising-algorithms)
 - [A curated list of video stabilization methods](https://github.com/yaochih/awesome-video-stabilization)
