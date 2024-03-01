@@ -1,10 +1,10 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![Editors](https://flat.badgen.net/badge/HyMPS/Editors/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#editors-1 "Editors") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [Non-Linear Editors](#non-linear-editors-) - [Video Compositors](#video-compositors-) - [Uncategorized](#uncategorized-)
+### [Non-Linear Editors](#non-linear-editors-) - [Video Compositors](#video-compositors-) - [Misc](#misc-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
-## Non-Linear Editors [⌂](#--)
+### Non-Linear Editors [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[MachinTruc](https://github.com/hftom/MachinTruc#readme)|A GPU accelerated non linear video editor|[![](https://img.shields.io/github/languages/top/hftom/MachinTruc?color=pink&style=flat-square)](https://github.com/hftom/MachinTruc/graphs/contributors)|[![](https://flat.badgen.net/github/license/hftom/MachinTruc?label=)](https://github.com/hftom/MachinTruc/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/hftom/MachinTruc?label=)](https://github.com/hftom/MachinTruc/graphs/code-frequency)|
@@ -18,7 +18,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Flowblade](https://jliljebl.github.io/flowblade/)|A multitrack non-linear video editor for Linux|[![](https://img.shields.io/github/languages/top/jliljebl/flowblade?color=pink&style=flat-square)](https://github.com/jliljebl/flowblade/graphs/contributors)|[![](https://flat.badgen.net/github/license/jliljebl/flowblade?label=)](https://github.com/jliljebl/flowblade/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jliljebl/flowblade?label=)](https://github.com/jliljebl/flowblade/graphs/code-frequency)|
 
 
-## Video Compositors [⌂](#--)
+### Video Compositors [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AMVtool](https://github.com/l33tmeatwad/AMVtool#readme)|Qt GUI for FFmpeg designed for video editors|[![](https://img.shields.io/github/languages/top/l33tmeatwad/AMVtool?color=pink&style=flat-square)](https://github.com/l33tmeatwad/AMVtool/graphs/contributors)|[![](https://flat.badgen.net/github/license/l33tmeatwad/AMVtool?label=)](https://github.com/l33tmeatwad/AMVtool/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/l33tmeatwad/AMVtool?label=)](https://github.com/l33tmeatwad/AMVtool/graphs/code-frequency)|
@@ -29,7 +29,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Vcdp](https://github.com/overdev-l/vcdp#readme)|Quickly build WYSIWYG video editors|[![](https://img.shields.io/github/languages/top/overdev-l/vcdp?color=pink&style=flat-square)](https://github.com/overdev-l/vcdp/graphs/contributors)|[![](https://flat.badgen.net/github/license/overdev-l/vcdp?label=)](https://github.com/overdev-l/vcdp/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/overdev-l/vcdp?label=)](https://github.com/overdev-l/vcdp/graphs/code-frequency)|
 
 
-## Uncategorized [⌂](#--)
+### Misc [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Custom Video Editor](https://github.com/joec05/custom_video_editor#readme)|Video editor designed for trimming and cropping videos|[![](https://img.shields.io/github/languages/top/joec05/custom_video_editor?color=pink&style=flat-square)](https://github.com/joec05/custom_video_editor/graphs/contributors)|[![](https://flat.badgen.net/github/license/joec05/custom_video_editor?label=)](https://github.com/joec05/custom_video_editor/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/joec05/custom_video_editor/master?label=)](https://github.com/joec05/custom_video_editor/graphs/code-frequency)|
