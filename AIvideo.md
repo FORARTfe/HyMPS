@@ -1,10 +1,10 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![AI-based projects](https://flat.badgen.net/badge/HyMPS/AI-based%20projects/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#ai-based-1 "AI-based") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-) - [Artifacts reduction](#artifacts-reduction-) - [Colorization](#colorization-)
+### [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-) - [Artifacts reduction](#artifacts-reduction-) - [Colorization](#colorization-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
-## Editing [⌂](#--)
+### Editing [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[ai_video_editor](https://github.com/alumiaCoder/expS_ai_video_editor#readme)|A yolov7 based, human aware video editor for real time video manipulation|[![](https://img.shields.io/github/languages/top/alumiaCoder/expS_ai_video_editor?color=pink&style=flat-square)](https://github.com/alumiaCoder/expS_ai_video_editor/graphs/contributors)|[![](https://flat.badgen.net/github/license/alumiaCoder/expS_ai_video_editor?label=)](https://github.com/alumiaCoder/expS_ai_video_editor/blob/main/LICENSE)|[![](https://flat.badgen.net/github/last-commit/alumiaCoder/expS_ai_video_editor/main?label=)](https://github.com/alumiaCoder/expS_ai_video_editor/graphs/code-frequency)|
@@ -13,7 +13,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[folioviz.ai](https://github.com/darekm101/folioviz.ai#readme)|Video Editor driven by Ai|[![](https://img.shields.io/github/languages/top/darekm101/folioviz.ai?color=pink&style=flat-square)](https://github.com/darekm101/folioviz.ai/graphs/contributors)|[![](https://flat.badgen.net/github/license/darekm101/folioviz.ai?label=)](https://github.com/darekm101/folioviz.ai/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/darekm101/folioviz.ai/main?label=)](https://github.com/darekm101/folioviz.ai/graphs/code-frequency)|
 |[ClipIQ](https://github.com/michaelbudko/ClipIQ#readme)|AI-powered video editor|[![](https://img.shields.io/github/languages/top/michaelbudko/ClipIQ?color=pink&style=flat-square)](https://github.com/michaelbudko/ClipIQ/graphs/contributors)|[![](https://flat.badgen.net/github/license/michaelbudko/ClipIQ?label=)](https://github.com/michaelbudko/ClipIQ/blob/main/LICENSE)|[![](https://flat.badgen.net/github/last-commit/michaelbudko/ClipIQ/main?label=)](https://github.com/michaelbudko/ClipIQ/graphs/code-frequency)|
 
-## Enhancers [⌂](#--)
+### Enhancers [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[InterUpTool](https://github.com/GhostPoro/InterUpTool#readme)|GUI Tool for control, queue and automate video enhancing process, provided by FFMPEG video encoder, Real-ESRGAN image upscaler and RIFE/DAIN video frame interpolators|[![](https://img.shields.io/github/languages/top/GhostPoro/InterUpTool?color=pink&style=flat-square)](https://github.com/GhostPoro/InterUpTool/graphs/contributors)|[![](https://flat.badgen.net/github/license/GhostPoro/InterUpTool?label=)](https://github.com/GhostPoro/InterUpTool/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/GhostPoro/InterUpTool?label=)](https://github.com/GhostPoro/InterUpTool/graphs/code-frequency)|
@@ -22,12 +22,12 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[PRINCIPI](https://github.com/Rob00t-unimi/progetto-principi#readme)|Fully customizable video frame rate up-conversion and video resolution upscaling with sharpening and denoising editor with GUI|[![](https://img.shields.io/github/languages/top/Rob00t-unimi/progetto-principi?color=pink&style=flat-square)](https://github.com/Rob00t-unimi/progetto-principi/graphs/contributors)|[![](https://flat.badgen.net/github/license/Rob00t-unimi/progetto-principi?label=)](https://github.com/Rob00t-unimi/progetto-principi/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Rob00t-unimi/progetto-principi/main?label=)](https://github.com/Rob00t-unimi/progetto-principi/graphs/code-frequency)|
 |[VSGAN-tensorrt-docker](https://github.com/styler00dollar/VSGAN-tensorrt-docker#readme)|Super resolution models and video frame interpolation models and also trying to speed them up with TensorRT|[![](https://img.shields.io/github/languages/top/styler00dollar/VSGAN-tensorrt-docker?color=pink&style=flat-square)](https://github.com/styler00dollar/VSGAN-tensorrt-docker/graphs/contributors)|[![](https://flat.badgen.net/github/license/styler00dollar/VSGAN-tensorrt-docker?label=)](https://github.com/styler00dollar/VSGAN-tensorrt-docker/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/styler00dollar/VSGAN-tensorrt-docker?label=)](https://github.com/styler00dollar/VSGAN-tensorrt-docker/graphs/code-frequency)|
 
-## Mixing [⌂](#--)
+### Mixing [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Automatic Mixing of Audio and Video](https://github.com/rissalhedna/Automatic-Mixing-of-Audio-and-Video#readme)|Proposing a comprehensive method for assisting video editing tasks using neural networks|[![](https://img.shields.io/github/languages/top/rissalhedna/Automatic-Mixing-of-Audio-and-Video?color=pink&style=flat-square)](https://github.com/rissalhedna/Automatic-Mixing-of-Audio-and-Video/graphs/contributors)|[![](https://flat.badgen.net/github/license/rissalhedna/Automatic-Mixing-of-Audio-and-Video?label=)](https://github.com/rissalhedna/Automatic-Mixing-of-Audio-and-Video/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/rissalhedna/Automatic-Mixing-of-Audio-and-Video/main?label=)](https://github.com/rissalhedna/Automatic-Mixing-of-Audio-and-Video/graphs/code-frequency)|
 
-## Restoring [⌂](#--)
+### Restoring [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[TOFlow](http://toflow.csail.mit.edu/)|[Video Enhancement with Task-Oriented Flow](http://toflow.csail.mit.edu/) IJCV publication implementation|[![](https://img.shields.io/github/languages/top/anchen1011/toflow?color=pink&style=flat-square)](https://github.com/anchen1011/toflow/graphs/contributors)|[![](https://flat.badgen.net/github/license/anchen1011/toflow?label=)](https://github.com/anchen1011/toflow/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/anchen1011/toflow?label=)](https://github.com/anchen1011/toflow/graphs/code-frequency)|
@@ -35,7 +35,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[BasicSR](https://github.com/XPixelGroup/BasicSR#readme)|Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc|[![](https://img.shields.io/github/languages/top/XPixelGroup/BasicSR?color=pink&style=flat-square)](https://github.com/XPixelGroup/BasicSR/graphs/contributors)|[![](https://flat.badgen.net/github/license/XPixelGroup/BasicSR?label=)](https://github.com/XPixelGroup/BasicSR/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/XPixelGroup/BasicSR?label=)](https://github.com/XPixelGroup/BasicSR/graphs/code-frequency)|
 
 
-## Denoisers [⌂](#--)
+### Denoisers [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Model-Blind Video Denoising Via Frame-to-frame Training](https://github.com/tehret/blind-denoising#readme)|[Model-blind Video Denoising Via Frame-to-frame Training](https://arxiv.org/abs/1811.12766) implementation|[![](https://img.shields.io/github/languages/top/tehret/blind-denoising?color=pink&style=flat-square)](https://github.com/tehret/blind-denoising/graphs/contributors)|[![](https://flat.badgen.net/github/license/tehret/blind-denoising?label=)](https://github.com/tehret/blind-denoising/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/tehret/blind-denoising?label=)](https://github.com/tehret/blind-denoising/graphs/code-frequency)|
@@ -52,7 +52,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[STPAN](https://github.com/jojo23333/STPAN#readme)|This is the official implementation of "[Learning Spatial and Spatio-Temporal Pixel Aggregations for Image and Video Denoising](https://arxiv.org/abs/2101.10760)" paper|[![](https://img.shields.io/github/languages/top/jojo23333/STPAN?color=pink&style=flat-square)](https://github.com/jojo23333/STPAN/graphs/contributors)|[![](https://flat.badgen.net/github/license/jojo23333/STPAN?label=)](https://github.com/jojo23333/STPAN/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jojo23333/STPAN?label=)](https://github.com/jojo23333/STPAN/graphs/code-frequency)|
 |[RViDeNet](https://github.com/cao-cong/RViDeNet#readme)|This is the official implementation of "[Supervised Raw Video Denoising with a Benchmark Dataset on Dynamic Scenes](https://arxiv.org/abs/2003.14013) paper|[![](https://img.shields.io/github/languages/top/cao-cong/RViDeNet?color=pink&style=flat-square)](https://github.com/cao-cong/RViDeNet/graphs/contributors)|[![](https://flat.badgen.net/github/license/cao-cong/RViDeNet?label=)](https://github.com/cao-cong/RViDeNet/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/cao-cong/RViDeNet?label=)](https://github.com/cao-cong/RViDeNet/graphs/code-frequency)|
 
-## Deblurrers [⌂](#--)
+### Deblurrers [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Deep Video Deblurring for Hand-held Cameras](http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/)|This is the demo code for "[Deep Video Deblurring for Hand-held Cameras](http://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/)" paper|[![](https://img.shields.io/github/languages/top/shuochsu/DeepVideoDeblurring?color=pink&style=flat-square)](https://github.com/shuochsu/DeepVideoDeblurring/graphs/contributors)|[![](https://flat.badgen.net/github/license/shuochsu/DeepVideoDeblurring?label=)](https://github.com/shuochsu/DeepVideoDeblurring/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/shuochsu/DeepVideoDeblurring?label=)](https://github.com/shuochsu/DeepVideoDeblurring/graphs/code-frequency)|
@@ -61,7 +61,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[ESTRNN & BSD](https://github.com/zzh-tech/ESTRNN#readme)|This work presents an efficient RNN-based model and the first real-world dataset for image/video deblurring|[![](https://img.shields.io/github/languages/top/zzh-tech/ESTRNN?color=pink&style=flat-square)](https://github.com/zzh-tech/ESTRNN/graphs/contributors)|[![](https://flat.badgen.net/github/license/zzh-tech/ESTRNN?label=)](https://github.com/zzh-tech/ESTRNN/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/zzh-tech/ESTRNN?label=)](https://github.com/zzh-tech/ESTRNN/graphs/code-frequency)|
 |[STFAN](https://github.com/sczhou/STFAN#readme)|Code repo for the "[Spatio-Temporal Filter Adaptive Network for Video Deblurring](https://shangchenzhou.com/projects/stfan/)" paper|[![](https://img.shields.io/github/languages/top/sczhou/STFAN?color=pink&style=flat-square)](https://github.com/sczhou/STFAN/graphs/contributors)|[![](https://flat.badgen.net/github/license/sczhou/STFAN?label=)](https://github.com/sczhou/STFAN/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/sczhou/STFAN?label=)](https://github.com/sczhou/STFAN/graphs/code-frequency)|
 
-## Artifacts reduction [⌂](#--)
+### Artifacts reduction [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[MFQE 2.0](https://github.com/RyanXingQL/MFQEv2.0#readme)|Official repository of "[MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video](https://arxiv.org/abs/1902.09707)" paper|[![](https://img.shields.io/github/languages/top/RyanXingQL/MFQEv2.0?color=pink&style=flat-square)](https://github.com/RyanXingQL/MFQEv2.0/graphs/contributors)|[![](https://flat.badgen.net/github/license/RyanXingQL/MFQEv2.0?label=)](https://github.com/RyanXingQL/MFQEv2.0/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/RyanXingQL/MFQEv2.0?label=)](https://github.com/RyanXingQL/MFQEv2.0/graphs/code-frequency)|
@@ -71,7 +71,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[QG-ConvLSTM](https://github.com/ryangchn/QG-ConvLSTM#readme)|Project page of "[Quality-Gated Convolutional LSTM for Enhancing Compressed Video](https://arxiv.org/abs/1903.04596)" paper|[![](https://img.shields.io/github/languages/top/ryangchn/QG-ConvLSTM?color=pink&style=flat-square)](https://github.com/ryangchn/QG-ConvLSTM/graphs/contributors)|[![](https://flat.badgen.net/github/license/ryangchn/QG-ConvLSTM?label=)](https://github.com/ryangchn/QG-ConvLSTM/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ryangchn/QG-ConvLSTM?label=)](https://github.com/ryangchn/QG-ConvLSTM/graphs/code-frequency)|
 
 
-## Colorization [⌂](#--)
+### Colorization [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Deep Exemplar-based Video Colorization](https://github.com/zhangmozhe/Deep-Exemplar-based-Video-Colorization#readme)|PyTorch implementation for the [Deep Exemplar-based Video Colorization](https://arxiv.org/abs/1906.09909) paper|[![](https://img.shields.io/github/languages/top/zhangmozhe/Deep-Exemplar-based-Video-Colorization?color=pink&style=flat-square)](https://github.com/zhangmozhe/Deep-Exemplar-based-Video-Colorization/graphs/contributors)|[![](https://flat.badgen.net/github/license/zhangmozhe/Deep-Exemplar-based-Video-Colorization?label=)](https://github.com/zhangmozhe/Deep-Exemplar-based-Video-Colorization/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/zhangmozhe/Deep-Exemplar-based-Video-Colorization?label=)](https://github.com/zhangmozhe/Deep-Exemplar-based-Video-Colorization/graphs/code-frequency)|
