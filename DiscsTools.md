@@ -1,23 +1,23 @@
-# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "AUDIO resources") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/blob/main/AudioFXs.md#-- "Effects") [![Disc Tools](https://flat.badgen.net/badge/HyMPS/Disc%20Tools/red?scale=1.8&label=)](#--- "Disc Tools") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
+# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "AUDIO resources") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/blob/main/A_Tools.md#-- "Audio Tools") [![Disc Tools](https://flat.badgen.net/badge/HyMPS/Disc%20Tools/red?scale=1.8&label=)](#--- "Disc Tools") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [Burning](#burning-) - [Dumping](#dumping-) - [Ripping](#ripping-)
+### [Burning](#burning-) - [Dumping](#dumping-) - [Ripping](#ripping-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: none}}$ 
 
-## Burning [⌂](#--)
-|URL|Short description|Language|License|Last commit|
+### Burning [⌂](#--)
+|Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[CDRDAO](https://cdrdao.sourceforge.net/)|Disk-At-Once Recording of Audio and Data CD-Rs/CD-RWs|[![](https://img.shields.io/github/languages/top/cdrdao/cdrdao?color=pink&style=flat-square)](https://github.com/cdrdao/cdrdao/graphs/contributors)|[![](https://flat.badgen.net/github/license/cdrdao/cdrdao?label=)](https://github.com/cdrdao/cdrdao/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/cdrdao/cdrdao/master?label=)](https://github.com/cdrdao/cdrdao/graphs/code-frequency)|
 |[Lenz-disc-burn](https://github.com/LenzB1987/Lenz-disc-burn#readme)|A CD/Disc burning software written in C#|[![](https://img.shields.io/github/languages/top/LenzB1987/Lenz-disc-burn?color=pink&style=flat-square)](https://github.com/LenzB1987/Lenz-disc-burn/graphs/contributors)|[![](https://flat.badgen.net/github/license/LenzB1987/Lenz-disc-burn?label=)](https://github.com/LenzB1987/Lenz-disc-burn/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/LenzB1987/Lenz-disc-burn?label=)](https://github.com/LenzB1987/Lenz-disc-burn/graphs/code-frequency)|
 
-## Dumping [⌂](#--)
-|URL|Short description|Language|License|Last commit|
+### Dumping [⌂](#--)
+|Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[DiscImageCreator](http://forum.redump.org/topic/10483/discimagecreator/)|This is the disc (CD, GD, DVD, HD-DVD, BD, GC/Wii, XBOX, XBOX 360) and disk (Floppy, MO, USB etc) image creation tool|[![](https://img.shields.io/github/languages/top/saramibreak/DiscImageCreator?color=pink&style=flat-square)](https://github.com/saramibreak/DiscImageCreator/graphs/contributors)|[![](https://flat.badgen.net/github/license/saramibreak/DiscImageCreator?label=)](https://github.com/saramibreak/DiscImageCreator/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/saramibreak/DiscImageCreator/master?label=)](https://github.com/saramibreak/DiscImageCreator/graphs/code-frequency)|
 |[redumper](https://github.com/superg/redumper#readme)|Low level CD dumper utility|[![](https://img.shields.io/github/languages/top/superg/redumper?color=pink&style=flat-square)](https://github.com/superg/redumper/graphs/contributors)|[![](https://flat.badgen.net/github/license/superg/redumper?label=)](https://github.com/superg/redumper/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/superg/redumper?label=)](https://github.com/superg/redumper/graphs/code-frequency)|
 
 ## Ripping [⌂](#--)
-|URL|Short description|Language|License|Last commit|
+|Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[CUETools](http://cue.tools/)|CD image processing suite with optimized lossless encoders in C#|[![](https://img.shields.io/github/languages/top/gchudov/cuetools.net?color=pink&style=flat-square)](https://github.com/gchudov/cuetools.net/graphs/contributors)|[![](https://flat.badgen.net/github/license/gchudov/cuetools.net?label=)](https://github.com/gchudov/cuetools.net/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/gchudov/cuetools.net/master?label=)](https://github.com/gchudov/cuetools.net/graphs/code-frequency)|
 |[fre:ac](https://www.freac.org/)|A free audio converter and CD ripper with support for various popular formats and encoders|[![](https://img.shields.io/github/languages/top/enzo1982/freac?color=pink&style=flat-square)](https://github.com/enzo1982/freac/graphs/contributors)|[![](https://flat.badgen.net/github/license/enzo1982/freac?label=)](https://github.com/enzo1982/freac/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/enzo1982/freac/master?label=)](https://github.com/enzo1982/freac/graphs/code-frequency)|
