@@ -1,15 +1,15 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/tree/main#tools-1 "Video tools") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-## Subsections: [Codecs](#codecs-) - [Cut&Copy](#cutcopy-) - [Encoders](#encoders-) - [Encoding](#encoding-) - [GUIs](#guis-)
+### [Codecs](#codecs-) - [Cut&Copy](#cutcopy-) - [Encoders](#encoders-) - [Encoding](#encoding-) - [GUIs](#guis-) - [Others](#others-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
-## Codecs [⌂](#--)
+### Codecs [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Fraunhofer Versatile Video Encoder (VVenC)](https://www.hhi.fraunhofer.de/en/departments/vca/technologies-and-solutions/h266-vvc.html)|A fast and efficient H.266/VVC encoder implementation|[![](https://img.shields.io/github/languages/top/fraunhoferhhi/vvenc?color=pink&style=flat-square)](https://github.com/fraunhoferhhi/vvenc/graphs/contributors)|[![](https://flat.badgen.net/github/license/fraunhoferhhi/vvenc?label=)](https://github.com/fraunhoferhhi/vvenc/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/fraunhoferhhi/vvenc?label=)](https://github.com/fraunhoferhhi/vvenc/graphs/code-frequency)|
 
-## Cut&Copy [⌂](#--)
+### Cut&Copy [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[SharpCut](https://github.com/philipbutkiewicz/SharpCut#readme)|A simple video editing utility that allows you to cut individual scenes out of videos without re-encoding|[![](https://img.shields.io/github/languages/top/philipbutkiewicz/SharpCut?color=pink&style=flat-square)](https://github.com/philipbutkiewicz/SharpCut/graphs/contributors)|[![](https://flat.badgen.net/github/license/philipbutkiewicz/SharpCut?label=)](https://github.com/philipbutkiewicz/SharpCut/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/philipbutkiewicz/SharpCut?label=)](https://github.com/philipbutkiewicz/SharpCut/graphs/code-frequency)|
@@ -18,7 +18,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[LosslessCut](https://mifi.no/losslesscut/)|The swiss army knife of lossless video/audio editing|[![](https://img.shields.io/github/languages/top/mifi/lossless-cut?color=pink&style=flat-square)](https://github.com/mifi/lossless-cut/graphs/contributors)|[![](https://flat.badgen.net/github/license/mifi/lossless-cut?label=)](https://github.com/mifi/lossless-cut/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mifi/lossless-cut?label=)](https://github.com/mifi/lossless-cut/graphs/code-frequency)|
 
 
-## Encoders [⌂](#--)
+### Encoders [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[x262](https://github.com/kierank/x262#readme)|x264 with MPEG-2 support|[![](https://img.shields.io/github/languages/top/kierank/x262?color=pink&style=flat-square)](https://github.com/kierank/x262/graphs/contributors)|[![](https://flat.badgen.net/github/license/kierank/x262?label=)](https://github.com/kierank/x262/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/kierank/x262?label=)](https://github.com/kierank/x262/graphs/code-frequency)|
@@ -36,13 +36,13 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Av1an](https://github.com/master-of-zen/Av1an#readme)|Cross-platform command-line AV1 / VP9 / HEVC / H264 encoding framework with per scene quality encoding|[![](https://img.shields.io/github/languages/top/master-of-zen/Av1an?color=pink&style=flat-square)](https://github.com/master-of-zen/Av1an/graphs/contributors)|[![](https://flat.badgen.net/github/license/master-of-zen/Av1an?label=)](https://github.com/master-of-zen/Av1an/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/master-of-zen/Av1an?label=)](https://github.com/master-of-zen/Av1an/graphs/code-frequency)|
 |[uvg266](https://github.com/ultravideo/uvg266#readme)|An open-source VVC encoder based on Kvazaar|[![](https://img.shields.io/github/languages/top/ultravideo/uvg266?color=pink&style=flat-square)](https://github.com/ultravideo/uvg266/graphs/contributors)|[![](https://flat.badgen.net/github/license/ultravideo/uvg266?label=)](https://github.com/ultravideo/uvg266/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ultravideo/uvg266?label=)](https://github.com/ultravideo/uvg266/graphs/code-frequency)|
 
-## Encoding [⌂](#--)
+### Encoding [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Encode video frame by frame in C++ using FFmpeg](https://github.com/apc-llc/moviemaker-cpp#readme)|This library leverages FFmpeg to embed video encoding directly into frame-producing application|[![](https://img.shields.io/github/languages/top/apc-llc/moviemaker-cpp?color=pink&style=flat-square)](https://github.com/apc-llc/moviemaker-cpp/graphs/contributors)|[![](https://flat.badgen.net/github/license/apc-llc/moviemaker-cpp?label=)](https://github.com/apc-llc/moviemaker-cpp/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/apc-llc/moviemaker-cpp?label=)](https://github.com/apc-llc/moviemaker-cpp/graphs/code-frequency)|
 |[clustercode](https://ccremer.github.io/clustercode/clustercode/)|Automatically convert videos from one file format to another using ffmpeg in a cluster|[![](https://img.shields.io/github/languages/top/ccremer/clustercode?color=pink&style=flat-square)](https://github.com/ccremer/clustercode/graphs/contributors)|[![](https://flat.badgen.net/github/license/ccremer/clustercode?label=)](https://github.com/ccremer/clustercode/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ccremer/clustercode?label=)](https://github.com/ccremer/clustercode/graphs/code-frequency)|
 
-## GUIs [⌂](#--)
+### GUIs [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Video File Organiser](https://github.com/CraigWatt/vfo#readme)|A utility for batch-encoding your video portfolio|[![](https://img.shields.io/github/languages/top/CraigWatt/vfo?color=pink&style=flat-square)](https://github.com/CraigWatt/vfo/graphs/contributors)|[![](https://flat.badgen.net/github/license/CraigWatt/vfo?label=)](https://github.com/CraigWatt/vfo/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/CraigWatt/vfo?label=)](https://github.com/CraigWatt/vfo/graphs/code-frequency)|
@@ -72,3 +72,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[TurnH264](https://github.com/craftnut/TurnH264#readme)|A simple GUI program that converts the selected video into H264 using FFmpeg|[![](https://img.shields.io/github/languages/top/craftnut/TurnH264?color=pink&style=flat-square)](https://github.com/craftnut/TurnH264/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/craftnut/TurnH264/blob/main/LICENSE.md)|[![](https://flat.badgen.net/github/last-commit/craftnut/TurnH264?label=)](https://github.com/craftnut/TurnH264/graphs/code-frequency)|
 |[ez265](https://github.com/CKay9/ez265#readme)|A minimal tool for encoding video files into h.265 in .mkv container|[![](https://img.shields.io/github/languages/top/CKay9/ez265?color=pink&style=flat-square)](https://github.com/CKay9/ez265/graphs/contributors)|[![](https://flat.badgen.net/github/license/CKay9/ez265?label=)](https://github.com/CKay9/ez265/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/CKay9/ez265?label=)](https://github.com/CKay9/ez265/graphs/code-frequency)|
 |[StaxRip](https://github.com/staxrip/staxrip#readme)|A powerful video/audio encoding GUI for Windows|[![](https://img.shields.io/github/languages/top/staxrip/staxrip?color=pink&style=flat-square)](https://github.com/staxrip/staxrip/graphs/contributors)|[![](https://flat.badgen.net/github/license/staxrip/staxrip?label=)](https://github.com/staxrip/staxrip/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/staxrip/staxrip?label=)](https://github.com/staxrip/staxrip/graphs/code-frequency)|
+
+### Others [⌂](#--)
+|Name + URL|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
