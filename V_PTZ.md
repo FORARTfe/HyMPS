@@ -1,6 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![Pan Tilt Zoom](https://flat.badgen.net/badge/HyMPS/Pan%20Tilt%20Zoom/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#pan-tilt-zoom) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 
-### [Generic](#generic-) - [GUI](#gui-) - [Android](#android-) - [HID](#hid-) - [ONVIF](#onvif-) - [VISCA](#visca-) - [Other](#other-)
+### [Generic](#generic-) - [GUIs](#guis-) - [Android](#android-) - [HID](#hid-) - [ONVIF](#onvif-) - [VISCA](#visca-) - [Other](#other-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -13,7 +13,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[PTZ-SERVER](https://github.com/jeffmikels/ptz-server#readme)|Control any PTZ camera that supports the VISCA Protocol either over serial or IP or both|[![](https://img.shields.io/github/languages/top/jeffmikels/ptz-server?color=pink&style=flat-square)](https://github.com/jeffmikels/ptz-server/graphs/contributors)|[![](https://flat.badgen.net/github/license/jeffmikels/ptz-server?label=)](https://github.com/jeffmikels/ptz-server/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jeffmikels/ptz-server/main?label=)](https://github.com/jeffmikels/ptz-server/graphs/code-frequency)|
 |[ptzopticscontrol](https://github.com/Garionion/ptzopticscontrol#readme)|Little Python Script for controlling a PTZOptics NDI HX Camera|[![](https://img.shields.io/github/languages/top/Garionion/ptzopticscontrol?color=pink&style=flat-square)](https://github.com/Garionion/ptzopticscontrol/graphs/contributors)|[![](https://flat.badgen.net/github/license/Garionion/ptzopticscontrol?label=)](https://github.com/Garionion/ptzopticscontrol/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Garionion/ptzopticscontrol/master?label=)](https://github.com/Garionion/ptzopticscontrol/graphs/code-frequency)|
 
-### GUI [«](#--)
+### GUIs [«](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[PTZCameraController](https://github.com/pataelmo/PTZCameraController#readme)|A project to create a controller for PTZ Cameras|[![](https://img.shields.io/github/languages/top/pataelmo/PTZCameraController?color=pink&style=flat-square)](https://github.com/pataelmo/PTZCameraController/graphs/contributors)|[![](https://flat.badgen.net/github/license/pataelmo/PTZCameraController?label=)](https://github.com/pataelmo/PTZCameraController/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/pataelmo/PTZCameraController/main?label=)](https://github.com/pataelmo/PTZCameraController/graphs/code-frequency)|
