@@ -1,6 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![Pan Tilt Zoom](https://flat.badgen.net/badge/HyMPS/Pan%20Tilt%20Zoom/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#pan-tilt-zoom) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 
-### [Generic](#generic-) - [GUIs](#guis-) - [Android](#android-) - [HID](#hid-) - [ONVIF](#onvif-) - [VISCA](#visca-) - [Tracking](#tracking-) - [Misc](#misc-)
+### [Generic](#generic-) - [GUIs](#guis-) - [Android](#android-) - [HID](#hid-) - [ONVIF](#onvif-) - [NDI](#ndi-) - [VISCA](#visca-) - [Tracking](#tracking-) - [Misc](#misc-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -57,6 +57,11 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[onvif](https://github.com/rocky-Cplusplus/onvif#readme)|IP camera ptz control|[![](https://img.shields.io/github/languages/top/rocky-Cplusplus/onvif?color=pink&style=flat-square)](https://github.com/rocky-Cplusplus/onvif/graphs/contributors)|[![](https://flat.badgen.net/github/license/rocky-Cplusplus/onvif?label=)](https://github.com/rocky-Cplusplus/onvif/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/rocky-Cplusplus/onvif/main?label=)](https://github.com/rocky-Cplusplus/onvif/graphs/code-frequency)|
 |[cam2mqtt](https://github.com/berfenger/cam2mqtt#readme)|Implements a translation layer between camera interfaces (ONVIF, ad-hoc HTTP APIs, etc) and MQTT|[![](https://img.shields.io/github/languages/top/berfenger/cam2mqtt?color=pink&style=flat-square)](https://github.com/berfenger/cam2mqtt/graphs/contributors)|[![](https://flat.badgen.net/github/license/berfenger/cam2mqtt?label=)](https://github.com/berfenger/cam2mqtt/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/berfenger/cam2mqtt/master?label=)](https://github.com/berfenger/cam2mqtt/graphs/code-frequency)|
 
+### NDI [«](#--)
+|Name + URL|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[PTZ Server](https://github.com/AidanNelson/ptz-server#readme)|Python server that communicates with pan-tilt-zoom (PTZ) cameras using the NDI and Free-D protocols|[![](https://img.shields.io/github/languages/top/AidanNelson/ptz-server?color=pink&style=flat-square)](https://github.com/AidanNelson/ptz-server/graphs/contributors)|[![](https://flat.badgen.net/github/license/AidanNelson/ptz-server?label=)](https://github.com/AidanNelson/ptz-server/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/AidanNelson/ptz-server?label=)](https://github.com/AidanNelson/ptz-server/graphs/code-frequency)|
+|[NDI Camera control CHOP](https://github.com/err5/ndi-camera-control#readme)|NDI-PTZ Camera controller CHOP for TouchDesigner|[![](https://img.shields.io/github/languages/top/err5/ndi-camera-control?color=pink&style=flat-square)](https://github.com/err5/ndi-camera-control/graphs/contributors)|[![](https://flat.badgen.net/github/license/err5/ndi-camera-control?label=)](https://github.com/err5/ndi-camera-control/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/err5/ndi-camera-control?label=)](https://github.com/err5/ndi-camera-control/graphs/code-frequency)|
 
 ### VISCA [«](#--)
 |Name + URL|Short description|Language|License|Last commit|
