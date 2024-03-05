@@ -1,4 +1,4 @@
-# [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![Pan Tilt Zoom](https://flat.badgen.net/badge/HyMPS/Pan%20Tilt%20Zoom/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#pan-tilt-zoom) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+# [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![Pan Tilt Zoom](https://flat.badgen.net/badge/HyMPS/Pan%20Tilt%20Zoom/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#pan-tilt-zoom) <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
 ### [Generic](#generic-) - [GUIs](#guis-) - [Android](#android-) - [HID](#hid-) - [ONVIF](#onvif-) - [NDI](#ndi-) - [VISCA](#visca-) - [Tracking](#tracking-) - [Misc](#misc-)
 
