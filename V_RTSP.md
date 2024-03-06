@@ -1,6 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![RTSP](https://flat.badgen.net/badge/HyMPS/RTSP/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/tree/main#rtsp) <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 
-### [Generic](#generic-) - [Android](#android-) - [Misc](#misc-) - [No data](#no-data-)
+### [Generic](#generic-) - [Android](#android-) - [Misc](#misc-) - [No description](#no-description-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -59,7 +59,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[rawcam](https://github.com/frnjjq/raw-camera#readme)|Demonstation of the minimum lag from glass to glass using a bayer raw camera|[![](https://img.shields.io/github/languages/top/frnjjq/raw-camera?color=pink&style=flat-square)](https://github.com/frnjjq/raw-camera/graphs/contributors)|[![](https://flat.badgen.net/github/license/frnjjq/raw-camera?label=)](https://github.com/frnjjq/raw-camera/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/frnjjq/raw-camera/master?label=)](https://github.com/frnjjq/raw-camera/graphs/code-frequency)|
 |[rtsp-samsung-tv](https://github.com/vzakharchenko/rtsp-samsung-tv#readme)|Display RTSP streams from IP Cameras on Samsung Smart TV (Tizen TV)|[![](https://img.shields.io/github/languages/top/vzakharchenko/rtsp-samsung-tv?color=pink&style=flat-square)](https://github.com/vzakharchenko/rtsp-samsung-tv/graphs/contributors)|[![](https://flat.badgen.net/github/license/vzakharchenko/rtsp-samsung-tv?label=)](https://github.com/vzakharchenko/rtsp-samsung-tv/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/vzakharchenko/rtsp-samsung-tv/master?label=)](https://github.com/vzakharchenko/rtsp-samsung-tv/graphs/code-frequency)|
 
-### No data [⌂](#--)
+### No description [⌂](#--)
 |Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[RtspPlayer](https://github.com/ivankossdev/RtspPlayer#readme)|-|[![](https://img.shields.io/github/languages/top/ivankossdev/RtspPlayer?color=pink&style=flat-square)](https://github.com/ivankossdev/RtspPlayer/graphs/contributors)|[![](https://flat.badgen.net/github/license/ivankossdev/RtspPlayer?label=)](https://github.com/ivankossdev/RtspPlayer/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ivankossdev/RtspPlayer/main?label=)](https://github.com/ivankossdev/RtspPlayer/graphs/code-frequency)|
