@@ -78,3 +78,4 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 ### Others [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[Avidemux](https://github.com/mean00/avidemux2#readme)|A simple cross-platform video editor|[![](https://img.shields.io/github/languages/top/mean00/avidemux2?color=pink&style=flat-square)](https://github.com/mean00/avidemux2/graphs/contributors)|[![](https://flat.badgen.net/github/license/mean00/avidemux2?label=)](https://github.com/mean00/avidemux2/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mean00/avidemux2?label=)](https://github.com/mean00/avidemux2/graphs/code-frequency)|
