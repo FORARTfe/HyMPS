@@ -1,6 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![AI-based projects](https://flat.badgen.net/badge/HyMPS/AI-based%20projects/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#ai-based-1 "AI-based") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-) - [Artifacts reduction](#artifacts-reduction-) - [Colorization](#colorization-) - [Compression](#compression-)
+### [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-) - [Artifacts reduction](#artifacts-reduction-) - [Colorization](#colorization-) - [Compression](#compression-) - [Other resources](#other-resources-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -98,8 +98,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Ureca-Deep-neural-network-based-video-compression](https://github.com/ZhangJiayu99/Ureca-Deep-neural-network-based-video-compression#readme)|Investigate methodologies that combine neural networks and video compression|[![](https://img.shields.io/github/languages/top/ZhangJiayu99/Ureca-Deep-neural-network-based-video-compression?color=pink&style=flat-square)](https://github.com/ZhangJiayu99/Ureca-Deep-neural-network-based-video-compression/graphs/contributors)|[![](https://flat.badgen.net/github/license/ZhangJiayu99/Ureca-Deep-neural-network-based-video-compression?label=)](https://github.com/ZhangJiayu99/Ureca-Deep-neural-network-based-video-compression/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ZhangJiayu99/Ureca-Deep-neural-network-based-video-compression?label=)](https://github.com/ZhangJiayu99/Ureca-Deep-neural-network-based-video-compression/graphs/code-frequency)|
 |[video-compression-dnn](https://github.com/isseu/video-compression-dnn#readme)|Video compression using deep convolutional neural networks and autoencoders|[![](https://img.shields.io/github/languages/top/isseu/video-compression-dnn?color=pink&style=flat-square)](https://github.com/isseu/video-compression-dnn/graphs/contributors)|[![](https://flat.badgen.net/github/license/isseu/video-compression-dnn?label=)](https://github.com/isseu/video-compression-dnn/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/isseu/video-compression-dnn?label=)](https://github.com/isseu/video-compression-dnn/graphs/code-frequency)|
 
-
-Other resources:
+### Other resources [⌂](#--)
 - [Video Frame Interpolation Rankings and Video Deblurring Rankings](https://github.com/AIVFI/Video-Frame-Interpolation-Rankings-and-Video-Deblurring-Rankings)
 - [Awesome Video Diffusion](https://github.com/showlab/Awesome-Video-Diffusion#awesome-video-diffusion--)
 - [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization#awesome-image-colorization)/[Video Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization#4-video-colorization)
