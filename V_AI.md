@@ -104,3 +104,4 @@ Other resources:
 - [Video restoration based on deep learning: a comprehensive survey](https://github.com/claudiom4sir/VideoRestoration)
 - [Deep-Image-Compression-Video-Coding](https://github.com/WenxueCui/Deep-Image-Compression-Video-Coding#readme)
 - [Learning-based-Image-Video-Compression](https://github.com/deeptimhe/Learning-based-Image-Video-Compression#readme)
+- [Awesome Deep Learning Based Video Compression](https://github.com/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression#readme)
