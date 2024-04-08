@@ -4,7 +4,7 @@
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
-### Amp Sims [«](Guitar.md#--) 
+### Amp Sims [⌂](#---) 
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 [ayeMux](https://github.com/forart/ayemux#readme)|A program that patches LADSPA audio plugins using Jack to create a real time audio fx system similar to Guitar Rig|[![](https://img.shields.io/github/languages/top/forart/ayemux?color=pink&style=flat-square)](https://github.com/forart/ayemux/graphs/contributors)|[![](https://flat.badgen.net/github/license/forart/ayemux?label=)](https://github.com/forart/ayemux/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/forart/ayemux?label=)](https://github.com/forart/ayemux/graphs/code-frequency)|
@@ -26,7 +26,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 
-### DSPs [«](Guitar.md#--)
+### DSPs [⌂](#---)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[HighGain](https://github.com/kaktus3000/HighGain#readme)|Guitar effects dsp library|[![](https://img.shields.io/github/languages/top/kaktus3000/HighGain?color=pink&style=flat-square)](https://github.com/kaktus3000/HighGain/graphs/contributors)|[![](https://flat.badgen.net/github/license/kaktus3000/HighGain?label=)](https://github.com/kaktus3000/HighGain/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/kaktus3000/HighGain?label=)](https://github.com/kaktus3000/HighGain/graphs/code-frequency)|
@@ -44,12 +44,12 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[KFuzz-](https://github.com/Kirby01/KFuzz-VST3-Juce#readme)|VST plugin for streaming electric guitar audio signal with applied effects|[![](https://img.shields.io/github/languages/top/Kirby01/KFuzz-VST3-Juce?color=pink&style=flat-square)](https://github.com/Kirby01/KFuzz-VST3-Juce/graphs/contributors)|[![](https://flat.badgen.net/github/license/Kirby01/KFuzz-VST3-Juce?label=)](https://github.com/Kirby01/KFuzz-VST3-Juce/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Kirby01/KFuzz-VST3-Juce?label=)](https://github.com/Kirby01/KFuzz-VST3-Juce/graphs/code-frequency)|
 |[Plugin-Portfolio](https://github.com/shmillo/Plugin-Portfolio#readme)|Analog Modelled VSTs made in JUCE using C++|[![](https://img.shields.io/github/languages/top/shmillo/Plugin-Portfolio?color=pink&style=flat-square)](https://github.com/shmillo/Plugin-Portfolio/graphs/contributors)|[![](https://flat.badgen.net/github/license/shmillo/Plugin-Portfolio?label=)](https://github.com/shmillo/Plugin-Portfolio/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/shmillo/Plugin-Portfolio?label=)](https://github.com/shmillo/Plugin-Portfolio/graphs/code-frequency)|
 
-### Tuning [«](Guitar.md#--)
+### Tuning [⌂](#---)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[GuitarTuner App](https://github.com/TomSchimansky/GuitarTuner#readme)|A simple chromatic tuner designed for guitar tuning, but it should also work with every other instrument|[![](https://img.shields.io/github/languages/top/TomSchimansky/GuitarTuner?color=pink&style=flat-square)](https://github.com/TomSchimansky/GuitarTuner/graphs/contributors)|[![](https://flat.badgen.net/github/license/TomSchimansky/GuitarTuner?label=)](https://github.com/TomSchimansky/GuitarTuner/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/TomSchimansky/GuitarTuner?label=)](https://github.com/TomSchimansky/GuitarTuner/graphs/code-frequency)|
 
-### Impulse response [«](Guitar.md#--)
+### Impulse response [⌂](#---)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Impulse Response Measurement](https://github.com/AkiyukiOkayasu/ImpulseResponseMeasurement#readme)|Impulse response(IR) measurement software|[![](https://img.shields.io/github/languages/top/AkiyukiOkayasu/ImpulseResponseMeasurement?color=pink&style=flat-square)](https://github.com/AkiyukiOkayasu/ImpulseResponseMeasurement/graphs/contributors)|[![](https://flat.badgen.net/github/license/AkiyukiOkayasu/ImpulseResponseMeasurement?label=)](https://github.com/AkiyukiOkayasu/ImpulseResponseMeasurement/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/AkiyukiOkayasu/ImpulseResponseMeasurement/master?label=)](https://github.com/AkiyukiOkayasu/ImpulseResponseMeasurement/graphs/code-frequency)|
@@ -63,14 +63,15 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[pyrirtool](https://github.com/maj4e/pyrirtool#readme)|Measuring room impulse responses with python and sounddevice|[![](https://img.shields.io/github/languages/top/maj4e/pyrirtool?color=pink&style=flat-square)](https://github.com/maj4e/pyrirtool/graphs/contributors)|[![](https://flat.badgen.net/github/license/maj4e/pyrirtool?label=)](https://github.com/maj4e/pyrirtool/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/maj4e/pyrirtool?label=)](https://github.com/maj4e/pyrirtool/graphs/code-frequency)|
 |[Python RIR Simulator](https://github.com/sunits/rir_simulator_python#readme)|Room impulse response simulator using python|[![](https://img.shields.io/github/languages/top/sunits/rir_simulator_python?color=pink&style=flat-square)](https://github.com/sunits/rir_simulator_python/graphs/contributors)|[![](https://flat.badgen.net/github/license/sunits/rir_simulator_python?label=)](https://github.com/sunits/rir_simulator_python/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/sunits/rir_simulator_python?label=)](https://github.com/sunits/rir_simulator_python/graphs/code-frequency)|
 |[RIRME](https://github.com/SiggiGue/rirme#readme)|Room Impulse Response Measuring and Evaluation|[![](https://img.shields.io/github/languages/top/SiggiGue/rirme?color=pink&style=flat-square)](https://github.com/SiggiGue/rirme/graphs/contributors)|[![](https://flat.badgen.net/github/license/SiggiGue/rirme?label=)](https://github.com/SiggiGue/rirme/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/SiggiGue/rirme/master?label=)](https://github.com/SiggiGue/rirme/graphs/code-frequency)|
+|[Cab Impulse](https://github.com/DCisHurt/CabImpulse#readme)|An impulse response VST plug-in for guitar cabinets|[![](https://img.shields.io/github/languages/top/DCisHurt/CabImpulse?color=pink&style=flat-square)](https://github.com/DCisHurt/CabImpulse/graphs/contributors)|[![](https://flat.badgen.net/github/license/DCisHurt/CabImpulse?label=)](https://github.com/DCisHurt/CabImpulse/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/DCisHurt/CabImpulse?label=)](https://github.com/DCisHurt/CabImpulse/graphs/code-frequency)|
 
-### Libraries [«](Guitar.md#--)
+### Libraries [⌂](#---)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AmpModellingLib](https://github.com/NIXXAMPS/AmpModellingLib#readme)|C++ library for use to model guitar amps|[![](https://img.shields.io/github/languages/top/NIXXAMPS/AmpModellingLib?color=pink&style=flat-square)](https://github.com/NIXXAMPS/AmpModellingLib/graphs/contributors)|[![](https://flat.badgen.net/github/license/NIXXAMPS/AmpModellingLib?label=)](https://github.com/NIXXAMPS/AmpModellingLib/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/NIXXAMPS/AmpModellingLib?label=)](https://github.com/NIXXAMPS/AmpModellingLib/graphs/code-frequency)|
 |[Midi Guitar](https://github.com/seansund/midi-guitar#readme)|Library and simple driver for processing midi events generated by a guitar|[![](https://img.shields.io/github/languages/top/seansund/midi-guitar?color=pink&style=flat-square)](https://github.com/seansund/midi-guitar/graphs/contributors)|[![](https://flat.badgen.net/github/license/seansund/midi-guitar?label=)](https://github.com/seansund/midi-guitar/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/seansund/midi-guitar?label=)](https://github.com/seansund/midi-guitar/graphs/code-frequency)|
 
-### Hardware [«](Guitar.md#--)
+### Hardware [⌂](#---)
 |Website|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[GuitarPedalProject](https://github.com/Rosnel14/GuitarPedalProject#readme)|Schematic & Simulation for Fuzz Effect Guitar Pedal|[![](https://img.shields.io/github/languages/top/Rosnel14/GuitarPedalProject?color=pink&style=flat-square)](https://github.com/Rosnel14/GuitarPedalProject/graphs/contributors)|[![](https://flat.badgen.net/github/license/Rosnel14/GuitarPedalProject?label=)](https://github.com/Rosnel14/GuitarPedalProject/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Rosnel14/GuitarPedalProject?label=)](https://github.com/Rosnel14/GuitarPedalProject/graphs/code-frequency)|
