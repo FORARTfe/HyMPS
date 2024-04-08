@@ -1,10 +1,27 @@
-# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO resources") [![Treatments](https://flat.badgen.net/badge/HyMPS/Treatments/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#treatments "Treatments") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
-
 ### [Alignment/synch](#alignmentsynch-) - [Declipping](#declipping-) - [Dequantizing](#dequantizing-) - [Enhancing](#enhancing-) - [Fingerprinting](#fingerprinting-) - [Mastering](#mastering-) - [Noise reducing](#noise-reducing-) - [Phasing](#phasing-) - [Pitch Shifting](#pitch-shifting-) - [Resampling](#resampling-) - [Restoring](#restoring-) - [DRC](#digital-room-correction-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
+<details>
+<summary>Alignment/synch</summary>
+<table>
+  <tr>
+    <th>Tool</th>
+    <th>Description</th>
+    <th>Top Language</th>
+    <th>License</th>
+    <th>Last Commit</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/norihiro/alignaudio#readme">Audio alignment tool</a></td>
+    <td>A tool to align audio files</td>
+    <td><a href="https://github.com/norihiro/alignaudio/graphs/contributors"><img src="https://img.shields.io/github/languages/top/norihiro/alignaudio?color=pink&style=flat-square" alt="Top Language"></a></td>
+    <td><a href="https://github.com/norihiro/alignaudio/blob/main/COPYING"><img src="https://flat.badgen.net/github/license/norihiro/alignaudio?label=" alt="License"></a></td>
+    <td><a href="https://github.com/norihiro/alignaudio/graphs/code-frequency"><img src="https://flat.badgen.net/github/last-commit/norihiro/alignaudio?label=" alt="Last Commit"></a></td>
+  </tr>
+  <!-- Repeat the above <tr> for each tool entry -->
+</table>
+</details>
 
-### Alignment/synch [⌂](#--)
+###  [⌂](#--)
 |Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio alignment tool](https://github.com/norihiro/alignaudio#readme)|A tool to align audio files|[![](https://img.shields.io/github/languages/top/norihiro/alignaudio?color=pink&style=flat-square)](https://github.com/norihiro/alignaudio/graphs/contributors)|[![](https://flat.badgen.net/github/license/norihiro/alignaudio?label=)](https://github.com/norihiro/alignaudio/blob/main/COPYING)|[![](https://flat.badgen.net/github/last-commit/norihiro/alignaudio?label=)](https://github.com/norihiro/alignaudio/graphs/code-frequency)|
