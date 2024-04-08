@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS?tab=readme-ov-file#- "AUDIO resources") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#tools "Tools") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### [ASIO](#asio-) - [Bridges](#bridges-) - DRC[#digital-room-correction-] - [Routing](#routing-) - [WASAPI](#wasapi-) - [Disc Tools](https://github.com/forart/HyMPS/blob/main/A_DiscsTools.md#---) - [Misc](#misc-)
+### [ASIO](#asio-) - [Bridges](#bridges-) - [DRC](#digital-room-correction-) - [Routing](#routing-) - [WASAPI](#wasapi-) - [Disc Tools](https://github.com/forart/HyMPS/blob/main/A_DiscsTools.md#---) - [Misc](#misc-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -27,7 +27,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 ### Digital Room Correction [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-
+|[RIRME](https://github.com/SiggiGue/rirme#readme)|Room Impulse Response Measuring and Evaluation|[![](https://img.shields.io/github/languages/top/SiggiGue/rirme?color=pink&style=flat-square)](https://github.com/SiggiGue/rirme/graphs/contributors)|[![](https://flat.badgen.net/github/license/SiggiGue/rirme?label=)](https://github.com/SiggiGue/rirme/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/SiggiGue/rirme/master?label=)](https://github.com/SiggiGue/rirme/graphs/code-frequency)|
 
 ### Routing [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
