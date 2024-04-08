@@ -1,7 +1,8 @@
 ### [Alignment/synch](#alignmentsynch-) - [Declipping](#declipping-) - [Dequantizing](#dequantizing-) - [Enhancing](#enhancing-) - [Fingerprinting](#fingerprinting-) - [Mastering](#mastering-) - [Noise reducing](#noise-reducing-) - [Phasing](#phasing-) - [Pitch Shifting](#pitch-shifting-) - [Resampling](#resampling-) - [Restoring](#restoring-) - [DRC](#digital-room-correction-)
 
+### Alignment/synch  [⌂](#--)
 <details>
-<summary>Alignment/synch</summary>
+<summary></summary>
 <table>
   <tr>
     <th>Tool</th>
@@ -21,7 +22,7 @@
 </table>
 </details>
 
-###  [⌂](#--)
+
 |Name / URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio alignment tool](https://github.com/norihiro/alignaudio#readme)|A tool to align audio files|[![](https://img.shields.io/github/languages/top/norihiro/alignaudio?color=pink&style=flat-square)](https://github.com/norihiro/alignaudio/graphs/contributors)|[![](https://flat.badgen.net/github/license/norihiro/alignaudio?label=)](https://github.com/norihiro/alignaudio/blob/main/COPYING)|[![](https://flat.badgen.net/github/last-commit/norihiro/alignaudio?label=)](https://github.com/norihiro/alignaudio/graphs/code-frequency)|
