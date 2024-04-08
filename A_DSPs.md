@@ -1,8 +1,7 @@
-# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO resources") [![DSPs](https://flat.badgen.net/badge/HyMPS/Libraries/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#dsps "DSPs") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
+# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO resources") [![DSPs](https://flat.badgen.net/badge/HyMPS/DSPs/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#dsps "DSPs") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
-## DSPs [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[lavadsp](https://github.com/natanbc/lavadsp#readme)|A bunch of lavaplayer audio filters implemented with native code|[![](https://img.shields.io/github/languages/top/natanbc/lavadsp?color=pink&style=flat-square)](https://github.com/natanbc/lavadsp/graphs/contributors)|[![](https://flat.badgen.net/github/license/natanbc/lavadsp?label=)](https://github.com/natanbc/lavadsp/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/natanbc/lavadsp/master?label=)](https://github.com/natanbc/lavadsp/graphs/code-frequency)|
