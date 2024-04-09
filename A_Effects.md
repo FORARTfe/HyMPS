@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "AUDIO resources") [![Effects](https://flat.badgen.net/badge/HyMPS/Effects/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#effects "Effects") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### [Bundles](#bundles-) - [Drums](#drums-) - [Guitar](https://github.com/forart/HyMPS/blob/main/A_Guitar.md#---) - [Bass](#bass-) - [Vocals](#vocals-) - [Misc](#misc-)
+### [Bundles](#bundles-) - [Guitar](https://github.com/forart/HyMPS/blob/main/A_Guitar.md#---) - [Bass](#bass-) - [Vocals](#vocals-) - [Misc](#misc-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -20,13 +20,6 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[x42-plugins](https://x42-plugins.com/x42/)|Collection of LV2 plugins (submodules) for packaging|[![](https://img.shields.io/github/languages/top/x42/x42-plugins?color=pink&style=flat-square)](https://github.com/x42/x42-plugins/graphs/contributors)|[![](https://flat.badgen.net/badge/license/GPL%202.0/3.0/blue?label=)](https://github.com/x42/x42-plugins)|[![](https://flat.badgen.net/github/last-commit/x42/x42-plugins?label=)](https://github.com/x42/x42-plugins/graphs/code-frequency)|
 |[LSP (Linux Studio Plugins)](https://lsp-plug.in/)|A collection of open-source plugins currently compatible with LADSPA, LV2 and LinuxVST formats|[![](https://img.shields.io/github/languages/top/sadko4u/lsp-plugins?color=pink&style=flat-square)](https://github.com/sadko4u/lsp-plugins/graphs/contributors)|[![](https://flat.badgen.net/github/license/sadko4u/lsp-plugins?label=)](https://github.com/sadko4u/lsp-plugins/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/sadko4u/lsp-plugins?label=)](https://github.com/sadko4u/lsp-plugins/graphs/code-frequency)|
 |[SOUL-VA](https://github.com/thezhe/SOUL-VA#readme)|A collection of virtual analog audio effects|[![](https://img.shields.io/github/languages/top/thezhe/SOUL-VA?color=pink&style=flat-square)](https://github.com/thezhe/SOUL-VA/graphs/contributors)|[![](https://flat.badgen.net/github/license/thezhe/SOUL-VA?label=)](https://github.com/thezhe/SOUL-VA/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/thezhe/SOUL-VA?label=)](https://github.com/thezhe/SOUL-VA/graphs/code-frequency)|
-
-
-
-## Drums [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
-|:-:|:-:|:-:|:-:|:-:|
-|[Mix-Wave-U-Net](https://github.com/f90/Mix-Wave-U-Net#readme)|A Deep Learning Approach to Intelligent Drum Mixing|[![](https://img.shields.io/github/languages/top/f90/Mix-Wave-U-Net?color=pink&style=flat-square)](https://github.com/f90/Mix-Wave-U-Net/graphs/contributors)|[![](https://flat.badgen.net/github/license/f90/Mix-Wave-U-Net?label=)](https://github.com/f90/Mix-Wave-U-Net/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/f90/Mix-Wave-U-Net/master?label=)](https://github.com/f90/Mix-Wave-U-Net/graphs/code-frequency)|
 
 ## Bass [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
