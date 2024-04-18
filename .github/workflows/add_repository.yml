@@ -1,3 +1,63 @@
+name: Submit Resource
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      
+      - name: Add Resource to SUBMITTED.md
+        id: update-submitted
+        uses: actions/github-script@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            const repoUrl = context.payload.issue.html_url;
+            const repoName = context.payload.issue.repository.name;
+            const repoDescription = context.payload.issue.body.trim();
+
+            const entry = `|[${repoName}](${repoUrl})|${repoDescription}|[![Top Language](https://img.shields.io/github/languages/top/${repoName}?color=pink&style=flat-square)](${repoUrl}/graphs/contributors)|[![License](https://flat.badgen.net/badge/license/Other/blue?label=)](${repoUrl}/blob/master/LICENSE)|[![Last Commit](https://flat.badgen.net/github/last-commit/${repoName}?label=)](${repoUrl}/graphs/code-frequency)|`;
+
+            const submittedFilePath = path.join(process.env.GITHUB_WORKSPACE, 'SUBMITTED.md');
+            fs.appendFileSync(submittedFilePath, entry + '\n', 'utf8');
+name: Submit Resource
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      
+      - name: Add Resource to SUBMITTED.md
+        id: update-submitted
+        uses: actions/github-script@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            const repoUrl = context.payload.issue.html_url;
+            const repoName = context.payload.issue.repository.name;
+            const repoDescription = context.payload.issue.body.trim();
+
+            const entry = `|[${repoName}](${repoUrl})|${repoDescription}|[![Top Language](https://img.shields.io/github/languages/top/${repoName}?color=pink&style=flat-square)](${repoUrl}/graphs/contributors)|[![License](https://flat.badgen.net/badge/license/Other/blue?label=)](${repoUrl}/blob/master/LICENSE)|[![Last Commit](https://flat.badgen.net/github/last-commit/${repoName}?label=)](${repoUrl}/graphs/code-frequency)|`;
+
+            const submittedFilePath = path.join(process.env.GITHUB_WORKSPACE, 'SUBMITTED.md');
+            fs.appendFileSync(submittedFilePath, entry + '\n', 'utf8');
 name: Add Repository
 
 on:
