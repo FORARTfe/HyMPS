@@ -19,11 +19,11 @@ It will be platform-indipendent software suite for advanced audio/video contents
 # [Other audio resources collections](https://github.com/forart/HyMPS/blob/main/A_Collections.md)
 
 ## [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=3)]()
-# [AI-based](https://github.com/forart/HyMPS/blob/main/V_AI.md#--)
-# [Editors](https://github.com/forart/HyMPS/blob/main/V_Editors.md#--)
-# [Libraries](https://github.com/forart/HyMPS/blob/main/V_LIBs.md#--)
-# [Tools](https://github.com/forart/HyMPS/blob/main/V_Tools.md#--)
-# [Processing](https://github.com/forart/HyMPS/blob/main/V_Processing.md#--)
-# [Pan Tilt Zoom](https://github.com/forart/HyMPS/blob/main/V_PTZ.md#--)
-# [RTSP](https://github.com/forart/HyMPS/blob/main/V_RTSP.md#--)
+# [AI-based](https://github.com/forart/HyMPS/blob/main/Video/AI.md#--)
+# [Editors](https://github.com/forart/HyMPS/blob/main/Video/Editors.md#--)
+# [Libraries](https://github.com/forart/HyMPS/blob/main/Video/Libraries.md#--)
+# [Tools](https://github.com/forart/HyMPS/blob/main/Video/Tools.md#--)
+# [Processing](https://github.com/forart/HyMPS/blob/main/Video/Processing.md#--)
+# [Pan Tilt Zoom](https://github.com/forart/HyMPS/blob/main/Video/PTZ.md#--)
+# [RTSP](https://github.com/forart/HyMPS/blob/main/Video/RTSP.md#--)
     
