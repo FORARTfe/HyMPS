@@ -1,1 +1,3 @@
+|Name + URL|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
 |[ASIO2WASAPI](https://github.com/libAudioFlux/audioFlux#readme)|A universal ASIO driver - an interface between ASIO and WASAPI APIs|[![](https://img.shields.io/github/languages/top/libAudioFlux/audioFlux?color=pink&style=flat-square)](https://github.com/libAudioFlux/audioFlux/graphs/contributors)|[![](https://flat.badgen.net/github/license/libAudioFlux/audioFlux?label=)](https://github.com/libAudioFlux/audioFlux/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/libAudioFlux/audioFlux?label=)](https://github.com/libAudioFlux/audioFlux/graphs/code-frequency)|
