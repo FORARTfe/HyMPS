@@ -9,102 +9,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
-      
-      - name: Add Resource to SUBMITTED.md
-        id: update-submitted
-        uses: actions/github-script@v4
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const fs = require('fs');
-            const path = require('path');
-
-            const repoUrl = context.payload.issue.html_url;
-            const repoName = context.payload.issue.repository.name;
-            const repoDescription = context.payload.issue.body.trim();
-
-            const entry = `|[${repoName}](${repoUrl})|${repoDescription}|[![Top Language](https://img.shields.io/github/languages/top/${repoName}?color=pink&style=flat-square)](${repoUrl}/graphs/contributors)|[![License](https://flat.badgen.net/badge/license/Other/blue?label=)](${repoUrl}/blob/master/LICENSE)|[![Last Commit](https://flat.badgen.net/github/last-commit/${repoName}?label=)](${repoUrl}/graphs/code-frequency)|`;
-
-            const submittedFilePath = path.join(process.env.GITHUB_WORKSPACE, 'SUBMITTED.md');
-            fs.appendFileSync(submittedFilePath, entry + '\n', 'utf8');
-name: Submit Resource
-
-on:
-  issues:
-    types: [opened]
-
-jobs:
-  submit:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-      
-      - name: Add Resource to SUBMITTED.md
-        id: update-submitted
-        uses: actions/github-script@v4
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const fs = require('fs');
-            const path = require('path');
-
-            const repoUrl = context.payload.issue.html_url;
-            const repoName = context.payload.issue.repository.name;
-            const repoDescription = context.payload.issue.body.trim();
-
-            const entry = `|[${repoName}](${repoUrl})|${repoDescription}|[![Top Language](https://img.shields.io/github/languages/top/${repoName}?color=pink&style=flat-square)](${repoUrl}/graphs/contributors)|[![License](https://flat.badgen.net/badge/license/Other/blue?label=)](${repoUrl}/blob/master/LICENSE)|[![Last Commit](https://flat.badgen.net/github/last-commit/${repoName}?label=)](${repoUrl}/graphs/code-frequency)|`;
-
-            const submittedFilePath = path.join(process.env.GITHUB_WORKSPACE, 'SUBMITTED.md');
-            fs.appendFileSync(submittedFilePath, entry + '\n', 'utf8');
-name: Add Repository
-
-on:
-  workflow_dispatch:
-    inputs:
-      repository_url:
-        description: 'Repository URL or shorthand (e.g., libAudioFlux/audioFlux)'
-        required: true
-
-jobs:
-  add_repository:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
         uses: actions/checkout@v2
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '16' # Imposta la versione di Node.js su 16
-
-      - name: Install Dependencies
+      
+      - name: Add Resource to SUBMITTED.md
         run: |
-          npm install github-api
+          repoUrl=$(jq -r '.issue.html_url' "$GITHUB_EVENT_PATH")
+          repoName=$(jq -r '.issue.repository.name' "$GITHUB_EVENT_PATH")
+          repoDescription=$(jq -r '.issue.body' "$GITHUB_EVENT_PATH")
 
-      - name: Add Repository if Not Exists
-        run: |
-          const fs = require('fs');
-          const github = require('@actions/github');
+          entry="|[${repoName}](${repoUrl})|${repoDescription}|[![](https://img.shields.io/github/languages/top/${repoName}?color=pink&style=flat-square)](${repoUrl}/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](${repoUrl}/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/${repoName}?label=)](${repoUrl}/graphs/code-frequency)|"
 
-          const repositoryUrl = process.env.INPUT_REPOSITORY_URL.trim();
-          const owner = github.context.repo.owner;
-          const repo = github.context.repo.repo;
-          const filePath = '.github/SUBMITTED.md';
-          const contentToAppend = `|[${repo}](${repositoryUrl})||[![](https://img.shields.io/github/languages/top/${owner}/${repo}?color=pink&style=flat-square)](https://github.com/${owner}/${repo}/graphs/contributors)|[![](https://flat.badgen.net/github/license/${owner}/${repo}?label=)](https://github.com/${owner}/${repo}/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/${owner}/${repo}?label=)](https://github.com/${owner}/${repo}/graphs/code-frequency)|\n`;
-
-          try {
-            const existingContent = fs.readFileSync(filePath, 'utf8');
-            if (!existingContent.includes(repositoryUrl)) {
-              fs.appendFileSync(filePath, contentToAppend);
-              console.log(`Repository ${repositoryUrl} added to ${filePath}`);
-            } else {
-              console.log(`Repository ${repositoryUrl} already exists in ${filePath}`);
-            }
-          } catch (error) {
-            console.error('Error:', error);
-            process.exit(1);
-          }
+          echo "$entry" >> SUBMITTED.md
         env:
-          INPUT_REPOSITORY_URL: ${{ github.event.inputs.repository_url }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
