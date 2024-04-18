@@ -1,4 +1,5 @@
-# Other audio resources collections
+# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO resources") [![Collections](https://flat.badgen.net/badge/HyMPS/Collections/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/tree/main#other-audio-resources-collections "Other collections")
+
 |Website|Short description|License|Last commit|
 |:-:|:-:|:-:|:-:|
 |[awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio)|A list of software and resources for professional audio/video/live events production on the Linux platform|![](https://flat.badgen.net/github/license/nodiscc/awesome-linuxaudio?label=)|![](https://flat.badgen.net/github/last-commit/nodiscc/awesome-linuxaudio?label=)|
