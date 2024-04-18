@@ -11,6 +11,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
       
+      - name: Debug Issue Payload
+        run: |
+          echo "Issue payload:"
+          cat $GITHUB_EVENT_PATH
+        shell: bash
+
       - name: Add Resource to SUBMITTED.md
         run: |
           repoUrl=$(jq -r '.issue.html_url' "$GITHUB_EVENT_PATH")
