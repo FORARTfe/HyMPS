@@ -40,6 +40,8 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[SpeAnaLED](https://github.com/osamusg/SpeAnaLED#readme)|A WASAPI Loopback Spectrum-Analyzer-like visualizer with LED-matrix-like visualization|[![](https://img.shields.io/github/languages/top/osamusg/SpeAnaLED?color=pink&style=flat-square)](https://github.com/osamusg/SpeAnaLED/graphs/contributors)|[![](https://flat.badgen.net/github/license/osamusg/SpeAnaLED?label=)](https://github.com/osamusg/SpeAnaLED/blob/master/LICENSE.md)|[![](https://flat.badgen.net/github/last-commit/osamusg/SpeAnaLED?label=)](https://github.com/osamusg/SpeAnaLED/graphs/code-frequency)|
+|[WinEcho](https://github.com/jstefanelli/WinEcho#readme)|A C++ windows library that allows playback of WASAPI loopback render devices on other render devices|[![](https://img.shields.io/github/languages/top/jstefanelli/WinEcho?color=pink&style=flat-square)](https://github.com/jstefanelli/WinEcho/graphs/contributors)|[![](https://flat.badgen.net/github/license/jstefanelli/WinEcho?label=)](https://github.com/jstefanelli/WinEcho/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jstefanelli/WinEcho?label=)](https://github.com/jstefanelli/WinEcho/graphs/code-frequency)|
+
 
 ### Misc [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
