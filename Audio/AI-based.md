@@ -4,7 +4,7 @@
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
-### Voice [⌂](#--)
+### Voices [⌂](#--)
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Applio](https://github.com/IAHispano/Applio#readme)|Ultimate voice cloning tool, meticulously optimized for unrivaled power, modularity, and user-friendly experience|[![](https://img.shields.io/github/languages/top/IAHispano/Applio?color=pink&style=flat-square)](https://github.com/IAHispano/Applio/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/IAHispano/Applio/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/IAHispano/Applio?label=)](https://github.com/IAHispano/Applio/graphs/code-frequency)|
