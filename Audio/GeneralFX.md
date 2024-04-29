@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO resources") [![Effects](https://flat.badgen.net/badge/HyMPS/Effects/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/blob/main/Audio/Effects.md#-- "Effects") [![General](https://flat.badgen.net/badge/HyMPS/General/red?scale=1.8&label=)](#--- "General") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### [Multi](#multi-) - [Limiting](#limiting-) - [Compressing](#compressing-)
+### [Multi](#multi-) - [Limiting](#limiting-) - [Compressing](#compressing-) - [Equalizing](#equalizing-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -42,3 +42,8 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[AudioFX - Compressor](https://github.com/harveyf2801/AudioFX-Compressor#readme)|Applies dynamic range compression to audio signals|[![](https://img.shields.io/github/languages/top/harveyf2801/AudioFX-Compressor?color=pink&style=flat-square)](https://github.com/harveyf2801/AudioFX-Compressor/graphs/contributors)|[![](https://flat.badgen.net/github/license/harveyf2801/AudioFX-Compressor?label=)](https://github.com/harveyf2801/AudioFX-Compressor/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/harveyf2801/AudioFX-Compressor?label=)](https://github.com/harveyf2801/AudioFX-Compressor/graphs/code-frequency)|
 |[compressure](https://github.com/ashaydave/compressure#readme)|Lookahead compressor with soft and hard knee options|[![](https://img.shields.io/github/languages/top/ashaydave/compressure?color=pink&style=flat-square)](https://github.com/ashaydave/compressure/graphs/contributors)|[![](https://flat.badgen.net/github/license/ashaydave/compressure?label=)](https://github.com/ashaydave/compressure/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ashaydave/compressure?label=)](https://github.com/ashaydave/compressure/graphs/code-frequency)|
 |[EBU R128 Audio Compressor LV2 Plugin](https://github.com/upachler/ebur128_compressor#readme)|EBU R128 based audio compressor LV2 plugin|[![](https://img.shields.io/github/languages/top/upachler/ebur128_compressor?color=pink&style=flat-square)](https://github.com/upachler/ebur128_compressor/graphs/contributors)|[![](https://flat.badgen.net/github/license/upachler/ebur128_compressor?label=)](https://github.com/upachler/ebur128_compressor/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/upachler/ebur128_compressor?label=)](https://github.com/upachler/ebur128_compressor/graphs/code-frequency)|
+
+
+### Equalizing [⌂](#---)
+|Name / URL|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
