@@ -1,5 +1,9 @@
 ### [Alignment/synch](#alignmentsynch-) - [Declipping](#declipping-) - [Dequantizing](#dequantizing-) - [Enhancing](#enhancing-) - [Fingerprinting](#fingerprinting-) - [Mastering](#mastering-) - [Noise reducing](#noise-reducing-) - [Phasing](#phasing-) - [Pitch Shifting](#pitch-shifting-) - [Resampling](#resampling-) - [Restoring](#restoring-) - [DRC](#digital-room-correction-)
 
+
+🚧 **Work in Progress - This Project is Under Development** 🚧
+
+
 ### Alignment/synch  [⌂](#--)
 <details>
 <summary></summary>
