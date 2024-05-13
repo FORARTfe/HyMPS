@@ -1,6 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/tree/main#tools-1 "Video tools") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### [Codecs](#codecs-) - [Cut&Copy](#cutcopy-) - [Encoders](#encoders-) - [Encoding](#encoding-) - [GUIs](#guis-) - [Others](#others-)
+### [Codecs](#codecs-) - [Cut&Copy](#cutcopy-) - [Capture](#capture-) - [Encoders](#encoders-) - [Encoding](#encoding-) - [GUIs](#guis-) - [Others](#others-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -17,6 +17,11 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Cut videos](https://github.com/ChsHub/cut_videos#readme)|Program for cutting and encoding videos|[![](https://img.shields.io/github/languages/top/ChsHub/cut_videos?color=pink&style=flat-square)](https://github.com/ChsHub/cut_videos/graphs/contributors)|[![](https://flat.badgen.net/github/license/ChsHub/cut_videos?label=)](https://github.com/ChsHub/cut_videos/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/ChsHub/cut_videos?label=)](https://github.com/ChsHub/cut_videos/graphs/code-frequency)|
 |[Transcribing Video Cutter](https://github.com/skeskinen/transcribing-video-cutter#readme)|GUI program for cutting videos / audio with AI features|[![](https://img.shields.io/github/languages/top/skeskinen/transcribing-video-cutter?color=pink&style=flat-square)](https://github.com/skeskinen/transcribing-video-cutter/graphs/contributors)|[![](https://flat.badgen.net/github/license/skeskinen/transcribing-video-cutter?label=)](https://github.com/skeskinen/transcribing-video-cutter/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/skeskinen/transcribing-video-cutter?label=)](https://github.com/skeskinen/transcribing-video-cutter/graphs/code-frequency)|
 |[LosslessCut](https://mifi.no/losslesscut/)|The swiss army knife of lossless video/audio editing|[![](https://img.shields.io/github/languages/top/mifi/lossless-cut?color=pink&style=flat-square)](https://github.com/mifi/lossless-cut/graphs/contributors)|[![](https://flat.badgen.net/github/license/mifi/lossless-cut?label=)](https://github.com/mifi/lossless-cut/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/mifi/lossless-cut?label=)](https://github.com/mifi/lossless-cut/graphs/code-frequency)|
+
+### Capture [⌂](#--)
+|Name + URL|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[StereoCapture](https://github.com/shuiwuhen/StereoCapture#readme)|Designed for stereo-pair images or videos capture, which works on all USB, Point Grey Research cameras, IEEE-1394b digital cameras as well as microscope|[![](https://img.shields.io/github/languages/top/shuiwuhen/StereoCapture?color=pink&style=flat-square)](https://github.com/shuiwuhen/StereoCapture/graphs/contributors)|[![](https://flat.badgen.net/github/license/shuiwuhen/StereoCapture?label=)](https://github.com/shuiwuhen/StereoCapture/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/shuiwuhen/StereoCapture?label=)](https://github.com/shuiwuhen/StereoCapture/graphs/code-frequency)|
 
 
 ### Encoders [⌂](#--)
