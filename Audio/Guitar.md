@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO resources") [![Effects](https://flat.badgen.net/badge/HyMPS/Effects/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/blob/main/Audio/Effects.md#-- "Effects") [![Guitar](https://flat.badgen.net/badge/HyMPS/Guitar/red?scale=1.8&label=)](#--- "Guitar") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### [Amp Sims](#amp-sims-) - [DSPs](#dsps-) - [Tuning](#tuning-) - [Impulse response](#impulse-response-) - [Libraries](#libraries-) - [Hardware](#hardware-)
+### [Amp Sims](#amp-sims-) - [DSPs](#dsps-) - [Distorsion](#distorsion-) - [Tuning](#tuning-) - [Impulse response](#impulse-response-) - [Libraries](#libraries-) - [Hardware](#hardware-)
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
@@ -43,6 +43,13 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[go-dsp-guitar](https://github.com/andrepxx/go-dsp-guitar#go-dsp-guitar#readme)|A cross-platform multichannel multi-effects processor for electric guitars and other instruments|[![](https://img.shields.io/github/languages/top/andrepxx/go-dsp-guitar?color=pink&style=flat-square)](https://github.com/andrepxx/go-dsp-guitar/graphs/contributors)|[![](https://flat.badgen.net/github/license/andrepxx/go-dsp-guitar?label=)](https://github.com/andrepxx/go-dsp-guitar/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/andrepxx/go-dsp-guitar?label=)](https://github.com/andrepxx/go-dsp-guitar/graphs/code-frequency)|
 |[KFuzz-](https://github.com/Kirby01/KFuzz-VST3-Juce#readme)|VST plugin for streaming electric guitar audio signal with applied effects|[![](https://img.shields.io/github/languages/top/Kirby01/KFuzz-VST3-Juce?color=pink&style=flat-square)](https://github.com/Kirby01/KFuzz-VST3-Juce/graphs/contributors)|[![](https://flat.badgen.net/github/license/Kirby01/KFuzz-VST3-Juce?label=)](https://github.com/Kirby01/KFuzz-VST3-Juce/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Kirby01/KFuzz-VST3-Juce?label=)](https://github.com/Kirby01/KFuzz-VST3-Juce/graphs/code-frequency)|
 |[Plugin-Portfolio](https://github.com/shmillo/Plugin-Portfolio#readme)|Analog Modelled VSTs made in JUCE using C++|[![](https://img.shields.io/github/languages/top/shmillo/Plugin-Portfolio?color=pink&style=flat-square)](https://github.com/shmillo/Plugin-Portfolio/graphs/contributors)|[![](https://flat.badgen.net/github/license/shmillo/Plugin-Portfolio?label=)](https://github.com/shmillo/Plugin-Portfolio/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/shmillo/Plugin-Portfolio?label=)](https://github.com/shmillo/Plugin-Portfolio/graphs/code-frequency)|
+
+
+### Distorsion [⌂](#---) 
+|Website|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[Smooth Distortion](https://github.com/Juanmalopezg/smooth-distortion#readme)|Guitar distortion audio plugin made in C++ with the Juce framework|[![](https://img.shields.io/github/languages/top/Juanmalopezg/smooth-distortion?color=pink&style=flat-square)](https://github.com/Juanmalopezg/smooth-distortion/graphs/contributors)|[![](https://flat.badgen.net/github/license/Juanmalopezg/smooth-distortion?label=)](https://github.com/Juanmalopezg/smooth-distortion/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Juanmalopezg/smooth-distortion?label=)](https://github.com/Juanmalopezg/smooth-distortion/graphs/code-frequency)|
+
 
 ### Tuning [⌂](#---)
 |Website|Short description|Language|License|Last commit|
