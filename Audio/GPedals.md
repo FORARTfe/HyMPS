@@ -21,7 +21,10 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 ### Distorsion [⌂](#----) 
 |Name + URL|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[Fuzzboy](https://github.com/DirektDSP/Fuzzboy#readme)|Guitar Pedal Inspired Distortion|[![](https://img.shields.io/github/languages/top/DirektDSP/Fuzzboy?color=pink&style=flat-square)](https://github.com/DirektDSP/Fuzzboy/graphs/contributors)|[![](https://flat.badgen.net/github/license/DirektDSP/Fuzzboy?label=)](https://github.com/DirektDSP/Fuzzboy/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/DirektDSP/Fuzzboy?label=)](https://github.com/DirektDSP/Fuzzboy/graphs/code-frequency)|
+|[Fuzzed](https://github.com/JP01/Fuzzed#readme)|FuzzFace guitar pedal: Analog Modeling and implementation as a VST plugin|[![](https://img.shields.io/github/languages/top/JP01/Fuzzed?color=pink&style=flat-square)](https://github.com/JP01/Fuzzed/graphs/contributors)|[![](https://flat.badgen.net/github/license/JP01/Fuzzed?label=)](https://github.com/JP01/Fuzzed/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/JP01/Fuzzed?label=)](https://github.com/JP01/Fuzzed/graphs/code-frequency)|
 |[Smooth Distortion](https://github.com/Juanmalopezg/smooth-distortion#readme)|Guitar distortion audio plugin made in C++ with the Juce framework|[![](https://img.shields.io/github/languages/top/Juanmalopezg/smooth-distortion?color=pink&style=flat-square)](https://github.com/Juanmalopezg/smooth-distortion/graphs/contributors)|[![](https://flat.badgen.net/github/license/Juanmalopezg/smooth-distortion?label=)](https://github.com/Juanmalopezg/smooth-distortion/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/Juanmalopezg/smooth-distortion?label=)](https://github.com/Juanmalopezg/smooth-distortion/graphs/code-frequency)|
+
 
 ### Overdrive [⌂](#----) 
 |Name + URL|Short description|Language|License|Last commit|
