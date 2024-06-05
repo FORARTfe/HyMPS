@@ -1,5 +1,7 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO section") [![Collections](https://flat.badgen.net/badge/HyMPS/Collections/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/tree/main#other-audio-resources-collections "Collections page")
 
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: License (openness) > Resource (a>z)}}$ 
+
 |Resource|Short description|License|Last update|
 |:-:|:-:|:-:|:-:|
 |[awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio#readme)|[mirror]A list of software and resources for professional audio/video/live events production on Linux|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/nodiscc/awesome-linuxaudio/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/nodiscc/awesome-linuxaudio?style=flat-square&label=)](https://github.com/nodiscc/awesome-linuxaudio/graphs/code-frequency)|
