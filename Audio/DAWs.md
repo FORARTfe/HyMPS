@@ -5,7 +5,7 @@
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$
 
 ### Generic [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[jackdaw](https://github.com/chvolow24/jackdaw#readme)|A keyboard-focused Digital Audio Workstation (DAW) taking some cues from non-linear editors|[![](https://img.shields.io/github/languages/top/chvolow24/jackdaw?color=pink&style=flat-square)](https://github.com/chvolow24/jackdaw/graphs/contributors)|[![](https://flat.badgen.net/github/license/chvolow24/jackdaw?label=)](https://github.com/chvolow24/jackdaw/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/chvolow24/jackdaw?style=flat-square&label=)](https://github.com/chvolow24/jackdaw/graphs/code-frequency)|
 |[ClintTools](https://github.com/clintmadeit/clinttools#readme)|An all-in-one DAW and plugin suite, designed to be a comprehensive solution for music production, with a focus on providing unique and innovative features, for all genres of music|[![](https://img.shields.io/github/languages/top/clintmadeit/clinttools?color=pink&style=flat-square)](https://github.com/clintmadeit/clinttools/graphs/contributors)|[![](https://flat.badgen.net/github/license/clintmadeit/clinttools?label=)](https://github.com/clintmadeit/clinttools/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/clintmadeit/clinttools?style=flat-square&label=)](https://github.com/clintmadeit/clinttools/graphs/code-frequency)|
@@ -55,7 +55,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Browser-based [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[OpenDAW](https://github.com/pverrecchia/OpenDAW#readme)|An open source online digital audio workstation (DAW) based on the [Web Audio API](https://dvcs.w3.org/hg/audio/raw-file/tip/webaudio/specification.html)|[![](https://img.shields.io/github/languages/top/pverrecchia/OpenDAW?color=pink&style=flat-square)](https://github.com/pverrecchia/OpenDAW/graphs/contributors)|[![](https://flat.badgen.net/github/license/pverrecchia/OpenDAW?label=)](https://github.com/pverrecchia/OpenDAW/blob/master/license.md)|[![](https://img.shields.io/github/last-commit/pverrecchia/OpenDAW?style=flat-square&label=)](https://github.com/pverrecchia/OpenDAW/graphs/code-frequency)|
 |[Propeller](https://github.com/Bryan351018/Propeller#readme)|A web-based, MIDI-compliant Digital Audio Workstation|[![](https://img.shields.io/github/languages/top/Bryan351018/Propeller?color=pink&style=flat-square)](https://github.com/Bryan351018/Propeller/graphs/contributors)|[![](https://flat.badgen.net/github/license/Bryan351018/Propeller?label=)](https://github.com/Bryan351018/Propeller/blob/master/LICENSE.md)|[![](https://img.shields.io/github/last-commit/Bryan351018/Propeller?style=flat-square&label=)](https://github.com/Bryan351018/Propeller/graphs/code-frequency)|
@@ -72,7 +72,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[React Audio Workstation](https://github.com/notakamihe/REAW#readme)|React Audio Workstation (REAW) is Digital Audio Workstation coded in React and Typescript|[![](https://img.shields.io/github/languages/top/notakamihe/REAW?color=pink&style=flat-square)](https://github.com/notakamihe/REAW/graphs/contributors)|[![](https://flat.badgen.net/github/license/notakamihe/REAW?label=)](https://github.com/notakamihe/REAW/issues/1)|[![](https://img.shields.io/github/last-commit/notakamihe/REAW?style=flat-square&label=)](https://github.com/notakamihe/REAW/graphs/code-frequency)|
 
 ### Dedicated [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[LMN-3-DAW](https://github.com/FundamentalFrequency/LMN-3-DAW#readme)|DAW for the LMN-3 open source controller|[![](https://img.shields.io/github/languages/top/FundamentalFrequency/LMN-3-DAW?color=pink&style=flat-square)](https://github.com/FundamentalFrequency/LMN-3-DAW/graphs/contributors)|[![](https://flat.badgen.net/github/license/FundamentalFrequency/LMN-3-DAW?label=)](https://github.com/FundamentalFrequency/LMN-3-DAW/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/FundamentalFrequency/LMN-3-DAW?style=flat-square&label=)](https://github.com/FundamentalFrequency/LMN-3-DAW/graphs/code-frequency)|
 |[gba-daw](https://github.com/emurray2/gba-daw#readme)|DAW for the Gameboy Advance|[![](https://img.shields.io/github/languages/top/emurray2/gba-daw?color=pink&style=flat-square)](https://github.com/emurray2/gba-daw/graphs/contributors)|[![](https://flat.badgen.net/github/license/emurray2/gba-daw?label=)](https://github.com/emurray2/gba-daw/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/emurray2/gba-daw?style=flat-square&label=)](https://github.com/emurray2/gba-daw/graphs/code-frequency)|
