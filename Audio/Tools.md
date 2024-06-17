@@ -5,7 +5,7 @@
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
 
 ### ASIO [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[WineASIO](https://github.com/wineasio/wineasio#readme)|ASIO to JACK driver for WINE|[![](https://img.shields.io/github/languages/top/wineasio/wineasio?color=pink&style=flat-square)](https://github.com/wineasio/wineasio/graphs/contributors)|[![](https://flat.badgen.net/github/license/wineasio/wineasio?label=)](https://github.com/wineasio/wineasio/blob/master/COPYING.LIB)|[![](https://img.shields.io/github/last-commit/wineasio/wineasio?style=flat-square&label=)](https://github.com/wineasio/wineasio/graphs/code-frequency)|
 |[FlexASIO_GUI](https://github.com/flipswitchingmonkey/FlexASIO_GUI#readme)|Simple configuration GUI for FlexASIO|[![](https://img.shields.io/github/languages/top/flipswitchingmonkey/FlexASIO_GUI?color=pink&style=flat-square)](https://github.com/flipswitchingmonkey/FlexASIO_GUI/graphs/contributors)|[![](https://flat.badgen.net/github/license/flipswitchingmonkey/FlexASIO_GUI?label=)](https://github.com/flipswitchingmonkey/FlexASIO_GUI/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/flipswitchingmonkey/FlexASIO_GUI?style=flat-square&label=)](https://github.com/flipswitchingmonkey/FlexASIO_GUI/graphs/code-frequency)|
@@ -15,7 +15,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[KoordASIO](https://github.com/koord-live/KoordASIO#readme)|A [FlexASIO](https://github.com/dechamps/FlexASIO#readme) fork, but with user-friendly intuitive Control GUI|[![](https://img.shields.io/github/languages/top/koord-live/KoordASIO?color=pink&style=flat-square)](https://github.com/koord-live/KoordASIO/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/koord-live/KoordASIO/blob/v2/LICENSE.txt)|[![](https://img.shields.io/github/last-commit/koord-live/KoordASIO?style=flat-square&label=)](https://github.com/koord-live/KoordASIO/graphs/code-frequency)|
 
 ### Bridges [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AudioKitNet](https://github.com/getdunne/AudioKitNet#readme)|Make audio DSP functions available across TCP/IP networks|[![](https://img.shields.io/github/languages/top/getdunne/AudioKitNet?color=pink&style=flat-square)](https://github.com/getdunne/AudioKitNet/graphs/contributors)|[![](https://flat.badgen.net/github/license/getdunne/AudioKitNet?label=)](https://github.com/getdunne/AudioKitNet/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/getdunne/AudioKitNet/master?style=flat-square&label=)](https://github.com/getdunne/AudioKitNet/graphs/code-frequency)|
 |[LinVst](https://github.com/osxmidi/LinVst#readme)|Linux Windows vst wrapper/bridge|[![](https://img.shields.io/github/languages/top/osxmidi/LinVst?color=pink&style=flat-square)](https://github.com/osxmidi/LinVst/graphs/contributors)|[![](https://flat.badgen.net/github/license/osxmidi/LinVst?label=)](https://github.com/osxmidi/LinVst/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/osxmidi/LinVst/master?style=flat-square&label=)](https://github.com/osxmidi/LinVst/graphs/code-frequency)|
@@ -25,7 +25,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[TBridge](https://github.com/totomusic/TBridge#readme)|A free VST plug-in bridging software based on [NetVST](https://netvst.org/)|[![](https://img.shields.io/github/languages/top/totomusic/TBridge?color=pink&style=flat-square)](https://github.com/totomusic/TBridge/graphs/contributors)|[![](https://flat.badgen.net/github/license/totomusic/TBridge?label=)](https://github.com/totomusic/TBridge/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/totomusic/TBridge/master?style=flat-square&label=)](https://github.com/totomusic/TBridge/graphs/code-frequency)|
 
 ### Routing [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AudioRouter](https://github.com/parzival-space/AudioRouter#readme)|Allows mirroring audio streams from and to audio devices|[![](https://img.shields.io/github/languages/top/parzival-space/AudioRouter?color=pink&style=flat-square)](https://github.com/parzival-space/AudioRouter/graphs/contributors)|[![](https://flat.badgen.net/github/license/parzival-space/AudioRouter?label=)](https://github.com/parzival-space/AudioRouter/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/parzival-space/AudioRouter?style=flat-square&label=)](https://github.com/parzival-space/AudioRouter/graphs/code-frequency)|
 |[ASIO Rec and Play](https://github.com/LAGonauta/ASIORecAndPlay#readme)|A simple program to route the audio from one ASIO interface to another|[![](https://img.shields.io/github/languages/top/LAGonauta/ASIORecAndPlay?color=pink&style=flat-square)](https://github.com/LAGonauta/ASIORecAndPlay/graphs/contributors)|[![](https://flat.badgen.net/github/license/LAGonauta/ASIORecAndPlay?label=)](https://github.com/LAGonauta/ASIORecAndPlay/blob/master/LICENSE.md)|[![](https://img.shields.io/github/last-commit/LAGonauta/ASIORecAndPlay?style=flat-square&label=)](https://github.com/LAGonauta/ASIORecAndPlay/graphs/code-frequency)|
@@ -37,14 +37,14 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### WASAPI [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[WASAPI-Audio-Mirror](https://github.com/PseudoResonance/WASAPI-Audio-Mirror#readme)|Mirrors an audio output to any other audio devices|[![](https://img.shields.io/github/languages/top/PseudoResonance/WASAPI-Audio-Mirror?color=pink&style=flat-square)](https://github.com/PseudoResonance/WASAPI-Audio-Mirror/graphs/contributors)|[![](https://flat.badgen.net/github/license/PseudoResonance/WASAPI-Audio-Mirror?label=)](https://github.com/PseudoResonance/WASAPI-Audio-Mirror/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/PseudoResonance/WASAPI-Audio-Mirror?style=flat-square&label=)](https://github.com/PseudoResonance/WASAPI-Audio-Mirror/graphs/code-frequency)|
 |[SpeAnaLED](https://github.com/osamusg/SpeAnaLED#readme)|A WASAPI Loopback Spectrum-Analyzer-like visualizer with LED-matrix-like visualization|[![](https://img.shields.io/github/languages/top/osamusg/SpeAnaLED?color=pink&style=flat-square)](https://github.com/osamusg/SpeAnaLED/graphs/contributors)|[![](https://flat.badgen.net/github/license/osamusg/SpeAnaLED?label=)](https://github.com/osamusg/SpeAnaLED/blob/master/LICENSE.md)|[![](https://img.shields.io/github/last-commit/osamusg/SpeAnaLED?style=flat-square&label=)](https://github.com/osamusg/SpeAnaLED/graphs/code-frequency)|
 |[WinEcho](https://github.com/jstefanelli/WinEcho#readme)|A C++ windows library that allows playback of WASAPI loopback render devices on other render devices|[![](https://img.shields.io/github/languages/top/jstefanelli/WinEcho?color=pink&style=flat-square)](https://github.com/jstefanelli/WinEcho/graphs/contributors)|[![](https://flat.badgen.net/github/license/jstefanelli/WinEcho?label=)](https://github.com/jstefanelli/WinEcho/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/jstefanelli/WinEcho?style=flat-square&label=)](https://github.com/jstefanelli/WinEcho/graphs/code-frequency)|
 
 ### System Wide [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Equalizer APO]()|A system-wide equalizer for Windows 7 / 8 / 8.1 / 10 / 11|[![](https://img.shields.io/badge/C%2B%2B-pink?style=flat-square)](https://sourceforge.net/p/equalizerapo/code)|[![](https://img.shields.io/badge/GNU%20General%20Public%20License%20version%202.0%20%28GPLv2%29-blue?style=flat-square)](#)|[![](https://img.shields.io/date/1706429977?color=lightgrey&style=flat-square&label=)](https://sourceforge.net/p/equalizerapo/code/commit_browser)|
 |[PrettyEQ](https://github.com/keur/prettyeq#readme)|A system-wide paramateric equalizer for pulseaudio|[![](https://img.shields.io/github/languages/top/keur/prettyeq?color=pink&style=flat-square)](https://github.com/keur/prettyeq/graphs/contributors)|[![](https://flat.badgen.net/github/license/keur/prettyeq?label=)](https://github.com/keur/prettyeq/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/keur/prettyeq?style=flat-square&label=)](https://github.com/keur/prettyeq/graphs/code-frequency)|
@@ -54,7 +54,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Misc [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio-In-Video-Detector](https://projects.software-city.org/p/aivd)|AIVD finds a specified audio file in the audio track of video files and returns the audio offset|[![](https://img.shields.io/github/languages/top/Davis-Software/aivd?color=pink&style=flat-square)](https://github.com/Davis-Software/aivd/graphs/contributors)|[![](https://flat.badgen.net/github/license/Davis-Software/aivd?label=)](https://github.com/Davis-Software/aivd/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/Davis-Software/aivd?style=flat-square&label=)](https://github.com/Davis-Software/aivd/graphs/code-frequency)|
 |[OwlPlug](https://github.com/DropSnorz/OwlPlug#readme)|Small tool to manage VST / AU / LV2 plugins on Windows, MacOS and Linux|[![](https://img.shields.io/github/languages/top/DropSnorz/OwlPlug?color=pink&style=flat-square)](https://github.com/DropSnorz/OwlPlug/graphs/contributors)|[![](https://flat.badgen.net/github/license/DropSnorz/OwlPlug?label=)](https://github.com/DropSnorz/OwlPlug/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/DropSnorz/OwlPlug?style=flat-square&label=)](https://github.com/DropSnorz/OwlPlug/graphs/code-frequency)|
