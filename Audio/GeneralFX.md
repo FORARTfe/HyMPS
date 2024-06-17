@@ -2,10 +2,10 @@
 
 ### [Limiting](#limiting-) - [Compressing](#compressing-) - [Equalizing](#equalizing-) - [Distorting](#distorting-) - [Imaging](#imaging-) - [Other](#other-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
 
 ### Limiting [⌂](#---)
-|Name / URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio Limiter](https://github.com/mondaugen/audio_limiter#readme)|A tool to restrict audio signals to a specific range (typically -1 to 1) while reducing perceived distortion|[![](https://img.shields.io/github/languages/top/mondaugen/audio_limiter?color=pink&style=flat-square)](https://github.com/mondaugen/audio_limiter/graphs/contributors)|[![](https://flat.badgen.net/github/license/mondaugen/audio_limiter?label=)](https://github.com/mondaugen/audio_limiter/issues/1)|[![](https://flat.badgen.net/github/last-commit/mondaugen/audio_limiter?label=)](https://github.com/mondaugen/audio_limiter/graphs/code-frequency)|
 |[SimpleCompressor](https://github.com/DanielRudrich/SimpleCompressor#readme)|Code and theory of a look-ahead compressor / limiter|[![](https://img.shields.io/github/languages/top/DanielRudrich/SimpleCompressor?color=pink&style=flat-square)](https://github.com/DanielRudrich/SimpleCompressor/graphs/contributors)|[![](https://flat.badgen.net/github/license/DanielRudrich/SimpleCompressor?label=)](https://github.com/DanielRudrich/SimpleCompressor/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/DanielRudrich/SimpleCompressor?label=)](https://github.com/DanielRudrich/SimpleCompressor/graphs/code-frequency)|
@@ -16,7 +16,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Compressing [⌂](#---)
-|Name / URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[CTAG Dynamic Range Compressor](https://github.com/p-hlp/CTAGDRC#readme)|A simple vst3/au compressor plugin|[![](https://img.shields.io/github/languages/top/p-hlp/CTAGDRC?color=pink&style=flat-square)](https://github.com/p-hlp/CTAGDRC/graphs/contributors)|[![](https://flat.badgen.net/github/license/p-hlp/CTAGDRC?label=)](https://github.com/p-hlp/CTAGDRC/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/p-hlp/CTAGDRC?label=)](https://github.com/p-hlp/CTAGDRC/graphs/code-frequency)|
 |[DOOM-Compressor](https://github.com/B4phomet/Juce-DOOM-Compressor#readme)|A reverse-engineered version of [DOOM Compressor from Mick Gordon](https://www.youtube.com/watch?v=n7YJcVuxuAQ)|[![](https://img.shields.io/github/languages/top/B4phomet/Juce-DOOM-Compressor?color=pink&style=flat-square)](https://github.com/B4phomet/Juce-DOOM-Compressor/graphs/contributors)|[![](https://flat.badgen.net/github/license/B4phomet/Juce-DOOM-Compressor?label=)](https://github.com/B4phomet/Juce-DOOM-Compressor/blob/main/LICENSE)|[![](https://flat.badgen.net/github/last-commit/B4phomet/Juce-DOOM-Compressor?label=)](https://github.com/B4phomet/Juce-DOOM-Compressor/graphs/code-frequency)|
@@ -42,7 +42,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Equalizing [⌂](#---)
-|Name / URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[fil4.lv2](http://x42-plugins.com/x42/x42-eq)|A 4 band parametric equalizer|[![](https://img.shields.io/github/languages/top/x42/fil4.lv2?color=pink&style=flat-square)](https://github.com/x42/fil4.lv2/graphs/contributors)|[![](https://flat.badgen.net/github/license/x42/fil4.lv2?label=)](https://github.com/x42/fil4.lv2/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/x42/fil4.lv2?label=)](https://github.com/x42/fil4.lv2/graphs/code-frequency)|
 |[Biquads](https://www.stoneydsp.com/projects/biquads)|Simple two-pole equalizer with variable oversampling|[![](https://img.shields.io/github/languages/top/nathanjhood/Biquads?color=pink&style=flat-square)](https://github.com/nathanjhood/Biquads/graphs/contributors)|[![](https://flat.badgen.net/github/license/nathanjhood/Biquads?label=)](https://github.com/nathanjhood/Biquads/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/nathanjhood/Biquads?label=)](https://github.com/nathanjhood/Biquads/graphs/code-frequency)|
@@ -59,7 +59,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[simple-eq](https://github.com/m-hilgendorf/simple-eq#readme)|A crate that implements a simple audio equalizer in Rust|[![](https://img.shields.io/github/languages/top/m-hilgendorf/simple-eq?color=pink&style=flat-square)](https://github.com/m-hilgendorf/simple-eq/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/m-hilgendorf/simple-eq/blob/master/license.md)|[![](https://flat.badgen.net/github/last-commit/m-hilgendorf/simple-eq?label=)](https://github.com/m-hilgendorf/simple-eq/graphs/code-frequency)|
 
 ## Distorting [⌂](#--)
-|Name / URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Dynation](https://github.com/vertver/Dynation#readme)|-|[![](https://img.shields.io/github/languages/top/vertver/Dynation?color=pink&style=flat-square)](https://github.com/vertver/Dynation/graphs/contributors)|[![](https://flat.badgen.net/github/license/vertver/Dynation?label=)](https://github.com/vertver/Dynation/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/vertver/Dynation?label=)](https://github.com/vertver/Dynation/graphs/code-frequency)|
 |[Dystortion](https://github.com/StoffAudioLLC/Dystortion#readme)|Distortion Audio Plugin built for AAX, VST3, & AU formats|[![](https://img.shields.io/github/languages/top/StoffAudioLLC/Dystortion?color=pink&style=flat-square)](https://github.com/StoffAudioLLC/Dystortion/graphs/contributors)|[![](https://flat.badgen.net/github/license/StoffAudioLLC/Dystortion?label=)](https://github.com/StoffAudioLLC/Dystortion/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/StoffAudioLLC/Dystortion/main?label=)](https://github.com/StoffAudioLLC/Dystortion/graphs/code-frequency)|
@@ -75,14 +75,14 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Imaging [⌂](#---)
-|Name / URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[MONSTR](https://www.whiteelephantaudio.com/plugins/monstr)|A a multiband stereo imaging plugin that provides up to six bands of stereo width control to correct mix issues or use for creative effect|[![](https://img.shields.io/github/languages/top/jd-13/MONSTR-Stereo-Imaging?color=pink&style=flat-square)](https://github.com/jd-13/MONSTR-Stereo-Imaging/graphs/contributors)|[![](https://flat.badgen.net/github/license/jd-13/MONSTR-Stereo-Imaging?label=)](https://github.com/jd-13/MONSTR-Stereo-Imaging/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/jd-13/MONSTR-Stereo-Imaging?label=)](https://github.com/jd-13/MONSTR-Stereo-Imaging/graphs/code-frequency)|
 |[BinAural VST](https://github.com/twoz/binaural-vst#readme)|Mono-to-stereo plugin that positions sound in 3D space using Head-Related Transfer Functions|[![](https://img.shields.io/github/languages/top/twoz/binaural-vst?color=pink&style=flat-square)](https://github.com/twoz/binaural-vst/graphs/contributors)|[![](https://flat.badgen.net/github/license/twoz/binaural-vst?label=)](https://github.com/twoz/binaural-vst/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/twoz/binaural-vst?label=)](https://github.com/twoz/binaural-vst/graphs/code-frequency)|
 |[HAAS](https://github.com/atmerka/HAAS#readme)|A simple HAAS effect plugin that can delay the left and/or right channels of audio to enhance stereo image|[![](https://img.shields.io/github/languages/top/atmerka/HAAS?color=pink&style=flat-square)](https://github.com/atmerka/HAAS/graphs/contributors)|[![](https://flat.badgen.net/github/license/atmerka/HAAS?label=)](https://github.com/atmerka/HAAS/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/atmerka/HAAS?label=)](https://github.com/atmerka/HAAS/graphs/code-frequency)|
 
 ### Reverbering [⌂](#---)
-|Name / URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[mverb](https://github.com/martineastwood/mverb#readme)|Studio quality, open-source reverb|[![](https://img.shields.io/github/languages/top/martineastwood/mverb?color=pink&style=flat-square)](https://github.com/martineastwood/mverb/graphs/contributors)|[![](https://flat.badgen.net/github/license/martineastwood/mverb?label=)](https://github.com/martineastwood/mverb/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/martineastwood/mverb?label=)](https://github.com/martineastwood/mverb/graphs/code-frequency)|
 |[Room Reverb](https://github.com/cvde/RoomReverb#readme)|A mono/stereo to stereo algorithmic reverb audio plugin with many presets|[![](https://img.shields.io/github/languages/top/cvde/RoomReverb?color=pink&style=flat-square)](https://github.com/cvde/RoomReverb/graphs/contributors)|[![](https://flat.badgen.net/github/license/cvde/RoomReverb?label=)](https://github.com/cvde/RoomReverb/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/cvde/RoomReverb?label=)](https://github.com/cvde/RoomReverb/graphs/code-frequency)|
@@ -97,7 +97,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Other [⌂](#---)
-|Name / URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[DCOffsetter](https://github.com/almostdefinitelycode/DCOffsetter#readme)|An audio effect plugin that applies a variable DC offset to an audio signal|[![](https://img.shields.io/github/languages/top/almostdefinitelycode/DCOffsetter?color=pink&style=flat-square)](https://github.com/almostdefinitelycode/DCOffsetter/graphs/contributors)|[![](https://flat.badgen.net/github/license/almostdefinitelycode/DCOffsetter?label=)](https://github.com/almostdefinitelycode/DCOffsetter/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/almostdefinitelycode/DCOffsetter?label=)](https://github.com/almostdefinitelycode/DCOffsetter/graphs/code-frequency)|
 |[regrader](https://github.com/igorski/regrader#readme)|VST delay plugin where the repeats degrade in resolution|[![](https://img.shields.io/github/languages/top/igorski/regrader?color=pink&style=flat-square)](https://github.com/igorski/regrader/graphs/contributors)|[![](https://flat.badgen.net/github/license/igorski/regrader?label=)](https://github.com/igorski/regrader/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/igorski/regrader?label=)](https://github.com/igorski/regrader/graphs/code-frequency)|
