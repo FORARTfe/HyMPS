@@ -1,10 +1,10 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#- "AUDIO section") [![Editors](https://flat.badgen.net/badge/HyMPS/Editors/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/blob/main/Audio/Editors.md#-- "Editors page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
 ### [Generic](#generic-) - [Audacity-based](#audacity-based-) - [Loopers](#loopers-)
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
 
 ### Generic [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Odio Edit](https://github.com/tari01/odio-edit#readme)|A light and fast audio editor with a simple GTK+ interface|[![](https://img.shields.io/github/languages/top/tari01/odio-edit?color=pink&style=flat-square)](https://github.com/tari01/odio-edit/graphs/contributors)|[![](https://flat.badgen.net/github/license/tari01/odio-edit?label=)](https://github.com/tari01/odio-edit/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/tari01/odio-edit?style=flat-square&label=)](https://github.com/tari01/odio-edit/graphs/code-frequency)|
 |[Signals X-1](https://github.com/kohoutech/Signals-X-1#readme)|A digital audio multitrack recorder|[![](https://img.shields.io/github/languages/top/kohoutech/Signals-X-1?color=pink&style=flat-square)](https://github.com/kohoutech/Signals-X-1/graphs/contributors)|[![](https://flat.badgen.net/github/license/kohoutech/Signals-X-1?label=)](https://github.com/kohoutech/Signals-X-1/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/kohoutech/Signals-X-1?style=flat-square&label=)](https://github.com/kohoutech/Signals-X-1/graphs/code-frequency)|
@@ -21,7 +21,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### [Audacity](https://www.audacityteam.org/)-based [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audacity](https://github.com/audacity/audacity#readme)|An easy-to-use, Other-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems|[![](https://img.shields.io/github/languages/top/audacity/audacity?color=pink&style=flat-square)](https://github.com/audacity/audacity/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/audacity/audacity/blob/master/LICENSE.txt)|[![](https://flat.badgen.net/github/last-commit/audacity/audacity?label=)](https://github.com/audacity/audacity/graphs/code-frequency)|
 |[Audacium](https://audacium.github.io/audacium/)|Free and open-source audio editor|[![](https://img.shields.io/github/languages/top/SartoxSoftware/audacium?color=pink&style=flat-square)](https://github.com/SartoxSoftware/audacium/graphs/contributors)|[![](https://flat.badgen.net/github/license/SartoxSoftware/audacium?label=)](https://github.com/SartoxSoftware/audacium/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/SartoxSoftware/audacium?label=)](https://github.com/SartoxSoftware/audacium/graphs/code-frequency)|
@@ -29,7 +29,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Tenacity](https://tenacityaudio.org/)|An easy-to-use, cross-platform Other-track audio editor/recorder|[![](https://img.shields.io/github/languages/top/tenacityteam/tenacity?color=pink&style=flat-square)](https://github.com/tenacityteam/tenacity/graphs/contributors)|[![](https://flat.badgen.net/github/license/tenacityteam/tenacity?label=)](https://github.com/tenacityteam/tenacity/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/tenacityteam/tenacity?label=)](https://github.com/tenacityteam/tenacity/graphs/code-frequency)|
 
 ### Loopers [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Loopidity](https://github.com/bill-auger/loopidity#readme)|A Other-track, Other-channel, looping audio recorder designed for live handsfree use|[![](https://img.shields.io/github/languages/top/bill-auger/loopidity?color=pink&style=flat-square)](https://github.com/bill-auger/loopidity/graphs/contributors)|[![](https://flat.badgen.net/github/license/bill-auger/loopidity?label=)](https://github.com/bill-auger/loopidity/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/bill-auger/loopidity/master?label=)](https://github.com/bill-auger/loopidity/graphs/code-frequency)|
 |[Giada](https://www.giadamusic.com/)|An open source, minimalistic and hardcore music production tool|[![](https://img.shields.io/github/languages/top/monocasual/giada?color=pink&style=flat-square)](https://github.com/monocasual/giada/graphs/contributors)|[![](https://flat.badgen.net/github/license/monocasual/giada?label=)](https://github.com/monocasual/giada/blob/master/LICENSE)|[![](https://flat.badgen.net/github/last-commit/monocasual/giada/master?label=)](https://github.com/monocasual/giada/graphs/code-frequency)|
