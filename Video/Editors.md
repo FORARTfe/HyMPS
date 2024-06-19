@@ -2,7 +2,7 @@
 
 ### [Non-Linear Editors](#non-linear-editors-) - [Video Compositors](#video-compositors-) - [Mix](#mix-) - [Misc](#misc-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
 
 ### Non-Linear Editors [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
