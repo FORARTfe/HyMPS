@@ -1,4 +1,4 @@
-# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "AUDIO resources") [![Programming](https://flat.badgen.net/badge/HyMPS/Programming/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/blob/main/Audio/Programming.md#-- "Programming") <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
+# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "AUDIO section") [![Programming](https://flat.badgen.net/badge/HyMPS/Programming/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/blob/main/Audio/Programming.md#-- "Programming page") <img align="right" alt="WIP" src="https://user-images.githubusercontent.com/171307/210726270-adc28ba9-dada-42cf-b53e-b01d03e3dca7.png" width="4%" />
 
 $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
 
