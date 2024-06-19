@@ -2,7 +2,7 @@
 
 ### [ASIO](#asio-) - [Bridges](#bridges-) - [Routing](#routing-) - [WASAPI](#wasapi-) - [Disc Tools](https://github.com/forart/HyMPS/blob/main/Audio/DiscsTools.md#---) - [System Wide](#system-wide-) - [Misc](#misc-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
 
 ### ASIO [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
@@ -46,7 +46,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 ### System Wide [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-|[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)|A system-wide equalizer for Windows 7 / 8 / 8.1 / 10 / 11|[![](https://img.shields.io/badge/C%2B%2B-pink?style=flat-square)](https://sourceforge.net/p/equalizerapo/code)|[![](https://img.shields.io/badge/GNU%20General%20Public%20License%20version%202.0%20%28GPLv2%29-blue?style=flat-square)](https://sourceforge.net/p/equalizerapo/code/HEAD/tree/trunk/License.txt)|[![](https://img.shields.io/date/1706429977?color=lightgrey&style=flat-square&label=)](https://sourceforge.net/p/equalizerapo/code/commit_browser)|
+|[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)|A system-wide equalizer for Windows 7 / 8 / 8.1 / 10 / 11|[![](https://img.shields.io/badge/C%2B%2B-pink?style=flat-square)](https://sourceforge.net/p/equalizerapo/code)|[![](https://img.shields.io/badge/GPL_2.0-blue?style=flat-square)](https://sourceforge.net/p/equalizerapo/code/HEAD/tree/trunk/License.txt)|[![](https://img.shields.io/date/1706429977?color=lightgrey&style=flat-square&label=)](https://sourceforge.net/p/equalizerapo/code/commit_browser)|
 |[PrettyEQ](https://github.com/keur/prettyeq#readme)|A system-wide paramateric equalizer for pulseaudio|[![](https://img.shields.io/github/languages/top/keur/prettyeq?color=pink&style=flat-square)](https://github.com/keur/prettyeq/graphs/contributors)|[![](https://flat.badgen.net/github/license/keur/prettyeq?label=)](https://github.com/keur/prettyeq/blob/master/LICENSE.txt)|[![](https://img.shields.io/github/last-commit/keur/prettyeq?style=flat-square&label=)](https://github.com/keur/prettyeq/graphs/code-frequency)|
 |[eqMac](https://eqmac.app/)|macOS System-wide Audio Equalizer & Volume Mixer|[![](https://img.shields.io/github/languages/top/bitgapp/eqMac?color=pink&style=flat-square)](https://github.com/bitgapp/eqMac/graphs/contributors)|[![](https://flat.badgen.net/github/license/bitgapp/eqMac?label=)](https://github.com/bitgapp/eqMac/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/bitgapp/eqMac?style=flat-square&label=)](https://github.com/bitgapp/eqMac/graphs/code-frequency)|
 |[AQUA](https://github.com/h39s/AQUA#readme)|A system-wide parametric equalizer interface for Windows|[![](https://img.shields.io/github/languages/top/h39s/AQUA?color=pink&style=flat-square)](https://github.com/h39s/AQUA/graphs/contributors)|[![](https://flat.badgen.net/github/license/h39s/AQUA?label=)](https://github.com/h39s/AQUA/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/h39s/AQUA?style=flat-square&label=)](https://github.com/h39s/AQUA/graphs/code-frequency)|
