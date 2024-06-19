@@ -2,7 +2,7 @@
 
 ### [Amp Sims](#amp-sims-) - [DSPs](#dsps-) - [Pedals](https://github.com/forart/HyMPS/blob/main/Audio/GPedals.md#----) - [Tuning](#tuning-) - [Impulse response](#impulse-response-) - [Libraries](#libraries-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
 
 ### Amp Sims [⌂](#---) 
 |Resource|Short description|Language|License|Last commit|
