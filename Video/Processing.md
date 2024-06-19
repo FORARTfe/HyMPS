@@ -1,18 +1,18 @@
-# [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO resources") [![Processing](https://flat.badgen.net/badge/HyMPS/Processing/blue?scale=1.8&label=)](https://github.com/forart/HyMPS#processing "Processing") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
+# [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/forart/HyMPS#-1 "VIDEO section") [![Processing](https://flat.badgen.net/badge/HyMPS/Processing/blue?scale=1.8&label=)](https://github.com/forart/HyMPS/blob/main/Video/Processing.md#-- "Processing page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
 ### [Denoisers](#denoisers-) - [Frameworks](#frameworks-) - [Stabilizers](#stabilizers-) - [Resources](#resources-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Name / URL (a>z)}}$ 
+$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
 
 ### Denoisers [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-|[Aydin](https://royerlab.github.io/aydin/)|User-friendly, Fast, Self-Supervised Image Denoising for All|[![](https://img.shields.io/github/languages/top/royerlab/aydin?color=pink&style=flat-square)](https://github.com/royerlab/aydin/graphs/contributors)|[![](https://flat.badgen.net/github/license/royerlab/aydin?label=)](https://github.com/royerlab/aydin/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/royerlab/aydin?style=flat-square&label=)](https://github.com/royerlab/aydin/graphs/code-frequency)|
+|[Aydin](https://royerlab.github.io/aydin/)|User-friendly, Fast, Self-Supervised Image Denoising for All|[![](https://img.shields.io/github/languages/top/royerlab/aydin?color=pink&style=flat-square)](https://github.com/royerlab/aydin/graphs/contributors)|[![](https://flat.badgen.net/github/license/royerlab/aydin?label=)](https://github.com/royerlab/aydin/blob/master/LICENSE.txt)|[![](https://img.shields.io/github/last-commit/royerlab/aydin?style=flat-square&label=)](https://github.com/royerlab/aydin/graphs/code-frequency)|
 |[Video-Filter](https://github.com/antonioam82/Video-Filter#readme)|denoise video files|[![](https://img.shields.io/github/languages/top/antonioam82/Video-Filter?color=pink&style=flat-square)](https://github.com/antonioam82/Video-Filter/graphs/contributors)|[![](https://flat.badgen.net/github/license/antonioam82/Video-Filter?label=)](https://github.com/antonioam82/Video-Filter/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/antonioam82/Video-Filter?style=flat-square&label=)](https://github.com/antonioam82/Video-Filter/graphs/code-frequency)|
 
 
 ### Frameworks [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Frei0r](https://frei0r.dyne.org/)|Minimalistic plugin API for video effects|[![](https://img.shields.io/github/languages/top/dyne/frei0r?color=pink&style=flat-square)](https://github.com/dyne/frei0r/graphs/contributors)|[![](https://flat.badgen.net/github/license/dyne/frei0r?label=)](https://github.com/dyne/frei0r/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/dyne/frei0r/master?style=flat-square&label=)](https://github.com/dyne/frei0r/graphs/code-frequency)|
 |[Movit](https://movit.sesse.net/)|An high-quality, high-performance, open-source library for video filters|[![](https://img.shields.io/github/languages/top/ddennedy/movit?color=pink&style=flat-square)](https://github.com/ddennedy/movit/graphs/contributors)|[![](https://flat.badgen.net/github/license/ddennedy/movit?label=)](https://github.com/ddennedy/movit/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/ddennedy/movit/master?style=flat-square&label=)](https://github.com/ddennedy/movit/graphs/code-frequency)|
@@ -20,7 +20,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[MetalVideoProcess](https://github.com/wangrenzhu/MetalVideoProcess#readme)|High-Performance video effects processing framework|[![](https://img.shields.io/github/languages/top/wangrenzhu/MetalVideoProcess?color=pink&style=flat-square)](https://github.com/wangrenzhu/MetalVideoProcess/graphs/contributors)|[![](https://flat.badgen.net/github/license/wangrenzhu/MetalVideoProcess?label=)](https://github.com/wangrenzhu/MetalVideoProcess/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/wangrenzhu/MetalVideoProcess/master?style=flat-square&label=)](https://github.com/wangrenzhu/MetalVideoProcess/graphs/code-frequency)|
 
 ### Stabilizers [⌂](#--)
-|Name + URL|Short description|Language|License|Last commit|
+|Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[CUVISTA](https://rainermtb.github.io/cuvista/)|A small and simple Application to stabilize shaky video footage using the Cuda platform when available|[![](https://img.shields.io/github/languages/top/RainerMtb/cuvista?color=pink&style=flat-square)](https://github.com/RainerMtb/cuvista/graphs/contributors)|[![](https://flat.badgen.net/github/license/RainerMtb/cuvista?label=)](https://github.com/RainerMtb/cuvista/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/RainerMtb/cuvista/master?style=flat-square&label=)](https://github.com/RainerMtb/cuvista/graphs/code-frequency)|
 |[VStabiliser](https://www.constantrobotics.com/video-stabilizer-lib)|Provides standard interface as well defines data structures and rules for different implementation of video stabilisation algorithms|[![](https://img.shields.io/github/languages/top/ConstantRobotics-Ltd/VStabiliser?color=pink&style=flat-square)](https://github.com/ConstantRobotics-Ltd/VStabiliser/graphs/contributors)|[![](https://flat.badgen.net/github/license/ConstantRobotics-Ltd/VStabiliser?label=)](https://github.com/ConstantRobotics-Ltd/VStabiliser/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/ConstantRobotics-Ltd/VStabiliser?style=flat-square&label=)](https://github.com/ConstantRobotics-Ltd/VStabiliser/graphs/code-frequency)|
