@@ -1,128 +1,87 @@
 🚧 **Work in Progress** 🚧
 
+- https://github.com/h4n-ul/Fourier_Analogue-in-Digital
+- https://github.com/glevand/audx
+- https://github.com/EemilAhonen/deep-fryer
+- https://github.com/EemilAhonen/leikkaus
+- https://github.com/BodbDearg/PlayStation1Vsts
+- https://github.com/ArdenButterfield/Maim
+- https://github.com/sjoerdvankreel/firefly-synth
+- https://github.com/DISTRHO/Cardinal
+- https://github.com/surge-synthesizer/surge
+- https://github.com/dsp56300/gearmulator/
+- https://github.com/khrykin/BlackBird
+- https://github.com/pelennor2170/NAM_models
+- https://github.com/musescore/MuseScore
+- https://github.com/bbc/bbc-vamp-plugins
+- https://github.com/cannam/expressive-means
+- https://github.com/ZL-Audio
+- https://github.com/sigsep/sigsep-mus-eval
+- https://github.com/root670/vst-host
+- https://github.com/deadManAlive/jomsviking
+- https://github.com/andrewrgarcia/audio_cpp
+- https://github.com/psycha0s/airwave
+- https://github.com/km4sh/audioeffector43
+- https://github.com/LukasB97/ORCA
+- https://github.com/mincequi/qLouder
+- https://github.com/Kiriki-liszt/JS_Inflator_to_VST2_VST3
+- https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX
+- https://github.com/danielrothmann/Roth-AIR
+- https://github.com/shaharpit809/Machine-Learning-for-Signal-Processing
+- https://github.com/mopenstein/Simple-Video-Editor
+- https://github.com/Sparrow1488/AutoShortcut
+- https://github.com/l33tmeatwad/AMVtool
+- https://github.com/demensdeum/RaidenVideoRipper
+- https://github.com/Ati1707/FastRender
+- https://github.com/Shobhit1338/FFMPEG-Video-Editor
+- https://github.com/Gahara-Editor/gahara
+- https://github.com/OPS-Solutions/SimpleVideoEditor
+- https://github.com/DominicBrett/Easy-Edit
+- https://github.com/terry2010/ffmpeg-video-editor
+- https://github.com/Ethkuil/Qt-based-video-editor
+- https://github.com/docentYT/FFvid
+- https://github.com/YoungSx/WTFClipper
+- https://github.com/ihusamali/Audio-Editor-backend---kotlin
+- https://github.com/LasCreations/Motion-Film-Lab
+- https://github.com/Kaloyan8/fast-video-editor
+- https://github.com/Dejmir/FFmpegVideoTool
+- https://github.com/RuurdBijlsma/MovieMaker
+- https://github.com/cethamine/video-editor
+- https://github.com/utak3r/VideoEditor
+- https://github.com/andremxmx/bulk_pyedit
+- https://github.com/aguung/VideoEditorFfmpeg
+- https://github.com/nevinpuri/Retrim
+- https://github.com/smaltum/EasyEditor
+- https://github.com/sak96/ffmpeg_cut_join
+- https://github.com/Onion99/VideoEditor
+- https://github.com/kb1337/FFmpeg-GUI
+- https://github.com/JustFax/Snapz
+- https://github.com/IshanTaldekar/VideoEditor
+- https://github.com/Rmetr0/FFmpeg-video-editor
+- https://github.com/jpweeks/ffEdit
+- https://github.com/feliwir/nox
+- https://github.com/xa1on/prorecs
+- https://github.com/winscripter/ELLESEES
+- https://github.com/austinginn/onvif-utility
+- https://github.com/pukacho/Onvif
+- https://github.com/felipeWolke/onvif-api
+- https://github.com/gtgrthrst/python_Onvif_WindCamControl
+- https://github.com/DevonCrawford/Video-Editing-Automation
+- https://github.com/feliwir/nox
+- https://github.com/Alistair-J/Video-Editor
+- https://github.com/robinrowe/OpenMovieEditor
+- https://github.com/havsys/video-editor
+- https://github.com/matthewd673/QuickStitch
+- https://github.com/ideadev777/VideoEditor
+- https://github.com/devabhishekpal/video_editor
+- https://github.com/MTG/essentia
+- https://github.com/marsyas/marsyas
+- https://github.com/mzuther/K-Meter
+- https://github.com/csteinmetz1/pyloudnorm
+- https://github.com/lsp-plugins/lsp-plugins-loud-comp
+- https://github.com/ZL-Audio/ZLLMatch
+- https://github.com/y-brehm/waveAlign
+- https://github.com/indiscipline/ffmpeg-loudnorm-helper
+- https://github.com/ozguronsoy/HephAudio
+- https://github.com/sigsep/sigsep-mus-eval
 
-https://github.com/h4n-ul/Fourier_Analogue-in-Digital
-https://github.com/glevand/audx
-
-https://github.com/EemilAhonen/deep-fryer
-https://github.com/EemilAhonen/leikkaus
-https://github.com/BodbDearg/PlayStation1Vsts
-https://github.com/ArdenButterfield/Maim
-
-https://github.com/sjoerdvankreel/firefly-synth
-https://github.com/DISTRHO/Cardinal
-https://github.com/surge-synthesizer/surge
-https://github.com/dsp56300/gearmulator/
-https://github.com/khrykin/BlackBird
-
-
-https://github.com/pelennor2170/NAM_models
-
-
-https://github.com/musescore/MuseScore
-
-
-https://github.com/bbc/bbc-vamp-plugins
-https://github.com/cannam/expressive-means
-
-
-https://github.com/ZL-Audio
-
-
-
-https://github.com/sigsep/sigsep-mus-eval
-
-
-https://github.com/root670/vst-host
-https://github.com/deadManAlive/jomsviking
-https://github.com/andrewrgarcia/audio_cpp
-https://github.com/psycha0s/airwave
-
-https://github.com/km4sh/audioeffector43
-
-https://github.com/LukasB97/ORCA
-https://github.com/mincequi/qLouder
-
-https://github.com/Kiriki-liszt/JS_Inflator_to_VST2_VST3
-https://github.com/Sonic-Anomaly/Sonic-Anomaly-JSFX
-https://github.com/danielrothmann/Roth-AIR
-
-
-https://github.com/shaharpit809/Machine-Learning-for-Signal-Processing
-
-
-https://github.com/mopenstein/Simple-Video-Editor
-https://github.com/Sparrow1488/AutoShortcut
-https://github.com/l33tmeatwad/AMVtool
-https://github.com/demensdeum/RaidenVideoRipper
-https://github.com/Ati1707/FastRender
-https://github.com/Shobhit1338/FFMPEG-Video-Editor
-https://github.com/Gahara-Editor/gahara
-https://github.com/OPS-Solutions/SimpleVideoEditor
-https://github.com/DominicBrett/Easy-Edit
-https://github.com/terry2010/ffmpeg-video-editor
-https://github.com/Ethkuil/Qt-based-video-editor
-https://github.com/docentYT/FFvid
-https://github.com/YoungSx/WTFClipper
-https://github.com/ihusamali/Audio-Editor-backend---kotlin
-https://github.com/LasCreations/Motion-Film-Lab
-https://github.com/Kaloyan8/fast-video-editor
-https://github.com/Dejmir/FFmpegVideoTool
-https://github.com/RuurdBijlsma/MovieMaker
-https://github.com/cethamine/video-editor
-https://github.com/utak3r/VideoEditor
-https://github.com/andremxmx/bulk_pyedit
-https://github.com/aguung/VideoEditorFfmpeg
-https://github.com/nevinpuri/Retrim
-https://github.com/smaltum/EasyEditor
-https://github.com/sak96/ffmpeg_cut_join
-https://github.com/Onion99/VideoEditor
-https://github.com/kb1337/FFmpeg-GUI
-https://github.com/JustFax/Snapz
-https://github.com/IshanTaldekar/VideoEditor
-https://github.com/Rmetr0/FFmpeg-video-editor
-https://github.com/jpweeks/ffEdit
-https://github.com/feliwir/nox
-
-
-
-
-https://github.com/xa1on/prorecs
-
-https://github.com/winscripter/ELLESEES
-
-
-https://github.com/austinginn/onvif-utility
-https://github.com/pukacho/Onvif
-https://github.com/felipeWolke/onvif-api
-https://github.com/gtgrthrst/python_Onvif_WindCamControl
-
-
-
-
-
-
-https://github.com/DevonCrawford/Video-Editing-Automation
-https://github.com/feliwir/nox
-https://github.com/Alistair-J/Video-Editor
-https://github.com/robinrowe/OpenMovieEditor
-https://github.com/havsys/video-editor
-https://github.com/matthewd673/QuickStitch
-https://github.com/ideadev777/VideoEditor
-https://github.com/devabhishekpal/video_editor
-
-
-https://github.com/MTG/essentia
-https://github.com/marsyas/marsyas
-
-
-https://github.com/mzuther/K-Meter
-https://github.com/csteinmetz1/pyloudnorm
-https://github.com/lsp-plugins/lsp-plugins-loud-comp
-https://github.com/ZL-Audio/ZLLMatch
-https://github.com/y-brehm/waveAlign
-
-https://github.com/indiscipline/ffmpeg-loudnorm-helper
-https://github.com/ozguronsoy/HephAudio
-
-https://github.com/sigsep/sigsep-mus-eval
