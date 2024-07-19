@@ -114,3 +114,11 @@
 - https://github.com/amirreza-yar/audio-signal-analysis
 - https://github.com/fullstack-dev0727/AudioProcess-DeepFilterNet
 - https://github.com/elachkarcharbel/Guitar-Tablature-Transcription
+- https://github.com/robust-guitar-tabs/code
+- https://github.com/yongyizang/SynthTab
+- https://github.com/mogeadis/GS-Detector
+- https://github.com/elachkarcharbel/Guitar-Tablature-Transcription
+- https://github.com/cwitkowitz/guitar-transcription-continuous
+- https://github.com/ayushmall0710/AGTT
+- https://github.com/jmichel3/ms-thesis
+- https://github.com/gburlet/robotaba
