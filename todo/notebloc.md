@@ -113,3 +113,4 @@
 - https://github.com/Bastow2000/Bela-Resonant_Filter
 - https://github.com/amirreza-yar/audio-signal-analysis
 - https://github.com/fullstack-dev0727/AudioProcess-DeepFilterNet
+- https://github.com/elachkarcharbel/Guitar-Tablature-Transcription
