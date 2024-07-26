@@ -122,3 +122,6 @@
 - https://github.com/ayushmall0710/AGTT
 - https://github.com/jmichel3/ms-thesis
 - https://github.com/gburlet/robotaba
+- https://github.com/Fyfe93/neurodrum-live
+- https://github.com/dsbankov/10ft
+- https://github.com/HolyCityAudio/Plugins
