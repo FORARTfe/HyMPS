@@ -125,3 +125,10 @@
 - https://github.com/Fyfe93/neurodrum-live
 - https://github.com/dsbankov/10ft
 - https://github.com/HolyCityAudio/Plugins
+- https://github.com/teragonaudio/MrsWatson
+- https://github.com/RinoReyns/CrossPlatformVstHost
+- https://github.com/perivar/AudioVSTToolbox/
+- https://github.com/killbizz/Biztortion
+- https://github.com/psycha0s/airwave
+- https://github.com/hotwatermorning/Terra
+- https://github.com/IgorKhramtsov/DeEsser
