@@ -132,3 +132,4 @@
 - https://github.com/psycha0s/airwave
 - https://github.com/hotwatermorning/Terra
 - https://github.com/IgorKhramtsov/DeEsser
+- https://github.com/erdewit/HiFiScan
