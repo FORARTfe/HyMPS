@@ -133,3 +133,15 @@
 - https://github.com/hotwatermorning/Terra
 - https://github.com/IgorKhramtsov/DeEsser
 - https://github.com/erdewit/HiFiScan
+- https://github.com/Mastering-Python-GT/Audio_Enhancement
+- https://github.com/dsgiitr/Audio-Super-Resolution
+- https://github.com/djshaji/amp-rack
+- https://github.com/IAHispano/Audio-Upscaler
+- https://github.com/haoheliu/versatile_audio_super_resolution/
+- https://github.com/flysofast/AudioSuperResolution
+- https://github.com/vipul2001/Audio-Super-Resolution
+- https://github.com/leslieam/audio-quality
+- https://github.com/Snig17/A-U-NET-Based-Audio-Denoiser
+- https://github.com/ashutoshc8101/audio-quality-assessment
+- https://github.com/kdrag0n/fxdsp
+- https://github.com/leokwu/AudioAppraiseNet
