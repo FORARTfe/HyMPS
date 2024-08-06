@@ -145,3 +145,12 @@
 - https://github.com/ashutoshc8101/audio-quality-assessment
 - https://github.com/kdrag0n/fxdsp
 - https://github.com/leokwu/AudioAppraiseNet
+- https://github.com/Gabeiscool420/AURAL_GAN-predictive_model
+- https://github.com/Sumitkum-74/Audio-processing
+- https://github.com/ml-dev-world/sonic-superresolution
+- https://github.com/a-n-rose/Python-Sound-Tool
+- https://github.com/N-HANS/N-HANS
+- https://github.com/sinshu/freeverb
+- https://github.com/jniemann66/ReSampler
+- https://github.com/saswatpp/Audio-Super-Resolution
+- https://github.com/pinae/Audiosyncer
