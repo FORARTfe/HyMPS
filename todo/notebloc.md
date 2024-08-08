@@ -160,3 +160,8 @@
 - https://github.com/jhetherly/EnglishSpeechUpsampler
 - https://github.com/musikalkemist/praudio
 - https://github.com/pradyuv/MixMaestro
+- https://github.com/JarodMica/ai-voice-cloning
+- https://github.com/LuisGeralda/CNN-QAM-Denoiser
+- https://github.com/anand-808/DEEP-LEARNING-MODEL-FOR-AUDIO-COMPRESSION
+- https://github.com/csteinmetz1/automix-toolkit
+- https://github.com/D-Gerber/Free-Scribe
