@@ -154,3 +154,9 @@
 - https://github.com/jniemann66/ReSampler
 - https://github.com/saswatpp/Audio-Super-Resolution
 - https://github.com/pinae/Audiosyncer
+- https://github.com/asteroid-team/torch-audiomentations
+- https://github.com/vbelz/Speech-enhancement
+- https://github.com/oseiskar/autosubsync
+- https://github.com/jhetherly/EnglishSpeechUpsampler
+- https://github.com/musikalkemist/praudio
+- https://github.com/pradyuv/MixMaestro
