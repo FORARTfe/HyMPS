@@ -2,7 +2,8 @@
 
 ### 🗂️ [Multi](#multi-) - [Compressor](#compressor-) - [Chorus](#chorus-) - [Distorsion](#distorsion-) - [Flanger](#flanger-) - [Overdrive](#overdrive-)
 
-⚠️ $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$
 
 ### Multi [⌂](#----) 
 |Repository|Short description|Language|License|Last commit|
