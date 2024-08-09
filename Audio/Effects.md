@@ -2,7 +2,8 @@
 
 ### [General](https://github.com/FORARTfe/HyMPS/blob/main/Audio/GeneralFX.md#---) - [Bundles](#bundles-) - [Guitar](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Guitar.md#---) - [Bass](#bass-) - [Vocals](#vocals-) - [Misc](#misc-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$
 
 ## Bundles [⌂](#--)
 |Repository|Short description|Language|License|Last commit|
