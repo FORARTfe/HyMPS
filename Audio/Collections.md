@@ -1,6 +1,7 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![Collections](https://flat.badgen.net/badge/HyMPS/Collections/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Collections.md#- "Collections page")
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: License (openness) > Resource (a>z)}}$ 
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: License (openness) > Resource (a>z)}}$
 
 |Resource|Short description|License|Last update|
 |:-:|:-:|:-:|:-:|
