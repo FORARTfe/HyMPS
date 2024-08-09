@@ -3,7 +3,7 @@
 ### 📁 [Generic](#generic-) - [Browser-based](#browser-based-) - [Dedicated](#dedicated-)
 
 > [!WARNING]
-> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
 ### Generic [⌂](#--)
 |Repository|Short description|Language|License|Last commit|
