@@ -1,11 +1,12 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![Treatments](https://flat.badgen.net/badge/HyMPS/Treatments/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Treatments.md#-- "Treatments page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### [Alignment/synch](#alignmentsynch-) - [Declipping](#declipping-) - [Dequantizing](#dequantizing-) - [Enhancing](#enhancing-) - [Mastering](#mastering-) - [Normalizing](#normalizing-) - [Noise reducing](#noise-reducing-) - [Phasing](#phasing-) - [Pitch Shifting](#pitch-shifting-) - [Resampling](#resampling-) - [Restoring](#restoring-) - [DRC](#digital-room-correction-)
+### 📁 [Alignment/synch](#alignmentsynch-) - [Declipping](#declipping-) - [Dequantizing](#dequantizing-) - [Enhancing](#enhancing-) - [Mastering](#mastering-) - [Normalizing](#normalizing-) - [Noise reducing](#noise-reducing-) - [Phasing](#phasing-) - [Pitch Shifting](#pitch-shifting-) - [Resampling](#resampling-) - [Restoring](#restoring-) - [DRC](#digital-room-correction-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
 ### Alignment/synch [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio alignment tool](https://github.com/norihiro/alignaudio#readme)|A tool to align audio files|[![](https://img.shields.io/github/languages/top/norihiro/alignaudio?color=pink&style=flat-square)](https://github.com/norihiro/alignaudio/graphs/contributors)|[![](https://flat.badgen.net/github/license/norihiro/alignaudio?label=)](https://github.com/norihiro/alignaudio/blob/main/COPYING)|[![](https://img.shields.io/github/last-commit/norihiro/alignaudio?style=flat-square&label=)](https://github.com/norihiro/alignaudio/graphs/code-frequency)|
 |[Video Audio Sync for FFMPEG](https://github.com/jhpark16/Video-Audio-Sync-for-FFMPEG#readme)|Reads multiple a/v files and present them as wave forms for easier alignment|[![](https://img.shields.io/github/languages/top/jhpark16/Video-Audio-Sync-for-FFMPEG?color=pink&style=flat-square)](https://github.com/jhpark16/Video-Audio-Sync-for-FFMPEG/graphs/contributors)|[![](https://flat.badgen.net/github/license/jhpark16/Video-Audio-Sync-for-FFMPEG?label=)](https://github.com/jhpark16/Video-Audio-Sync-for-FFMPEG/issues/1)|[![](https://img.shields.io/github/last-commit/jhpark16/Video-Audio-Sync-for-FFMPEG?style=flat-square&label=)](https://github.com/jhpark16/Video-Audio-Sync-for-FFMPEG/graphs/code-frequency)|
@@ -30,7 +31,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[VideoSync](https://github.com/allisonnicoledeal/VideoSync#readme)|Automatically synchronize crowd-sourced concert videos|[![](https://img.shields.io/github/languages/top/allisonnicoledeal/VideoSync?color=pink&style=flat-square)](https://github.com/allisonnicoledeal/VideoSync/graphs/contributors)|[![](https://flat.badgen.net/github/license/allisonnicoledeal/VideoSync?label=)](https://github.com/allisonnicoledeal/VideoSync/issues/8)|[![](https://img.shields.io/github/last-commit/allisonnicoledeal/VideoSync/master?style=flat-square&label=)](https://github.com/allisonnicoledeal/VideoSync/graphs/code-frequency)|
 
 ### Declipping [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[audio-declipper](https://github.com/kripton/audio-declipper#readme)|Proof-of-concept (or more) to declip sample-based audio files|[![](https://img.shields.io/github/languages/top/kripton/audio-declipper?color=pink&style=flat-square)](https://github.com/kripton/audio-declipper/graphs/contributors)|[![](https://flat.badgen.net/github/license/kripton/audio-declipper?label=)](https://github.com/kripton/audio-declipper/issues/1)|[![](https://img.shields.io/github/last-commit/kripton/audio-declipper/master?style=flat-square&label=)](https://github.com/kripton/audio-declipper/graphs/code-frequency)|
 |[A Survey and an Extensive Evaluation of Popular Audio Declipping Methods](https://github.com/rajmic/declipping2020_codes#readme)|Codes and data coming with article|[![](https://img.shields.io/github/languages/top/rajmic/declipping2020_codes?color=pink&style=flat-square)](https://github.com/rajmic/declipping2020_codes/graphs/contributors)|[![](https://flat.badgen.net/github/license/rajmic/declipping2020_codes?label=)](https://github.com/rajmic/declipping2020_codes/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/rajmic/declipping2020_codes/master?style=flat-square&label=)](https://github.com/rajmic/declipping2020_codes/graphs/code-frequency)|
@@ -43,7 +44,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Audio Declipping](https://github.com/paquiteau/audioDeclipping#readme)|audioDeclipping Project, Sparse coding course, ATSI Master|[![](https://img.shields.io/github/languages/top/paquiteau/audioDeclipping?color=pink&style=flat-square)](https://github.com/paquiteau/audioDeclipping/graphs/contributors)|[![](https://flat.badgen.net/github/license/paquiteau/audioDeclipping?label=)](https://github.com/paquiteau/audioDeclipping/issues/1)|[![](https://img.shields.io/github/last-commit/paquiteau/audioDeclipping/master?style=flat-square&label=)](https://github.com/paquiteau/audioDeclipping/graphs/code-frequency)|
 
 ### Dequantizing [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Audio_Processing_A2D](https://github.com/Pshar10/Audio_Processing_A2D#readme)|Audio processing (Upsampling, Filtering and Quantization/De-quantization)|[![](https://img.shields.io/github/languages/top/Pshar10/Audio_Processing_A2D?color=pink&style=flat-square)](https://github.com/Pshar10/Audio_Processing_A2D/graphs/contributors)|[![](https://flat.badgen.net/github/license/Pshar10/Audio_Processing_A2D?label=)](https://github.com/Pshar10/Audio_Processing_A2D/issues/1)|[![](https://img.shields.io/github/last-commit/Pshar10/Audio_Processing_A2D?style=flat-square&label=)](https://github.com/Pshar10/Audio_Processing_A2D/graphs/code-frequency)|
 |[Recognize Audio Quantization](https://github.com/MariusBange/Recognize-Audio-Quantization#readme)|-|[![](https://img.shields.io/github/languages/top/MariusBange/Recognize-Audio-Quantization?color=pink&style=flat-square)](https://github.com/MariusBange/Recognize-Audio-Quantization/graphs/contributors)|[![](https://flat.badgen.net/github/license/MariusBange/Recognize-Audio-Quantization?label=)](https://github.com/MariusBange/Recognize-Audio-Quantization/issues/1)|[![](https://img.shields.io/github/last-commit/MariusBange/Recognize-Audio-Quantization?style=flat-square&label=)](https://github.com/MariusBange/Recognize-Audio-Quantization/graphs/code-frequency)|
@@ -52,7 +53,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Enhancing [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[LCC](https://github.com/MeteorStudioASU/lcc#readme)|An open-source spatial audio algorithm for binaural playback over closely-spaced stereo loudspeakers|[![](https://img.shields.io/github/languages/top/MeteorStudioASU/lcc?color=pink&style=flat-square)](https://github.com/MeteorStudioASU/lcc/graphs/contributors)|[![](https://flat.badgen.net/github/license/MeteorStudioASU/lcc?label=)](https://github.com/MeteorStudioASU/lcc/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/MeteorStudioASU/lcc?style=flat-square&label=)](https://github.com/MeteorStudioASU/lcc/graphs/code-frequency)|
 |[ADRO](https://github.com/mishra-raman/ADRO#readme)|Attempts to make audio signals more clear and natural-sounding by automatically adjusting the dynamic range of audio signals|[![](https://img.shields.io/github/languages/top/mishra-raman/ADRO?color=pink&style=flat-square)](https://github.com/mishra-raman/ADRO/graphs/contributors)|[![](https://flat.badgen.net/github/license/mishra-raman/ADRO?label=)](https://github.com/mishra-raman/ADRO/issues/1)|[![](https://img.shields.io/github/last-commit/mishra-raman/ADRO?style=flat-square&label=)](https://github.com/mishra-raman/ADRO/graphs/code-frequency)|
@@ -62,7 +63,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[SampleSafe Audio Processing Tool](https://github.com/erlinghoff/SampleSafe#readme)|Ensures that audio files start and end at zero-crossing points to prevent pops or clicks at the beginning or end of audio tracks|[![](https://img.shields.io/github/languages/top/erlinghoff/SampleSafe?color=pink&style=flat-square)](https://github.com/erlinghoff/SampleSafe/graphs/contributors)|[![](https://flat.badgen.net/github/license/erlinghoff/SampleSafe?label=)](https://github.com/erlinghoff/SampleSafe/issues/1)|[![](https://img.shields.io/github/last-commit/erlinghoff/SampleSafe/main?style=flat-square&label=)](https://github.com/erlinghoff/SampleSafe/graphs/code-frequency)|
 
 ### Mastering [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Remaster-Compressor](https://github.com/HeliosMD/Remaster-Compressor#readme)|A single pass audio remastering tool designed to accomplish with audio mastering industry requirements|[![](https://img.shields.io/github/languages/top/HeliosMD/Remaster-Compressor?color=pink&style=flat-square)](https://github.com/HeliosMD/Remaster-Compressor/graphs/contributors)|[![](https://flat.badgen.net/github/license/HeliosMD/Remaster-Compressor?label=)](https://github.com/HeliosMD/Remaster-Compressor/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/HeliosMD/Remaster-Compressor?style=flat-square&label=)](https://github.com/HeliosMD/Remaster-Compressor/graphs/code-frequency)|
 |[master_me](https://github.com/trummerschlunk/master_me#readme)|Automatic mastering plugin for live streaming, podcasts and internet radio.|[![](https://img.shields.io/github/languages/top/trummerschlunk/master_me?color=pink&style=flat-square)](https://github.com/trummerschlunk/master_me/graphs/contributors)|[![](https://flat.badgen.net/github/license/trummerschlunk/master_me?label=)](https://github.com/trummerschlunk/master_me/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/trummerschlunk/master_me?style=flat-square&label=)](https://github.com/trummerschlunk/master_me/graphs/code-frequency)|
@@ -75,7 +76,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Normalizing [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[FFmpeg_Loudness](https://github.com/cpuimage/FFmpeg_Loudness#readme)|Audio Loudness Normalization Filter Port From FFmpeg|[![](https://img.shields.io/github/languages/top/cpuimage/FFmpeg_Loudness?color=pink&style=flat-square)](https://github.com/cpuimage/FFmpeg_Loudness/graphs/contributors)|[![](https://flat.badgen.net/github/license/cpuimage/FFmpeg_Loudness?label=)](https://github.com/cpuimage/FFmpeg_Loudness/blob/master/COPYING.GPLv2)|[![](https://img.shields.io/github/last-commit/cpuimage/FFmpeg_Loudness?style=flat-square&label=)](https://github.com/cpuimage/FFmpeg_Loudness/graphs/code-frequency)|
 |[r128v3](https://github.com/hz37/r128v3#readme)|ffmpeg front-end for dynamic loudness normalization|[![](https://img.shields.io/github/languages/top/hz37/r128v3?color=pink&style=flat-square)](https://github.com/hz37/r128v3/graphs/contributors)|[![](https://flat.badgen.net/github/license/hz37/r128v3?label=)](https://github.com/hz37/r128v3/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/hz37/r128v3?style=flat-square&label=)](https://github.com/hz37/r128v3/graphs/code-frequency)|
@@ -92,7 +93,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Noise reducing [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[libspecbleach](https://github.com/lucianodato/libspecbleach#readme)|C library for audio noise reduction and other spectral effects|[![](https://img.shields.io/github/languages/top/lucianodato/libspecbleach?color=pink&style=flat-square)](https://github.com/lucianodato/libspecbleach/graphs/contributors)|[![](https://flat.badgen.net/github/license/lucianodato/libspecbleach?label=)](https://github.com/lucianodato/libspecbleach/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/lucianodato/libspecbleach/main?style=flat-square&label=)](https://github.com/lucianodato/libspecbleach/graphs/code-frequency)|
 |[Noiseblade](https://github.com/Trollaattori/Noiseblade#readme)|Noise removal audio plugin|[![](https://img.shields.io/github/languages/top/Trollaattori/Noiseblade?color=pink&style=flat-square)](https://github.com/Trollaattori/Noiseblade/graphs/contributors)|[![](https://flat.badgen.net/github/license/Trollaattori/Noiseblade?label=)](https://github.com/Trollaattori/Noiseblade/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/Trollaattori/Noiseblade/master?style=flat-square&label=)](https://github.com/Trollaattori/Noiseblade/graphs/code-frequency)|
@@ -107,7 +108,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Phasing [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[phaserotate.lv2](https://github.com/x42/phaserotate.lv2#readme)|A simple plugin with a single control-slider to shift the phase of the signal ± 180 deg|[![](https://img.shields.io/github/languages/top/x42/phaserotate.lv2?color=pink&style=flat-square)](https://github.com/x42/phaserotate.lv2/graphs/contributors)|[![](https://flat.badgen.net/github/license/x42/phaserotate.lv2?label=)](https://github.com/x42/phaserotate.lv2/blob/master/COPYING)|[![](https://img.shields.io/github/last-commit/x42/phaserotate.lv2?style=flat-square&label=)](https://github.com/x42/phaserotate.lv2/graphs/code-frequency)|
 |[Phase Rotation Experiment](https://github.com/hgroenenboom/Phase-rotation-experiment#readme)|An experimental audio visualization app designed to enhance understanding of the relationship between phase and waveforms|[![](https://img.shields.io/github/languages/top/hgroenenboom/Phase-rotation-experiment?color=pink&style=flat-square)](https://github.com/hgroenenboom/Phase-rotation-experiment/graphs/contributors)|[![](https://flat.badgen.net/github/license/hgroenenboom/Phase-rotation-experiment?label=)](https://github.com/hgroenenboom/Phase-rotation-experiment/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/hgroenenboom/Phase-rotation-experiment?style=flat-square&label=)](https://github.com/hgroenenboom/Phase-rotation-experiment/graphs/code-frequency)|
@@ -120,7 +121,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Pitch Shifting [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[stftPitchShift](https://github.com/jurihock/stftPitchShift#readme)|STFT based real-time pitch and timbre shifting|[![](https://img.shields.io/github/languages/top/jurihock/stftPitchShift?color=pink&style=flat-square)](https://github.com/jurihock/stftPitchShift/graphs/contributors)|[![](https://flat.badgen.net/github/license/jurihock/stftPitchShift?label=)](https://github.com/jurihock/stftPitchShift/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/jurihock/stftPitchShift?style=flat-square&label=)](https://github.com/jurihock/stftPitchShift/graphs/code-frequency)|
 |[pitch_shifter](https://github.com/logic-finder/pitch_shifter#readme)|A simple program provides two functions: (1) pitch shifter (2) time stretcher|[![](https://img.shields.io/github/languages/top/logic-finder/pitch_shifter?color=pink&style=flat-square)](https://github.com/logic-finder/pitch_shifter/graphs/contributors)|[![](https://flat.badgen.net/github/license/logic-finder/pitch_shifter?label=)](https://github.com/logic-finder/pitch_shifter/issues/2)|[![](https://img.shields.io/github/last-commit/logic-finder/pitch_shifter?style=flat-square&label=)](https://github.com/logic-finder/pitch_shifter/graphs/code-frequency)|
@@ -132,7 +133,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Resampling [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[ReSampler](https://github.com/jniemann66/ReSampler#readme)|High quality command-line audio sample rate converter|[![](https://img.shields.io/github/languages/top/jniemann66/ReSampler?color=pink&style=flat-square)](https://github.com/jniemann66/ReSampler/graphs/contributors)|[![](https://flat.badgen.net/github/license/jniemann66/ReSampler?label=)](https://github.com/jniemann66/ReSampler/blob/master/License.txt)|[![](https://img.shields.io/github/last-commit/jniemann66/ReSampler/master?style=flat-square&label=)](https://github.com/jniemann66/ReSampler/graphs/code-frequency)|
 |[resampler](https://github.com/cpuimage/resampler#readme)|A Simple and Efficient Audio Resampler Implementation in C|[![](https://img.shields.io/github/languages/top/cpuimage/resampler?color=pink&style=flat-square)](https://github.com/cpuimage/resampler/graphs/contributors)|[![](https://flat.badgen.net/github/license/cpuimage/resampler?label=)](https://github.com/cpuimage/resampler/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/cpuimage/resampler/master?style=flat-square&label=)](https://github.com/cpuimage/resampler/graphs/code-frequency)|
@@ -148,7 +149,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Restoring [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[The Postfish](https://github.com/ePirat/Postfish#readme)|A digital audio post-processing, restoration, filtering and mixdown tool|[![](https://img.shields.io/github/languages/top/ePirat/Postfish?color=pink&style=flat-square)](https://github.com/ePirat/Postfish/graphs/contributors)|[![](https://flat.badgen.net/github/license/ePirat/Postfish?label=)](https://github.com/ePirat/Postfish/blob/main/COPYING)|[![](https://img.shields.io/github/last-commit/ePirat/Postfish/main?style=flat-square&label=)](https://github.com/ePirat/Postfish/graphs/code-frequency)|
 |[GPU-Declicker-UWP](https://github.com/DmitriiKh/GPU-Declicker-UWP#readme)|Automatically finds and repairs damaged samples (clicks, pops, bit rots) in audio files|[![](https://img.shields.io/github/languages/top/DmitriiKh/GPU-Declicker-UWP?color=pink&style=flat-square)](https://github.com/DmitriiKh/GPU-Declicker-UWP/graphs/contributors)|[![](https://flat.badgen.net/github/license/DmitriiKh/GPU-Declicker-UWP?label=)](https://github.com/DmitriiKh/GPU-Declicker-UWP/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/DmitriiKh/GPU-Declicker-UWP/master?style=flat-square&label=)](https://github.com/DmitriiKh/GPU-Declicker-UWP/graphs/code-frequency)|
@@ -170,7 +171,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Digital Room Correction [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[MultiSweep](https://github.com/fshstk/multisweep#readme)|Multi-channel sweep-based room correction VST|[![](https://img.shields.io/github/languages/top/fshstk/multisweep?color=pink&style=flat-square)](https://github.com/fshstk/multisweep/graphs/contributors)|[![](https://flat.badgen.net/github/license/fshstk/multisweep?label=)](https://github.com/fshstk/multisweep/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/fshstk/multisweep?style=flat-square&label=)](https://github.com/fshstk/multisweep/graphs/code-frequency)|
 |[room_correction](https://github.com/metaphaseaudio/room_correction#readme)|Room correction plug-in and stand-alone application|[![](https://img.shields.io/github/languages/top/metaphaseaudio/room_correction?color=pink&style=flat-square)](https://github.com/metaphaseaudio/room_correction/graphs/contributors)|[![](https://flat.badgen.net/github/license/metaphaseaudio/room_correction?label=)](https://github.com/metaphaseaudio/room_correction/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/metaphaseaudio/room_correction?style=flat-square&label=)](https://github.com/metaphaseaudio/room_correction/graphs/code-frequency)|
