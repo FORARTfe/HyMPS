@@ -1,8 +1,9 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#-1 "AUDIO section") [![Programming](https://flat.badgen.net/badge/HyMPS/Programming/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Programming.md#-- "Programming page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
-|Resource|Short description|Language|License|Last commit|
+ |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Gwion](https://github.com/Gwion/Gwion#readme)|A strongly-timed musical programming language|[![](https://img.shields.io/github/languages/top/Gwion/Gwion?color=pink&style=flat-square)](https://github.com/Gwion/Gwion/graphs/contributors)|[![](https://flat.badgen.net/github/license/Gwion/Gwion?label=)](https://github.com/Gwion/Gwion/blob/master/License.txt)|[![](https://img.shields.io/github/last-commit/Gwion/Gwion?style=flat-square&label=)](https://github.com/Gwion/Gwion/graphs/code-frequency)|
 |[csound](https://github.com/csound/csound#readme)|A sound and music computing system that has its roots in the earliest of computer software, the MUSIC-N series|[![](https://img.shields.io/github/languages/top/csound/csound?color=pink&style=flat-square)](https://github.com/csound/csound/graphs/contributors)|[![](https://flat.badgen.net/github/license/csound/csound?label=)](https://github.com/csound/csound/blob/develop/COPYING)|[![](https://img.shields.io/github/last-commit/csound/csound?style=flat-square&label=)](https://github.com/csound/csound/graphs/code-frequency)|
