@@ -134,12 +134,7 @@
 - https://github.com/IgorKhramtsov/DeEsser
 - https://github.com/erdewit/HiFiScan
 - https://github.com/Mastering-Python-GT/Audio_Enhancement
-- https://github.com/dsgiitr/Audio-Super-Resolution
 - https://github.com/djshaji/amp-rack
-- https://github.com/IAHispano/Audio-Upscaler
-- https://github.com/haoheliu/versatile_audio_super_resolution/
-- https://github.com/flysofast/AudioSuperResolution
-- https://github.com/vipul2001/Audio-Super-Resolution
 - https://github.com/leslieam/audio-quality
 - https://github.com/Snig17/A-U-NET-Based-Audio-Denoiser
 - https://github.com/ashutoshc8101/audio-quality-assessment
@@ -147,12 +142,10 @@
 - https://github.com/leokwu/AudioAppraiseNet
 - https://github.com/Gabeiscool420/AURAL_GAN-predictive_model
 - https://github.com/Sumitkum-74/Audio-processing
-- https://github.com/ml-dev-world/sonic-superresolution
 - https://github.com/a-n-rose/Python-Sound-Tool
 - https://github.com/N-HANS/N-HANS
 - https://github.com/sinshu/freeverb
 - https://github.com/jniemann66/ReSampler
-- https://github.com/saswatpp/Audio-Super-Resolution
 - https://github.com/pinae/Audiosyncer
 - https://github.com/asteroid-team/torch-audiomentations
 - https://github.com/vbelz/Speech-enhancement
@@ -170,3 +163,4 @@
 - https://github.com/jlopezestrada/AI-Stem-Splitter
 - https://github.com/dl4am/tutorial
 - https://github.com/Arpit-Bajgoti/GAN-based-Audio-Denoising
+- https://github.com/spectralBen/Deep_Audio_Denoising
