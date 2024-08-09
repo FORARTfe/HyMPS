@@ -1,11 +1,12 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO resources") [![Visualization / Analysis](https://flat.badgen.net/badge/HyMPS/Visualization-Analysis/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Visualysis.md#-- "Visualization/Analysis page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### [Analysis](#analysis-) - [Fingerprinting](#fingerprinting-) - [Visualization](#visualization-) - [Metering](#metering-) - [Spectrum](#spectrum-) - [Annotation](#annotation-)
+### 📁 [Analysis](#analysis-) - [Fingerprinting](#fingerprinting-) - [Visualization](#visualization-) - [Metering](#metering-) - [Spectrum](#spectrum-) - [Annotation](#annotation-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
 ### Analysis [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[audavillage](https://github.com/zh-qs/audavillage#readme)|Audio signal analysis application|[![](https://img.shields.io/github/languages/top/zh-qs/audavillage?color=pink&style=flat-square)](https://github.com/zh-qs/audavillage/graphs/contributors)|[![](https://flat.badgen.net/github/license/zh-qs/audavillage?label=)](https://github.com/zh-qs/audavillage/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/zh-qs/audavillage?style=flat-square&label=)](https://github.com/zh-qs/audavillage/graphs/code-frequency)|
 |[Spek](http://spek.cc/)|An acoustic spectrum analyser written in C++|[![](https://img.shields.io/github/languages/top/alexkay/spek?color=pink&style=flat-square)](https://github.com/alexkay/spek/graphs/contributors)|[![](https://flat.badgen.net/github/license/alexkay/spek?label=)](https://github.com/alexkay/spek/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/alexkay/spek?style=flat-square&label=)](https://github.com/alexkay/spek/graphs/code-frequency)|
@@ -22,7 +23,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Fingerprinting [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[mnemophonix](https://github.com/gurushida/mnemophonix#readme)|A simple audio fingerprinting system|[![](https://img.shields.io/github/languages/top/gurushida/mnemophonix?color=pink&style=flat-square)](https://github.com/gurushida/mnemophonix/graphs/contributors)|[![](https://flat.badgen.net/github/license/gurushida/mnemophonix?label=)](https://github.com/gurushida/mnemophonix/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/gurushida/mnemophonix?style=flat-square&label=)](https://github.com/gurushida/mnemophonix/graphs/code-frequency)|
 |[pfa](https://github.com/stdio2016/pfa#readme)|An implementation of landmark-based Audio FingerPrint|[![](https://img.shields.io/github/languages/top/stdio2016/pfa?color=pink&style=flat-square)](https://github.com/stdio2016/pfa/graphs/contributors)|[![](https://flat.badgen.net/github/license/stdio2016/pfa?label=)](https://github.com/stdio2016/pfa/issues/3)|[![](https://img.shields.io/github/last-commit/stdio2016/pfa?style=flat-square&label=)](https://github.com/stdio2016/pfa/graphs/code-frequency)|
@@ -35,7 +36,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Visualization [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[jumaudio](https://github.com/HunterWhyte/jumaudio#readme)|Simple, cross-platform audio visualization library, with built-in file playback and capture|[![](https://img.shields.io/github/languages/top/HunterWhyte/jumaudio?color=pink&style=flat-square)](https://github.com/HunterWhyte/jumaudio/graphs/contributors)|[![](https://flat.badgen.net/github/license/HunterWhyte/jumaudio?label=)](https://github.com/HunterWhyte/jumaudio/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/HunterWhyte/jumaudio?style=flat-square&label=)](https://github.com/HunterWhyte/jumaudio/graphs/code-frequency)|
 |[Libvisual](http://libvisual.org/)|Instantly transforms music into psychedelic art|[![](https://img.shields.io/github/languages/top/Libvisual/libvisual?color=pink&style=flat-square)](https://github.com/Libvisual/libvisual/graphs/contributors)|[![](https://flat.badgen.net/github/license/Libvisual/libvisual?label=)](https://github.com/Libvisual/libvisual/issues/354)|[![](https://img.shields.io/github/last-commit/Libvisual/libvisual?style=flat-square&label=)](https://github.com/Libvisual/libvisual/graphs/code-frequency)|
@@ -44,14 +45,14 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Multitrack Visualizer](https://git.tombo.sh/tom/multitrack-visualizer)|Render multitrack waveforms to video|[![](https://img.shields.io/github/languages/top/TomboFry/multitrack-visualizer?color=pink&style=flat-square)](https://github.com/TomboFry/multitrack-visualizer/graphs/contributors)|-|[![](https://img.shields.io/github/last-commit/TomboFry/multitrack-visualizer/main?style=flat-square&label=)](https://github.com/TomboFry/multitrack-visualizer/graphs/code-frequency)|
 
 ### Spectrum [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Speclet](https://github.com/JohT/speclet#readme)|VST Audio Spectrum Analyzer Plugin using Fourier- and Wavelet-Transformation|[![](https://img.shields.io/github/languages/top/JohT/speclet?color=pink&style=flat-square)](https://github.com/JohT/speclet/graphs/contributors)|[![](https://flat.badgen.net/github/license/JohT/speclet?label=)](https://github.com/JohT/speclet/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/JohT/speclet?style=flat-square&label=)](https://github.com/JohT/speclet/graphs/code-frequency)|
 |[Audio-Spectrum-Analyzer](https://github.com/MenukaJR/Audio-Spectrum-Analyzer#readme)|Real-time audio analyzer app built in C#|[![](https://img.shields.io/github/languages/top/MenukaJR/Audio-Spectrum-Analyzer?color=pink&style=flat-square)](https://github.com/MenukaJR/Audio-Spectrum-Analyzer/graphs/contributors)|[![](https://flat.badgen.net/github/license/MenukaJR/Audio-Spectrum-Analyzer?label=)](https://github.com/MenukaJR/Audio-Spectrum-Analyzer/issues/1)|[![](https://img.shields.io/github/last-commit/MenukaJR/Audio-Spectrum-Analyzer?style=flat-square&label=)](https://github.com/MenukaJR/Audio-Spectrum-Analyzer/graphs/code-frequency)|
 |[Audio Spectrum Analyzer for Android](https://github.com/bewantbe/audio-analyzer-for-android#readme)|This software shows the frequency components' magnitude distribution (called spectrum) of the sound heard by your cell phone|[![](https://img.shields.io/github/languages/top/bewantbe/audio-analyzer-for-android?color=pink&style=flat-square)](https://github.com/bewantbe/audio-analyzer-for-android/graphs/contributors)|[![](https://flat.badgen.net/github/license/bewantbe/audio-analyzer-for-android?label=)](https://github.com/bewantbe/audio-analyzer-for-android/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/bewantbe/audio-analyzer-for-android?style=flat-square&label=)](https://github.com/bewantbe/audio-analyzer-for-android/graphs/code-frequency)|
 
 ### Metering [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[LUFSMeter](https://github.com/klangfreund/LUFSMeter#readme)|Loudness of audio measurement implementation according to [ITU BS.1770](https://www.itu.int/rec/R-REC-BS.1770/en), [EBU R128](https://tech.ebu.ch/publications/r128) and other international loudness standards|[![](https://img.shields.io/github/languages/top/klangfreund/LUFSMeter?color=pink&style=flat-square)](https://github.com/klangfreund/LUFSMeter/graphs/contributors)|[![](https://flat.badgen.net/github/license/klangfreund/LUFSMeter?label=)](https://github.com/klangfreund/LUFSMeter/issues/10)|[![](https://img.shields.io/github/last-commit/klangfreund/LUFSMeter?style=flat-square&label=)](https://github.com/klangfreund/LUFSMeter/graphs/code-frequency)|
 |[pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm)|Flexible audio loudness meter in Python with implementation of [ITU-R BS.1770-4](https://www.itu.int/rec/R-REC-BS.1770/en) loudness algorithm|[![](https://img.shields.io/github/languages/top/csteinmetz1/pyloudnorm?color=pink&style=flat-square)](https://github.com/csteinmetz1/pyloudnorm/graphs/contributors)|[![](https://flat.badgen.net/github/license/csteinmetz1/pyloudnorm?label=)](https://github.com/csteinmetz1/pyloudnorm/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/csteinmetz1/pyloudnorm?style=flat-square&label=)](https://github.com/csteinmetz1/pyloudnorm/graphs/code-frequency)|
@@ -59,7 +60,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Annotation [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[aubio](https://aubio.org/)|A tool designed for the extraction of annotations from audio signals|[![](https://img.shields.io/github/languages/top/aubio/aubio?color=pink&style=flat-square)](https://github.com/aubio/aubio/graphs/contributors)|[![](https://flat.badgen.net/github/license/aubio/aubio?label=)](https://github.com/aubio/aubio/blob/master/COPYING)|[![](https://img.shields.io/github/last-commit/aubio/aubio?style=flat-square&label=)](https://github.com/aubio/aubio/graphs/code-frequency)|
 
