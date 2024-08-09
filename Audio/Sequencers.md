@@ -1,11 +1,12 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![Sequencers](https://flat.badgen.net/badge/HyMPS/Sequencers/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Sequencers.md#-- "Sequencers page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### [Audio](#audio-) - [MIDI](#midi-) - [Web](#web-) - [Other](#other-)
+### 📁 [Audio](#audio-) - [MIDI](#midi-) - [Web](#web-) - [Other](#other-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
 ### Audio [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[gsequencer](https://github.com/gsequencer/gsequencer#readme)|Advanced [Gtk+](https://www.gtk.org/) Sequencer|[![](https://img.shields.io/github/languages/top/gsequencer/gsequencer?color=pink&style=flat-square)](https://github.com/gsequencer/gsequencer/graphs/contributors)|[![](https://flat.badgen.net/github/license/gsequencer/gsequencer?label=)](https://github.com/gsequencer/gsequencer/blob/master/COPYING)|[![](https://img.shields.io/github/last-commit/gsequencer/gsequencer?style=flat-square&label=)](https://github.com/gsequencer/gsequencer/graphs/code-frequency)|
 |[Music Sequencer](https://github.com/M1roQ/Music-Sequencer-----Project-C#readme)|A music sequencer that converts a text file describing a musical composition into a .wav format audio file|[![](https://img.shields.io/github/languages/top/M1roQ/Music-Sequencer-----Project-C?color=pink&style=flat-square)](https://github.com/M1roQ/Music-Sequencer-----Project-C/graphs/contributors)|[![](https://flat.badgen.net/github/license/M1roQ/Music-Sequencer-----Project-C?label=)](https://github.com/M1roQ/Music-Sequencer-----Project-C/issues/1)|[![](https://img.shields.io/github/last-commit/M1roQ/Music-Sequencer-----Project-C?style=flat-square&label=)](https://github.com/M1roQ/Music-Sequencer-----Project-C/graphs/code-frequency)|
@@ -18,7 +19,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[SequencerApp](https://github.com/SuperFlyingMonkey/SequencerApp#readme)|Audio sequencer and recorder for android|[![](https://img.shields.io/github/languages/top/SuperFlyingMonkey/SequencerApp?color=pink&style=flat-square)](https://github.com/SuperFlyingMonkey/SequencerApp/graphs/contributors)|[![](https://flat.badgen.net/github/license/SuperFlyingMonkey/SequencerApp?label=)](https://github.com/SuperFlyingMonkey/SequencerApp/issues/1)|[![](https://img.shields.io/github/last-commit/SuperFlyingMonkey/SequencerApp?style=flat-square&label=)](https://github.com/SuperFlyingMonkey/SequencerApp/graphs/code-frequency)|
 
 ### MIDI [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Polymeter](https://github.com/victimofleisure/Polymeter#readme)|A MIDI sequencer for music that's in multiple prime meters (1, 2, 3, 5, 7, 11, etc.) simultaneously|[![](https://img.shields.io/github/languages/top/victimofleisure/Polymeter?color=pink&style=flat-square)](https://github.com/victimofleisure/Polymeter/graphs/contributors)|[![](https://flat.badgen.net/github/license/victimofleisure/Polymeter?label=)](https://github.com/victimofleisure/Polymeter/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/victimofleisure/Polymeter?style=flat-square&label=)](https://github.com/victimofleisure/Polymeter/graphs/code-frequency)|
 |[Rosegarden](https://github.com/tedfelix/rosegarden-official#readme)|MIDI Sequencer for Linux|[![](https://img.shields.io/github/languages/top/tedfelix/rosegarden-official?color=pink&style=flat-square)](https://github.com/tedfelix/rosegarden-official/graphs/contributors)|[![](https://flat.badgen.net/github/license/tedfelix/rosegarden-official?label=)](https://github.com/tedfelix/rosegarden-official/blob/master/COPYING)|[![](https://img.shields.io/github/last-commit/tedfelix/rosegarden-official?style=flat-square&label=)](https://github.com/tedfelix/rosegarden-official/graphs/code-frequency)|
@@ -36,7 +37,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[SQ1](https://github.com/operatortwo/SQ1#readme)|An early version of a pattern-based MIDI sequencer|[![](https://img.shields.io/github/languages/top/operatortwo/SQ1?color=pink&style=flat-square)](https://github.com/operatortwo/SQ1/graphs/contributors)|[![](https://flat.badgen.net/github/license/operatortwo/SQ1?label=)](https://github.com/operatortwo/SQ1/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/operatortwo/SQ1?style=flat-square&label=)](https://github.com/operatortwo/SQ1/graphs/code-frequency)|
 
 ### Web [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Probabilistic MIDI Sequencer](https://github.com/jeffgord/probabilistic-midi-sequencer#readme)|16 step MIDI sequencer that offers probabilistic MIDI control|[![](https://img.shields.io/github/languages/top/jeffgord/probabilistic-midi-sequencer?color=pink&style=flat-square)](https://github.com/jeffgord/probabilistic-midi-sequencer/graphs/contributors)|[![](https://flat.badgen.net/github/license/jeffgord/probabilistic-midi-sequencer?label=)](https://github.com/jeffgord/probabilistic-midi-sequencer/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/jeffgord/probabilistic-midi-sequencer?style=flat-square&label=)](https://github.com/jeffgord/probabilistic-midi-sequencer/graphs/code-frequency)|
 |[Q](https://github.com/bocasfx/Q#readme)|A Nodular Sequencer controlled by the interactions between nodes and particle streams|[![](https://img.shields.io/github/languages/top/bocasfx/Q?color=pink&style=flat-square)](https://github.com/bocasfx/Q/graphs/contributors)|[![](https://flat.badgen.net/github/license/bocasfx/Q?label=)](https://github.com/bocasfx/Q/blob/main/LICENSE.txt)|[![](https://img.shields.io/github/last-commit/bocasfx/Q?style=flat-square&label=)](https://github.com/bocasfx/Q/graphs/code-frequency)|
@@ -45,7 +46,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[fuquencer](https://github.com/stasoft91/fuquencer#readme)|Web audio groovebox for music enthusiasts|[![](https://img.shields.io/github/languages/top/stasoft91/fuquencer?color=pink&style=flat-square)](https://github.com/stasoft91/fuquencer/graphs/contributors)|[![](https://flat.badgen.net/github/license/stasoft91/fuquencer?label=)](https://github.com/stasoft91/fuquencer/issues/1)|[![](https://img.shields.io/github/last-commit/stasoft91/fuquencer?style=flat-square&label=)](https://github.com/stasoft91/fuquencer/graphs/code-frequency)|
 
 ### Other [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Organya Twei](https://github.com/shbow/organya#readme)|A music sequencer using DirectX and which is not depend on MIDI device|[![](https://img.shields.io/github/languages/top/shbow/organya?color=pink&style=flat-square)](https://github.com/shbow/organya/graphs/contributors)|[![](https://flat.badgen.net/github/license/shbow/organya?label=)](https://github.com/shbow/organya/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/shbow/organya?style=flat-square&label=)](https://github.com/shbow/organya/graphs/code-frequency)|
 |[ossia score](https://github.com/ossia/score#readme)|A sequencer for audio-visual artists, designed to create interactive shows|[![](https://img.shields.io/github/languages/top/ossia/score?color=pink&style=flat-square)](https://github.com/ossia/score/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/ossia/score/blob/master/LICENSE.txt)|[![](https://img.shields.io/github/last-commit/ossia/score?style=flat-square&label=)](https://github.com/ossia/score/graphs/code-frequency)|
