@@ -2,7 +2,8 @@
 
 ### [Generic](#generic-) - [Browser-based](#browser-based-) - [Dedicated](#dedicated-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$
 
 ### Generic [⌂](#--)
 |Repository|Short description|Language|License|Last commit|
