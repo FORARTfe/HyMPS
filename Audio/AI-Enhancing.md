@@ -2,7 +2,8 @@
 
 ### 🗂️ [Denoisers](#denoisers-) - [Upscalers](#upscalers-) - [Speech](#speech-) - [Others](#others-) 
 
-⚠️ $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$
 
 ### Denoisers [⌂](#---) 
 |Repository|Short description|Language|License|Last commit|
