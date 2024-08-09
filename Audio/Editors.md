@@ -1,7 +1,9 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![Editors](https://flat.badgen.net/badge/HyMPS/Editors/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Editors.md#-- "Editors page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
 ### [Generic](#generic-) - [Audacity-based](#audacity-based-) - [Loopers](#loopers-)
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
+
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$
 
 ### Generic [⌂](#--)
 |Repository|Short description|Language|License|Last commit|
