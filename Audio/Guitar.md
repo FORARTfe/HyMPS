@@ -6,7 +6,7 @@
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
 ### Amp Sims [⌂](#---) 
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[ayeMux](https://github.com/FORARTfe/ayemux#readme)|A program that patches LADSPA audio plugins using Jack to create a real time audio fx system similar to Guitar Rig|[![](https://img.shields.io/github/languages/top/FORARTfe/ayemux?color=pink&style=flat-square)](https://github.com/FORARTfe/ayemux/graphs/contributors)|[![](https://flat.badgen.net/github/license/FORARTfe/ayemux?label=)](https://github.com/FORARTfe/ayemux/blob/master/LICENSE)|[![](https://flat.badgen.net/static/status/Archived/624711?label=)](https://github.com/FORARTfe/ayemux/graphs/code-frequency)|
 |[FatFrog.lv2](https://github.com/brummer10/FatFrog.lv2#readme)|High Gain Amplifier|[![](https://img.shields.io/github/languages/top/brummer10/FatFrog.lv2?color=pink&style=flat-square)](https://github.com/brummer10/FatFrog.lv2/graphs/contributors)|[![](https://flat.badgen.net/github/license/brummer10/FatFrog.lv2?label=)](https://github.com/brummer10/FatFrog.lv2/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/brummer10/FatFrog.lv2?style=flat-square&label=)](https://github.com/brummer10/FatFrog.lv2/graphs/code-frequency)|
@@ -29,7 +29,7 @@
 
 
 ### DSPs [⌂](#---)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[HighGain](https://github.com/kaktus3000/HighGain#readme)|Guitar effects dsp library|[![](https://img.shields.io/github/languages/top/kaktus3000/HighGain?color=pink&style=flat-square)](https://github.com/kaktus3000/HighGain/graphs/contributors)|[![](https://flat.badgen.net/github/license/kaktus3000/HighGain?label=)](https://github.com/kaktus3000/HighGain/blob/master/LICENSE.md)|[![](https://img.shields.io/github/last-commit/kaktus3000/HighGain?style=flat-square&label=)](https://github.com/kaktus3000/HighGain/graphs/code-frequency)|
 |[ayemux](https://github.com/tobiasdemaine/ayemux#readme)|A midi controllable guitar multi fx for linux|[![](https://img.shields.io/github/languages/top/tobiasdemaine/ayemux?color=pink&style=flat-square)](https://github.com/tobiasdemaine/ayemux/graphs/contributors)|[![](https://flat.badgen.net/github/license/tobiasdemaine/ayemux?label=)](https://github.com/tobiasdemaine/ayemux/issues/2)|[![](https://img.shields.io/github/last-commit/tobiasdemaine/ayemux?style=flat-square&label=)](https://github.com/tobiasdemaine/ayemux/graphs/code-frequency)|
@@ -43,7 +43,7 @@
 
 
 ### Tuning [⌂](#---)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[FastTune](https://github.com/FastTune/FastTune#readme)|An AI tuner for guitar, ukulele, bass, banjo, mandolin, violin and etc|[![](https://img.shields.io/github/languages/top/FastTune/FastTune?color=pink&style=flat-square)](https://github.com/FastTune/FastTune/graphs/contributors)|[![](https://flat.badgen.net/github/license/FastTune/FastTune?label=)](https://github.com/FastTune/FastTune/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/FastTune/FastTune?style=flat-square&label=)](https://github.com/FastTune/FastTune/graphs/code-frequency)|
 |[iOS-Guitar-Tuner](https://github.com/catch-twenty-two/iOS-Guitar-Tuner#readme)|Open Source iOS Guitar Tuner|[![](https://img.shields.io/github/languages/top/catch-twenty-two/iOS-Guitar-Tuner?color=pink&style=flat-square)](https://github.com/catch-twenty-two/iOS-Guitar-Tuner/graphs/contributors)|[![](https://flat.badgen.net/github/license/catch-twenty-two/iOS-Guitar-Tuner?label=)](https://github.com/catch-twenty-two/iOS-Guitar-Tuner/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/catch-twenty-two/iOS-Guitar-Tuner?style=flat-square&label=)](https://github.com/catch-twenty-two/iOS-Guitar-Tuner/graphs/code-frequency)|
@@ -52,7 +52,7 @@
 
 
 ### Impulse response [⌂](#---)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Impulse Response Measurement](https://github.com/AkiyukiOkayasu/ImpulseResponseMeasurement#readme)|Impulse response(IR) measurement software|[![](https://img.shields.io/github/languages/top/AkiyukiOkayasu/ImpulseResponseMeasurement?color=pink&style=flat-square)](https://github.com/AkiyukiOkayasu/ImpulseResponseMeasurement/graphs/contributors)|[![](https://flat.badgen.net/github/license/AkiyukiOkayasu/ImpulseResponseMeasurement?label=)](https://github.com/AkiyukiOkayasu/ImpulseResponseMeasurement/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/AkiyukiOkayasu/ImpulseResponseMeasurement/master?style=flat-square&label=)](https://github.com/AkiyukiOkayasu/ImpulseResponseMeasurement/graphs/code-frequency)|
 |[Neural Cab](https://github.com/Thiagohgl/neural-cab-audio-plugin#readme)|A FIR guitar cabinet simulator which generates its transfer functions by means of a Variational Auto-Encoder (VAE) trained with an additional adversarial loss and a very simple Boundary Element Method (BEM) simulation to consider the microphone position|[![](https://img.shields.io/github/languages/top/Thiagohgl/neural-cab-audio-plugin?color=pink&style=flat-square)](https://github.com/Thiagohgl/neural-cab-audio-plugin/graphs/contributors)|[![](https://flat.badgen.net/github/license/Thiagohgl/neural-cab-audio-plugin?label=)](https://github.com/Thiagohgl/neural-cab-audio-plugin/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/Thiagohgl/neural-cab-audio-plugin/main?style=flat-square&label=)](https://github.com/Thiagohgl/neural-cab-audio-plugin/graphs/code-frequency)|
@@ -68,7 +68,7 @@
 
 
 ### Libraries [⌂](#---)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AmpModellingLib](https://github.com/NIXXAMPS/AmpModellingLib#readme)|C++ library for use to model guitar amps|[![](https://img.shields.io/github/languages/top/NIXXAMPS/AmpModellingLib?color=pink&style=flat-square)](https://github.com/NIXXAMPS/AmpModellingLib/graphs/contributors)|[![](https://flat.badgen.net/github/license/NIXXAMPS/AmpModellingLib?label=)](https://github.com/NIXXAMPS/AmpModellingLib/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/NIXXAMPS/AmpModellingLib?style=flat-square&label=)](https://github.com/NIXXAMPS/AmpModellingLib/graphs/code-frequency)|
 |[Midi Guitar](https://github.com/seansund/midi-guitar#readme)|Library and simple driver for processing midi events generated by a guitar|[![](https://img.shields.io/github/languages/top/seansund/midi-guitar?color=pink&style=flat-square)](https://github.com/seansund/midi-guitar/graphs/contributors)|[![](https://flat.badgen.net/github/license/seansund/midi-guitar?label=)](https://github.com/seansund/midi-guitar/issues/19)|[![](https://img.shields.io/github/last-commit/seansund/midi-guitar?style=flat-square&label=)](https://github.com/seansund/midi-guitar/graphs/code-frequency)|
