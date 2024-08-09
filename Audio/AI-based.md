@@ -2,7 +2,8 @@
 
 ### 🗂️ [Voices](#voices-) - [Guitars](#guitars-) - [Bass](#bass-) - [Drums](#drums-) - [Effects](#effects-) - [MIDI](#midi-) - [Mixing](#mixing-) - [Enhancing](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-Enhancing.md#---) - [Fingerprinting](#fingerprinting-) - [Separating](#separating-) - [Watermarking](#watermarking-) - [Codecs](#codecs-) - [Transcripting](#transcripting-) - [Misc](#misc-)
 
-⚠️ $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$
 
 ### Voices [⌂](#--)
 |Repository|Short description|Language|License|Last commit|
