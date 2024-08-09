@@ -1,10 +1,12 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![Libraries](https://flat.badgen.net/badge/HyMPS/Libraries/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Libraries.md#-- "Libraries page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
-### [Codecs](#codecs-) - [Plugins](#plugins-) - [IO](#io-) - [Handling](#handling-) - [Decoding](#decoding-) - [Misc](#misc-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
+### 📁 [Codecs](#codecs-) - [Plugins](#plugins-) - [IO](#io-) - [Handling](#handling-) - [Decoding](#decoding-) - [Misc](#misc-)
+
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
 ### Codecs [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[libttaR](https://github.com/stseelig/libttaR#readme)|Tau's True Audio (TTA) codec rewrite|[![](https://img.shields.io/github/languages/top/stseelig/libttaR?color=pink&style=flat-square)](https://github.com/stseelig/libttaR/graphs/contributors)|[![](https://flat.badgen.net/github/license/stseelig/libttaR?label=)](https://github.com/stseelig/libttaR/blob/master/LICENSE.GPL3)|[![](https://img.shields.io/github/last-commit/stseelig/libttaR?style=flat-square&label=)](https://github.com/stseelig/libttaR/graphs/code-frequency)|
 |[QOA](https://github.com/phoboslab/qoa#readme)|The “Quite OK Audio Format” for fast, lossy audio compression|[![](https://img.shields.io/github/languages/top/phoboslab/qoa?color=pink&style=flat-square)](https://github.com/phoboslab/qoa/graphs/contributors)|[![](https://flat.badgen.net/github/license/phoboslab/qoa?label=)](https://github.com/phoboslab/qoa/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/phoboslab/qoa?style=flat-square&label=)](https://github.com/phoboslab/qoa/graphs/code-frequency)|
@@ -15,7 +17,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### Plugins [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[iPlug 2](https://github.com/iPlug2/iPlug2#readme)|A simple-to-use C++ framework for developing cross platform audio plug-ins/apps and targeting multiple plug-in APIs with the same minimalistic code|[![](https://img.shields.io/github/languages/top/iPlug2/iPlug2?color=pink&style=flat-square)](https://github.com/iPlug2/iPlug2/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/iPlug2/iPlug2/blob/master/LICENSE.txt)|[![](https://img.shields.io/github/last-commit/iPlug2/iPlug2?style=flat-square&label=)](https://github.com/iPlug2/iPlug2/graphs/code-frequency)|
 |[DPF - DISTRHO Plugin Framework](https://github.com/DISTRHO/DPF#readme)|Allows developers to create plugins with custom UIs using a simple C++ API|[![](https://img.shields.io/github/languages/top/DISTRHO/DPF?color=pink&style=flat-square)](https://github.com/DISTRHO/DPF/graphs/contributors)|[![](https://flat.badgen.net/github/license/DISTRHO/DPF?label=)](https://github.com/DISTRHO/DPF/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/DISTRHO/DPF?style=flat-square&label=)](https://github.com/DISTRHO/DPF/graphs/code-frequency)|
@@ -23,7 +25,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 
 
 ### IO [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[MINIAUDIO](https://github.com/mackron/miniaudio#readme)|Single file audio playback and capture library written in C|[![](https://img.shields.io/github/languages/top/mackron/miniaudio?color=pink&style=flat-square)](https://github.com/mackron/miniaudio/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/mackron/miniaudio/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/mackron/miniaudio?style=flat-square&label=)](https://github.com/mackron/miniaudio/graphs/code-frequency)|
 |[HephAudio](https://github.com/ozguronsoy/HephAudio#readme)|A cross-platform C++ library for recording, playing, and processing audio|[![](https://img.shields.io/github/languages/top/ozguronsoy/HephAudio?color=pink&style=flat-square)](https://github.com/ozguronsoy/HephAudio/graphs/contributors)|[![](https://flat.badgen.net/github/license/ozguronsoy/HephAudio?label=)](https://github.com/ozguronsoy/HephAudio/blob/master/LICENSE.md)|[![](https://img.shields.io/github/last-commit/ozguronsoy/HephAudio?style=flat-square&label=)](https://github.com/ozguronsoy/HephAudio/graphs/code-frequency)|
@@ -34,7 +36,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Oto](https://github.com/hajimehoshi/oto#readme)|A low-level library to play sound on multiple platforms|[![](https://img.shields.io/github/languages/top/hajimehoshi/oto?color=pink&style=flat-square)](https://github.com/hajimehoshi/oto/graphs/contributors)|[![](https://flat.badgen.net/github/license/hajimehoshi/oto?label=)](https://github.com/ebitengine/oto/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/hajimehoshi/oto?style=flat-square&label=)](https://github.com/hajimehoshi/oto/graphs/code-frequency)|
 
 ### Handling [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[Gavl](https://github.com/bplaum/gavl#readme)|A library for handling uncompressed audio- and video data|[![](https://img.shields.io/github/languages/top/bplaum/gavl?color=pink&style=flat-square)](https://github.com/bplaum/gavl/graphs/contributors)|[![](https://flat.badgen.net/github/license/bplaum/gavl?label=)](https://github.com/bplaum/gavl/blob/main/COPYING)|[![](https://img.shields.io/github/last-commit/bplaum/gavl/main?style=flat-square&label=)](https://github.com/bplaum/gavl/graphs/code-frequency)|
 |[sound_lib](https://github.com/aswin-aach/sound_lib#readme)|A library for manipulating PCM audio samples|[![](https://img.shields.io/github/languages/top/aswin-aach/sound_lib?color=pink&style=flat-square)](https://github.com/aswin-aach/sound_lib/graphs/contributors)|[![](https://flat.badgen.net/github/license/aswin-aach/sound_lib?label=)](https://github.com/aswin-aach/sound_lib/issues/4)|[![](https://img.shields.io/github/last-commit/aswin-aach/sound_lib?style=flat-square&label=)](https://github.com/aswin-aach/sound_lib/graphs/code-frequency)|
@@ -43,7 +45,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[ProteaAudio](https://github.com/csabahruska/proteaaudio#readme)|Simple audio library for Windows, Linux, OSX|[![](https://img.shields.io/github/languages/top/csabahruska/proteaaudio?color=pink&style=flat-square)](https://github.com/csabahruska/proteaaudio/graphs/contributors)|[![](https://flat.badgen.net/github/license/csabahruska/proteaaudio?label=)](https://github.com/csabahruska/proteaaudio/issues/20)|[![](https://img.shields.io/github/last-commit/csabahruska/proteaaudio/master?style=flat-square&label=)](https://github.com/csabahruska/proteaaudio/graphs/code-frequency)|
 
 ### Decoding [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AudEar](https://github.com/daramkun/AudEar#readme)|Audio Decoding and Playing Library for Windows|[![](https://img.shields.io/github/languages/top/daramkun/AudEar?color=pink&style=flat-square)](https://github.com/daramkun/AudEar/graphs/contributors)|[![](https://flat.badgen.net/github/license/daramkun/AudEar?label=)](https://github.com/daramkun/AudEar/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/daramkun/AudEar/master?style=flat-square&label=)](https://github.com/daramkun/AudEar/graphs/code-frequency)|
 |[minimp3](https://github.com/lieff/minimp3#readme)|Minimalistic MP3 decoder single header library|[![](https://img.shields.io/github/languages/top/lieff/minimp3?color=pink&style=flat-square)](https://github.com/lieff/minimp3/graphs/contributors)|[![](https://flat.badgen.net/github/license/lieff/minimp3?label=)](https://github.com/lieff/minimp3/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/lieff/minimp3?style=flat-square&label=)](https://github.com/lieff/minimp3/graphs/code-frequency)|
@@ -52,7 +54,7 @@ $\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z
 |[Libnyquist](https://github.com/ddiakopoulos/libnyquist#readme)|A cross platform C++11 library for decoding audio (mp3, wav, ogg, opus, flac, etc)|[![](https://img.shields.io/github/languages/top/ddiakopoulos/libnyquist?color=pink&style=flat-square)](https://github.com/ddiakopoulos/libnyquist/graphs/contributors)|[![](https://flat.badgen.net/github/license/ddiakopoulos/libnyquist?label=)](https://github.com/ddiakopoulos/libnyquist/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/ddiakopoulos/libnyquist?style=flat-square&label=)](https://github.com/ddiakopoulos/libnyquist/graphs/code-frequency)|
 
 ### Misc [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
+|Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[librem](https://github.com/baresip/rem)|Audio and video processing media library|[![](https://img.shields.io/github/languages/top/baresip/rem?color=pink&style=flat-square)](https://github.com/baresip/rem/graphs/contributors)|[![](https://flat.badgen.net/github/license/baresip/rem?label=)](https://github.com/baresip/rem/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/baresip/rem?style=flat-square&label=)](https://github.com/baresip/rem/graphs/code-frequency)|
 |[Butterworth Filter Design](https://github.com/ruohoruotsi/Butterworth-Filter-Design#readme)|C++ classes for designing high-order Butterworth IIR & equalization filters|[![](https://img.shields.io/github/languages/top/ruohoruotsi/Butterworth-Filter-Design?color=pink&style=flat-square)](https://github.com/ruohoruotsi/Butterworth-Filter-Design/graphs/contributors)|[![](https://flat.badgen.net/github/license/ruohoruotsi/Butterworth-Filter-Design?label=)](https://github.com/ruohoruotsi/Butterworth-Filter-Design/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/ruohoruotsi/Butterworth-Filter-Design?style=flat-square&label=)](https://github.com/ruohoruotsi/Butterworth-Filter-Design/graphs/code-frequency)|
