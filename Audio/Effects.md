@@ -3,7 +3,7 @@
 ### 🗂️ [General](https://github.com/FORARTfe/HyMPS/blob/main/Audio/GeneralFX.md#---) - [Bundles](#bundles-) - [Guitar](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Guitar.md#---) - [Bass](#bass-) - [Vocals](#vocals-) - [Misc](#misc-)
 
 > [!WARNING]
-> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
 ## Bundles [⌂](#--)
 |Repository|Short description|Language|License|Last commit|
