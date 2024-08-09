@@ -169,3 +169,4 @@
 - https://github.com/kuper0201/Piano_Transcription
 - https://github.com/jlopezestrada/AI-Stem-Splitter
 - https://github.com/dl4am/tutorial
+- https://github.com/Arpit-Bajgoti/GAN-based-Audio-Denoising
