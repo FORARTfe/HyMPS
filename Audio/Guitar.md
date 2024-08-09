@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![Effects](https://flat.badgen.net/badge/HyMPS/Effects/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Effects.md#-- "Effects page") [![Guitar](https://flat.badgen.net/badge/HyMPS/Guitar/red?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Guitar.md#--- "Guitar sub") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### 🗂️ [Amp Sims](#amp-sims-) - [DSPs](#dsps-) - [Pedals](https://github.com/FORARTfe/HyMPS/blob/main/Audio/GPedals.md#----) - [Tuning](#tuning-) - [Impulse response](#impulse-response-) - [Libraries](#libraries-)
+### 📂 [Amp Sims](#amp-sims-) - [DSPs](#dsps-) - [Pedals](https://github.com/FORARTfe/HyMPS/blob/main/Audio/GPedals.md#----) - [Tuning](#tuning-) - [Impulse response](#impulse-response-) - [Libraries](#libraries-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$
