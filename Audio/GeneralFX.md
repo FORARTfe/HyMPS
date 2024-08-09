@@ -2,7 +2,8 @@
 
 ### [Limiting](#limiting-) - [Compressing](#compressing-) - [Equalizing](#equalizing-) - [Distorting](#distorting-) - [Imaging](#imaging-) - [Other](#other-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$
 
 ### Limiting [⌂](#---)
 |Repository|Short description|Language|License|Last commit|
