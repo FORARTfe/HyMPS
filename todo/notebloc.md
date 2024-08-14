@@ -164,3 +164,7 @@
 - https://github.com/dl4am/tutorial
 - https://github.com/Arpit-Bajgoti/GAN-based-Audio-Denoising
 - https://github.com/spectralBen/Deep_Audio_Denoising
+- https://github.com/Arakula/vsthost
+- https://github.com/Chris-TopherW/UnityVSTHost
+- https://github.com/shakesbeare/vst3host
+- https://github.com/RinoReyns/CrossPlatformVstHost
