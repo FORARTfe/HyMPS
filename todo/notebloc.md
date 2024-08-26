@@ -169,3 +169,7 @@
 - https://github.com/Chris-TopherW/UnityVSTHost
 - https://github.com/shakesbeare/vst3host
 - https://github.com/RinoReyns/CrossPlatformVstHost
+- http://destroyfx.org/
+- https://github.com/kendfss/monomer
+- https://github.com/jd-13/MONSTR-Stereo-Imaging
+- 
