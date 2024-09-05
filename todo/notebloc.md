@@ -173,3 +173,8 @@
 - https://github.com/kendfss/monomer
 - https://github.com/jd-13/MONSTR-Stereo-Imaging
 - https://github.com/inpinseptipin/AuxWiden/
+- https://github.com/HarmonicHackers/PedalAI
+- https://github.com/yoongi43/music_audio_enhancement_conformer
+- https://github.com/AkuratiHemanth/Multiple_Speaker_Detection
+- https://github.com/rohitd09/Audio-Enhancement
+- 
