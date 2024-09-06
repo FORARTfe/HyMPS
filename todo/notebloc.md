@@ -177,4 +177,8 @@
 - https://github.com/yoongi43/music_audio_enhancement_conformer
 - https://github.com/AkuratiHemanth/Multiple_Speaker_Detection
 - https://github.com/rohitd09/Audio-Enhancement
-- 
+- https://github.com/mannixsquared/mix-space
+- https://github.com/csabahruska/proteaaudio
+- https://github.com/AndiMb/VirtualChoir
+- https://github.com/jatinchowdhury18/NewMixer
+- https://github.com/terinjokes/mixere
