@@ -54,10 +54,9 @@
 ### Metering [⌂](#--)
 |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[traKmeter](https://github.com/mzuther/traKmeter#readme)|Loudness meter for correctly setting up tracking and mixing levels (gain staging)|[![](https://img.shields.io/github/languages/top/mzuther/traKmeter?color=pink&style=flat-square)](https://github.com/mzuther/traKmeter/graphs/contributors)|[![](https://flat.badgen.net/github/license/mzuther/traKmeter?label=)](https://github.com/mzuther/traKmeter/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/mzuther/traKmeter?style=flat-square&label=)](https://github.com/mzuther/traKmeter/graphs/code-frequency)|
 |[LUFSMeter](https://github.com/klangfreund/LUFSMeter#readme)|Loudness of audio measurement implementation according to [ITU BS.1770](https://www.itu.int/rec/R-REC-BS.1770/en), [EBU R128](https://tech.ebu.ch/publications/r128) and other international loudness standards|[![](https://img.shields.io/github/languages/top/klangfreund/LUFSMeter?color=pink&style=flat-square)](https://github.com/klangfreund/LUFSMeter/graphs/contributors)|[![](https://flat.badgen.net/github/license/klangfreund/LUFSMeter?label=)](https://github.com/klangfreund/LUFSMeter/issues/10)|[![](https://img.shields.io/github/last-commit/klangfreund/LUFSMeter?style=flat-square&label=)](https://github.com/klangfreund/LUFSMeter/graphs/code-frequency)|
 |[pyloudnorm](https://www.christiansteinmetz.com/projects-blog/pyloudnorm)|Flexible audio loudness meter in Python with implementation of [ITU-R BS.1770-4](https://www.itu.int/rec/R-REC-BS.1770/en) loudness algorithm|[![](https://img.shields.io/github/languages/top/csteinmetz1/pyloudnorm?color=pink&style=flat-square)](https://github.com/csteinmetz1/pyloudnorm/graphs/contributors)|[![](https://flat.badgen.net/github/license/csteinmetz1/pyloudnorm?label=)](https://github.com/csteinmetz1/pyloudnorm/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/csteinmetz1/pyloudnorm?style=flat-square&label=)](https://github.com/csteinmetz1/pyloudnorm/graphs/code-frequency)|
-
-
 
 ### Annotation [⌂](#--)
 |Repository|Short description|Language|License|Last commit|
