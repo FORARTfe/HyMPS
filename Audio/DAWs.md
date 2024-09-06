@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![DAWs](https://flat.badgen.net/badge/HyMPS/DAWs/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/DAWs.md#-- "DAWs page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### 📁 [Generic](#generic-) - [Browser-based](#browser-based-) - [Dedicated](#dedicated-)
+### 📁 [Generic](#generic-) - [Browser-based](#browser-based-) - [Dedicated](#dedicated-) - [Other](#other-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
@@ -77,3 +77,8 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[LMN-3-DAW](https://github.com/FundamentalFrequency/LMN-3-DAW#readme)|DAW for the LMN-3 open source controller|[![](https://img.shields.io/github/languages/top/FundamentalFrequency/LMN-3-DAW?color=pink&style=flat-square)](https://github.com/FundamentalFrequency/LMN-3-DAW/graphs/contributors)|[![](https://flat.badgen.net/github/license/FundamentalFrequency/LMN-3-DAW?label=)](https://github.com/FundamentalFrequency/LMN-3-DAW/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/FundamentalFrequency/LMN-3-DAW?style=flat-square&label=)](https://github.com/FundamentalFrequency/LMN-3-DAW/graphs/code-frequency)|
 |[gba-daw](https://github.com/emurray2/gba-daw#readme)|DAW for the Gameboy Advance|[![](https://img.shields.io/github/languages/top/emurray2/gba-daw?color=pink&style=flat-square)](https://github.com/emurray2/gba-daw/graphs/contributors)|[![](https://flat.badgen.net/github/license/emurray2/gba-daw?label=)](https://github.com/emurray2/gba-daw/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/emurray2/gba-daw?style=flat-square&label=)](https://github.com/emurray2/gba-daw/graphs/code-frequency)|
+
+### Other [⌂](#--)
+|Repository|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[mixlab](https://github.com/haileys/mixlab#readme)|Digital audio/video workstation|[![](https://img.shields.io/github/languages/top/haileys/mixlab?color=pink&style=flat-square)](https://github.com/haileys/mixlab/graphs/contributors)|[![](https://flat.badgen.net/github/license/haileys/mixlab?label=)](https://github.com/haileys/mixlab/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/haileys/mixlab?style=flat-square&label=)](https://github.com/haileys/mixlab/graphs/code-frequency)|
