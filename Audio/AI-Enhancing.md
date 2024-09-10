@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![Effects](https://flat.badgen.net/badge/HyMPS/AI-based/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-based.md#-- "AI-based category") [![Enhancers](https://flat.badgen.net/badge/HyMPS/Enhancers/red?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-Enhancing.md#--- "Enhancers page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### 📁 [Declippers](#declippers-) - [Denoisers](#denoisers-) - [Upscalers](#upscalers-) - [Restorers](#restorers) - [Speech](#speech-) - [Others](#others-) 
+### 📁 [Declippers](#declippers-) - [Denoisers](#denoisers-) - [Dereverbers](#dereverbers-) - [Upscalers](#upscalers-) - [Restorers](#restorers) - [Speech Enhancers](#speech-enhanchers-) - [Others](#others-) 
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
@@ -19,6 +19,10 @@
 |[Audio De-noising](https://github.com/AP-Atul/Audio-Denoising#readme)|A simple yet very powerful noise remover and reducer using Wavelet Transform|[![](https://img.shields.io/github/languages/top/AP-Atul/Audio-Denoising?color=pink&style=flat-square)](https://github.com/AP-Atul/Audio-Denoising/graphs/contributors)|[![](https://flat.badgen.net/github/license/AP-Atul/Audio-Denoising?label=)](https://github.com/AP-Atul/Audio-Denoising/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/AP-Atul/Audio-Denoising/master?style=flat-square&label=)](https://github.com/AP-Atul/Audio-Denoising/graphs/code-frequency)|
 |[A-U-NET-Based-Audio-Denoiser](https://github.com/Snig17/A-U-NET-Based-Audio-Denoiser#readme)|A novel approach based on the U-Net architecture to tackle sound noise reduction efficiently|[![](https://img.shields.io/github/languages/top/Snig17/A-U-NET-Based-Audio-Denoiser?color=pink&style=flat-square)](https://github.com/Snig17/A-U-NET-Based-Audio-Denoiser/graphs/contributors)|[![](https://flat.badgen.net/github/license/Snig17/A-U-NET-Based-Audio-Denoiser?label=)](https://github.com/Snig17/A-U-NET-Based-Audio-Denoiser/issues/1)|[![](https://img.shields.io/github/last-commit/Snig17/A-U-NET-Based-Audio-Denoiser?style=flat-square&label=)](https://github.com/Snig17/A-U-NET-Based-Audio-Denoiser/graphs/code-frequency)|
 
+### Dereverbers [⌂](#---) 
+|Repository|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[Learning Audio-Visual Dereverberation](https://github.com/facebookresearch/learning-audio-visual-dereverberation#readme)|Code for "[Learning Audio-Visual Dereverberation](https://arxiv.org/abs/2106.07732)" paper|[![](https://img.shields.io/github/languages/top/facebookresearch/learning-audio-visual-dereverberation?color=pink&style=flat-square)](https://github.com/facebookresearch/learning-audio-visual-dereverberation/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/facebookresearch/learning-audio-visual-dereverberation/blob/main/LICENSE)|[![](https://flat.badgen.net/static/status/Archived/624711?label=)](https://github.com/facebookresearch/learning-audio-visual-dereverberation/graphs/code-frequency)|
 
 ### Upscalers [⌂](#---) 
 |Repository|Short description|Language|License|Last commit|
@@ -48,7 +52,7 @@
 |[Grosbeak](https://github.com/chrsep/grosbeak#readme)|Audio quality manipulation experiment using deep learning|[![](https://img.shields.io/github/languages/top/chrsep/grosbeak?color=pink&style=flat-square)](https://github.com/chrsep/grosbeak/graphs/contributors)|[![](https://flat.badgen.net/github/license/chrsep/grosbeak?label=)](https://github.com/chrsep/grosbeak/issues/1)|[![](https://img.shields.io/github/last-commit/chrsep/grosbeak?style=flat-square&label=)](https://github.com/chrsep/grosbeak/graphs/code-frequency)|
 |[NMGAN](https://github.com/glo-fi/NMGAN#readme)|A GAN designed to upsample low-quality audio|[![](https://img.shields.io/github/languages/top/glo-fi/NMGAN?color=pink&style=flat-square)](https://github.com/glo-fi/NMGAN/graphs/contributors)|[![](https://flat.badgen.net/github/license/glo-fi/NMGAN?label=)](https://github.com/glo-fi/NMGAN/issues/1)|[![](https://img.shields.io/github/last-commit/glo-fi/NMGAN?style=flat-square&label=)](https://github.com/glo-fi/NMGAN/graphs/code-frequency)|
 
-### Speech [⌂](#---) 
+### Speech Enhancers [⌂](#---) 
 |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[AURAL_GAN+predictive_model](https://github.com/Gabeiscool420/AURAL_GAN-predictive_model#readme)|Aims to transform low-quality phone recordings into professional-quality audio using a Generative Adversarial Network (GAN)|[![](https://img.shields.io/github/languages/top/Gabeiscool420/AURAL_GAN-predictive_model?color=pink&style=flat-square)](https://github.com/Gabeiscool420/AURAL_GAN-predictive_model/graphs/contributors)|[![](https://flat.badgen.net/github/license/Gabeiscool420/AURAL_GAN-predictive_model?label=)](https://github.com/Gabeiscool420/AURAL_GAN-predictive_model/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/Gabeiscool420/AURAL_GAN-predictive_model?style=flat-square&label=)](https://github.com/Gabeiscool420/AURAL_GAN-predictive_model/graphs/code-frequency)|
