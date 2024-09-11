@@ -2,7 +2,8 @@
 
 ### [Denoisers](#denoisers-) - [Frameworks](#frameworks-) - [Stabilizers](#stabilizers-) - [Collections](#collections-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
 ### Denoisers [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
