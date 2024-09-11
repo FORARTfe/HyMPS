@@ -4,7 +4,8 @@
 
 ### [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-) - [Artifacts reduction](#artifacts-reduction-) - [Colorization](#colorization-) - [Compression](#compression-) - [Stabilizers](#stabilizers-) - [Other resources](#other-resources-)
 
-$\color{orange}\textsf{\Large\&#x24D8;\kern{0.1cm}\small {SORTING: Language (a>z) > License (openness) > Resource (a>z)}}$ 
+> [!WARNING]
+> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
 ### Editing [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
