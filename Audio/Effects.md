@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![Effects](https://flat.badgen.net/badge/HyMPS/Effects/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Effects.md#-- "Effects page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### 🗂️ [General](https://github.com/FORARTfe/HyMPS/blob/main/Audio/GeneralFX.md#---) - [Bundles](#bundles-) - [Guitar](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Guitar.md#---) - [Bass](#bass-) - [Vocals](#vocals-) - [Misc](#misc-)
+### 🗂️ [General](https://github.com/FORARTfe/HyMPS/blob/main/Audio/GeneralFX.md#---) - [Bundles](#bundles-) - [Guitar](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Guitar.md#---) - [Bass](#bass-) - [Vocals](#vocals-) - [Managers](#managers-) - [Misc](#misc-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
@@ -51,6 +51,11 @@
 |[Voice-Effects](https://github.com/T1210Taichi/Voice-Effects#readme)|Create a voice changer using Processing|[![](https://img.shields.io/github/languages/top/T1210Taichi/Voice-Effects?color=pink&style=flat-square)](https://github.com/T1210Taichi/Voice-Effects/graphs/contributors)|[![](https://flat.badgen.net/github/license/T1210Taichi/Voice-Effects?label=)](https://github.com/T1210Taichi/Voice-Effects/issues/1)|[![](https://img.shields.io/github/last-commit/T1210Taichi/Voice-Effects?style=flat-square&label=)](https://github.com/T1210Taichi/Voice-Effects/graphs/code-frequency)|
 |[Noise-FIR-Filter](https://github.com/mfidaali/Noise-FIR-Filter#readme)|DSP application to filter out noise from a microphone before outputting to a speaker|[![](https://img.shields.io/github/languages/top/mfidaali/Noise-FIR-Filter?color=pink&style=flat-square)](https://github.com/mfidaali/Noise-FIR-Filter/graphs/contributors)|[![](https://flat.badgen.net/github/license/mfidaali/Noise-FIR-Filter?label=)](https://github.com/mfidaali/Noise-FIR-Filter/issues/1)|[![](https://img.shields.io/github/last-commit/mfidaali/Noise-FIR-Filter?style=flat-square&label=)](https://github.com/mfidaali/Noise-FIR-Filter/graphs/code-frequency)|
 
+## Managers [⌂](#--)
+|Repository|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[OwlPlug](https://github.com/DropSnorz/OwlPlug#readme)|Small tool to manage VST / AU / LV2 plugins on Windows, MacOS and Linux|[![](https://img.shields.io/github/languages/top/DropSnorz/OwlPlug?color=pink&style=flat-square)](https://github.com/DropSnorz/OwlPlug/graphs/contributors)|[![](https://flat.badgen.net/github/license/DropSnorz/OwlPlug?label=)](https://github.com/DropSnorz/OwlPlug/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/DropSnorz/OwlPlug?style=flat-square&label=)](https://github.com/DropSnorz/OwlPlug/graphs/code-frequency)|
+|[F-ing Simple Audio Plugin Manager](https://codeberg.org/deathroit/f-ing-simple-plugin-manager#readme)|A hassle-free, multiplatform (Windows, Linux, MacOS) VST/CLAP/LV2 plugin manager for music producers who just want things to work|[![](https://img.shields.io/badge/Python-pink?style=flat-square)](https://codeberg.org/deathroit/f-ing-simple-plugin-manager/activity/code-frequency)|[![](https://flat.badgen.net/badge/license//blue?label=)](https://codeberg.org/deathroit/f-ing-simple-plugin-manager/src/branch/master/LICENSE)|[![](https://img.shields.io/date/1730115509?color=lightgrey&style=flat-square&label=)](https://codeberg.org/deathroit/f-ing-simple-plugin-manager/activity/recent-commits)|
 
 ## Misc [⌂](#--)
 |Repository|Short description|Language|License|Last commit|
