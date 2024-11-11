@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![AI-based](https://flat.badgen.net/badge/HyMPS/AI-based%20projects/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-based.md#-- "AI-based page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-### 🗂️ [Voicings](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-Voicing.md#---) - [Guitars](#guitars-) - [Bass](#bass-) - [Drums](#drums-) - [Effects](#effects-) - [MIDI](#midi-) - [Mixing](#mixing-) - [Enhancing](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-Enhancing.md#---) - [Fingerprinting](#fingerprinting-) - [Separating](#separating-) - [Watermarking](#watermarking-) - [Codecs](#codecs-) - [Transcriptings](#transcriptings-) - [Misc](#misc-)
+### 🗂️ [Voicing](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-Voicing.md#---) - [Guitars](#guitars-) - [Bass](#bass-) - [Drums](#drums-) - [Effects](#effects-) - [MIDI](#midi-) - [Mixing](#mixing-) - [Enhancing](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-Enhancing.md#---) - [Fingerprinting](#fingerprinting-) - [Separating](#separating-) - [Watermarking](#watermarking-) - [Codecs](#codecs-) - [Transcriptings](#transcriptings-) - [Misc](#misc-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
