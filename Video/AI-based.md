@@ -127,8 +127,10 @@
 ### Upscalers [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-|[INR-Event-VSR](https://github.com/yunfanLu/INR-Event-VSR#readme)|Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution|[![](https://img.shields.io/github/languages/top/yunfanLu/INR-Event-VSR?color=pink&style=flat-square)](https://github.com/yunfanLu/INR-Event-VSR/graphs/contributors)|[![](https://flat.badgen.net/github/license/yunfanLu/INR-Event-VSR?label=)](https://github.com/yunfanLu/INR-Event-VSR/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/yunfanLu/INR-Event-VSR?style=flat-square&label=)](https://github.com/yunfanLu/INR-Event-VSR/graphs/code-frequency)|
-
+|[EvTexture](https://github.com/DachunKai/EvTexture#readme)|EvTexture: Event-driven Texture Enhancement for Video Super-Resolution|[![](https://img.shields.io/github/languages/top/dachunkai/evtexture?color=pink&style=flat-square)](https://github.com/DachunKai/EvTexture/graphs/contributors)|[![](https://flat.badgen.net/github/license/dachunkai/evtexture?label=)](https://github.com/DachunKai/EvTexture/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/dachunkai/evtexture?style=flat-square&label=)](https://github.com/DachunKai/EvTexture/graphs/code-frequency)|
+|[INR-Event-VSR](https://github.com/yunfanLu/INR-Event-VSR#readme)|Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution|[![](https://img.shields.io/github/languages/top/yunfanLu/INR-Event-VSR?color=pink&style=flat-square)](https://github.com/yunfanLu/INR-Event-VSR/graphs/contributors)|[![](https://flat.badgen.net/github/license/yunfanLu/INR-Event-VSR?label=)](https://github.com/yunfanLu/INR-Event-VSR/issues/13)|[![](https://img.shields.io/github/last-commit/yunfanLu/INR-Event-VSR?style=flat-square&label=)](https://github.com/yunfanLu/INR-Event-VSR/graphs/code-frequency)|
+|[ControlNetVSR](https://github.com/nrdyava/ControlNetVSR#readme)|Video Super-Resolution using Latent Diffusion Models|[![](https://img.shields.io/github/languages/top/nrdyava/ControlNetVSR?color=pink&style=flat-square)](https://github.com/nrdyava/ControlNetVSR/graphs/contributors)|[![](https://flat.badgen.net/github/license/nrdyava/ControlNetVSR?label=)](https://github.com/nrdyava/ControlNetVSR/issues/1)|[![](https://img.shields.io/github/last-commit/nrdyava/ControlNetVSR?style=flat-square&label=)](https://github.com/nrdyava/ControlNetVSR/graphs/code-frequency)|
+|[BasicVSR++](https://github.com/renaissanceee/BasicVSR_PlusPlus#readme)|Improving Video Super-Resolution with Enhanced Propagation and Alignment|[![](https://img.shields.io/github/languages/top/renaissanceee/BasicVSR_PlusPlus?color=pink&style=flat-square)](https://github.com/renaissanceee/BasicVSR_PlusPlus/graphs/contributors)|[![](https://flat.badgen.net/github/license/renaissanceee/BasicVSR_PlusPlus?label=)](https://github.com/renaissanceee/BasicVSR_PlusPlus/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/renaissanceee/BasicVSR_PlusPlus?style=flat-square&label=)](https://github.com/renaissanceee/BasicVSR_PlusPlus/graphs/code-frequency)|
 
 ### Other resources [⌂](#--)
 - [Video Frame Interpolation Rankings and Video Deblurring Rankings](https://github.com/AIVFI/Video-Frame-Interpolation-Rankings-and-Video-Deblurring-Rankings)
@@ -139,3 +141,7 @@
 - [Learning-based-Image-Video-Compression](https://github.com/deeptimhe/Learning-based-Image-Video-Compression#readme)
 - [Awesome Deep Learning Based Video Compression](https://github.com/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression#readme)
 - [Awesome-Deep-Compression](https://github.com/wyf0912/Awesome-Deep-Compression#readme)
+
+
+
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS&label=DV&countColor=%23dce775&style=flat-square&labelStyle=none)
