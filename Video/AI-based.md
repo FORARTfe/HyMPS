@@ -2,7 +2,7 @@
 
 
 
-### [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-) - [Artifacts reduction](#artifacts-reduction-) - [Colorization](#colorization-) - [Compression](#compression-) - [Stabilizers](#stabilizers-) - [Other resources](#other-resources-)
+### [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-) - [Artifacts reduction](#artifacts-reduction-) - [Colorization](#colorization-) - [Compression](#compression-) - [Stabilizers](#stabilizers-) - [Upscalers](#upscalers-) - [Other resources](#other-resources-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
@@ -123,6 +123,11 @@
 |[DUT](https://github.com/Annbless/DUTCode#readme)|Pytorch implementation of "[DUT: Learning Video Stabilization by Simply Watching Unstable Videos](https://arxiv.org/pdf/2011.14574.pdf "Download PDF")"|[![](https://img.shields.io/github/languages/top/Annbless/DUTCode?color=pink&style=flat-square)](https://github.com/Annbless/DUTCode/graphs/contributors)|[![](https://flat.badgen.net/github/license/Annbless/DUTCode?label=)](https://github.com/Annbless/DUTCode/issues/27)|[![](https://img.shields.io/github/last-commit/Annbless/DUTCode/main?style=flat-square&label=)](https://github.com/Annbless/DUTCode/graphs/code-frequency)|
 |[FuSta](https://alex04072000.github.io/FuSta/)|Hybrid Neural Fusion for Full-frame Video Stabilization|[![](https://img.shields.io/github/languages/top/alex04072000/FuSta?color=pink&style=flat-square)](https://github.com/alex04072000/FuSta/graphs/contributors)|[![](https://flat.badgen.net/github/license/alex04072000/FuSta?label=)](https://github.com/alex04072000/FuSta/issues/28)|[![](https://img.shields.io/github/last-commit/alex04072000/FuSta/main?style=flat-square&label=)](https://github.com/alex04072000/FuSta/graphs/code-frequency)|
 |[Real-Time Selfie Video Stabilization](https://github.com/jiy173/selfievideostabilization#readme)|Official implementation of paper "[Real-Time Selfie Video Stabilization](https://cseweb.ucsd.edu//~ravir/jiyangcvpr21.pdf "Download PDF")"|[![](https://img.shields.io/github/languages/top/jiy173/selfievideostabilization?color=pink&style=flat-square)](https://github.com/jiy173/selfievideostabilization/graphs/contributors)|[![](https://flat.badgen.net/github/license/jiy173/selfievideostabilization?label=)](https://github.com/jiy173/selfievideostabilization/issues/8)|[![](https://img.shields.io/github/last-commit/jiy173/selfievideostabilization/master?style=flat-square&label=)](https://github.com/jiy173/selfievideostabilization/graphs/code-frequency)|
+
+### Upscalers [⌂](#--)
+|Resource|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[INR-Event-VSR](https://github.com/yunfanLu/INR-Event-VSR#readme)|Learning Spatial-Temporal Implicit Neural Representations for Event-Guided Video Super-Resolution|[![](https://img.shields.io/github/languages/top/yunfanLu/INR-Event-VSR?color=pink&style=flat-square)](https://github.com/yunfanLu/INR-Event-VSR/graphs/contributors)|[![](https://flat.badgen.net/github/license/yunfanLu/INR-Event-VSR?label=)](https://github.com/yunfanLu/INR-Event-VSR/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/yunfanLu/INR-Event-VSR?style=flat-square&label=)](https://github.com/yunfanLu/INR-Event-VSR/graphs/code-frequency)|
 
 
 ### Other resources [⌂](#--)
