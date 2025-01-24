@@ -1,7 +1,6 @@
 ## [![#HyMPS](http://www.forart.it/progetti/HyMPS/logo.png)](https://forart.it/HyMPS/ "HYbrid Multimedia Production Suite") <img src="https://c.andyhoppe.com/1686913050" align="right" style="border:none" alt="Visite" />
 It will be a platform-indipendent software suite for advanced audio/video contents production.
-
-
+<br></br>
 ## [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=3)]()
 # [AI-based](https://github.com/forart/HyMPS/blob/main/Audio/AI-based.md#--)
 # [DAWs](https://github.com/forart/HyMPS/blob/main/Audio/DAWs.md#--)
@@ -18,7 +17,8 @@ It will be a platform-indipendent software suite for advanced audio/video conten
 # [Treatments](https://github.com/forart/HyMPS/blob/main/Audio/Treatments.md#--)
 
 # [Other audio resources collections](https://github.com/forart/HyMPS/blob/main/Audio/Collections.md)
-
+<br></br>
+<br></br>
 ## [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=3)]()
 # [AI-based](https://github.com/forart/HyMPS/blob/main/Video/AI-based.md#--)
 # [Editors](https://github.com/forart/HyMPS/blob/main/Video/Editors.md#--)
@@ -27,4 +27,6 @@ It will be a platform-indipendent software suite for advanced audio/video conten
 # [Processing](https://github.com/forart/HyMPS/blob/main/Video/Processing.md#--)
 # [Pan Tilt Zoom](https://github.com/forart/HyMPS/blob/main/Video/PTZ.md#--)
 # [RTSP](https://github.com/forart/HyMPS/blob/main/Video/RTSP.md#--)
-    
+<br></br>
+<br></br>
+[![Stargazers repo roster for @FORARTfe/HyMPS](https://reporoster.com/stars/dark/FORARTfe/HyMPS)](https://github.com/FORARTfe/HyMPS/stargazers)
