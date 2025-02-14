@@ -2,10 +2,16 @@
 
 
 
-### [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-) - [Artifacts reduction](#artifacts-reduction-) - [Colorization](#colorization-) - [Compression](#compression-) - [Stabilizers](#stabilizers-) - [Upscalers](#upscalers-) - [Other resources](#other-resources-)
+### [Aligning/Synching](aligningsynching-) - [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-) - [Artifacts reduction](#artifacts-reduction-) - [Colorization](#colorization-) - [Compression](#compression-) - [Stabilizers](#stabilizers-) - [Upscalers](#upscalers-) - [Other resources](#other-resources-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
+
+
+### Aligning/Synching [⌂](#--)
+|Resource|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[AV-Align](https://github.com/SajayR/AV-Align#readme)|Unsupervised Audio-Visual feature alignment: audio and visual features embedding onto the same latent space for downstream tasks|[![](https://img.shields.io/github/languages/top/SajayR/AV-Align?color=pink&style=flat-square)](https://github.com/SajayR/AV-Align/graphs/contributors)|[![](https://flat.badgen.net/github/license/SajayR/AV-Align?label=)](https://github.com/SajayR/AV-Align/issues/6)|[![](https://img.shields.io/github/last-commit/SajayR/AV-Align?style=flat-square&label=)](https://github.com/SajayR/AV-Align/graphs/code-frequency)|
 
 ### Editing [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
