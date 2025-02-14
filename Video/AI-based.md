@@ -7,12 +7,6 @@
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
-
-### Aligning/Synching [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
-|:-:|:-:|:-:|:-:|:-:|
-|[AV-Align](https://github.com/SajayR/AV-Align#readme)|Unsupervised Audio-Visual feature alignment: audio and visual features embedding onto the same latent space for downstream tasks|[![](https://img.shields.io/github/languages/top/SajayR/AV-Align?color=pink&style=flat-square)](https://github.com/SajayR/AV-Align/graphs/contributors)|[![](https://flat.badgen.net/github/license/SajayR/AV-Align?label=)](https://github.com/SajayR/AV-Align/issues/6)|[![](https://img.shields.io/github/last-commit/SajayR/AV-Align?style=flat-square&label=)](https://github.com/SajayR/AV-Align/graphs/code-frequency)|
-
 ### Editing [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
@@ -31,6 +25,10 @@
 |[TopView.ai](https://github.com/topviewai/ai-video-editor#readme)|Just provide your raw materials and ideas; AI does the rest, from scriptwriting to selecting shots, editing, narrating, and beautifying your video|[![](https://img.shields.io/github/languages/top/topviewai/ai-video-editor?color=pink&style=flat-square)](https://github.com/topviewai/ai-video-editor/graphs/contributors)|[![](https://flat.badgen.net/github/license/topviewai/ai-video-editor?label=)](https://github.com/topviewai/ai-video-editor/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/topviewai/ai-video-editor?style=flat-square&label=)](https://github.com/topviewai/ai-video-editor/graphs/code-frequency)|
 |[Turn-Movie-Clips-to-Narration-Videos](https://github.com/JollyToday/Turn-Movie-Clips-to-Narration-Videos#readme)|Automatically extracts dialogue, identifies characters, generates commentary based on the plot, separates background noise, and aligns audio/video|[![](https://img.shields.io/github/languages/top/JollyToday/Turn-Movie-Clips-to-Narration-Videos?color=pink&style=flat-square)](https://github.com/JollyToday/Turn-Movie-Clips-to-Narration-Videos/graphs/contributors)|[![](https://flat.badgen.net/github/license/JollyToday/Turn-Movie-Clips-to-Narration-Videos?label=)](https://github.com/JollyToday/Turn_Movie_Clips_to_Narration_Videos/issues/1)|[![](https://img.shields.io/github/last-commit/JollyToday/Turn-Movie-Clips-to-Narration-Videos?style=flat-square&label=)](https://github.com/JollyToday/Turn-Movie-Clips-to-Narration-Videos/graphs/code-frequency)|
 
+### Aligning/Synching [⌂](#--)
+|Resource|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[AV-Align](https://github.com/SajayR/AV-Align#readme)|Unsupervised Audio-Visual feature alignment: audio and visual features embedding onto the same latent space for downstream tasks|[![](https://img.shields.io/github/languages/top/SajayR/AV-Align?color=pink&style=flat-square)](https://github.com/SajayR/AV-Align/graphs/contributors)|[![](https://flat.badgen.net/github/license/SajayR/AV-Align?label=)](https://github.com/SajayR/AV-Align/issues/6)|[![](https://img.shields.io/github/last-commit/SajayR/AV-Align?style=flat-square&label=)](https://github.com/SajayR/AV-Align/graphs/code-frequency)|
 
 ### Enhancers [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
