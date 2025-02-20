@@ -152,7 +152,7 @@
 ### Web-oriented [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-|[Video_Editor_AI](https://github.com/mihiragath/Video_Editor_AI#readme)|-|[![](https://img.shields.io/github/languages/top/mihiragath/Video_Editor_AI?color=pink&style=flat-square)](https://github.com/mihiragath/Video_Editor_AI/graphs/contributors)|[![](https://flat.badgen.net/github/license/mihiragath/Video_Editor_AI?label=)](https://github.com/mihiragath/Video_Editor_AI/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/mihiragath/Video_Editor_AI?style=flat-square&label=)](https://github.com/mihiragath/Video_Editor_AI/graphs/code-frequency)|
+|[Video_Editor_AI](https://github.com/mihiragath/Video_Editor_AI#readme)|-|[![](https://img.shields.io/github/languages/top/mihiragath/Video_Editor_AI?color=pink&style=flat-square)](https://github.com/mihiragath/Video_Editor_AI/graphs/contributors)|[![](https://flat.badgen.net/github/license/mihiragath/Video_Editor_AI?label=)](https://github.com/mihiragath/Video_Editor_AI/issues/1)|[![](https://img.shields.io/github/last-commit/mihiragath/Video_Editor_AI?style=flat-square&label=)](https://github.com/mihiragath/Video_Editor_AI/graphs/code-frequency)|
 
 ### Other resources [⌂](#--)
 - [Video Frame Interpolation Rankings and Video Deblurring Rankings](https://github.com/AIVFI/Video-Frame-Interpolation-Rankings-and-Video-Deblurring-Rankings)
