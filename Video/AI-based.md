@@ -1,8 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#-1 "VIDEO section") [![AI-based](https://flat.badgen.net/badge/HyMPS/AI-based/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Video/AI-based.md#-- "AI-based page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
 
-
-
-### [Aligning/Synching](#aligningsynching-) - [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-) - [Artifacts reduction](#artifacts-reduction-) - [Colorization](#colorization-) - [Compression](#compression-) - [Stabilizers](#stabilizers-) - [Upscalers](#upscalers-) - [Other resources](#other-resources-)
+### [Aligning/Synching](#aligningsynching-) - [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-) - [Artifacts reduction](#artifacts-reduction-) - [Colorization](#colorization-) - [Compression](#compression-) - [Stabilizers](#stabilizers-) - [Upscalers](#upscalers-) - [Web-oriented](#weboriented-) - [Other resources](#other-resources-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
@@ -151,7 +149,10 @@
 |[STDO-CVPR2023](https://github.com/coulsonlee/STDO-CVPR2023#readme)|[Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting](https://arxiv.org/abs/2303.08331)|[![](https://img.shields.io/github/languages/top/coulsonlee/STDO-CVPR2023?color=pink&style=flat-square)](https://github.com/coulsonlee/STDO-CVPR2023/graphs/contributors)|[![](https://flat.badgen.net/github/license/coulsonlee/STDO-CVPR2023?label=)](https://github.com/coulsonlee/STDO-CVPR2023/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/coulsonlee/STDO-CVPR2023?style=flat-square&label=)](https://github.com/coulsonlee/STDO-CVPR2023/graphs/code-frequency)|
 |[ControlNetVSR](https://github.com/nrdyava/ControlNetVSR#readme)|Video Super-Resolution using Latent Diffusion Models|[![](https://img.shields.io/github/languages/top/nrdyava/ControlNetVSR?color=pink&style=flat-square)](https://github.com/nrdyava/ControlNetVSR/graphs/contributors)|[![](https://flat.badgen.net/github/license/nrdyava/ControlNetVSR?label=)](https://github.com/nrdyava/ControlNetVSR/issues/1)|[![](https://img.shields.io/github/last-commit/nrdyava/ControlNetVSR?style=flat-square&label=)](https://github.com/nrdyava/ControlNetVSR/graphs/code-frequency)|
 
-
+### Web-oriented [⌂](#--)
+|Resource|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[Video_Editor_AI](https://github.com/mihiragath/Video_Editor_AI#readme)|-|[![](https://img.shields.io/github/languages/top/mihiragath/Video_Editor_AI?color=pink&style=flat-square)](https://github.com/mihiragath/Video_Editor_AI/graphs/contributors)|[![](https://flat.badgen.net/github/license/mihiragath/Video_Editor_AI?label=)](https://github.com/mihiragath/Video_Editor_AI/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/mihiragath/Video_Editor_AI?style=flat-square&label=)](https://github.com/mihiragath/Video_Editor_AI/graphs/code-frequency)|
 
 ### Other resources [⌂](#--)
 - [Video Frame Interpolation Rankings and Video Deblurring Rankings](https://github.com/AIVFI/Video-Frame-Interpolation-Rankings-and-Video-Deblurring-Rankings)
