@@ -173,8 +173,9 @@
 - [Learning-based-Image-Video-Compression](https://github.com/deeptimhe/Learning-based-Image-Video-Compression#readme)
 - [Awesome Deep Learning Based Video Compression](https://github.com/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression#readme)
 - [Awesome-Deep-Compression](https://github.com/wyf0912/Awesome-Deep-Compression#readme)
-- [Awesome-Deblurring-Resources](https://github.com/kawchar85/Awesome-Deblurring-Resources)
+- [Awesome-Deblurring-Resources](https://github.com/kawchar85/Awesome-Deblurring-Resources#readme)
+- [A curated list of resources for Image and Video Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring#readme)
 
 
 
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS&label=DV&countColor=%23dce775&style=flat-square&labelStyle=none)
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS&label=Test&countColor=%23dce775&style=flat-square&labelStyle=none)
