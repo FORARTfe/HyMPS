@@ -171,6 +171,7 @@
 - [Learning-based-Image-Video-Compression](https://github.com/deeptimhe/Learning-based-Image-Video-Compression#readme)
 - [Awesome Deep Learning Based Video Compression](https://github.com/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression#readme)
 - [Awesome-Deep-Compression](https://github.com/wyf0912/Awesome-Deep-Compression#readme)
+- [Awesome-Deblurring-Resources](https://github.com/kawchar85/Awesome-Deblurring-Resources)
 
 
 
