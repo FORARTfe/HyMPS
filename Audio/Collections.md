@@ -1,4 +1,4 @@
-# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![Collections](https://flat.badgen.net/badge/HyMPS/Collections/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Collections.md#- "Collections page")
+# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![Collections](https://flat.badgen.net/badge/HyMPS/Collections/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/Collections.md#- "Collections page") <img align="right" src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FAudio%2FCollections.md&label=Today's%20visitors&labelColor=%23323232&countColor=%23c2ff00&style=flat-square&labelStyle=none">
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: License (openness) > Resource (a>z)}}$
