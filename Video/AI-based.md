@@ -178,4 +178,4 @@
 
 
 
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS&label=Test&countColor=%23dce775&style=flat-square&labelStyle=none)
+[![TEST](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FVideo%2FAI-based.md&label=TEST&countColor=%23dce775&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FVideo%2FAI-based.md)
