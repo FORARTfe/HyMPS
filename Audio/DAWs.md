@@ -1,4 +1,5 @@
-# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![DAWs](https://flat.badgen.net/badge/HyMPS/DAWs/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/DAWs.md#-- "DAWs page") <img align="right" alt="stable" src="https://user-images.githubusercontent.com/171307/210727719-14b940a2-d1dc-4991-b6a4-7add74463ce8.png" width="5%" />
+# [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![DAWs](https://flat.badgen.net/badge/HyMPS/DAWs/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/DAWs.md#-- "DAWs page") <img align="right" src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FAudio%2FDAWs.md&label=Today's%20visitors&labelColor=%23323232&countColor=%23c2ff00&style=flat-square&labelStyle=none">
+
 
 ### 📁 [Generic](#generic-) - [Browser-based](#browser-based-) - [Dedicated](#dedicated-) - [Other](#other-)
 
