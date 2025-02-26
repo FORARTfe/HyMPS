@@ -21,3 +21,4 @@
 ### Other [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[discountofx](https://github.com/joevenzon/discountofx#readme)|A set of CUDA-accelerated OpenFX video plugins|[![](https://img.shields.io/github/languages/top/joevenzon/discountofx?color=pink&style=flat-square)](https://github.com/joevenzon/discountofx/graphs/contributors)|[![](https://flat.badgen.net/github/license/joevenzon/discountofx?label=)](https://github.com/joevenzon/discountofx/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/joevenzon/discountofx?style=flat-square&label=)](https://github.com/joevenzon/discountofx/graphs/code-frequency)|
