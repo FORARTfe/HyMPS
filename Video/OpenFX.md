@@ -13,8 +13,10 @@
 ### Management [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[openfx-misc](https://github.com/NatronGitHub/openfx-misc#readme)|Miscellaneous OFX / OpenFX / Open Effects plugins|[![](https://img.shields.io/github/languages/top/NatronGitHub/openfx-misc?color=pink&style=flat-square)](https://github.com/NatronGitHub/openfx-misc/graphs/contributors)|[![](https://flat.badgen.net/github/license/NatronGitHub/openfx-misc?label=)](https://github.com/NatronGitHub/openfx-misc/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/NatronGitHub/openfx-misc?style=flat-square&label=)](https://github.com/NatronGitHub/openfx-misc/graphs/code-frequency)|
 |[MakeHDR](https://github.com/sosoyan/make-hdr#readme)|A plug-in for merging multiple LDR images into a single HDRI|[![](https://img.shields.io/github/languages/top/sosoyan/make-hdr?color=pink&style=flat-square)](https://github.com/sosoyan/make-hdr/graphs/contributors)|[![](https://flat.badgen.net/github/license/sosoyan/make-hdr?label=)](https://github.com/sosoyan/make-hdr/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/sosoyan/make-hdr?style=flat-square&label=)](https://github.com/sosoyan/make-hdr/graphs/code-frequency)|
 |[andris.tiler.ofx](https://github.com/ch200c/andris.tiler.ofx#readme)|OpenFX plugin that produces a tile effect with an adjustable offset and scaling.|[![](https://img.shields.io/github/languages/top/ch200c/andris.tiler.ofx?color=pink&style=flat-square)](https://github.com/ch200c/andris.tiler.ofx/graphs/contributors)|[![](https://flat.badgen.net/github/license/ch200c/andris.tiler.ofx?label=)](https://github.com/ch200c/andris.tiler.ofx/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/ch200c/andris.tiler.ofx?style=flat-square&label=)](https://github.com/ch200c/andris.tiler.ofx/graphs/code-frequency)|
+
 
 ### Stylers [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
