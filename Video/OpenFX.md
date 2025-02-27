@@ -13,7 +13,7 @@
 ### Stylers [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-|[ntsc-rs](https://github.com/valadaptive/ntsc-rs#readme)|Free, open-source VHS effect|[![](https://img.shields.io/github/languages/top/valadaptive/ntsc-rs?color=pink&style=flat-square)](https://github.com/valadaptive/ntsc-rs/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=))](https://github.com/valadaptive/ntsc-rs/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/valadaptive/ntsc-rs?style=flat-square&label=)](https://github.com/valadaptive/ntsc-rs/graphs/code-frequency)|
+|[ntsc-rs](https://github.com/valadaptive/ntsc-rs#readme)|Free, open-source VHS effect|[![](https://img.shields.io/github/languages/top/valadaptive/ntsc-rs?color=pink&style=flat-square)](https://github.com/valadaptive/ntsc-rs/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/valadaptive/ntsc-rs/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/valadaptive/ntsc-rs?style=flat-square&label=)](https://github.com/valadaptive/ntsc-rs/graphs/code-frequency)|
 
 ### Stabilization [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
@@ -24,6 +24,6 @@
 ### Other [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-|[OFX-plugins](https://github.com/mattclifford1/OFX-plugins#readme)|Examples on how to make OpenFX plugins|[![](https://img.shields.io/github/languages/top/mattclifford1/OFX-plugins?color=pink&style=flat-square)](https://github.com/mattclifford1/OFX-plugins/graphs/contributors)|[![](https://flat.badgen.net/github/license/mattclifford1/OFX-plugins?label=)](https://github.com/mattclifford1/OFX-plugins/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/mattclifford1/OFX-plugins?style=flat-square&label=)](https://github.com/mattclifford1/OFX-plugins/graphs/code-frequency)|
+|[OFX-plugins](https://github.com/mattclifford1/OFX-plugins#readme)|Examples on how to make OpenFX plugins|[![](https://img.shields.io/github/languages/top/mattclifford1/OFX-plugins?color=pink&style=flat-square)](https://github.com/mattclifford1/OFX-plugins/graphs/contributors)|[![](https://flat.badgen.net/github/license/mattclifford1/OFX-plugins?label=)](https://github.com/mattclifford1/OFX-plugins/issues/1)|[![](https://img.shields.io/github/last-commit/mattclifford1/OFX-plugins?style=flat-square&label=)](https://github.com/mattclifford1/OFX-plugins/graphs/code-frequency)|
 |[discountofx](https://github.com/joevenzon/discountofx#readme)|A set of CUDA-accelerated OpenFX video plugins|[![](https://img.shields.io/github/languages/top/joevenzon/discountofx?color=pink&style=flat-square)](https://github.com/joevenzon/discountofx/graphs/contributors)|[![](https://flat.badgen.net/github/license/joevenzon/discountofx?label=)](https://github.com/joevenzon/discountofx/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/joevenzon/discountofx?style=flat-square&label=)](https://github.com/joevenzon/discountofx/graphs/code-frequency)|
 
