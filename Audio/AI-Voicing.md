@@ -16,8 +16,10 @@
 ### Denoisers [⌂](#---) 
 |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[Clean Sound with AI](https://github.com/BoTtoGo/FixLowFreqSound#readme)|Aims to clean sound recordings from noisy environments using a Convolutional Neural Network (CNN) based on the [CleanUNet](https://arxiv.org/abs/2202.07790) model|[![](https://img.shields.io/github/languages/top/BoTtoGo/FixLowFreqSound?color=pink&style=flat-square)](https://github.com/BoTtoGo/FixLowFreqSound/graphs/contributors)|[![](https://flat.badgen.net/github/license/BoTtoGo/FixLowFreqSound?label=)](https://github.com/BoTtoGo/FixLowFreqSound/issues/1)|[![](https://img.shields.io/github/last-commit/BoTtoGo/FixLowFreqSound?style=flat-square&label=)](https://github.com/BoTtoGo/FixLowFreqSound/graphs/code-frequency)|
 |[Resemble Enhance](https://github.com/resemble-ai/resemble-enhance#readme)|AI powered speech denoising and enhancement|[![](https://img.shields.io/github/languages/top/resemble-ai/resemble-enhance?color=pink&style=flat-square)](https://github.com/resemble-ai/resemble-enhance/graphs/contributors)|[![](https://flat.badgen.net/github/license/resemble-ai/resemble-enhance?label=)](https://github.com/resemble-ai/resemble-enhance/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/resemble-ai/resemble-enhance?style=flat-square&label=)](https://github.com/resemble-ai/resemble-enhance/graphs/code-frequency)|
 |[speech-denoiser](https://github.com/MateuszKrol13/speech-denoiser#readme)|denoiser|[![](https://img.shields.io/github/languages/top/MateuszKrol13/speech-denoiser?color=pink&style=flat-square)](https://github.com/MateuszKrol13/speech-denoiser/graphs/contributors)|[![](https://flat.badgen.net/github/license/MateuszKrol13/speech-denoiser?label=)](https://github.com/MateuszKrol13/speech-denoiser/issues/1)|[![](https://img.shields.io/github/last-commit/MateuszKrol13/speech-denoiser?style=flat-square&label=)](https://github.com/MateuszKrol13/speech-denoiser/graphs/code-frequency)|
+
 
 ### Dubbers [⌂](#---) 
 |Repository|Short description|Language|License|Last commit|
