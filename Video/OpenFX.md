@@ -26,7 +26,9 @@
 ### Stylers [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[OpenFX plugin for "Robust Video Matting"](https://github.com/smunaut/rvmofx#readme)|Automatic background removal using [Robust Video Matting (RVM)](https://github.com/PeterL1n/RobustVideoMatting#readme)|[![](https://img.shields.io/github/languages/top/smunaut/rvmofx?color=pink&style=flat-square)](https://github.com/smunaut/rvmofx/graphs/contributors)|[![](https://flat.badgen.net/github/license/smunaut/rvmofx?label=)](https://github.com/smunaut/rvmofx/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/smunaut/rvmofx?style=flat-square&label=)](https://github.com/smunaut/rvmofx/graphs/code-frequency)|
 |[ntsc-rs](https://github.com/valadaptive/ntsc-rs#readme)|Free, open-source VHS effect|[![](https://img.shields.io/github/languages/top/valadaptive/ntsc-rs?color=pink&style=flat-square)](https://github.com/valadaptive/ntsc-rs/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/valadaptive/ntsc-rs?tab=License-1-ov-file)|[![](https://img.shields.io/github/last-commit/valadaptive/ntsc-rs?style=flat-square&label=)](https://github.com/valadaptive/ntsc-rs/graphs/code-frequency)|
+
 
 ### Stabilization [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
