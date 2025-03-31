@@ -37,7 +37,7 @@
 ### Texts [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-|[TextOFX](https://github.com/nettstudio/text.openfx.no#readme)|Text effects for motion graphics and VFX|[![](https://img.shields.io/github/languages/top/nettstudio/text.openfx.no?color=pink&style=flat-square)](https://github.com/nettstudio/text.openfx.no/graphs/contributors)|[![](https://flat.badgen.net/github/license/nettstudio/text.openfx.no?label=)](https://github.com/nettstudio/text.openfx.no/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/nettstudio/text.openfx.no?style=flat-square&label=)](https://github.com/nettstudio/text.openfx.no/graphs/code-frequency)|
+|[TextOFX](https://github.com/nettstudio/text.openfx.no#readme)|Text effects for motion graphics and VFX|[![](https://img.shields.io/github/languages/top/nettstudio/text.openfx.no?color=pink&style=flat-square)](https://github.com/nettstudio/text.openfx.no/graphs/contributors)|[![](https://flat.badgen.net/github/license/nettstudio/text.openfx.no?label=)](https://github.com/nettstudio/text.openfx.no/issues/8)|[![](https://img.shields.io/github/last-commit/nettstudio/text.openfx.no?style=flat-square&label=)](https://github.com/nettstudio/text.openfx.no/graphs/code-frequency)|
 
 ### Other [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
