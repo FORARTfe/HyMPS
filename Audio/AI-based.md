@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![AI-based](https://flat.badgen.net/badge/HyMPS/AI-based%20projects/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-based.md#-- "AI-based page") <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FAudio%2FAI-based.md"><img align="right" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FAudio%2FAI-based.md&label=D%20%2F%20T&labelColor=%23323232&countColor=%23c2ff00&style=flat-square&labelStyle=none" /></a>
 
-### 🗂️ [Voicing](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-Voicing.md#---) - [Guitars](#guitars-) - [Bass](#bass-) - [Drums](#drums-) - [Effects](#effects-) - [MIDI](#midi-) - [Mixing](#mixing-) - [Enhancing](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-Enhancing.md#---) - [Fingerprinting](#fingerprinting-) - [Separating](#separating-) - [Watermarking](#watermarking-) - [Codecs](#codecs-) - [Transcriptings](#transcriptings-) - [Misc](#misc-)
+### 🗂️ [Voicing](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-Voicing.md#---) - [Guitars](#guitars-) - [Bass](#bass-) - [Drums](#drums-) - [Effects](#effects-) - [MIDI](#midi-) - [Mixing](#mixing-) - [Enhancing](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-Enhancing.md#---) - [Fingerprinting](#fingerprinting-) - [Separating](#separating-) - [Watermarking](#watermarking-) - [Codecs](#codecs-) - [Transcripting](#transcripting-) - [Misc](#misc-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
@@ -132,7 +132,7 @@
 
 
 
-### Transcriptings [⌂](#--)
+### Transcripting [⌂](#--)
 |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
 |[audioFlux](https://github.com/libAudioFlux/audioFlux#readme)|A deep learning tool library for audio and music analysis, feature extraction|[![](https://img.shields.io/github/languages/top/libAudioFlux/audioFlux?color=pink&style=flat-square)](https://github.com/libAudioFlux/audioFlux/graphs/contributors)|[![](https://flat.badgen.net/github/license/libAudioFlux/audioFlux?label=)](https://github.com/libAudioFlux/audioFlux/blob/master/LICENSE.md)|[![](https://img.shields.io/github/last-commit/libAudioFlux/audioFlux?style=flat-square&label=)](https://github.com/libAudioFlux/audioFlux/graphs/code-frequency)|
