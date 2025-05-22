@@ -1,6 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#-1 "VIDEO section") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Video/Tools.md#-- "Tools category") [![Capture](https://flat.badgen.net/badge/HyMPS/Capture/red?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Video/Capture.md#-- "Capture page") <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FVideo%2FCapture.md"><img align="right" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FVideo%2FCapture.md&label=D%20%2F%20T&labelColor=%23323232&countColor=%23c2ff00&style=flat-square&labelStyle=none" /></a>
 
-### [Guides](#guides-) - [Composite](#composite-) - [RF](#rf-) - [Other](#other-)
+### [Guides](#guides-) - [Composite](#composite-) - [RF](#rf-) - [Scripts](#scripts-) - [Other](#other-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
@@ -8,6 +8,7 @@
 ### Guides [⌂](#---)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[VHS Capture Notes](https://github.com/ehrmann/vhs-capture#readme)|Notes on capturing and encoding VHS tapes|[![](https://img.shields.io/github/languages/top/ehrmann/vhs-capture?color=pink&style=flat-square)](https://github.com/ehrmann/vhs-capture/graphs/contributors)|[![](https://flat.badgen.net/github/license/ehrmann/vhs-capture?label=)](https://github.com/ehrmann/vhs-capture/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/ehrmann/vhs-capture?style=flat-square&label=)](https://github.com/ehrmann/vhs-capture/graphs/code-frequency)|
 
 ### Composite [⌂](#---)
 |Resource|Short description|Language|License|Last commit|
@@ -19,6 +20,11 @@
 ### RF [⌂](#---)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+
+### Scripts [⌂](#---)
+|Resource|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[vhs-capture](https://github.com/ccornix/vhs-capture#readme)|VHS capture experiments using ffmpeg|[![](https://img.shields.io/github/languages/top/ccornix/vhs-capture?color=pink&style=flat-square)](https://github.com/ccornix/vhs-capture/graphs/contributors)|[![](https://flat.badgen.net/github/license/ccornix/vhs-capture?label=)](https://github.com/ccornix/vhs-capture/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/ccornix/vhs-capture?style=flat-square&label=)](https://github.com/ccornix/vhs-capture/graphs/code-frequency)|
 
 ### Other [⌂](#---)
 |Resource|Short description|Language|License|Last commit|
