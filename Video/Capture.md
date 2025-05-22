@@ -22,6 +22,9 @@
 ### RF [⌂](#---)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[ld-decode](https://github.com/happycube/ld-decode#readme)|Software defined LaserDisc decoder|[![](https://img.shields.io/github/languages/top/happycube/ld-decode?color=pink&style=flat-square)](https://github.com/happycube/ld-decode/graphs/contributors)|[![](https://flat.badgen.net/github/license/happycube/ld-decode?label=)](https://github.com/happycube/ld-decode/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/happycube/ld-decode?style=flat-square&label=)](https://github.com/happycube/ld-decode/graphs/code-frequency)|
+|[vhs-decode](https://github.com/oyvindln/vhs-decode#readme)|Software defined VHS decoder - Fork (maybe temporary) of the [ld-decode](https://github.com/happycube/ld-decode#readme) Laserdisc rf decoder|[![](https://img.shields.io/github/languages/top/oyvindln/vhs-decode?color=pink&style=flat-square)](https://github.com/oyvindln/vhs-decode/graphs/contributors)|[![](https://flat.badgen.net/github/license/oyvindln/vhs-decode?label=)](https://github.com/oyvindln/vhs-decode/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/oyvindln/vhs-decode?style=flat-square&label=)](https://github.com/oyvindln/vhs-decode/graphs/code-frequency)|
+
 
 ### Scripts [⌂](#---)
 |Resource|Short description|Language|License|Last commit|
