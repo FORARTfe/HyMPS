@@ -8,7 +8,7 @@
 ### API [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
-|[OpenFX effects API](https://github.com/AcademySoftwareFoundation/openfx#readme)|OpenFX image processing plug-in standard|[![](https://img.shields.io/github/languages/top/AcademySoftwareFoundation/openfx?color=pink&style=flat-square)](https://github.com/AcademySoftwareFoundation/openfx/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/AcademySoftwareFoundation/openfx/blob/main/LICENSE.md)|[![](https://img.shields.io/github/last-commit/AcademySoftwareFoundation/openfx?style=flat-square&label=)](https://github.com/AcademySoftwareFoundation/openfx/graphs/code-frequency)|
+|[OpenFX effects API](https://github.com/AcademySoftwareFoundation/openfx#readme)|OpenFX image processing plug-in standard|[![](https://img.shields.io/github/languages/top/AcademySoftwareFoundation/openfx?color=pink&style=flat-square)](https://github.com/AcademySoftwareFoundation/openfx/graphs/contributors)|[![](https://flat.badgen.net/github/license/AcademySoftwareFoundation/openfx?label=)](https://github.com/AcademySoftwareFoundation/openfx/issues/194)|[![](https://img.shields.io/github/last-commit/AcademySoftwareFoundation/openfx?style=flat-square&label=)](https://github.com/AcademySoftwareFoundation/openfx/graphs/code-frequency)|
 
 ### Management [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
