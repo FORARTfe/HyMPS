@@ -1,6 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#-1 "VIDEO section") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Video/Tools.md#-- "Tools page") [![Capture](https://flat.badgen.net/badge/HyMPS/Capture/red?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Video/Capture.md#-- "Capture subpage") <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FVideo%2FCapture.md"><img align="right" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FVideo%2FCapture.md&label=D%20%2F%20T&labelColor=%23323232&countColor=%23c2ff00&style=flat-square&labelStyle=none" /></a>
 
-### [Guides](#guides-) - [Composite](#composite-) - [RF](#rf-) - [Scripts](#scripts-) - [Other](#other-)
+### [Guides](#guides-) - [Composite](#composite-) - [RF](#rf-) - [Scripts](#scripts-) - [Other](#other-) - [Hardware](#hardware-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
@@ -41,3 +41,8 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[VHS Tools](https://github.com/MoeFwacky/vhstools#readme)|A set of python scripts with various video tools, including editing, automatic scene detection and splitting, and posting random clips to social media platforms|[![](https://img.shields.io/github/languages/top/MoeFwacky/vhstools?color=pink&style=flat-square)](https://github.com/MoeFwacky/vhstools/graphs/contributors)|[![](https://flat.badgen.net/github/license/MoeFwacky/vhstools?label=)](https://github.com/MoeFwacky/vhstools/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/MoeFwacky/vhstools?style=flat-square&label=)](https://github.com/MoeFwacky/vhstools/graphs/code-frequency)|
 |[PyVHS](https://github.com/mddunlap924/PyVHS#readme)|Digitized VHS Cassette Editing with Python|[![](https://img.shields.io/github/languages/top/mddunlap924/PyVHS?color=pink&style=flat-square)](https://github.com/mddunlap924/PyVHS/graphs/contributors)|[![](https://flat.badgen.net/github/license/mddunlap924/PyVHS?label=)](https://github.com/mddunlap924/PyVHS/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/mddunlap924/PyVHS?style=flat-square&label=)](https://github.com/mddunlap924/PyVHS/graphs/code-frequency)|
+
+### Hardware [⌂](#---)
+|Resource|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[MISRC](https://github.com/Stefan-Olt/MISRC#readme)|A multi channel RF capture device for FM RF, S-Video, CVBS RAW capture and anything else, but intended and supported for the decode family of projects vhs-decode, ld-decode, hifi-decode|[![](https://img.shields.io/github/languages/top/Stefan-Olt/MISRC?color=pink&style=flat-square)](https://github.com/Stefan-Olt/MISRC/graphs/contributors)|[![](https://flat.badgen.net/github/license/Stefan-Olt/MISRC?label=)]()|[![](https://img.shields.io/github/last-commit/Stefan-Olt/MISRC?style=flat-square&label=)](https://github.com/Stefan-Olt/MISRC/graphs/code-frequency)|
