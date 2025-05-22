@@ -1,6 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#-1 "VIDEO section") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Video/Tools.md#-- "Tools page") [![Capture](https://flat.badgen.net/badge/HyMPS/Capture/red?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Video/Capture.md#-- "Capture subpage") <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FVideo%2FCapture.md"><img align="right" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FVideo%2FCapture.md&label=D%20%2F%20T&labelColor=%23323232&countColor=%23c2ff00&style=flat-square&labelStyle=none" /></a>
 
-### [Guides](#guides-) - [Composite](#composite-) - [RF](#rf-) - [Scripts](#scripts-) - [Other](#other-) - [Hardware](#hardware-)
+### [Guides](#guides-) - [Composite](#composite-) - [Digital](#digital-) - [RF](#rf-) - [Scripts](#scripts-) - [Other](#other-) - [Hardware](#hardware-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
@@ -24,6 +24,13 @@
 |[video-tools](https://github.com/golden-vcr/video-tools#readme)|Tools and scripts for capturing and recording VHS footage using a portable installation of OBS|[![](https://img.shields.io/github/languages/top/golden-vcr/video-tools?color=pink&style=flat-square)](https://github.com/golden-vcr/video-tools/graphs/contributors)|[![](https://flat.badgen.net/github/license/golden-vcr/video-tools?label=)](https://github.com/golden-vcr/video-tools/issues/1)|[![](https://img.shields.io/github/last-commit/golden-vcr/video-tools?style=flat-square&label=)](https://github.com/golden-vcr/video-tools/graphs/code-frequency)|
 |[vrecord](https://github.com/amiaopensource/vrecord#readme)|An open-source software for capturing a video signal and turning it into a digital file|[![](https://img.shields.io/github/languages/top/amiaopensource/vrecord?color=pink&style=flat-square)](https://github.com/amiaopensource/vrecord/graphs/contributors)|[![](https://flat.badgen.net/github/license/amiaopensource/vrecord?label=)](https://github.com/amiaopensource/vrecord/issues/897)|[![](https://img.shields.io/github/last-commit/amiaopensource/vrecord?style=flat-square&label=)](https://github.com/amiaopensource/vrecord/graphs/code-frequency)|
 |[StereoCapture](https://github.com/shuiwuhen/StereoCapture#readme)|A software designed for stereo-pair images or videos capture, which works on all USB, Point Grey Research cameras, IEEE-1394b digital cameras as well as microscope|[![](https://img.shields.io/github/languages/top/shuiwuhen/StereoCapture?color=pink&style=flat-square)](https://github.com/shuiwuhen/StereoCapture/graphs/contributors)|-|[![](https://img.shields.io/github/last-commit/shuiwuhen/StereoCapture?style=flat-square&label=)](https://github.com/shuiwuhen/StereoCapture/graphs/code-frequency)|
+
+### Digital [⌂](#---)
+|Resource|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[dvgrab](https://github.com/ddennedy/dvgrab#readme)|Command line FireWire DV and HDV capture tool for Linux|[![](https://img.shields.io/github/languages/top/ddennedy/dvgrab?color=pink&style=flat-square)](https://github.com/ddennedy/dvgrab/graphs/contributors)|[![](https://flat.badgen.net/github/license/ddennedy/dvgrab?label=)](https://github.com/ddennedy/dvgrab/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/ddennedy/dvgrab?style=flat-square&label=)](https://github.com/ddennedy/dvgrab/graphs/code-frequency)|
+|[hornetseye-dc1394](https://github.com/wedesoft/hornetseye-dc1394#readme)|Capture from DC1394 compatible firewire camera|[![](https://img.shields.io/github/languages/top/wedesoft/hornetseye-dc1394?color=pink&style=flat-square)](https://github.com/wedesoft/hornetseye-dc1394/graphs/contributors)|[![](https://flat.badgen.net/github/license/wedesoft/hornetseye-dc1394?label=)](https://github.com/wedesoft/hornetseye-dc1394/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/wedesoft/hornetseye-dc1394?style=flat-square&label=)](https://github.com/wedesoft/hornetseye-dc1394/graphs/code-frequency)|
+
 
 ### RF [⌂](#---)
 |Resource|Short description|Language|License|Last commit|
