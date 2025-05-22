@@ -6,9 +6,10 @@
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
 ### Guides [⌂](#---)
-|Resource|Short description|Language|License|Last commit|
-|:-:|:-:|:-:|:-:|:-:|
-|[VHS Capture Notes](https://github.com/ehrmann/vhs-capture#readme)|Notes on capturing and encoding VHS tapes|[![](https://img.shields.io/github/languages/top/ehrmann/vhs-capture?color=pink&style=flat-square)](https://github.com/ehrmann/vhs-capture/graphs/contributors)|[![](https://flat.badgen.net/github/license/ehrmann/vhs-capture?label=)](https://github.com/ehrmann/vhs-capture/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/ehrmann/vhs-capture?style=flat-square&label=)](https://github.com/ehrmann/vhs-capture/graphs/code-frequency)|
+|Resource|Short description|License|Last commit|
+|:-:|:-:|:-:|:-:|
+|[VHS Capture Notes](https://github.com/ehrmann/vhs-capture#readme)|Notes on capturing and encoding VHS tapes|[![](https://flat.badgen.net/github/license/ehrmann/vhs-capture?label=)](https://github.com/ehrmann/vhs-capture/blob/master/LICENSE.txt)|[![](https://img.shields.io/github/last-commit/ehrmann/vhs-capture?style=flat-square&label=)](https://github.com/ehrmann/vhs-capture/graphs/code-frequency)|
+|[vhs-capture-pinnacle-linux](https://github.com/danyfernandes/vhs-capture-pinnacle-linux#readme)|How to capture VHS videos using Pinnacle Dazzle DVC100 on Linux|[![](https://flat.badgen.net/github/license/danyfernandes/vhs-capture-pinnacle-linux?label=)](https://github.com/danyfernandes/vhs-capture-pinnacle-linux/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/danyfernandes/vhs-capture-pinnacle-linux?style=flat-square&label=)](https://github.com/danyfernandes/vhs-capture-pinnacle-linux/graphs/code-frequency)|
 
 ### Composite [⌂](#---)
 |Resource|Short description|Language|License|Last commit|
@@ -24,7 +25,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |[ld-decode](https://github.com/happycube/ld-decode#readme)|Software defined LaserDisc decoder|[![](https://img.shields.io/github/languages/top/happycube/ld-decode?color=pink&style=flat-square)](https://github.com/happycube/ld-decode/graphs/contributors)|[![](https://flat.badgen.net/github/license/happycube/ld-decode?label=)](https://github.com/happycube/ld-decode/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/happycube/ld-decode?style=flat-square&label=)](https://github.com/happycube/ld-decode/graphs/code-frequency)|
 |[vhs-decode](https://github.com/oyvindln/vhs-decode#readme)|Software defined VHS decoder - Fork (maybe temporary) of the [ld-decode](https://github.com/happycube/ld-decode#readme) Laserdisc rf decoder|[![](https://img.shields.io/github/languages/top/oyvindln/vhs-decode?color=pink&style=flat-square)](https://github.com/oyvindln/vhs-decode/graphs/contributors)|[![](https://flat.badgen.net/github/license/oyvindln/vhs-decode?label=)](https://github.com/oyvindln/vhs-decode/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/oyvindln/vhs-decode?style=flat-square&label=)](https://github.com/oyvindln/vhs-decode/graphs/code-frequency)|
-
+|[vhs-decode-tools](https://github.com/itewreed/vhs-decode-tools#readme)|Tools for the automation of capture preprocessing, decoding and video generating|[![](https://img.shields.io/github/languages/top/itewreed/vhs-decode-tools?color=pink&style=flat-square)](https://github.com/itewreed/vhs-decode-tools/graphs/contributors)|[![](https://flat.badgen.net/github/license/itewreed/vhs-decode-tools?label=)](https://github.com/itewreed/vhs-decode-tools/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/itewreed/vhs-decode-tools?style=flat-square&label=)](https://github.com/itewreed/vhs-decode-tools/graphs/code-frequency)|
 
 ### Scripts [⌂](#---)
 |Resource|Short description|Language|License|Last commit|
