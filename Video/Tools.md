@@ -1,6 +1,6 @@
 # [![VIDEO](https://flat.badgen.net/badge/HyMPS/VIDEO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#-1 "VIDEO section") [![Tools](https://flat.badgen.net/badge/HyMPS/Tools/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Video/Tools.md#-- "Tools page") <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FVideo%2FTools.md"><img align="right" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FVideo%2FTools.md&label=D%20%2F%20T&labelColor=%23323232&countColor=%23c2ff00&style=flat-square&labelStyle=none" /></a>
 
-### [Codecs](#codecs-) - [Cut&Copy](#cutcopy-) - [Capture](#capture-) - [Encoders](#encoders-) - [Encoding](#encoding-) - [GUIs](#guis-) - [Others](#others-)
+### [Codecs](#codecs-) - [Cut&Copy](#cutcopy-) - [Capture](https://github.com/FORARTfe/HyMPS/blob/main/Video/Capture.md#--) - [Encoders](#encoders-) - [Encoding](#encoding-) - [GUIs](#guis-) - [Others](#others-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
@@ -17,12 +17,6 @@
 |[VideoRangeCopier](https://github.com/butaixianran/VideoRangeCopier#readme)|A windows Avalonia App can cut a range of video into a new video without encoding|[![](https://img.shields.io/github/languages/top/butaixianran/VideoRangeCopier?color=pink&style=flat-square)](https://github.com/butaixianran/VideoRangeCopier/graphs/contributors)|[![](https://flat.badgen.net/github/license/butaixianran/VideoRangeCopier?label=)](https://github.com/butaixianran/VideoRangeCopier/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/butaixianran/VideoRangeCopier?style=flat-square&label=)](https://github.com/butaixianran/VideoRangeCopier/graphs/code-frequency)|
 |[Cut videos](https://github.com/ChsHub/cut_videos#readme)|Program for cutting and encoding videos|[![](https://img.shields.io/github/languages/top/ChsHub/cut_videos?color=pink&style=flat-square)](https://github.com/ChsHub/cut_videos/graphs/contributors)|[![](https://flat.badgen.net/github/license/ChsHub/cut_videos?label=)](https://github.com/ChsHub/cut_videos/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/ChsHub/cut_videos?style=flat-square&label=)](https://github.com/ChsHub/cut_videos/graphs/code-frequency)|
 |[LosslessCut](https://mifi.no/losslesscut/)|The swiss army knife of lossless video/audio editing|[![](https://img.shields.io/github/languages/top/mifi/lossless-cut?color=pink&style=flat-square)](https://github.com/mifi/lossless-cut/graphs/contributors)|[![](https://flat.badgen.net/github/license/mifi/lossless-cut?label=)](https://github.com/mifi/lossless-cut/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/mifi/lossless-cut?style=flat-square&label=)](https://github.com/mifi/lossless-cut/graphs/code-frequency)|
-
-### Capture [⌂](#--)
-|Resource|Short description|Language|License|Last commit|
-|:-:|:-:|:-:|:-:|:-:|
-|[StereoCapture](https://github.com/shuiwuhen/StereoCapture#readme)|Designed for stereo-pair images or videos capture, which works on all USB, Point Grey Research cameras, IEEE-1394b digital cameras as well as microscope|[![](https://img.shields.io/github/languages/top/shuiwuhen/StereoCapture?color=pink&style=flat-square)](https://github.com/shuiwuhen/StereoCapture/graphs/contributors)|-|[![](https://img.shields.io/github/last-commit/shuiwuhen/StereoCapture?style=flat-square&label=)](https://github.com/shuiwuhen/StereoCapture/graphs/code-frequency)|
-
 
 ### Encoders [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
