@@ -2,8 +2,7 @@
 
 ### [Generic](#generic-) - [SBC](#sbc-) - [Android](#android-) - [Misc](#misc-) - [No description](#no-description-)
 
-> [!WARNING]
-> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
+![](https://badgen.net/static/SORTING:/Language%20(a%3Ez)%20%3E%20License%20(openness)%20%3E%20Repository%20(a%3Ez)/yellow)
 
 ### Generic [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
