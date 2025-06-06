@@ -2,8 +2,7 @@
 
 ### [Aligning/Synching](#aligningsynching-) - [Editing](#editing-) - [Enhancers](#enhancers-) - [Mixing](#mixing-) - [Restoring](#restoring-) - [Denoisers](#denoisers-) - [Deblurrers](#deblurrers-) - [Artifacts reduction](#artifacts-reduction-) - [Colorization](#colorization-) - [Compression](#compression-) - [Stabilizers](#stabilizers-) - [Upscalers](#upscalers-) - [Misc](#misc-) - [Other resources](#other-resources-)
 
-> [!WARNING]
-> $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
+![](https://badgen.net/static/⚠️SORTING:/Language%20(a%3Ez)%20%3E%20License%20(openness)%20%3E%20Repository%20(a%3Ez)/orange)
 
 ### Aligning/Synching [⌂](#--)
 |Resource|Short description|Language|License|Last commit|
