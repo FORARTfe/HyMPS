@@ -176,7 +176,3 @@
 - [Awesome-Deep-Compression](https://github.com/wyf0912/Awesome-Deep-Compression#readme)
 - [Awesome-Deblurring-Resources](https://github.com/kawchar85/Awesome-Deblurring-Resources#readme)
 - [A curated list of resources for Image and Video Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring#readme)
-
-
-
-[![TEST](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FVideo%2FAI-based.md&label=TEST&countColor=%23dce775&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FVideo%2FAI-based.md)
