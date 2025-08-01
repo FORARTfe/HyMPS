@@ -1,7 +1,7 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![Effects](https://flat.badgen.net/badge/HyMPS/AI-based/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-based.md#-- "AI-based category") [![Voicing](https://flat.badgen.net/badge/HyMPS/Voicing/red?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-Voicing.md#--- "Voicing page") <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FAudio%2FAI-Voicing.md"><img align="right" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FAudio%2FAI-Voicing.md&label=D%20%2F%20T&labelColor=%23323232&countColor=%23c2ff00&style=flat-square&labelStyle=none" /></a>
 
 
-### 📁 [Cloners](#cloners-) - [Denoisers](#denoisers-) - [Dubbers](#dubbers-) - [Enhancers](#enhancers-) - [Stylers](#stylers-) - [Speech](#speech-) - [TTSers](#ttsers-)
+### 📁 [Cloners](#cloners-) - [Denoisers](#denoisers-) - [Dubbers](#dubbers-) - [Enhancers](#enhancers-) - [Extractors](#extractors-) - [Stylers](#stylers-) - [Speech](#speech-) - [TTSers](#ttsers-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
@@ -70,8 +70,6 @@
 
 
 
-
-
 ### Enhancers [⌂](#---) 
 |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
@@ -82,6 +80,15 @@
 |[Deep Learning Based Noise Reduction and Speech Enhancement System](https://github.com/shhubhxm/Deep-Learning-Based-Speech-Enhancement-System-and-Noise-Reduction#readme)|Implements two deep learning models, one can classify the type of noise, the other can retain human voice and reduce environmental noise|[![](https://img.shields.io/github/languages/top/shhubhxm/Deep-Learning-Based-Speech-Enhancement-System-and-Noise-Reduction?color=pink&style=flat-square)](https://github.com/shhubhxm/Deep-Learning-Based-Speech-Enhancement-System-and-Noise-Reduction/graphs/contributors)|[![](https://flat.badgen.net/github/license/shhubhxm/Deep-Learning-Based-Speech-Enhancement-System-and-Noise-Reduction?label=)](https://github.com/shhubhxm/Deep-Learning-Based-Speech-Enhancement-System-and-Noise-Reduction/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/shhubhxm/Deep-Learning-Based-Speech-Enhancement-System-and-Noise-Reduction?style=flat-square&label=)](https://github.com/shhubhxm/Deep-Learning-Based-Speech-Enhancement-System-and-Noise-Reduction/graphs/code-frequency)|
 |[DeepFilterNet](https://github.com/Rikorose/DeepFilterNet#readme)|A Low Complexity Speech Enhancement Framework for Full-Band Audio (48kHz) using on Deep Filtering|[![](https://img.shields.io/github/languages/top/Rikorose/DeepFilterNet?color=pink&style=flat-square)](https://github.com/Rikorose/DeepFilterNet/graphs/contributors)|[![](https://flat.badgen.net/badge/license/Other/blue?label=)](https://github.com/Rikorose/DeepFilterNet/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/Rikorose/DeepFilterNet?style=flat-square&label=)](https://github.com/Rikorose/DeepFilterNet/graphs/code-frequency)|
 |[Audio Enhancement and Denoising using Autoencoders](https://github.com/quadeer15sh/AudioEnhancementAndDenoisingUsingAutoencoders#readme)|-|[![](https://img.shields.io/github/languages/top/quadeer15sh/AudioEnhancementAndDenoisingUsingAutoencoders?color=pink&style=flat-square)](https://github.com/quadeer15sh/AudioEnhancementAndDenoisingUsingAutoencoders/graphs/contributors)|[![](https://flat.badgen.net/github/license/quadeer15sh/AudioEnhancementAndDenoisingUsingAutoencoders?label=)](https://github.com/quadeer15sh/AudioEnhancementAndDenoisingUsingAutoencoders/issues/1)|[![](https://img.shields.io/github/last-commit/quadeer15sh/AudioEnhancementAndDenoisingUsingAutoencoders?style=flat-square&label=)](https://github.com/quadeer15sh/AudioEnhancementAndDenoisingUsingAutoencoders/graphs/code-frequency)|
+
+
+
+### Extractors [⌂](#---) 
+|Repository|Short description|Language|License|Last commit|
+|:-:|:-:|:-:|:-:|:-:|
+|[deeper-wider-melody](https://github.com/drwangxian/deeper-wider-melody#readme)|Code for the "[Enhancing Vocal Melody Extraction with Multilevel Contexts](https://ieeexplore.ieee.org/document/10518111)" paper|[![](https://img.shields.io/github/languages/top/drwangxian/deeper-wider-melody?color=pink&style=flat-square)](https://github.com/drwangxian/deeper-wider-melody/graphs/contributors)|[![](https://flat.badgen.net/github/license/drwangxian/deeper-wider-melody?label=)](https://github.com/drwangxian/deeper-wider-melody/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/drwangxian/deeper-wider-melody?style=flat-square&label=)](https://github.com/drwangxian/deeper-wider-melody/graphs/code-frequency)|
+|[Vocal-Extraction-from-Complex-Audio-Mixtures](https://github.com/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures#readme)|A hybrid model combining CNNs and LSTM networks to isolate vocals from complex audio mixtures|[![](https://img.shields.io/github/languages/top/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures?color=pink&style=flat-square)](https://github.com/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures/graphs/contributors)|[![](https://flat.badgen.net/github/license/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures?label=)](https://github.com/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures?style=flat-square&label=)](https://github.com/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures/graphs/code-frequency)|
+|[Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui#readme)|A GUI for a Vocal Remover that uses Deep Neural Networks|[![](https://img.shields.io/github/languages/top/Anjok07/ultimatevocalremovergui?color=pink&style=flat-square)](https://github.com/Anjok07/ultimatevocalremovergui/graphs/contributors)|[![](https://flat.badgen.net/github/license/Anjok07/ultimatevocalremovergui?label=)](https://github.com/Anjok07/ultimatevocalremovergui/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/Anjok07/ultimatevocalremovergui?style=flat-square&label=)](https://github.com/Anjok07/ultimatevocalremovergui/graphs/code-frequency)|
 
 
 
