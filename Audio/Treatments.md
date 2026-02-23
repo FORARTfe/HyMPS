@@ -49,8 +49,9 @@
 ### Dehumming [⌂](#--)
 |Repository|Short description|Language|License|Last commit|
 |:-:|:-:|:-:|:-:|:-:|
+|[Mains Hum and Audio Comparison](https://github.com/racoltdev/MainsHum#readme)|A forensic investigation tool that enables extraction of key frequency ranges from audio samples|[![](https://img.shields.io/github/languages/top/racoltdev/MainsHum?color=pink&style=flat-square)](https://github.com/racoltdev/MainsHum/graphs/contributors)|[![](https://flat.badgen.net/github/license/racoltdev/MainsHum?label=)](https://github.com/racoltdev/MainsHum/blob/master/LICENSE)|[![](https://img.shields.io/github/last-commit/racoltdev/MainsHum?style=flat-square&label=)](https://github.com/racoltdev/MainsHum/graphs/code-frequency)|
 |[Hum Catcher](https://github.com/sch24r/hum-catcher#readme)|Electrical Network Frequency (ENF) analysis and matching tool|[![](https://img.shields.io/github/languages/top/sch24r/hum-catcher?color=pink&style=flat-square)](https://github.com/sch24r/hum-catcher/graphs/contributors)|[![](https://flat.badgen.net/github/license/sch24r/hum-catcher?label=)](https://github.com/sch24r/hum-catcher/blob/main/LICENSE)|[![](https://img.shields.io/github/last-commit/sch24r/hum-catcher?style=flat-square&label=)](https://github.com/sch24r/hum-catcher/graphs/code-frequency)|
-|[Mains Hum and Audio Comparison](https://github.com/racoltdev/MainsHum#readme)|A forensic investigation tool that enables extraction of key frequency ranges from audio samples|[![](https://img.shields.io/github/languages/top/racoltdev/MainsHum?color=pink&style=flat-square)](https://github.com/racoltdev/MainsHum/graphs/contributors)|[![](https://flat.badgen.net/github/license/racoltdev/MainsHum?label=)](https://github.com/racoltdev/MainsHum/issues/1)|[![](https://img.shields.io/github/last-commit/racoltdev/MainsHum?style=flat-square&label=)](https://github.com/racoltdev/MainsHum/graphs/code-frequency)|
+
 
 ### Denoising [⌂](#--)
 |Repository|Short description|Language|License|Last commit|
