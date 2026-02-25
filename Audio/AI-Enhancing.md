@@ -6,7 +6,7 @@
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
 ### Aligners [⌂](#---) 
-|Repository|Short description|Language|License|Models|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[Differentiable APFs](https://github.com/abargum/diff-apf#readme)|Code for [Differentiable Allpass Filters for Phase Response Estimation and Automatic Signal Alignment](https://arxiv.org/abs/2306.00860) paper|[![](https://img.shields.io/github/languages/top/abargum/diff-apf?color=pink&style=flat-square)](https://github.com/abargum/diff-apf/graphs/contributors)|[![](https://flat.badgen.net/github/license/abargum/diff-apf?label=)](https://github.com/abargum/diff-apf/blob/main/LICENSE)|[3 x pth](https://github.com/abargum/diff-apf/tree/main/pretrained)|[![](https://img.shields.io/github/last-commit/abargum/diff-apf?style=flat-square&label=)](https://github.com/abargum/diff-apf/graphs/code-frequency)|
 |[Exploiting Time-Frequency Conformers for Music Audio Enhancement](https://github.com/yoongi43/music_audio_enhancement_conformer#readme)|Implementation of the "[Exploiting Time-Frequency Conformers for Music Audio Enhancement](https://arxiv.org/abs/2308.12599)" paper|[![](https://img.shields.io/github/languages/top/yoongi43/music_audio_enhancement_conformer?color=pink&style=flat-square)](https://github.com/yoongi43/music_audio_enhancement_conformer/graphs/contributors)|[![](https://flat.badgen.net/github/license/yoongi43/music_audio_enhancement_conformer?label=)](https://github.com/yoongi43/music_audio_enhancement_conformer/blob/main/LICENSE)|[2 x pt](https://github.com/yoongi43/music_audio_enhancement_conformer/tree/main/results)|[![](https://img.shields.io/github/last-commit/yoongi43/music_audio_enhancement_conformer?style=flat-square&label=)](https://github.com/yoongi43/music_audio_enhancement_conformer/graphs/code-frequency)|
@@ -20,7 +20,7 @@
 
 
 ### Declippers [⌂](#---) 
-|Repository|Short description|Language|License|Models|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[C-OMP-for-Audio-Declipping](https://github.com/pierreaguie/C-OMP-for-Audio-Declipping#readme)|Constrained Orthogonal Matching Pursuit for Audio Declipping|[![](https://img.shields.io/github/languages/top/pierreaguie/C-OMP-for-Audio-Declipping?color=pink&style=flat-square)](https://github.com/pierreaguie/C-OMP-for-Audio-Declipping/graphs/contributors)|[![](https://flat.badgen.net/github/license/pierreaguie/C-OMP-for-Audio-Declipping?label=)](https://github.com/pierreaguie/C-OMP-for-Audio-Declipping/blob/main/LICENSE)|[NA](https://github.com/pierreaguie/C-OMP-for-Audio-Declipping/issues/2)|[![](https://img.shields.io/github/last-commit/pierreaguie/C-OMP-for-Audio-Declipping?style=flat-square&label=)](https://github.com/pierreaguie/C-OMP-for-Audio-Declipping/graphs/code-frequency)|
 |[Audio_declipping](https://github.com/glasry/Audio_declipping#readme)|Audio De-clipping Via Deep Learning|[![](https://img.shields.io/github/languages/top/glasry/Audio_declipping?color=pink&style=flat-square)](https://github.com/glasry/Audio_declipping/graphs/contributors)|[![](https://flat.badgen.net/github/license/glasry/Audio_declipping?label=)](https://github.com/glasry/Audio_declipping/issues/1)|[2 x zip](https://github.com/glasry/Audio_declipping/tree/main/Models)|[![](https://img.shields.io/github/last-commit/glasry/Audio_declipping/main?style=flat-square&label=)](https://github.com/glasry/Audio_declipping/graphs/code-frequency)|
@@ -30,7 +30,7 @@
 
 
 ### Denoisers [⌂](#---) 
-|Repository|Short description|Language|License|Models|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[Sekte](https://github.com/ahmetcanaydemir/sekte#readme)|Reducing the Noise in the Audio Signal by Deep Learning Methods|[![](https://img.shields.io/github/languages/top/ahmetcanaydemir/sekte?color=pink&style=flat-square)](https://github.com/ahmetcanaydemir/sekte/graphs/contributors)|[![](https://flat.badgen.net/github/license/ahmetcanaydemir/sekte?label=)](https://github.com/ahmetcanaydemir/sekte/blob/main/LICENSE)|[2 x h5](https://github.com/ahmetcanaydemir/sekte)|[![](https://img.shields.io/github/last-commit/ahmetcanaydemir/sekte/main?style=flat-square&label=)](https://github.com/ahmetcanaydemir/sekte/graphs/code-frequency)|
 |[Audio Denoising with Implicit Neural Representations](https://github.com/sukritipaul5/AudioDenoise-INR#readme)|The research highlights the potential of INR for robust audio denoising, with HyperSound showing superior performance in maintaining audio clarity and quality|[![](https://img.shields.io/github/languages/top/sukritipaul5/AudioDenoise-INR?color=pink&style=flat-square)](https://github.com/sukritipaul5/AudioDenoise-INR/graphs/contributors)|[![](https://flat.badgen.net/github/license/sukritipaul5/AudioDenoise-INR?label=)](https://github.com/sukritipaul5/AudioDenoise-INR/issues/1)|[NA](https://github.com/sukritipaul5/AudioDenoise-INR/issues/2)|[![](https://img.shields.io/github/last-commit/sukritipaul5/AudioDenoise-INR?style=flat-square&label=)](https://github.com/sukritipaul5/AudioDenoise-INR/graphs/code-frequency)|
@@ -46,7 +46,7 @@
 
 
 ### Dereverbers [⌂](#---) 
-|Repository|Short description|Language|License|Models|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[Learning Audio-Visual Dereverberation](https://github.com/facebookresearch/learning-audio-visual-dereverberation#readme)|Code for "[Learning Audio-Visual Dereverberation](https://arxiv.org/abs/2106.07732)" paper|[![](https://img.shields.io/github/languages/top/facebookresearch/learning-audio-visual-dereverberation?color=pink&style=flat-square)](https://github.com/facebookresearch/learning-audio-visual-dereverberation/graphs/contributors)|[<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" height="20">](https://github.com/facebookresearch/learning-audio-visual-dereverberation/blob/main/LICENSE)|[NA](https://github.com/facebookresearch/learning-audio-visual-dereverberation/issues/1)|[![](https://flat.badgen.net/static/status/Archived/624711?label=)](https://github.com/facebookresearch/learning-audio-visual-dereverberation/graphs/code-frequency)|
 |[dereverberation-ml](https://github.com/paul-florentin-charles/dereverberation-ml#readme)|It aims at using deep learning to retrieve effects from sets of data.|[![](https://img.shields.io/github/languages/top/paul-florentin-charles/dereverberation-ml?color=pink&style=flat-square)](https://github.com/paul-florentin-charles/dereverberation-ml/graphs/contributors)|[![](https://flat.badgen.net/github/license/paul-florentin-charles/dereverberation-ml?label=)](https://github.com/paul-florentin-charles/dereverberation-ml/blob/master/LICENSE)|[NA](https://github.com/paul-florentin-charles/dereverberation-ml/issues/9)|[![](https://img.shields.io/github/last-commit/paul-florentin-charles/dereverberation-ml?style=flat-square&label=)](https://github.com/paul-florentin-charles/dereverberation-ml/graphs/code-frequency)|
@@ -58,7 +58,7 @@
 
 
 ### Upscalers [⌂](#---) 
-|Repository|Short description|Language|License|Models|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[AudioSuperResolution](https://github.com/flysofast/AudioSuperResolution#readme)|Generate higher quality audio from a lower one, using Convolutional neural network.|[![](https://img.shields.io/github/languages/top/flysofast/AudioSuperResolution?color=pink&style=flat-square)](https://github.com/flysofast/AudioSuperResolution/graphs/contributors)|[![](https://flat.badgen.net/github/license/flysofast/AudioSuperResolution?label=)](https://github.com/flysofast/AudioSuperResolution/issues/2)|[2 x h5](https://github.com/flysofast/AudioSuperResolution)|[![](https://img.shields.io/github/last-commit/flysofast/AudioSuperResolution?style=flat-square&label=)](https://github.com/flysofast/AudioSuperResolution/graphs/code-frequency)|
 |[AEROMamba](https://github.com/aeromamba-super-resolution/aeromamba#readme)|Official implementation of "[An efficient architecture for audio super-resolution using generative adversarial networks and state space models](https://arxiv.org/abs/2411.07364)" paper|[![](https://img.shields.io/github/languages/top/aeromamba-super-resolution/aeromamba?color=pink&style=flat-square)](https://github.com/aeromamba-super-resolution/aeromamba/graphs/contributors)|[![](https://flat.badgen.net/github/license/aeromamba-super-resolution/aeromamba?label=)](https://github.com/aeromamba-super-resolution/aeromamba/blob/main/LICENSE)|[4 x th](https://drive.google.com/drive/folders/1FKOagtfJlqx05zdc1rGZq9rBE44x1kAQ)|[![](https://img.shields.io/github/last-commit/aeromamba-super-resolution/aeromamba?style=flat-square&label=)](https://github.com/aeromamba-super-resolution/aeromamba/graphs/code-frequency)|
@@ -81,7 +81,7 @@
 
 
 ### Restorers [⌂](#---) 
-|Repository|Short description|Language|License|Models|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[audio-repair](https://github.com/crodriguez1a/audio-repair#readme)|Nearest Neighbor Imputation to Repair Damaged Audio|[![](https://img.shields.io/github/languages/top/crodriguez1a/audio-repair?color=pink&style=flat-square)](https://github.com/crodriguez1a/audio-repair/graphs/contributors)|[![](https://flat.badgen.net/github/license/crodriguez1a/audio-repair?label=)](https://github.com/crodriguez1a/audio-repair/blob/master/LICENSE)|[10 x pkl](https://github.com/crodriguez1a/audio-repair/tree/capstone/notebooks/submission/checkpoints)|[![](https://img.shields.io/github/last-commit/crodriguez1a/audio-repair/master?style=flat-square&label=)](https://github.com/crodriguez1a/audio-repair/graphs/code-frequency)|
 |[Audio Restoration for Generative Models](https://github.com/AleraxYK/audio_restore#readme)|Implements a modular enhancement pipeline designed to improve the perceptual quality of audio generated by text-to-music models|[![](https://img.shields.io/github/languages/top/AleraxYK/audio_restore?color=pink&style=flat-square)](https://github.com/AleraxYK/audio_restore/graphs/contributors)|[![](https://flat.badgen.net/github/license/AleraxYK/audio_restore?label=)](https://github.com/AleraxYK/audio_restore/blob/main/LICENSE)|[2 x pth](https://github.com/AleraxYK/audio_restore/tree/main/models)|[![](https://img.shields.io/github/last-commit/AleraxYK/audio_restore?style=flat-square&label=)](https://github.com/AleraxYK/audio_restore/graphs/code-frequency)|
@@ -106,7 +106,7 @@
 
 
 ### Others [⌂](#---) 
-|Repository|Short description|Language|License|Models|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[Bleeding Removal in Music Signals](https://github.com/its-rajesh/Audio-Bleeding-Removal#readme)|Neural networks for removal of bleeding in music signals for the sequential application of Music Source Separation|[![](https://img.shields.io/github/languages/top/its-rajesh/Audio-Bleeding-Removal?color=pink&style=flat-square)](https://github.com/its-rajesh/Audio-Bleeding-Removal/graphs/contributors)|[![](https://flat.badgen.net/github/license/its-rajesh/Audio-Bleeding-Removal?label=)](https://github.com/its-rajesh/Audio-Bleeding-Removal/blob/main/LICENSE)|[NA](https://github.com/its-rajesh/Audio-Bleeding-Removal/issues/1)|[![](https://img.shields.io/github/last-commit/its-rajesh/Audio-Bleeding-Removal?style=flat-square&label=)](https://github.com/its-rajesh/Audio-Bleeding-Removal/graphs/code-frequency)|
 |[Audio-Enhancement-GAN](https://github.com/nimeshrisal/Audio-Enhancement-GAN#readme)|An audio enhancement system which uses GAN|[![](https://img.shields.io/github/languages/top/nimeshrisal/Audio-Enhancement-GAN?color=pink&style=flat-square)](https://github.com/nimeshrisal/Audio-Enhancement-GAN/graphs/contributors)|[![](https://flat.badgen.net/github/license/nimeshrisal/Audio-Enhancement-GAN?label=)](https://github.com/nimeshrisal/Audio-Enhancement-GAN/blob/main/license.md)|[NA](https://github.com/nimeshrisal/Audio-Enhancement-GAN/issues/4)|[![](https://img.shields.io/github/last-commit/nimeshrisal/Audio-Enhancement-GAN?style=flat-square&label=)](https://github.com/nimeshrisal/Audio-Enhancement-GAN/graphs/code-frequency)|
