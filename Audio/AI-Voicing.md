@@ -7,7 +7,7 @@
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
 
 ### Cloners [⌂](#---) 
-|Repository|Short description|Language|License|Model|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[Applio](https://github.com/IAHispano/Applio#readme)|VITS-based Voice Conversion focused on simplicity, quality and performance|[![](https://img.shields.io/github/languages/top/IAHispano/Applio?color=pink&style=flat-square)](https://github.com/IAHispano/Applio/graphs/contributors)|[![](https://flat.badgen.net/github/license/IAHispano/Applio?label=)](https://github.com/IAHispano/Applio/blob/main/LICENSE)|-|[![](https://img.shields.io/github/last-commit/IAHispano/Applio?style=flat-square&label=)](https://github.com/IAHispano/Applio/graphs/code-frequency)|
 |[OpenVoice](https://github.com/myshell-ai/OpenVoice#readme)|Versatile Instant Voice Cloning ([paper](https://arxiv.org/abs/2312.01479))|[![](https://img.shields.io/github/languages/top/myshell-ai/OpenVoice?color=pink&style=flat-square)](https://github.com/myshell-ai/OpenVoice/graphs/contributors)|[![](https://flat.badgen.net/github/license/myshell-ai/OpenVoice?label=)](https://github.com/myshell-ai/OpenVoice/blob/main/LICENSE)|-|[![](https://img.shields.io/github/last-commit/myshell-ai/OpenVoice?style=flat-square&label=)](https://github.com/myshell-ai/OpenVoice/graphs/code-frequency)|
@@ -17,7 +17,7 @@
 
 
 ### Denoisers [⌂](#---) 
-|Repository|Short description|Language|License|Model|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[denoise-autoencoder](https://github.com/senior-sigan/denoise-autoencoder#readme)|Denoise audio with convolutional autoencoder|[![](https://img.shields.io/github/languages/top/senior-sigan/denoise-autoencoder?color=pink&style=flat-square)](https://github.com/senior-sigan/denoise-autoencoder/graphs/contributors)|[![](https://flat.badgen.net/github/license/senior-sigan/denoise-autoencoder?label=)](https://github.com/senior-sigan/denoise-autoencoder/blob/main/LICENSE)|[NA](https://github.com/senior-sigan/denoise-autoencoder/issues/1)|[![](https://img.shields.io/github/last-commit/senior-sigan/denoise-autoencoder?style=flat-square&label=)](https://github.com/senior-sigan/denoise-autoencoder/graphs/code-frequency)|
 |[Denoiser](https://github.com/immohann/Denoiser#readme)|An AI model to remove noise from the input audio using deep learning model which predicts the type of noise present and filter it out from the audio to give noise-free results|[![](https://img.shields.io/github/languages/top/immohann/Denoiser?color=pink&style=flat-square)](https://github.com/immohann/Denoiser/graphs/contributors)|[![](https://flat.badgen.net/github/license/immohann/Denoiser?label=)](https://github.com/immohann/Denoiser/blob/main/LICENSE)|[1 x h5](https://github.com/immohann/Denoiser/tree/master/model)|[![](https://img.shields.io/github/last-commit/immohann/Denoiser?style=flat-square&label=)](https://github.com/immohann/Denoiser/graphs/code-frequency)|
@@ -35,7 +35,7 @@
 
 
 ### Dubbers [⌂](#---) 
-|Repository|Short description|Language|License|Model|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[Voxella](https://github.com/barzegar77/voxella#readme)|This app leverages advanced AI algorithms to automatically detect audio and text in the original language, providing effortless translation and native-like voice dubbing|[![](https://img.shields.io/github/languages/top/barzegar77/voxella?color=pink&style=flat-square)](https://github.com/barzegar77/voxella/graphs/contributors)|[![](https://flat.badgen.net/github/license/barzegar77/voxella?label=)](https://github.com/barzegar77/voxella/issues/1)|-|[![](https://img.shields.io/github/last-commit/barzegar77/voxella?style=flat-square&label=)](https://github.com/barzegar77/voxella/graphs/code-frequency)|
 |[Voice Craft AI](https://github.com/HallowSiddharth/VoiceCraftAI#readme)|An AI tool to dub videos into multiple regional languages and lip-sync at the same time|[![](https://img.shields.io/github/languages/top/HallowSiddharth/VoiceCraftAI?color=pink&style=flat-square)](https://github.com/HallowSiddharth/VoiceCraftAI/graphs/contributors)|[![](https://flat.badgen.net/github/license/HallowSiddharth/VoiceCraftAI?label=)](https://github.com/HallowSiddharth/VoiceCraftAI/issues/19)|-|[![](https://img.shields.io/github/last-commit/HallowSiddharth/VoiceCraftAI?style=flat-square&label=)](https://github.com/HallowSiddharth/VoiceCraftAI/graphs/code-frequency)|
@@ -70,7 +70,7 @@
 
 
 ### Enhancers [⌂](#---) 
-|Repository|Short description|Language|License|Model|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[Speech Enhancement / Noise Reduction](https://github.com/Priyal-0911/Speech-Enhancement-Noise-Reduction#readme)|Demonstrates the process of enhancing and separating mixed audio sources, such as isolating speech from background noise, using a pre-trained model|[![](https://img.shields.io/github/languages/top/Priyal-0911/Speech-Enhancement-Noise-Reduction?color=pink&style=flat-square)](https://github.com/Priyal-0911/Speech-Enhancement-Noise-Reduction/graphs/contributors)|[![](https://flat.badgen.net/github/license/Priyal-0911/Speech-Enhancement-Noise-Reduction?label=)](https://github.com/Priyal-0911/Speech-Enhancement-Noise-Reduction/issues/1)|[4 x ckpt](https://huggingface.co/speechbrain/sepformer-wham16k-enhancement/tree/main)|[![](https://img.shields.io/github/last-commit/Priyal-0911/Speech-Enhancement-Noise-Reduction?style=flat-square&label=)](https://github.com/Priyal-0911/Speech-Enhancement-Noise-Reduction/graphs/code-frequency)|
 |[AURAL_GAN+predictive_model](https://github.com/Gabeiscool420/AURAL_GAN-predictive_model#readme)|Aims to transform low-quality phone recordings into professional-quality audio using a Generative Adversarial Network (GAN)|[![](https://img.shields.io/github/languages/top/Gabeiscool420/AURAL_GAN-predictive_model?color=pink&style=flat-square)](https://github.com/Gabeiscool420/AURAL_GAN-predictive_model/graphs/contributors)|[![](https://flat.badgen.net/github/license/Gabeiscool420/AURAL_GAN-predictive_model?label=)](https://github.com/Gabeiscool420/AURAL_GAN-predictive_model/blob/main/LICENSE)|[NA](https://github.com/Gabeiscool420/AURAL_GAN-predictive_model/issues/4)|[![](https://img.shields.io/github/last-commit/Gabeiscool420/AURAL_GAN-predictive_model?style=flat-square&label=)](https://github.com/Gabeiscool420/AURAL_GAN-predictive_model/graphs/code-frequency)|
@@ -82,7 +82,7 @@
 
 
 ### Extractors [⌂](#---) 
-|Repository|Short description|Language|License|Model|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[deeper-wider-melody](https://github.com/drwangxian/deeper-wider-melody#readme)|Code for the "[Enhancing Vocal Melody Extraction with Multilevel Contexts](https://ieeexplore.ieee.org/document/10518111)" paper|[![](https://img.shields.io/github/languages/top/drwangxian/deeper-wider-melody?color=pink&style=flat-square)](https://github.com/drwangxian/deeper-wider-melody/graphs/contributors)|[![](https://flat.badgen.net/github/license/drwangxian/deeper-wider-melody?label=)](https://github.com/drwangxian/deeper-wider-melody/blob/main/LICENSE)|[1 x ckpt](https://github.com/drwangxian/deeper-wider-melody/tree/main/ckpts)|[![](https://img.shields.io/github/last-commit/drwangxian/deeper-wider-melody?style=flat-square&label=)](https://github.com/drwangxian/deeper-wider-melody/graphs/code-frequency)|
 |[Vocal-Extraction-from-Complex-Audio-Mixtures](https://github.com/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures#readme)|A hybrid model combining CNNs and LSTM networks to isolate vocals from complex audio mixtures|[![](https://img.shields.io/github/languages/top/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures?color=pink&style=flat-square)](https://github.com/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures/graphs/contributors)|[![](https://flat.badgen.net/github/license/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures?label=)](https://github.com/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures/blob/main/LICENSE)|[NA](https://github.com/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures/issues/1)|[![](https://img.shields.io/github/last-commit/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures?style=flat-square&label=)](https://github.com/vasilistsavalias/Vocal-Extraction-from-Complex-Audio-Mixtures/graphs/code-frequency)|
@@ -91,7 +91,7 @@
 
 
 ### Stylers [⌂](#---) 
-|Repository|Short description|Language|License|Model|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[AutoPST](https://github.com/auspicious3000/AutoPST#readme)|Global Rhythm Style Transfer Without Text Transcriptions|[![](https://img.shields.io/github/languages/top/auspicious3000/AutoPST?color=pink&style=flat-square)](https://github.com/auspicious3000/AutoPST/graphs/contributors)|[![](https://flat.badgen.net/github/license/auspicious3000/AutoPST?label=)](https://github.com/auspicious3000/AutoPST/blob/main/LICENSE)|-|[![](https://img.shields.io/github/last-commit/auspicious3000/AutoPST?style=flat-square&label=)](https://github.com/auspicious3000/AutoPST/graphs/code-frequency)|
 |[AutoVC](https://github.com/auspicious3000/autovc#readme)|Zero-Shot Voice Style Transfer with Only Autoencoder Loss|[![](https://img.shields.io/github/languages/top/auspicious3000/autovc?color=pink&style=flat-square)](https://github.com/auspicious3000/autovc/graphs/contributors)|[![](https://flat.badgen.net/github/license/auspicious3000/autovc?label=)](https://github.com/auspicious3000/autovc/blob/main/LICENSE)|-|[![](https://img.shields.io/github/last-commit/auspicious3000/autovc?style=flat-square&label=)](https://github.com/auspicious3000/autovc/graphs/code-frequency)|
@@ -103,7 +103,7 @@
 
 
 ### Speech [⌂](#---) 
-|Repository|Short description|Language|License|Model|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[ASRT](https://github.com/nl8590687/ASRT_SpeechRecognition#readme)|A Deep-Learning-Based Chinese Speech Recognition System|[![](https://img.shields.io/github/languages/top/nl8590687/ASRT_SpeechRecognition?color=pink&style=flat-square)](https://github.com/nl8590687/ASRT_SpeechRecognition/graphs/contributors)|[![](https://flat.badgen.net/github/license/nl8590687/ASRT_SpeechRecognition?label=)](https://github.com/nl8590687/ASRT_SpeechRecognition/blob/main/LICENSE)|-|[![](https://img.shields.io/github/last-commit/nl8590687/ASRT_SpeechRecognition?style=flat-square&label=)](https://github.com/nl8590687/ASRT_SpeechRecognition/graphs/code-frequency)|
 |[whisper.cpp](https://github.com/ggerganov/whisper.cpp#readme)|High-performance inference of [OpenAI's Whisper](https://github.com/openai/whisper) automatic speech recognition (ASR) model|[![](https://img.shields.io/github/languages/top/ggerganov/whisper.cpp?color=pink&style=flat-square)](https://github.com/ggerganov/whisper.cpp/graphs/contributors)|[![](https://flat.badgen.net/github/license/ggerganov/whisper.cpp?label=)](https://github.com/ggerganov/whisper.cpp/blob/master/LICENSE)|-|[![](https://img.shields.io/github/last-commit/ggerganov/whisper.cpp?style=flat-square&label=)](https://github.com/ggerganov/whisper.cpp/graphs/code-frequency)|
@@ -111,7 +111,7 @@
 
 
 ### TTSers [⌂](#---) 
-|Repository|Short description|Language|License|Model|Last commit|
+|Repository|Short description|Language|License|Weights|Last commit|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[OpenTTS](https://github.com/ningjx/OpenTTS#readme)|Use Microsoft speech synthesis to generate your own voice package|[![](https://img.shields.io/github/languages/top/ningjx/OpenTTS?color=pink&style=flat-square)](https://github.com/ningjx/OpenTTS/graphs/contributors)|[![](https://flat.badgen.net/github/license/ningjx/OpenTTS?label=)](https://github.com/ningjx/OpenTTS/blob/main/LICENSE)|-|[![](https://img.shields.io/github/last-commit/ningjx/OpenTTS?style=flat-square&label=)](https://github.com/ningjx/OpenTTS/graphs/code-frequency)|
 |[TorToiSe](https://github.com/neonbjb/tortoise-tts#readme)|A multi-voice TTS system trained with an emphasis on quality|[![](https://img.shields.io/github/languages/top/neonbjb/tortoise-tts?color=pink&style=flat-square)](https://github.com/neonbjb/tortoise-tts/graphs/contributors)|[![](https://flat.badgen.net/github/license/neonbjb/tortoise-tts?label=)](https://github.com/neonbjb/tortoise-tts/blob/main/LICENSE)|-|[![](https://img.shields.io/github/last-commit/neonbjb/tortoise-tts?style=flat-square&label=)](https://github.com/neonbjb/tortoise-tts/graphs/code-frequency)|
