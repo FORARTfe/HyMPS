@@ -1,6 +1,6 @@
 # [![AUDIO](https://flat.badgen.net/badge/HyMPS/AUDIO/green?scale=1.8)](https://github.com/FORARTfe/HyMPS#- "AUDIO section") [![Effects](https://flat.badgen.net/badge/HyMPS/AI-based/blue?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-based.md#-- "AI-based category") [![Enhancers](https://flat.badgen.net/badge/HyMPS/Enhancers/red?scale=1.8&label=)](https://github.com/FORARTfe/HyMPS/blob/main/Audio/AI-Enhancing.md#--- "Enhancers page") <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FAudio%2FAI-Enhancing.md"><img align="right" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FFORARTfe%2FHyMPS%2Fblob%2Fmain%2FAudio%2FAI-Enhancing.md&label=D%20%2F%20T&labelColor=%23323232&countColor=%23c2ff00&style=flat-square&labelStyle=none" /></a>
 
-### 📁 [Aligners](#aligners-) - [Declippers](#declippers-) - [Denoisers](#denoisers-) - [Dereverbers](#dereverbers-) - [Upscalers](#upscalers-) - [Restorers](#restorers-) - [Others](#others-)
+### 📁 [Aligners](#aligners-) - [Declippers](#declippers-) - [Deharshers](#deharshers-) - [Denoisers](#denoisers-) - [Dereverbers](#dereverbers-) - [Upscalers](#upscalers-) - [Restorers](#restorers-) - [Others](#others-)
 
 > [!WARNING]
 > $\color{orange}\textsf{{SORTING: Language (a>z) > License (openness) > Repository (a>z)}}$
@@ -28,6 +28,12 @@
 |[declipnet](https://github.com/cocuh/declipnet#readme)|Declipping audio with deep learning technique (wavenet)|[![](https://img.shields.io/github/languages/top/cocuh/declipnet?color=pink&style=flat-square)](https://github.com/cocuh/declipnet/graphs/contributors)|[![](https://flat.badgen.net/github/license/cocuh/declipnet?label=)](https://github.com/cocuh/declipnet/issues/2)|[NA](https://github.com/cocuh/declipnet/issues/3)|[![](https://img.shields.io/github/last-commit/cocuh/declipnet/master?style=flat-square&label=)](https://github.com/cocuh/declipnet/graphs/code-frequency)|
 |[not-MIWAE for Audio Declipping](https://github.com/pierreaguie/not-MIWAE-for-audio-inpainting#readme)|Implementation of "[not-MIWAE: Deep Generative Modelling with Missing not at Random Data](https://arxiv.org/abs/2006.12871)" paper for audio declipping|[![](https://img.shields.io/github/languages/top/pierreaguie/not-MIWAE-for-audio-inpainting?color=pink&style=flat-square)](https://github.com/pierreaguie/not-MIWAE-for-audio-inpainting/graphs/contributors)|[![](https://flat.badgen.net/github/license/pierreaguie/not-MIWAE-for-audio-inpainting?label=)](https://github.com/pierreaguie/not-MIWAE-for-audio-inpainting/issues/1)|[NA](https://github.com/pierreaguie/not-MIWAE-for-audio-inpainting/issues/2)|[![](https://img.shields.io/github/last-commit/pierreaguie/not-MIWAE-for-audio-inpainting?style=flat-square&label=)](https://github.com/pierreaguie/not-MIWAE-for-audio-inpainting/graphs/code-frequency)|
 
+
+
+### Deharshers [⌂](#---) 
+|Repository|Short description|Language|License|Weights|Last commit|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[pytorch-audio-deharsher](https://github.com/williamqin123/pytorch-audio-deharsher#readme)|A Deeply-Supervised U-Net CNN for Removing Harsh Resonances from Audio|[![](https://img.shields.io/github/languages/top/williamqin123/pytorch-audio-deharsher?color=pink&style=flat-square)](https://github.com/williamqin123/pytorch-audio-deharsher/graphs/contributors)|[![](https://flat.badgen.net/github/license/williamqin123/pytorch-audio-deharsher?label=)](https://github.com/williamqin123/pytorch-audio-deharsher/blob/main/LICENSE)|[1 x pth + 1 x onnx](https://github.com/williamqin123/pytorch-audio-deharsher/releases/tag/v1.0.0)|[![](https://img.shields.io/github/last-commit/williamqin123/pytorch-audio-deharsher?style=flat-square&label=)](https://github.com/williamqin123/pytorch-audio-deharsher/graphs/code-frequency)|
 
 ### Denoisers [⌂](#---) 
 |Repository|Short description|Language|License|Weights|Last commit|
